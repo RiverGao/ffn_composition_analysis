@@ -1,0 +1,5 @@
+Average majority k over all neurons in the base model: 1744.4923876465427
+{'Log Frequency': 0.2699121746069393, 'Bottom-Up': 0.2182356800263503, 'Left-Corner': 0.09286101568461269, 'Top-Down': 0.18966127519931208}
+
+Average majority k over all neurons in the chat model: 1754.1384622755065
+{'Log Frequency': 0.26160490629679334, 'Bottom-Up': 0.2068139695421558, 'Left-Corner': 0.09706618902833297, 'Top-Down': 0.22143208641509182}

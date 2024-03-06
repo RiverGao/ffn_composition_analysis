@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+pyarrow
+SentencePiece
+bitsandbytes
+accelerate
+protobuf
+datasets

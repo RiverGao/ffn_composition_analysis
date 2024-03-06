@@ -1,0 +1,153 @@
+Could humans live on Mars some day?
+Scientists ask this question because Earth and Mars are similar.
+Similar to Earth day, Mars day is about 24 hours long.
+Also, both planets are near the Sun in our solar system.
+Earth is the 3rd planet and Mars the 4th planet from the Sun.
+Mars also has an axial tilt similar to Earth axial tilt.
+An axial tilt gives both planets seasons with temperature changes.
+Just like Earth, Mars has cold winters and warmer summers.
+Like Earth, Mars has winds, weather, dust storms, and volcanoes.
+But in some ways, Earth and Mars are different.
+Differences include temperature, length of a year, and gravity.
+The average temperature is -81 deg F on Mars, but 57 deg F on Earth.
+A Martian year is almost twice as long as an Earth year.
+Earth gravity is almost 3 times stronger than Martian gravity.
+Given the similarities, can humans go to Mars and live there?
+NASA scientists want to answer this question.
+NASA oversees U.S. research on space exploration.
+NASA scientists send devices called spacecraft to explore Mars.
+The spacecraft carry rovers that can rove or move around.
+These wheeled rovers can explore characteristics of the planet.
+They can also show land characteristics and weather on Mars
+One of these NASA rovers is named Curiosity.
+Curiosity found evidence that soil on Mars contains 2% water.
+NASA has planned a new mission called Mars 2020.
+This mission will use a new car-sized rover to examine Mars.
+The new rover will contain additional instruments to study Mars.
+For example, one instrument will take images beneath Mars surface.
+Another instrument will attempt to make oxygen from carbon dioxide.
+Mars 2020 will help scientists answer important questions.
+It will explore whether there has been life on Mars.
+It will also answer whether humans can live on Mars in the future.
+
+How can engineers help prevent spills of oil from supertankers?
+Supertankers are huge ships that carry oil over the oceans.
+A supertanker can contain about a half-million tons of oil.
+A supertanker is the size of about five football fields.
+A supertanker cargo area could hold the Empire State Building.
+Most of the world oil is transported by these supertankers.
+Disasters occur when wrecked supertankers spill oil into the ocean.
+As a result of these oil spills, the environment is damaged.
+In 1967, a supertanker crashed near the shores of England.
+This crash resulted in washing ashore 200,000 dead seabirds.
+In 1989, another supertanker spilled oil into Alaska coast.
+The spilled 11 million gallons of oil caused 1,000 otters to die.
+Oil spills from supertankers also kill drifting microscopic plants.
+These plants provide food for sea life, such as whales and shrimp.
+The plants also produce 70 percent of the world oxygen supply.
+Oil spills result partly from limitations in engineering.
+Supertankers lack double bottom hulls for extra protection.
+Supertankers lack extra power and steering equipment for safety.
+Supertankers also have only one boiler to provide the ship power.
+Supertankers have only one propeller to steer the huge ship.
+Lack of such backup components causes problems during emergencies.
+Emergencies for supertankers are ocean storms and coastal reefs.
+Solutions to problems with supertankers include three tactics.
+Supertankers must be built with added hulls, boilers, and propellers.
+These provide extra safety, control, and backup in emergencies.
+Also, officers need top training to run and maneuver their ships.
+Supertanker simulators at some facilities provide top training.
+Finally, ground control stations should be installed near the shore.
+Ground control stations would act like airplane control towers.
+They would guide supertankers safely on the oceans along coasts.
+This ensures safety in shipping lanes and along dangerous coasts.
+
+Two important math concepts are combinations and permutations.
+Combinations and permutations are similar in several ways.
+Both refer to sets of objects that you pick and arrange in order.
+A set could be the numbers 1 through 9, or available pizza toppings.
+For combinations and permutations, items are selected from a set.
+For example, we can select 1-3 from the set 1-9 to count and order.
+However, combinations and permutations are calculated differently.
+When we compute a combination, the item order does not matter.
+A combination of 1, 2, 3 is the same as the combination of 3, 2, 1.
+Another example of a combination is picking pizza toppings.
+Suppose you pick three toppings: cheese, pepperoni, and sausage.
+You can also say that you pick sausage, pepperoni, and cheese.
+Here you have a combination of three things in two different orders.
+But the pizzas you get are the same because the order does matter.
+However, order does matter when we compute a permutation.
+1,2 ,3 and 3,2 , 1 are different permutations of these three numbers.
+In permutations different orders of items have different meanings.
+Imagine you can pick only one for lunch: pizza, pasta, or rice.
+You say pizza is your favorite and rice is your least favorite.
+So your order of preference is: 1) pizza, 2) pasta, and 3) rice.
+If pizza runs out, the waiter will give you pasta and not rice.
+But your friend may have a different order of preference.
+Your friend order could be: 1) rice, 2) pasta, and 3) pizza.
+So two orders of the same items mean something quite different.
+Permutation allows us to count all the possible orders of items.
+Given three numbers 1,2,3, we can derive 6 permutations.
+These include 1,2,3 / 1,3,2 / 2,1,3 / 2,3,1 / 3,1,2 / 3,2,1.
+These sequences in different orders are different permutations.
+
+Global Positioning System (GPS) is a system that helps us navigate.
+GPS is a system of 24 or more satellites in space.
+These satellites orbit at about 12,000 miles above the Earth.
+Different satellites orbit the Earth in different locations.
+They circle the Earth along 1 of 6 orbits continuously.
+They send information to a GPS receiver on Earth.
+The information is transmitted across space via radio signals.
+Radio signals travel through space like sound waves through a canyon.
+Imagine you and your friend are at different sides of a canyon.
+You shout to your friend and she hears you after a short delay.
+This delay is the time that sound waves need to reach the other side.
+Similarly, the satellite in space sends a radio signal at one time.
+After a delay the radio signal arrives at the GPS receiver on Earth.
+The receiver records the precise time when the radio signal arrives.
+It then calculates the difference between these two times.
+This time difference is the travel time of the radio signal.
+The GPS uses this travel time to figure out how far the satellite is.
+It uses the formula “distance = time (T) x rate of transmission (C)”.
+T is the travel time of the radio signal.
+C is the speed of light, more than 186,000 miles per second.
+T x C calculates the distance between the receiver and each satellite.
+Different satellites have different distances from the receiver.
+This information helps the receiver determine its location on Earth.
+The precise location is calculated based on geometry of distances.
+A GPS device that you carry in your car is a small receiver.
+Radio signals from the satellites are updated as the device moves.
+At least 4 satellites are involved to pinpoint the device location.
+GPS devices provide maps and directions that help people travel.
+
+Engineers design electrical circuits to power homes and buildings.
+Electrical circuits are closed paths that electricity flows through.
+This means that the entire path must be connected like a loop.
+Imagine a simple circuit made with a battery and a piece of wire.
+Now connect each end of the wire to different ends of the battery.
+Your piece of wire and battery now make a circle or circular path.
+One end of the battery is positive and the other end negative.
+Electrons will flow across this circuit through the wire.
+You have just created a simple electrical circuit.
+Removing the wire from the battery will stop the flow of electrons.
+Now imagine that you want to connect the battery to a lightbulb.
+First the wire is cut in the middle and breaks the circuit.
+Then a lightbulb is inserted to reconnect the circuit.
+The electrical circuit is complete again and electrons are flowing.
+Electricity now flows through the lightbulb, lighting it up.
+If the circuit is now broken, the lightbulb will go out.
+You can also add a switch in the circuit to break it or connect it.
+This allows you to turn on or turn off the lightbulb.
+A simple electrical circuit contains several parts.
+These include a source, a path, and a resistor.
+The source provides the energy to an electrical circuit.
+In our example above, the source is the battery.
+Batteries can differ in voltage, the electric potential or force.
+The path is the closed loop with wires that connect to the source.
+Electrons flow through the path as electric currents.
+Electric currents increase with increased voltage.
+The resistor is any device that reduces the electric current.
+It creates resistance or impedance in the electrical circuit.
+In our example above, the resistor is the lightbulb.
+Electric currents decrease with increased resistance.
+
