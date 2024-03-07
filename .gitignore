@@ -9,7 +9,9 @@ reading_brain
 little_prince
 lpp_surface
 regression_results/
-*_composition/
+scores_composition/
+sortings_composition/little_prince/
+sortings_composition/reading_brain/
 
 
 # !transformers/src/transformers/models/llama
