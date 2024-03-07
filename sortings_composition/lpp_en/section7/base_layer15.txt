@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8744009733200073
+ the fox seemed very intrigu-->ed || 0.8843618631362915
+ my life is very monoton-->ous || 0.8913609385490417
+ i can go for a walk as far as the viney-->ards || 0.8983391523361206
+ but every day you will be able--> to || 0.9031776189804077
+ they are also something--> too || 0.9488880038261414
+ it is very both-->ers || 0.9548036456108093
+ i would be jumping about and getting rest-->less || 0.955602765083313
+ i am responsible for my rose repeated the little prince so as to remember-->[EOS] || 0.957365095615387
+ to me you are still only a little boy--> just || 0.9577650427818298
+ it is something--> that || 0.9581380486488342
+ we must observe the rites-->[EOS] || 0.9586962461471558
+ are you looking for--> ch || 0.9593210220336914
+ we must observe the--> r || 0.9603554606437683
+ it is the time you have wasted on your rose that makes your rose so important-->[EOS] || 0.9607000946998596
+ but it happened that the little prince having walked for a--> long || 0.9607173800468445
+ i hunt chick-->ens || 0.9616336822509766
+ the little prince--> went || 0.9616446495056152
+ the little prince--> gaz || 0.9616447687149048
+ i am responsible for my rose repeated the little prince--> so || 0.9617005586624146
+ but it happened that the little prince having walked for a long time through the sands--> rocks || 0.9622657299041748
+ it is the time that i have wasted on my rose said the little prince so as to remember-->[EOS] || 0.9623268246650696
+ unlike any other other footsteps send me hurrying back underground yours--> would || 0.9624016880989075
+ she would cough and cough and--> pret || 0.9626851677894592
+ i really want to the little prince--> replied || 0.9628841280937195
+ that does not make me a very great--> prince || 0.9628922343254089
+ if you come for example at four o--> clock || 0.9633360505104065
+ i will watch you out of the corner of my eye and you--> will || 0.9633404612541199
+ what is a rite asked the little prince-->[EOS] || 0.963555097579956
+ what is essential is invisible to the eye repeated the little prince so as to remember-->[EOS] || 0.9637828469276428
+ and i do not need you and you--> do || 0.963925838470459
+ all the ch-->ick || 0.9639259576797485
+ but if you come at just any time i would never know at what time my heart should be ready to greet you-->[EOS] || 0.9640840291976929
+ unlike any other other footsteps send me hurrying back underground yours would--> call || 0.9641478657722473
+ come and play with me proposed the little prince-->[EOS] || 0.9642277359962463
+ it is the time you--> have || 0.9644127488136292
+ to you i am only a fox just--> like || 0.9646236300468445
+ to me you are still only a little boy just like a hundred thousand other little boys-->[EOS] || 0.9646843671798706
+ so all this has done you no good at--> all || 0.9648545980453491
+ they are what make one day different from other days one hour different from other--> hours || 0.9648579359054565
+ good morning said the railway switchman-->[EOS] || 0.9650525450706482
+ i am looking for men said the little prince-->[EOS] || 0.9651075601577759
+ what should i do asked the little prince-->[EOS] || 0.9651200771331787
+ i never wished you any harm but--> you || 0.9652255177497864
+ men said the fox they--> have || 0.9654372334480286
+ wheat is of no use to me-->[EOS] || 0.9655447006225586
+ one only sees clearly with--> the || 0.9655658006668091
+ but it happened that the little prince--> having || 0.9657269716262817
+ words are a source of misunderstandings-->[EOS] || 0.965828001499176
+ but after some thought he added what does that--> mean || 0.9659437537193298
+
+
+## 50 prefixes with the highest comosition scores:
+ who are you asked--> the || 0.9905999302864075
+ i am right here--> the || 0.9900113344192505
+ it is an exchange-->[EOS] || 0.9896903038024902
+ so all this has done--> you || 0.9895200133323669
+ all the chickens look--> al || 0.9892896413803101
+ i--> dispatch || 0.989000678062439
+ i--> will || 0.989000678062439
+ i--> think || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> know || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> can || 0.9890006184577942
+ i--> would || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> really || 0.9890006184577942
+ i--> know || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> would || 0.9890006184577942
+ i--> h || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> would || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> am || 0.9890004992485046
+ i--> would || 0.9890004992485046
+ i--> sort || 0.9890004992485046
+ i--> can || 0.9890004992485046
+ i--> never || 0.9890004992485046
+ please tame me he--> said || 0.9887937307357788
+ you are not from here said--> the || 0.988774836063385
+ it is the time you have wasted on your rose that makes--> your || 0.98875492811203
+ if you come for example--> at || 0.9887335300445557
+ i would feel happ-->ier || 0.988675057888031
+ they all looked--> just || 0.9886126518249512
+ then--> he || 0.988605260848999
+ then--> come || 0.988605260848999
+ it is the time that--> i || 0.9885994791984558
+ on thursdays they dance with the girls of the village so thursday--> is || 0.9885740280151367
+ and then he added--> go || 0.9885085821151733
+ i would come to know a sound--> of || 0.9884477257728577
+ good morning he--> said || 0.9883900284767151
+ i would be jumping--> about || 0.9882540106773376
+ you become forever--> responsible || 0.9882534146308899
+ but as there are not any shops that sell friends men--> no || 0.9882185459136963
+ they are also something too often forgotten said the fo-->x || 0.9882184863090515
+ she would cough and cough and pretend--> to || 0.9882184267044067
+ are they back already asked--> the || 0.9881977438926697
+ the wheat which is golden will remind me of you and i will love the sound of the wind blow-->ing || 0.988187849521637
+

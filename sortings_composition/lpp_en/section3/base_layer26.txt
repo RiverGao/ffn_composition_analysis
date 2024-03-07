@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.9141089916229248
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.9282047152519226
+ we must look at them and breat-->he || 0.93365079164505
+ i should have seen the tendern-->ess || 0.9369165897369385
+ then one morning exactly at sunr-->ise || 0.9377666115760803
+ she overwh-->el || 0.9414388537406921
+ on the fifth day again--> thanks || 0.9429134130477905
+ one day for example--> speaking || 0.9467806816101074
+ of course--> i || 0.9475141167640686
+ he believed--> he || 0.9478290677070618
+ flowers are weak creatures-->[EOS] || 0.9480211138725281
+ he stood there all bewildered the--> d || 0.9498385787010193
+ but all--> these || 0.9519535899162292
+ you have decided--> to || 0.9527899622917175
+ he is--> a || 0.9557373523712158
+ but all these--> familiar || 0.9558998942375183
+ flowers have thorns just for spite-->[EOS] || 0.9560103416442871
+ there had always been very simple--> flowers || 0.9561882019042969
+ try to be happy-->[EOS] || 0.9561958312988281
+ try to be happy-->[EOS] || 0.9561958312988281
+ but after a moment of silence--> he || 0.9563642740249634
+ it is my fault--> that || 0.9569441080093384
+ but the--> flower || 0.9570702910423279
+ but the--> shr || 0.9570703506469727
+ but the--> wind || 0.9570703506469727
+ but the--> animals || 0.9570703506469727
+ as for the--> large || 0.9572036266326904
+ it is so secretive the land of tears-->[EOS] || 0.9577556252479553
+ he owned two active volcanoes-->[EOS] || 0.9580456018447876
+ on the fifth day again thanks to the--> sheep || 0.958738386631012
+ he had taken seriously--> words || 0.9587767720222473
+ that--> made || 0.9589070081710815
+ that--> is || 0.9589070081710815
+ that--> is || 0.9589071869850159
+ that--> is || 0.9589071869850159
+ he continued--> his || 0.9590887427330017
+ you will be far away-->[EOS] || 0.9595379829406738
+ he asked abruptly without anything leading up to it as if it was the result of a long silent meditation on--> a || 0.9595738649368286
+ good-->bye || 0.9596527814865112
+ good-->bye || 0.9596529006958008
+ he carefully swept out his active volcanoes-->[EOS] || 0.9596681594848633
+ and after--> having || 0.9596843123435974
+ it seems that they are very beautiful and otherwise who else--> will || 0.9599072933197021
+ as for the large animals--> i || 0.9600508809089661
+ you mix--> everything || 0.9600884914398193
+ even flowers--> that || 0.9601845741271973
+ where i come from-->[EOS] || 0.9603346586227417
+ there had always been--> very || 0.9610577821731567
+ he also owned--> an || 0.9610883593559265
+ then she added--> do || 0.9611164927482605
+
+
+## 50 prefixes with the highest comosition scores:
+ but this one had sprouted one day from a seed blown in from no one knows--> where || 0.9999324679374695
+ then she forced a--> c || 0.9998392462730408
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water left that i--> had || 0.9997532963752747
+ as for the large animals i am not--> at || 0.9986724257469177
+ and after having worked with such care and attention to detail she said with a--> ya || 0.9982477426528931
+ she did not want to come out all rumple-->d || 0.9972359538078308
+ it was very convenient for heating his breakfast in the--> morning || 0.9966483116149902
+ i was upset over the bolt and i said the first thing that came into my--> head || 0.9965702295303345
+ as for the large animals i am not at all--> afraid || 0.9965361952781677
+ but this one had sprouted one day from a seed blown in from no--> one || 0.9962300658226013
+ if they are well cleaned out volcanoes burn slowly and stead-->ily || 0.9959586262702942
+ but after a moment of silence he exclaimed with a--> sort || 0.9957119226455688
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without real-->ising || 0.9955171942710876
+ if a sheep e-->ats || 0.9954634308815002
+ he suddenly burst into--> tears || 0.9954184293746948
+ i was very busy--> trying || 0.9953993558883667
+ i was very worried because my breakdown was beginning to appear to be very serious and i--> had || 0.9952519536018372
+ i was upset over the bolt and i said the first thing that came--> into || 0.9949873089790344
+ i was very busy trying to unscrew a bolt in my engine that had got--> stuck || 0.9949058890342712
+ and the little prince completely ab-->ashed || 0.9948970675468445
+ this business of the claws which annoyed me--> so || 0.994873046875
+ he watched me hammer in hand and my fingers black with gre-->ase || 0.9947956800460815
+ he shook his--> golden || 0.9947751760482788
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of any--> use || 0.9947652220726013
+ and after having worked with such care and attention to detail she said with a yawn oh i have only just w-->oken || 0.9946820735931396
+ he looked at me d-->um || 0.9946789145469666
+ i was very busy trying to unscre-->w || 0.9946709275245667
+ i was just going to look--> for || 0.9945002794265747
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with a--> ham || 0.994395911693573
+ for millions of years the sheep have e-->aten || 0.9943405985832214
+ but if the sheep eats the flower for him it is as if suddenly all the stars have gone--> out || 0.994246780872345
+ is it not of more consequence and more important than the sums of a fat redf-->ac || 0.9941738843917847
+ he has never sm-->elled || 0.9941372275352478
+ he watched me hammer in hand and my fingers black with grease leaning on an--> object || 0.9941152334213257
+ but after a moment of silence he exclaimed with a sort of--> res || 0.9941076040267944
+ if they are well cleaned out volcanoes burn slowly and steadily--> without || 0.9940725564956665
+ this business of the claws which anno-->yed || 0.9940634965896606
+ is it not of more consequence and more important than the sums of a fat re-->df || 0.9940471053123474
+ a sheep e-->ats || 0.9940246939659119
+ i was very busy trying to unscrew a bolt in my engine that had--> got || 0.9940133094787598
+ and after having worked with such care and attention to detail she said with--> a || 0.994012176990509
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with--> a || 0.9939972758293152
+ and as he watered the flower one last time and prepared to shelter her under her d-->ome || 0.9939669966697693
+ i will have to endure two or three caterpillars if i wish to become acquainted with the--> but || 0.9939467310905457
+ and if i myself know of a unique flower which grows nowhere but on my--> planet || 0.9939386248588562
+ the little prince never let go of--> a || 0.9939370155334473
+ i was not sure what to--> say || 0.9939027428627014
+ this business of the claws which annoyed me so much should only have filled my heart with--> tend || 0.9939005374908447
+ i answered the first thing that came--> to || 0.9938254356384277
+ i was just going to--> look || 0.9938085079193115
+

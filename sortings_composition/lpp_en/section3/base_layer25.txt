@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.7773236632347107
+ i should have seen the tendern-->ess || 0.7775842547416687
+ then one morning exactly at sunr-->ise || 0.7965746521949768
+ we must look at them and breat-->he || 0.8041917085647583
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8063409924507141
+ she overwh-->el || 0.8831346035003662
+ as for--> the || 0.9530344605445862
+ on the fifth day again thanks to--> the || 0.9542953968048096
+ i should have seen the tenderness behind her contrivances-->[EOS] || 0.9546281099319458
+ the flower said to him-->[EOS] || 0.9571119546890259
+ she added an instant later-->[EOS] || 0.9605730772018433
+ humiliated--> at || 0.9608612060546875
+ they are naive-->[EOS] || 0.961184561252594
+ as for the--> large || 0.9620249271392822
+ one day for example speaking of--> her || 0.9622073769569397
+ in the--> evening || 0.9644635319709778
+ and if i myself know of a--> unique || 0.9647887349128723
+ he also--> owned || 0.9649564623832703
+ one day for example speaking of her--> four || 0.9651938676834106
+ the flower replied sweetly-->[EOS] || 0.9651957750320435
+ it seems that they are very beautiful and otherwise who else--> will || 0.9652831554412842
+ of course--> i || 0.965321958065033
+ and as--> he || 0.9659784436225891
+ on our earth--> we || 0.9663395285606384
+ as for the large animals--> i || 0.9669462442398071
+ on the fifth day again--> thanks || 0.9678500294685364
+ if they are well cleaned out volcanoes burn slowly and steadily without any eruptions-->[EOS] || 0.9678626656532288
+ she overwhelmed me with her--> fra || 0.9680067896842957
+ flowers are so contradictory-->[EOS] || 0.9683212041854858
+ mine perfumed my whole planet but--> i || 0.9683442115783691
+ and you think that--> is || 0.9687252044677734
+ he stood there all bewilder-->ed || 0.9690309166908264
+ and the little prince completely abashed having gone to look for a sprinkling can of fresh water tended to--> the || 0.9690800905227661
+ that is why they cause us no end of trouble-->[EOS] || 0.9691367149353027
+ she overwhel-->med || 0.9696820378303528
+ it was--> very || 0.969708263874054
+ he asked abruptly without anything leading up to it as--> if || 0.9697293043136597
+ what a very complicated--> flower || 0.9698367714881897
+ on the--> morning || 0.9699335098266602
+ on the--> fifth || 0.9699335694313049
+ you would not happen--> to || 0.9701630473136902
+ it is tiresome-->[EOS] || 0.9702780246734619
+ the little prince also pulled up with a hint of--> sad || 0.9703823328018188
+ humiliated at--> having || 0.9709503650665283
+ the flower cough-->ed || 0.9712973833084106
+ i was just going to look for--> it || 0.9713086485862732
+ the flower responded sweetly-->[EOS] || 0.9714016914367676
+ he asked abruptly without anything leading up to it as if it was the result of a long silent meditation--> on || 0.971505343914032
+ at--> that || 0.97161865234375
+ it is so secretive--> the || 0.971649706363678
+
+
+## 50 prefixes with the highest comosition scores:
+ that made me feel a little ashamed but he went on relent-->lessly || 0.9998623132705688
+ mine perfumed my whole planet but i did not--> know || 0.9994398355484009
+ that made me feel a--> little || 0.9992590546607971
+ it is very cold where you live-->[EOS] || 0.9974348545074463
+ on the morning of his departure he put--> his || 0.9971569180488586
+ i am busy with matters of consequence-->[EOS] || 0.9968888163566589
+ if someone loves a flower of which just one specimen exists amongst the millions and--> millions || 0.9966806769371033
+ humiliated at having been caught out on a lie so naive she coughed two or three--> times || 0.9962995052337646
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with a--> ham || 0.9962689280509949
+ i myself am busy--> with || 0.9957200288772583
+ he has never sm-->elled || 0.9956515431404114
+ is the war between the flowers and sheep not important-->[EOS] || 0.9955504536628723
+ i was very busy trying to unscrew a bolt in my engine that had--> got || 0.9955223202705383
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emer-->ge || 0.9953998327255249
+ i am busy--> with || 0.9951741695404053
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of--> any || 0.9951273202896118
+ but if the sheep eats the flower for him--> it || 0.9950774312019348
+ he also owned an extinct volcano but as he used to say you--> never || 0.9948179721832275
+ humiliated at having been caught out on a lie so na-->ive || 0.9946174621582031
+ i was very busy--> trying || 0.994484007358551
+ and as he watered the flower one last--> time || 0.9944693446159363
+ the little prince never let go of a question once he--> had || 0.99445641040802
+ that made me feel a little--> ash || 0.9943371415138245
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can--> destroy || 0.9942610263824463
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which--> are || 0.9942241311073303
+ i was upset--> over || 0.9941709637641907
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without realising what he is--> done || 0.9941307306289673
+ the little prince never let go of a question once he had--> asked || 0.9940787553787231
+ is it not of more consequence and more important than the sums of a fat re-->df || 0.9940731525421143
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of any use-->[EOS] || 0.9940254092216492
+ at that moment i was thinking to myself if this bolt will not bud-->ge || 0.9939720034599304
+ she did not want to come out all rumpled like the po-->pp || 0.9938911199569702
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emerge--> from || 0.9938609004020691
+ it is very cold--> where || 0.9938585758209229
+ he had taken seriously words of no importance and had become very--> unh || 0.993817925453186
+ i was very busy trying to unscrew a bolt in my engine that had got--> stuck || 0.9938148260116577
+ then one morning exactly at sun-->r || 0.993794322013855
+ i was very busy trying to uns-->cre || 0.9937907457351685
+ and if i myself know of a unique flower which grows nowhere--> but || 0.9937861561775208
+ humiliated at having been caught out on a lie so naive she coughed two or three times to imply the little--> prince || 0.9937677383422852
+ and it is not a matter of consequence to try to understand why they take so much--> trouble || 0.9937362670898438
+ i will have to endure two or three caterpillars if i wish to become acquainted with the--> but || 0.9936088919639587
+ he asked abruptly without anything leading up to it as if it was the result of a long--> silent || 0.9936038851737976
+ the flower coughed but it was not because she had a--> cold || 0.9935597777366638
+ you are so--> beautiful || 0.9935256242752075
+ we must look--> at || 0.9934565424919128
+ if you would--> have || 0.9934154748916626
+ humiliated at having been caught out on a lie so naive she coughed two or three times to--> imply || 0.9934081435203552
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition--> must || 0.9933825135231018
+ he watched me hammer in hand and my fingers black with grease leaning on an--> object || 0.9933404922485352
+

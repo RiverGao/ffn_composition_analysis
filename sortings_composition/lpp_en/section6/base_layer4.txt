@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a--> ver || 0.8622978329658508
+ he had already started to worry that he had got the wrong planet when--> a || 0.8672069907188416
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long and--> twenty || 0.8681893348693848
+ because an explorer who told lies would cause havoc to geography books so--> would || 0.8716757297515869
+ it is a bit lonely in the--> desert || 0.8732561469078064
+ men take up very little space on the--> earth || 0.8753535747528076
+ but extinct volcanoes can--> w || 0.8761078715324402
+ i have three volcanoes two active volcanoes and--> one || 0.8801480531692505
+ i have three volcanoes two active volcanoes and one ext-->inct || 0.8810409307479858
+ he is a scholar who--> knows || 0.8817348480224609
+ but do not waste your time on this ch-->ore || 0.8832088112831116
+ it means which is at risk of imminent disapp-->earance || 0.8833932876586914
+ there is no one in the--> desert || 0.8850613236427307
+ he had already started to worry that he had got the--> wrong || 0.8866975903511047
+ is my flower at risk of imminent disapp-->earance || 0.8883947134017944
+ that was his first moment of regret but he took--> heart || 0.88890540599823
+ it is all dry and all jagged and all barren and the--> people || 0.8894141316413879
+ all humanity could be piled up on the--> smallest || 0.8895780444145203
+ the rec-->it || 0.8899821043014526
+ you can--> not || 0.8900248408317566
+ and she has only four thorns to defend herself against the--> world || 0.8917247653007507
+ the earth is not just--> any || 0.8931183218955994
+ all humanity could be p-->iled || 0.8938342928886414
+ and the geographer having opened his big--> register || 0.8948137164115906
+ because an explorer who--> told || 0.8951479196548462
+ if for example the discovery in question was of--> a || 0.8952540159225464
+ the old--> gentleman || 0.8953812718391418
+ it has one hundred and eleven kings not forgetting of course the--> negro || 0.8954957127571106
+ and if any of their re-->collections || 0.895738959312439
+ he had already started to worry that he had got the wrong planet when a--> moon || 0.8963101506233215
+ i would not know said the ge-->ograph || 0.8975054621696472
+ i would not know said the ge-->ograph || 0.8975054621696472
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.8983210325241089
+ men i think there exists six or seven of them-->[EOS] || 0.898361325263977
+ and i have left her all alone on my--> planet || 0.8985245823860168
+ next came the turn of the lamplighters of china and siberia to enter into the--> dance || 0.8987157940864563
+ i would not know that either said the ge-->ograph || 0.8988392353057861
+ one waits until the--> expl || 0.8989132642745972
+ that was his first--> moment || 0.8991527557373047
+ if for example the discovery in question was of a large mountain one would require that he bring back large--> stones || 0.8994210958480835
+ it means which is at risk of im-->min || 0.9001209735870361
+ having set their lamps alight they would go--> off || 0.9004397988319397
+ if the two billion people who inhabit the earth were to stand upright and squ-->ash || 0.9004421234130859
+ so the seventh planet was--> the || 0.9008286595344543
+ they repeat whatever you say to them-->[EOS] || 0.9008324146270752
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondes-->cript || 0.9009084105491638
+ the old gentleman said--> to || 0.9010452032089233
+ that was his first moment of regret but he took heart once--> again || 0.9012572169303894
+ if for example the discovery in question was of a large--> mountain || 0.9012681245803833
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the ext-->inct || 0.9015359878540039
+
+
+## 50 prefixes with the highest comosition scores:
+ good evening said the--> little || 0.967194139957428
+ good evening said the--> s || 0.9671939611434937
+ then came the turn of the lampl-->igh || 0.9670023322105408
+ three hundred and eleven--> million || 0.9665728807449341
+ the movements of this army were regulated like those of an opera bal-->let || 0.9661190509796143
+ where are the--> men || 0.965937077999115
+ where are the--> men || 0.965937077999115
+ it is all dry and all jagged--> and || 0.965897798538208
+ only the lamplighter of the single lamp of the north pole--> and || 0.9657108783721924
+ but extinct volcanoes can wake up interrupted the little prince-->[EOS] || 0.9655921459197998
+ good morning he said courteously-->[EOS] || 0.965280294418335
+ having set their--> l || 0.965238094329834
+ because an explorer who told lies would cause havoc to geography books so would an explorer who drank too much-->[EOS] || 0.965131402015686
+ next came the turn of the lampl-->igh || 0.9650130867958069
+ i have not been entirely honest in telling you about--> the || 0.9647246599197388
+ the little prince--> made || 0.9645273089408875
+ the little prince--> clim || 0.9645273089408875
+ the little prince--> gaz || 0.9645273089408875
+ the little prince--> said || 0.9645273089408875
+ the little prince--> was || 0.9645273089408875
+ the little prince--> sat || 0.9645272493362427
+ the little prince--> smiled || 0.9645271897315979
+ the little prince--> crossed || 0.9645270109176636
+ the little prince--> sat || 0.9645269513130188
+ the little prince--> having || 0.9645269513130188
+ i have not been entirely honest in telling you--> about || 0.9645013213157654
+ i feel sorry for you--> so || 0.9643535017967224
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven--> street || 0.9641821980476379
+ it is all dry--> and || 0.9641422033309937
+ it has one hundred and--> eleven || 0.9639326930046082
+ what place would you advise--> me || 0.9638065099716187
+ but he saw nothing but--> sharp || 0.9637517929077148
+ the grownu-->ps || 0.9635344743728638
+ the little prince made no reply-->[EOS] || 0.9635277986526489
+ where are--> the || 0.9634594917297363
+ where are--> the || 0.9634594917297363
+ i saw--> them || 0.9633064866065979
+ the little prince crossed the desert and met only with one flower a flower with three petals--> a || 0.9632013440132141
+ i have--> not || 0.9629175662994385
+ i have--> three || 0.9629175662994385
+ i have--> been || 0.9629172682762146
+ he cried out when he caught sight of--> the || 0.9627265930175781
+ he does not leave his--> des || 0.9626347422599792
+ if for example the discovery in question--> was || 0.9624626636505127
+ the recitals of explorers are first recorded in penc-->il || 0.9623860120773315
+ i understand very well--> said || 0.9618223905563354
+ next--> came || 0.9617940783500671
+ seen from--> a || 0.9617277979850769
+ who are you who are you--> who || 0.9617229104042053
+ seen from a distance--> it || 0.9616726040840149
+

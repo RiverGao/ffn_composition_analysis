@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ and a br-->illi || 0.8830724954605103
+ because she--> is || 0.885734498500824
+ who are you he asked them stunn-->ed || 0.8858742713928223
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would--> allow || 0.8886858820915222
+ i am a fox the fo-->x || 0.8929661512374878
+ they waste their time with a--> rag || 0.8956536650657654
+ what do you do here the--> little || 0.8987955451011658
+ if the hun-->ters || 0.9000205397605896
+ to you i am only a fox just like a hundred thousand other fo-->xes || 0.900404691696167
+ but your hair is the color of gold so it will be wonderful when you have t-->amed || 0.9006637334823608
+ i can go for a walk as far as the v-->ine || 0.9007308483123779
+ were not--> they || 0.9008177518844604
+ a second--> br || 0.9009982347488403
+ are you looking for ch-->ick || 0.9023539423942566
+ a second brilli-->antly || 0.9034432768821716
+ but she--> alone || 0.9040960073471069
+ you are like my fo-->x || 0.9042732119560242
+ he was only a fox just like a hundred thousand others but i have--> made || 0.9046341180801392
+ they also--> raise || 0.9047802090644836
+ because it is her that i listened to gr-->umble || 0.904931366443634
+ that does not make me a very--> great || 0.9055816531181335
+ on thursdays they dance with the girls of the--> village || 0.9056849479675293
+ on thursdays they dance with the girls of the village so thurs-->day || 0.9079561829566956
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i--> did || 0.908105194568634
+ i never wished you any harm but you wanted me to t-->ame || 0.9083305597305298
+ you have to be--> very || 0.9083421230316162
+ i can go for a walk as--> far || 0.9084144830703735
+ the wheat which is golden will remind me of you and i will love the sound of the wind blow-->ing || 0.9086037278175354
+ and when--> the || 0.9087115526199341
+ i would be jumping about and getting rest-->less || 0.9091086387634277
+ are they back--> already || 0.910072922706604
+ no one is ever happy--> where || 0.9100916981697083
+ it would have--> been || 0.9101422429084778
+ they are also something too often forgotten said the fo-->x || 0.9106401205062866
+ but every day you will be able--> to || 0.9106764793395996
+ but as there are not any shops that sell friends men--> no || 0.910776674747467
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also--> because || 0.9108409881591797
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my bur-->row || 0.9111769199371338
+ you have to be very--> patient || 0.9114038348197937
+ are you looking--> for || 0.9116707444190979
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the--> time || 0.9117292761802673
+ you have to be very patient replied the fo-->x || 0.9118713736534119
+ you will understand that yours--> is || 0.9122116565704346
+ it would have been better to come back at the same--> time || 0.9125856161117554
+ a third--> br || 0.9126331806182861
+ that does not--> make || 0.9126428961753845
+ because it is her that i listened to grumble or bo-->ast || 0.912992000579834
+ that is right said the fo-->x || 0.9129958152770996
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not--> she || 0.9131003022193909
+ because it is for her--> that || 0.9131038188934326
+
+
+## 50 prefixes with the highest comosition scores:
+ that and my three volcanoes that come up to my knees-->[EOS] || 0.9716107845306396
+ and when the time to--> leave || 0.9708581566810608
+ i have friends to discover and many things to--> understand || 0.9707474112510681
+ but your hair is the color of--> gold || 0.9706836342811584
+ what is it that you are looking for-->[EOS] || 0.9704550504684448
+ she would cough and cough and pretend to die--> to || 0.9696429371833801
+ good morning responded the little prince politely--> who || 0.9685546159744263
+ i sort travelers in packs--> of || 0.9684379696846008
+ of course an ordinary passer by would think that my rose--> looked || 0.9675781726837158
+ it was then that--> the || 0.9673771262168884
+ that and my three volcanoes that come up to my kne-->es || 0.9673210382461548
+ and the roses were--> very || 0.9671992659568787
+ first you will sit down a little way--> away || 0.9670702815055847
+ i am right here the voice said--> under || 0.9670223593711853
+ i sort travelers in packs of--> a || 0.9669733047485352
+ it is the time that--> i || 0.966864824295044
+ men no longer have the time--> to || 0.9667568802833557
+ of course an ordinary passer by would think that my rose looked--> just || 0.9664919376373291
+ because of the color of--> the || 0.9664884209632874
+ you become forever responsible for--> that || 0.9664050340652466
+ you are very pretty-->[EOS] || 0.9663964509963989
+ it is the time that i have wasted on--> my || 0.9663030505180359
+ it is the time that i have wasted--> on || 0.9661744236946106
+ and when the time--> to || 0.9661725759506226
+ they also raise chick-->ens || 0.9659861922264099
+ wheat is of no use to me-->[EOS] || 0.965867817401886
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life--> to || 0.9658409953117371
+ it was a garden covered in roses-->[EOS] || 0.9657579064369202
+ and then look you see the wheat fields--> down || 0.9657001495361328
+ it was a garden covered in--> ros || 0.9656726717948914
+ who are you he asked--> them || 0.9656599760055542
+ you are responsible for your--> rose || 0.9654747247695923
+ but your hair is the color of gold--> so || 0.9653064608573914
+ what is essential is invisible to--> the || 0.9652117490768433
+ what is essential is invisible to--> the || 0.9652115702629089
+ it is the time you--> have || 0.965151846408844
+ but as there are not any shops that sell friends men no longer have--> any || 0.9650558233261108
+ unlike any other--> other || 0.9647740721702576
+ of course an ordinary passer by would--> think || 0.9646278619766235
+ it was then that the fox appeared-->[EOS] || 0.9646037817001343
+ and a brilliantly lit express train rumbling--> like || 0.9645991921424866
+ and then look you see the wheat fields down--> there || 0.9645114541053772
+ i am responsible for my rose repeated the--> little || 0.9644414782524109
+ i can not play with--> you || 0.9644414186477661
+ i will watch you out of the corner of my eye and you will not say anything-->[EOS] || 0.9643808603286743
+ they all looked just like--> his || 0.9642434120178223
+ i am right here the voice--> said || 0.9641914367675781
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse--> her || 0.9641624093055725
+ because it is her that i listened to--> gr || 0.9640544652938843
+ i have friends to discover--> and || 0.9640489816665649
+

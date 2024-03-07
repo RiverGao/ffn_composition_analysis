@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.8944900035858154
+ from a mountain as high as this one he said to himself i will be able--> to || 0.8950572609901428
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.9001196622848511
+ i can help you if somed-->ay || 0.9010664820671082
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9307390451431274
+ that is to say--> about || 0.9541684985160828
+ be my--> friends || 0.9544456601142883
+ the rec-->it || 0.9575092196464539
+ the movements of this army were regulated like those of an opera ballet-->[EOS] || 0.9588063359260559
+ the thing that matters to us--> is || 0.9593367576599121
+ but he saw--> nothing || 0.9601395726203918
+ the little prince climbed a--> high || 0.9607846736907959
+ but do not waste your time on this ch-->ore || 0.9612215161323547
+ he is a scholar who knows the location of the seas the--> rivers || 0.9619697332382202
+ but i am more powerful than the--> finger || 0.9621535539627075
+ i have been having some trouble with a flower said the--> little || 0.9622259140014648
+ but i am more powerful than the finger of a king--> said || 0.9627060294151306
+ then those of south--> amer || 0.9627357125282288
+ good morning good morning good morning answered--> the || 0.9628727436065674
+ then they--> too || 0.962910532951355
+ and he glanced around at the planet of the--> ge || 0.9639456868171692
+ he had never seen such a--> maj || 0.9643396735191345
+ the earth is not--> just || 0.964561402797699
+ to give you an idea of the size of the earth i will tell you that before the invention of--> electric || 0.9647312164306641
+ he is a scholar who knows the location of the seas--> the || 0.9649084806442261
+ but extinct--> vol || 0.9649677276611328
+ that is possible so when the moral character of the explorer--> appears || 0.965110719203949
+ whether volcano-->es || 0.9655588865280151
+ what place would you advise--> me || 0.9656471014022827
+ good morning he said courteously-->[EOS] || 0.9656521081924438
+ because intoxicated men see double so the geographer would record two mountains in--> a || 0.965684175491333
+ he cried out when he caught sight of the--> little || 0.9660053849220276
+ next came the turn of the lamplighters of--> ch || 0.9660226702690125
+ seven million five hundred thousand heavy drink-->ers || 0.9660366177558899
+ if for example the discovery in question was of a large mountain one would require that he bring back large stones from it-->[EOS] || 0.9660677313804626
+ he had already travelled--> so || 0.9660832285881042
+ and he gl-->anced || 0.9660988450050354
+ it is right there above us-->[EOS] || 0.9661524891853333
+ then came the turn of the lamplighters of russia and the indies-->[EOS] || 0.9661973714828491
+ the recit-->als || 0.9662712216377258
+ and he glanced around at the planet of--> the || 0.9663169980049133
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like--> for || 0.966343879699707
+ then those of north--> amer || 0.9664610624313354
+ the geographer is too important to--> go || 0.9664643406867981
+ he does not leave his des-->k || 0.9665237069129944
+ seen from a distance it made a wonderful spectacle-->[EOS] || 0.966534435749054
+ because intoxicated men see double so the geographer would record two mountains in a--> place || 0.9665974378585815
+ he is a scholar who knows the location of the seas the rivers the towns the mountains and the desert-->s || 0.9666025042533875
+ it has one hundred and eleven kings not forgetting of course the negro kings amongst them-->[EOS] || 0.9667129516601562
+ seven--> thousand || 0.9667277932167053
+
+
+## 50 prefixes with the highest comosition scores:
+ they are blown here and there by--> the || 0.990587055683136
+ it has one hundred and eleven k-->ings || 0.9905548095703125
+ there is--> no || 0.99044269323349
+ there is--> no || 0.99044269323349
+ he had already started to worry that he had got--> the || 0.9903464317321777
+ what place--> would || 0.9903404116630554
+ they are blown here and there by the--> wind || 0.9901779890060425
+ to give you an idea of the size of the earth i will--> tell || 0.9900320172309875
+ but what does ephemeral mean repeated the little prince who had never in his life let go--> of || 0.9900044798851013
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as--> a || 0.989988386631012
+ it is not for the--> ge || 0.9898434281349182
+ to give you an idea of the size of the earth i--> will || 0.9897518754005432
+ because an explorer who told lies would cause havoc to geography books so would an explorer who d-->rank || 0.9897285103797913
+ the sixth planet was ten times--> larger || 0.9896600842475891
+ the little prince sat down on the table and panted a--> little || 0.9896490573883057
+ but he saw nothing but sharp--> need || 0.9896397590637207
+ and the geographer having opened his--> big || 0.9895732998847961
+ i am all alone all alone all alone answered--> the || 0.9895153045654297
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used--> the || 0.9895058274269104
+ i can--> carry || 0.9894479513168335
+ i can--> help || 0.9894479513168335
+ i can-->[EOS] || 0.989447832107544
+ i wonder he said if the stars are lit so that each of us can--> one || 0.9894425272941589
+ he asks them questions and he writes down their--> re || 0.9894296526908875
+ and if any of their recollections seem interesting to him the geographer orders--> an || 0.9894101023674011
+ he had already started to worry that he had got the wrong planet when a moon colored coil stirred in the sand-->[EOS] || 0.9893900156021118
+ but what does eph-->em || 0.9893649816513062
+ the flower had once--> seen || 0.9893292188644409
+ but what does ephemeral mean repeated the little prince who had never in his life let--> go || 0.9892797470092773
+ because an explorer who told lies would cause havoc to geography--> books || 0.9892578721046448
+ it is not for the ge-->ograph || 0.9892532825469971
+ the little prince gazed at him for a long--> time || 0.9891676902770996
+ the only mountains he had ever--> known || 0.9891589879989624
+ what is a ge-->ograph || 0.9891495704650879
+ and if any of their recollections seem interesting to him the geographer orders an--> inqu || 0.9891102910041809
+ and if any of their recollections--> seem || 0.9890884757041931
+ that is possible so when the moral character of the expl-->orer || 0.9890868067741394
+ that is very interesting said--> the || 0.9890750050544739
+ if the two billion people who inhabit the earth were to stand upright and--> squ || 0.9890474081039429
+ my flower is eph-->em || 0.9890414476394653
+ it has one hundred and eleven kings not forget-->ting || 0.9890291094779968
+ what does eph-->em || 0.98902428150177
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a--> foot || 0.9889352321624756
+ whoever i touch i send him back to--> the || 0.9889299869537354
+ the planet earth replied the ge-->ograph || 0.9889146089553833
+ it has one hundred and eleven kings not forgetting of course the negro--> k || 0.9888868927955627
+ from a mountain as high as this one he said to himself i will be able to see--> the || 0.9888636469841003
+ i have three volcanoes two active--> vol || 0.9888351559638977
+ and if any of their recollections seem interesting to him the geographer orders an inquiry into that expl-->orer || 0.9887640476226807
+ he had already started to worry that he had got the--> wrong || 0.9887586832046509
+

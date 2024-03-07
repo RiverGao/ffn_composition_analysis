@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.8823763728141785
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.8917866349220276
+ the astronomer gave his presentation again in 1-->9 || 0.8920507431030273
+ it would suffice to be able--> to || 0.8968433737754822
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catastrop-->he || 0.9023054242134094
+ then it elongates and grows timidly at first toward the sun a charming little harml-->ess || 0.9103551506996155
+ this asteroid has only been seen through a telescope once in 1-->9 || 0.9109207987785339
+ does he collect butterf-->lies || 0.9183396697044373
+ i will try of course to make my portraits as lifeli-->ke || 0.9237928986549377
+ there he is--> too || 0.9458602666854858
+ indeed--> when || 0.9503677487373352
+ wait until the--> sun || 0.9506548643112183
+ grownups--> love || 0.9544053077697754
+ grownups--> are || 0.9544053077697754
+ for those--> who || 0.9544505476951599
+ i would have liked to say once upon a time there was a little prince--> who || 0.9562814831733704
+ and indeed--> on || 0.9573980569839478
+ he might call it--> for || 0.9582864046096802
+ he might--> call || 0.9587876796722412
+ does he--> collect || 0.9589604139328003
+ sometimes--> there || 0.9592999219894409
+ but if it is a bad plant one must pull the plant out straight away as soon as it can be recognised-->[EOS] || 0.9593244194984436
+ but of course those of us--> who || 0.9600802063941956
+ only then do they think they know him-->[EOS] || 0.9604906439781189
+ yes it is--> true || 0.9606079459190369
+ grownups are like that-->[EOS] || 0.9614828824996948
+ and a little later you added you know you love the sunset when you are really sad-->[EOS] || 0.9618194103240967
+ perhaps--> he || 0.9620027542114258
+ perhaps--> i || 0.9620027542114258
+ they are--> like || 0.9628744721412659
+ i pointed out to the little prince that baobabs were not shrubs but trees--> as || 0.9631049036979675
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a few steps and you watched the twilight falling whenever you liked-->[EOS] || 0.9632173776626587
+ it is true is not--> it || 0.9634068608283997
+ they never ask you how does his--> voice || 0.9635403156280518
+ i do not like to sound like a moralist but the--> danger || 0.9637874364852905
+ and--> based || 0.9637896418571472
+ and--> indeed || 0.963789701461792
+ and--> one || 0.963789701461792
+ and--> a || 0.963789701461792
+ and--> if || 0.963789701461792
+ the little prince told me later-->[EOS] || 0.9639811515808105
+ every day i would learn something about his planet the--> departure || 0.964026927947998
+ that is right but why do you want the sheep to eat the little baobabs-->[EOS] || 0.9640883803367615
+ perhaps he thought i was just like himself--> but || 0.9640890955924988
+ the soil of the planet was infested with them-->[EOS] || 0.9641715884208679
+ but if it is--> a || 0.9642070531845093
+ it is true--> is || 0.9642211198806763
+ you might be wondering--> why || 0.9643227458000183
+ others--> do || 0.964353621006012
+ but he remarked wisely the--> ba || 0.9645779132843018
+
+
+## 50 prefixes with the highest comosition scores:
+ it is to warn my friends of the--> danger || 0.9999758005142212
+ they sleep secretly deep in the earth until on a whim one of them decides to--> w || 0.9999487996101379
+ they sleep secretly deep in the earth until on a whim one of them decides to w-->ake || 0.9999226331710815
+ they sleep secretly deep in the earth until on a whim one of them--> dec || 0.9999189972877502
+ you would have to tell them i saw a hundred thousand franc house and--> they || 0.999779224395752
+ when i drew the baobabs--> i || 0.999657392501831
+ i am also not sure about the color of his outfit so i fumble along somehow as--> best || 0.9995558857917786
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from the--> rose || 0.9994867444038391
+ not everyone has had a friend and if i forgot him--> i || 0.9993871450424194
+ i am also not sure about the color of his outfit so--> i || 0.9989940524101257
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catast-->rop || 0.9988805651664734
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are so large that for once--> i || 0.998879075050354
+ i learned this new detail on the fourth day in the morning when you said to me i am very--> fond || 0.9984536170959473
+ if i try to describe him here--> it || 0.9983566403388977
+ i do not like to sound like--> a || 0.9982012510299683
+ perhaps i am a bit like the grownups-->[EOS] || 0.9981614947319031
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are so large that--> for || 0.9981433749198914
+ and one day he suggested that i apply myself to making a beautiful drawing so--> that || 0.9981377720832825
+ this time again it was thanks to the--> sheep || 0.9979696869850159
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty in spot-->ting || 0.9977155923843384
+ unfortunately france is much too far away but on your tiny planet--> all || 0.997545599937439
+ i will try of course to make my portraits as lifelike as possible but--> i || 0.9974372386932373
+ and one day he suggested that i apply myself to making a beautiful drawing so that--> the || 0.9973414540290833
+ i do not like to sound like a moralist but--> the || 0.997263491153717
+ they sleep secretly deep in the earth until on a whim one--> of || 0.9971941113471985
+ if i try to describe him--> here || 0.9969906806945801
+ this time again it was thanks to the sheep because--> the || 0.9969128966331482
+ i will make mistakes on certain important points too but you will have to forgive me that--> my || 0.9963271617889404
+ i did not understand why it was so important that sheep eat shrubs but--> the || 0.9962783455848694
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who--> might || 0.996172308921814
+ you seemed surprised at first and then you chuckled at yourself and you said i think--> myself || 0.9961590766906738
+ some drawings--> go || 0.9960240125656128
+ perhaps he thought i was just like himself but i unfortunately do not know how--> to || 0.9960053563117981
+ if one day they travel he said to--> me || 0.9958280324935913
+ i am also not sure about the color of his outfit so i fumble along somehow as best--> i || 0.9958257675170898
+ and based on what the little prince told--> me || 0.9958065152168274
+ he might call it for example astero-->id || 0.9957608580589294
+ he replied oh come on as if it were obvious and it took me a great mental effort to understand this problem on my own without any help-->[EOS] || 0.9956837892532349
+ i used to know a planet inhabited--> by || 0.995679497718811
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty--> in || 0.9956670999526978
+ it is a very boring job but--> very || 0.9954611659049988
+ and one day he suggested that i apply myself to making a beautiful drawing so that the children from where--> i || 0.9954416751861572
+ this asteroid has only been seen through a telescope once in 1909 by a tur-->k || 0.9953805208206177
+ i will try of course to make my portraits as--> lif || 0.9953793883323669
+ i pointed out to--> the || 0.995378315448761
+ this astero-->id || 0.9952276349067688
+ i have serious reason to believe that the planet from where the little prince came is the astero-->id || 0.9950921535491943
+ i will try of course to make my portraits as lif-->eli || 0.9950418472290039
+ if i have told you these details about the asteroid b 612 and revealed to you its number it is because of the grow-->nu || 0.9949527382850647
+ this asteroid has only been seen through a telescope once in 1909 by a turk-->ish || 0.9949390292167664
+

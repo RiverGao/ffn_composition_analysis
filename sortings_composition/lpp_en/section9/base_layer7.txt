@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ and then the little b-->ells || 0.9014480113983154
+ and besides i am going to--> make || 0.9088626503944397
+ and then the little--> b || 0.9122242331504822
+ it will be as if i would given you instead--> of || 0.9145581126213074
+ another voice must have answered him because he replied yes yes it is the right day but this is not--> the || 0.9151838421821594
+ then this is not the exact--> spot || 0.9154454469680786
+ it is true that they have no--> poison || 0.9183582663536072
+ i was sad but i told them it is--> because || 0.9189191460609436
+ so you will tell them yes the stars always make--> me || 0.9200160503387451
+ then he suddenly became--> serious || 0.9206604361534119
+ do you have good--> poison || 0.9225748181343079
+ another voice must have answered him because he replied yes yes it is the right day but this--> is || 0.9231186509132385
+ but there--> is || 0.923927366733551
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light met-->all || 0.9243833422660828
+ and besides i am going to make--> you || 0.924393355846405
+ there was nothing but--> a || 0.9251673817634583
+ he made no answer to my question but he added i am also going--> back || 0.9254134893417358
+ it is just like five hundred million--> little || 0.9261988997459412
+ look at this landscape carefully so as to be sure to recognize it if--> one || 0.9263317584991455
+ but none of these stars say--> anything || 0.926392138004303
+ one evening he would have forgotten the glass dome or maybe the sheep--> got || 0.9272382855415344
+ when i managed to catch him up he was walking along determinedly at a br-->isk || 0.9272930026054382
+ i will be much more afraid this--> evening || 0.9273161888122559
+ he fell as--> g || 0.9273951053619385
+ the water you gave me to drink was like music because of the--> pul || 0.9274336099624634
+ i want to come--> down || 0.9274484515190125
+ he said to me i am glad that you have found what was wrong with your--> engine || 0.9276050925254822
+ it is the same landscape as the one on the--> previous || 0.9277586340904236
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in africa in the--> desert || 0.9277842044830322
+ he looked at me--> grav || 0.9282083511352539
+ but he did not answer my--> question || 0.9290503859519958
+ other times i--> tell || 0.9301047921180725
+ and when your sorrow is comforted time heals all w-->ounds || 0.9301818609237671
+ he made no answer to my question but he added i am also--> going || 0.9303991198539734
+ another voice must have answered him because he replied yes yes it is the right day but this is--> not || 0.9305076003074646
+ ah little fellow dear little fellow i love to hear--> that || 0.9306064248085022
+ they will--> all || 0.930832028388977
+ another voice must have answered him because he replied yes yes it is the right day but this is not the right--> place || 0.9310821890830994
+ i will be much more--> afraid || 0.9312141537666321
+ then he suddenly became serious again-->[EOS] || 0.9312259554862976
+ it is not--> worth || 0.9312284588813782
+ and no grownup will ever understand that this is--> a || 0.9313168525695801
+ and when your sorrow is comforted time heals all wounds you--> will || 0.9314057230949402
+ so think--> of || 0.9314098358154297
+ my star will be right above--> the || 0.9314585328102112
+ and he took me by the hand but he was--> still || 0.931531548500061
+ another voice must have answered him because he replied yes yes it is the--> right || 0.9318006038665771
+ but he said to me tonight it will be--> a || 0.9318223595619202
+ why are you talking with sn-->akes || 0.9318539500236511
+ they can b-->ite || 0.9319379925727844
+
+
+## 50 prefixes with the highest comosition scores:
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic sound-->[EOS] || 0.9784291386604309
+ and he laughed some more-->[EOS] || 0.9769268035888672
+ the companions who met me were very happy to see me alive--> again || 0.9758978486061096
+ for me it was like a spring of--> fresh || 0.9757411479949951
+ another voice must have answered--> him || 0.9754893183708191
+ he made no answer to my question but he added i am also going back home today-->[EOS] || 0.9754549860954285
+ he said to me only oh you came-->[EOS] || 0.9754456281661987
+ sometimes i tell myself surely--> not || 0.975436270236969
+ he got away without making a sound-->[EOS] || 0.9753596782684326
+ there was nothing but a yellow flash close to his ankle-->[EOS] || 0.9752640128135681
+ even as i dug around in my pocket to take out--> my || 0.9751790761947632
+ what are you trying--> to || 0.9749612212181091
+ what are you trying--> to || 0.9749612212181091
+ i held him tightly in my arms like a small child-->[EOS] || 0.9749278426170349
+ and yet it seemed to me that he was plummet-->ing || 0.9749127626419067
+ he made no answer--> to || 0.9748730063438416
+ when i drew the muzzle for the little prince i forgot to--> add || 0.9748035669326782
+ there was nothing but a yellow flash close to his ank-->le || 0.9747922420501709
+ but he said to--> me || 0.974781334400177
+ when i drew the muzzle for the little prince i--> forgot || 0.9746108651161194
+ they can bite you just for--> fun || 0.9744805097579956
+ you will want to laugh with--> me || 0.9743250608444214
+ i have your sheep and i have the box for the sheep and i--> have || 0.9742907881736755
+ i could feel that he was reviving little by--> little || 0.9742341637611389
+ i mean not entirely but i do know that he got back to his planet--> because || 0.9741671085357666
+ the little prince--> replied || 0.9741523861885071
+ the little prince--> spoke || 0.9741523861885071
+ you will have five hundred million little bells and i will--> have || 0.9741488695144653
+ when i drew the muzzle for--> the || 0.9739999175071716
+ another voice must have answered him because he replied yes yes--> it || 0.9739488959312439
+ one evening he would have forgotten the glass dome or maybe the sheep got out quietly during the night-->[EOS] || 0.9739345908164978
+ another voice must have answered him because he replied yes yes it is the right day but--> this || 0.9738420844078064
+ even as i dug around in my pocket to--> take || 0.9737846851348877
+ where i live everything is too small for me to point out to--> you || 0.9737300276756287
+ if a child then comes--> to || 0.9736699461936951
+ and sometimes you will open your window--> just || 0.9736514687538147
+ when i managed to catch him up--> he || 0.9736149311065674
+ he said to--> me || 0.9736016392707825
+ he said to--> me || 0.9736015200614929
+ he said to--> me || 0.973601222038269
+ he had a serious look as if lost far--> away || 0.9735592007637024
+ one evening he would have forgotten the glass dome or maybe the sheep got out quietly--> during || 0.9735583662986755
+ what are you trying to say-->[EOS] || 0.9735432863235474
+ what are you trying to say-->[EOS] || 0.9735432863235474
+ i had moistened his temples--> and || 0.9734211564064026
+ where i live everything is too small for me to point out--> to || 0.9733578562736511
+ other times i tell myself everyone is absent minded--> at || 0.973345935344696
+ right there facing the little prince was one of those yellow snakes that can kill you in thirty seconds--> flat || 0.9732968211174011
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic--> sound || 0.9732458591461182
+ little fellow is this all a bad dream this business with--> the || 0.9731040000915527
+

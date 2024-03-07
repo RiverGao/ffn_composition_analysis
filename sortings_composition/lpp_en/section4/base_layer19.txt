@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ from time to--> time || 0.9132819771766663
+ if he had held it himself he would have been able--> to || 0.9134534001350403
+ i admire you said the little prince shrugg-->ing || 0.9190141558647156
+ he should be able--> for || 0.9243333339691162
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.9267988801002502
+ if he had held it himself he would have been able to watch not forty--> four || 0.9577569365501404
+ that is the most difficult thing of all-->[EOS] || 0.9604567289352417
+ he should be able for example--> to || 0.9624944925308228
+ but how can that interest you so much-->[EOS] || 0.9632614254951477
+ come now yawn again-->[EOS] || 0.9641788601875305
+ he found himself in the neighborhood of the asteroids 325 -->3 || 0.9642908573150635
+ he should be able for--> example || 0.9655144810676575
+ and you will see how well i am obeyed-->[EOS] || 0.9659056663513184
+ to forget what asked the--> little || 0.9660727977752686
+ ah then the--> king || 0.9663317203521729
+ i make you my ambassador-->[EOS] || 0.9664725661277771
+ he was an--> absolute || 0.966666579246521
+ and now--> i || 0.9669585824012756
+ for the king fundamentally insisted that his authority be respected-->[EOS] || 0.9673302173614502
+ order the sun to set-->[EOS] || 0.9676554203033447
+ the second planet was inhabited--> by || 0.9680086374282837
+ if your majesty wishes to be promptly obeyed--> he || 0.9684293270111084
+ he found himself in the neighborhood of the asteroids 325 326 327 328-->  || 0.9685287475585938
+ you shall have your sunset-->[EOS] || 0.9685352444648743
+ what--> does || 0.9687466025352478
+ what--> are || 0.9687466621398926
+ the grownu-->ps || 0.9690065979957581
+ the grownu-->ps || 0.9690067172050476
+ the grownu-->ps || 0.9690067172050476
+ it is an--> order || 0.9692507982254028
+ s-->ire || 0.9695231914520264
+ s-->ire || 0.9695231914520264
+ admire me just the same-->[EOS] || 0.9696536660194397
+ i have not yet made a complete tour of my kingdom-->[EOS] || 0.9696788191795349
+ such--> power || 0.9697270393371582
+ from time to time you will condemn him--> to || 0.9698830246925354
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two hundred sunsets on the same day--> without || 0.969902515411377
+ if he had held it himself he would have been able to watch not forty four--> but || 0.9700279831886292
+ what are--> you || 0.9700551629066467
+ he found himself in the neighborhood of the asteroids 325 326 -->3 || 0.970503568649292
+ that fright-->ens || 0.9705092906951904
+ sire he said--> to || 0.9705680012702942
+ from time to time--> you || 0.9706808924674988
+ to forget what asked the little prince who already felt sorry for him-->[EOS] || 0.9709728360176086
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one--> of || 0.9712607264518738
+ the king hastily called out-->[EOS] || 0.9714533090591431
+ it is much more difficult to judge oneself than to judge someone else-->[EOS] || 0.9714784622192383
+ conceited people never hear anything but praise-->[EOS] || 0.971504807472229
+ clap--> your || 0.9715049862861633
+ but you will pardon him on each occasion--> to || 0.9715769290924072
+
+
+## 50 prefixes with the highest comosition scores:
+ the little prince clapped his hands one against the--> other || 0.9987056255340576
+ that is the most difficult thing of--> all || 0.9947388172149658
+ i replied the little prince do--> not || 0.9929498434066772
+ but you will pardon him on--> each || 0.9927970170974731
+ i have no space for a carriage--> and || 0.9926461577415466
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most intelligent man on the--> planet || 0.9925433397293091
+ and as he felt a bit sad as--> he || 0.992489218711853
+ i have nothing--> more || 0.9923750162124634
+ the next planet was inhabited by a heavy--> drink || 0.9921441078186035
+ to forget that i am ashamed conf-->essed || 0.9921435713768005
+ if your majesty--> wishes || 0.9919573068618774
+ the grow-->nu || 0.9919242262840271
+ the grow-->nu || 0.9919241666793823
+ the grow-->nu || 0.9919241666793823
+ i have no space--> for || 0.9919060468673706
+ it is contrary to etiquette to yawn in the--> presence || 0.9918953776359558
+ if i ordered a general to fly from one flower to another like a butter-->fly || 0.9918802380561829
+ ah here comes a visit from an admirer exclaimed the conceited man from--> af || 0.991847574710846
+ he said to the drinker who he--> found || 0.9918011426925659
+ it is contrary to et-->iqu || 0.9917256236076355
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most intelligent man on--> the || 0.9917046427726746
+ may i sit down the little--> prince || 0.991698145866394
+ i have not yet made a complete tour--> of || 0.9916886687278748
+ ah here comes a visit--> from || 0.9916438460350037
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us would be in the--> wrong || 0.9916157722473145
+ if--> i || 0.9915677309036255
+ if--> he || 0.9915677309036255
+ if--> you || 0.9915677309036255
+ if--> your || 0.9915677309036255
+ if--> i || 0.9915677309036255
+ if--> you || 0.9915677309036255
+ he found himself in the neighborhood of the asteroids 325 326 327 32-->8 || 0.9915253520011902
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change--> himself || 0.9915071129798889
+ it seems to me that conditions are fav-->ou || 0.991496205329895
+ but you are the only man on--> the || 0.9914638996124268
+ hum hum replied the king who consulted a bulky al-->man || 0.9914327263832092
+ then my sunset the little--> prince || 0.9914049506187439
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us would be in--> the || 0.9913539886474609
+ to them--> all || 0.9912910461425781
+ i have come on a long journey and i have--> not || 0.9912899136543274
+ but you are the only man on the--> planet || 0.9912660717964172
+ i have not--> seen || 0.9912608861923218
+ i have not--> yet || 0.9912608861923218
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he--> remained || 0.9912281036376953
+ clap your hands one against the--> other || 0.9911975264549255
+ i am fairly certain that somewhere on my planet there is an old rat-->[EOS] || 0.9911871552467346
+ i would--> like || 0.9911749362945557
+ he said to the drinker who he found sitting in silence in front of a number of empty--> bott || 0.9911646246910095
+ i am fairly certain that somewhere on my--> planet || 0.9911486506462097
+ if i ordered a general to fly from--> one || 0.9910907745361328
+

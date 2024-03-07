@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i can go for a walk as far as the viney-->ards || 0.9190585017204285
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.9211992621421814
+ the fox seemed very intrigu-->ed || 0.9291611909866333
+ my life is very monoton-->ous || 0.9310148358345032
+ the next--> day || 0.9435290098190308
+ of course--> an || 0.9475141763687134
+ but every day you will be able--> to || 0.9504488110542297
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the--> time || 0.95191890001297
+ you are not from here--> said || 0.9519478678703308
+ and i do not need you and you do not need me--> either || 0.9521754384040833
+ to me you are--> still || 0.9522356390953064
+ but every day--> you || 0.9528869390487671
+ they really are--> in || 0.9532539248466492
+ they are what make one day different from other days--> one || 0.9541987180709839
+ if you want--> a || 0.9548079371452332
+ to you--> i || 0.9551215767860413
+ to you--> i || 0.9551216959953308
+ to you i will be unique in the entire world-->[EOS] || 0.9560839533805847
+ and when the--> time || 0.9565414190292358
+ one only understands the--> things || 0.9567087888717651
+ it is their sole interest-->[EOS] || 0.9567843079566956
+ to me you will be unique--> in || 0.9569913148880005
+ but the--> fo || 0.9570702910423279
+ i am looking for men--> said || 0.9573294520378113
+ only the children know what they are after--> said || 0.9574543833732605
+ you are nothing yet--> he || 0.9576837420463562
+ his flower had told him that she was the only one of her kind in the universe--> and || 0.9579201936721802
+ and then--> look || 0.9581204652786255
+ and then--> he || 0.9581204652786255
+ i sort travelers in packs of--> a || 0.9584710597991943
+ it is very simple-->[EOS] || 0.9584733247756958
+ it is possible--> said || 0.9585819244384766
+ to me--> you || 0.9587209224700928
+ to me--> you || 0.9587210416793823
+ you will understand that yours is--> unique || 0.9588944911956787
+ that--> and || 0.9589071273803711
+ that--> is || 0.9589071869850159
+ that--> does || 0.9589071869850159
+ that--> is || 0.9589072465896606
+ all the--> ch || 0.959091067314148
+ they waste their time with a--> rag || 0.9592422842979431
+ one which is--> perhaps || 0.9594441652297974
+ and then look you see the--> whe || 0.9595535397529602
+ good-->bye || 0.9596529006958008
+ good--> morning || 0.9596529006958008
+ good--> morning || 0.9596529006958008
+ good--> morning || 0.9596529006958008
+ good--> morning || 0.9596529006958008
+ good--> morning || 0.9596529006958008
+ good-->bye || 0.9596529006958008
+
+
+## 50 prefixes with the highest comosition scores:
+ because it is her that i listened to grumble or boast or--> even || 0.9998993873596191
+ she would cough and cough and pretend to die to avoid being laughed--> at || 0.9998560547828674
+ because it is her that i listened to grumble or boast or even--> sometimes || 0.9998303055763245
+ i dispatch the trains that carry them sometimes to the right sometimes to the--> left || 0.9997671842575073
+ because it is her that i listened to grumble or boast or even sometimes--> when || 0.9996123313903809
+ they buy things ready made in the--> sh || 0.9994996786117554
+ i dispatch the trains that carry them sometimes to the right sometimes to--> the || 0.9994173049926758
+ because it is her that i listened to grumble or--> bo || 0.999128520488739
+ they buy things ready made in--> the || 0.9974024295806885
+ and a brilli-->antly || 0.9970348477363586
+ you will understand that yours is unique in the entire--> world || 0.9969931244850159
+ that and my three volcanoes that come up to my kne-->es || 0.9964749813079834
+ because it is for her that i killed the caterpillars except two or three to become--> but || 0.9964408874511719
+ then come back to say goodbye to me and i will make--> you || 0.9964320063591003
+ a second brilli-->antly || 0.9963282942771912
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at--> last || 0.9960771799087524
+ a third brilli-->antly || 0.9959256052970886
+ but if you come at just any time i would never know at what time my heart should be ready to--> gre || 0.9957869052886963
+ to me you will be unique in the entire--> world || 0.9953926205635071
+ i would feel happ-->ier || 0.9952852725982666
+ one only understands the things that one t-->ames || 0.9951236248016357
+ i would be jumping about and--> getting || 0.9949944615364075
+ you become forever responsible for that which you have t-->amed || 0.9945472478866577
+ so i get a bit b-->ored || 0.9944185614585876
+ i can go for a walk as far--> as || 0.9943547248840332
+ the fox went silent and gazed--> at || 0.9941558241844177
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to--> nur || 0.994150698184967
+ she would cough and cough and pret-->end || 0.9941486120223999
+ i think she has tamed--> me || 0.9941099286079407
+ no one has tamed you and you have not t-->amed || 0.9940354824066162
+ but your hair is the color of gold so it will be wonderful when you have t-->amed || 0.99397873878479
+ they also raise ch-->ick || 0.9939627051353455
+ they buy things ready made in the sh-->ops || 0.9938902854919434
+ she would be very ups-->et || 0.9938849210739136
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to--> hum || 0.9938830137252808
+ she would c-->ough || 0.9938780665397644
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all al-->ike || 0.9938706159591675
+ a second brilliantly lit express thunder-->ed || 0.9937840104103088
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow herself to--> die || 0.9937751889228821
+ i am so unh-->appy || 0.9937746524810791
+ that does not make me a very great prince and lying in the grass he started--> to || 0.9937190413475037
+ but if you come at just any time i would never know at what time my heart should be ready to gre-->et || 0.9936891198158264
+ i would feel happier and happ-->ier || 0.9936831593513489
+ if the hunters danced on just any day all the days would be al-->ike || 0.9936708807945251
+ but as there are not any shops that--> sell || 0.9936023950576782
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads--> lead || 0.9935592412948608
+ because it is her that i put under the glass d-->ome || 0.9935135841369629
+ unlike any other other footsteps send me hur-->ry || 0.9935082197189331
+ on thurs-->days || 0.9935050010681152
+ i think she has t-->amed || 0.9934670925140381
+

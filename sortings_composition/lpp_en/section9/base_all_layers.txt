@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.8878780007362366
+ for others who are schol-->ars || 0.8967698812484741
+ he got a bit discou-->rag || 0.9108942151069641
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.9342420101165771
+ i am telling you this it is also because of the--> s || 0.938003420829773
+ and he took me by the hand but he was--> still || 0.9405927658081055
+ and she is--> so || 0.9423603415489197
+ and she is--> so || 0.9423603415489197
+ for others who are scholars they are--> problems || 0.942362904548645
+ and no grownup will ever understand that this--> is || 0.9428160786628723
+ so you will tell them yes the--> stars || 0.9433482885360718
+ little fellow is this all a bad dream this business with the snake and--> the || 0.9434424638748169
+ it is true that they--> have || 0.9436598420143127
+ but he was--> wor || 0.9437419176101685
+ i will also look at the--> stars || 0.9438246488571167
+ it is true that they have--> no || 0.9440709948539734
+ i have your sheep and i have the box for the sheep and--> i || 0.9441490173339844
+ if a child then comes to you if he--> laugh || 0.9442941546440125
+ i mean not entirely but i do know that--> he || 0.9443184733390808
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with--> a || 0.9443685412406921
+ now you will be able--> to || 0.9443839192390442
+ little fellow is this all a bad dream this business with the--> s || 0.944655179977417
+ for my businessman they were--> wealth || 0.9448150992393494
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in--> a || 0.9448376893997192
+ the water you gave me to drink was like music because of the pulley and--> the || 0.9452288150787354
+ for others they are--> nothing || 0.9454423189163208
+ he was--> afraid || 0.9454718232154846
+ he said that is--> everything || 0.9456344246864319
+ and yet it seemed to me that he--> was || 0.9456936120986938
+ he made no answer to my question but he--> added || 0.9458290934562683
+ nothing in the universe is the same if somewhere out there a sheep that--> we || 0.9458560347557068
+ you understand it is--> too || 0.9459372162818909
+ if a child then comes to you if he laughs if he has golden hair if he does not respond when--> question || 0.9459479451179504
+ his--> feet || 0.9460244178771973
+ he would--> never || 0.9460528492927551
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be--> like || 0.9461163282394409
+ little fellow is this all a bad dream this business with the snake and the meeting place and the--> star || 0.9462363719940186
+ i mean not entirely but i do know that he got back to his planet because at--> day || 0.9463721513748169
+ when you look at the sky at night because i will--> be || 0.9463915824890137
+ and when your sorrow is--> comfort || 0.9464280009269714
+ again i felt myself frozen by the sense of something irreparable and i knew that--> i || 0.9464636445045471
+ it is not--> worth || 0.9465716481208801
+ she has four th-->orn || 0.9465738534927368
+ he said you know my flower i am responsible for her-->[EOS] || 0.9465768933296204
+ i continued my walk toward the--> wall || 0.9466539621353149
+ when i drew the muzzle for the little prince i forgot to add the leather strap to it-->[EOS] || 0.9467734694480896
+ so i wonder what happened on his--> planet || 0.9468576908111572
+ i mean not entirely but i do know that he got back to his planet because--> at || 0.9468578696250916
+ for my businessman they--> were || 0.9468623995780945
+ if you love--> a || 0.9469946026802063
+
+
+## 50 prefixes with the highest comosition scores:
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped--> between || 0.9641069173812866
+ but at the noise i made the snake let himself--> flow || 0.9634073972702026
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent--> hur || 0.963373601436615
+ there was nothing but a yellow flash close to his ank-->le || 0.9632997512817383
+ my heart skipped--> a || 0.9632949829101562
+ right there facing the little prince was one of those yellow snakes that can kill you in thirty seconds--> flat || 0.9630880951881409
+ ask yourselves has the sheep yes or no eaten--> the || 0.9629608392715454
+ nothing in the universe is the same if somewhere--> out || 0.9629440903663635
+ my heart skipped a beat--> but || 0.9627195596694946
+ again i felt myself frozen by the sense of something irrepar-->able || 0.9622759222984314
+ when i drew the muzzle for the little prince i forgot to add the leather strap--> to || 0.9622631669044495
+ he remained motionless for an instant-->[EOS] || 0.9622534513473511
+ when i drew the muzzle for the little prince i forgot to add the leather--> st || 0.962201714515686
+ i mean not entirely but i do know that he got back to his planet because at daybreak--> i || 0.9621703028678894
+ i felt his heart beat like the heart of a dying bird when shot with a rif-->le || 0.9620600342750549
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metall-->ic || 0.9620373845100403
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic--> sound || 0.962026834487915
+ it is true that they have no poison--> left || 0.9620204567909241
+ i will be--> there || 0.9619613289833069
+ i will be--> much || 0.9619612693786621
+ for me it was like a spring of fresh water--> in || 0.9616892337799072
+ nothing in the universe is the same if somewhere out there a sheep that we have never--> seen || 0.9616866111755371
+ even as i dug around in my pocket to take out--> my || 0.9616815447807312
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to--> rest || 0.9615359902381897
+ when i came back from my work the next--> evening || 0.9614734649658203
+ another voice must have answered him because he replied yes yes--> it || 0.961409866809845
+ even as i dug around in my pocket--> to || 0.9614059925079346
+ i could feel that he was reviving little--> by || 0.9613969922065735
+ when i managed to catch him up he was walking along determined-->ly || 0.9613950848579407
+ and then the little bells--> turn || 0.9613873362541199
+ and if you happen to pass by there i beg you do not hurry--> on || 0.961383581161499
+ another voice must have answered him because he replied yes yes it is the right day but this is not the right--> place || 0.9613200426101685
+ even as i dug--> around || 0.9612237811088562
+ but at the noise i made the snake let himself flow easily across the sand like--> the || 0.9612060189247131
+ and he sat down--> because || 0.9611815810203552
+ i will not leave you-->[EOS] || 0.961166501045227
+ i will not leave you-->[EOS] || 0.961166501045227
+ i will not leave you-->[EOS] || 0.961166501045227
+ i had moistened his temples--> and || 0.9611506462097168
+ are you sure you will not make me suffer too--> long || 0.9610916972160339
+ and then the little bells turn--> to || 0.9610787630081177
+ when i managed to catch--> him || 0.961029052734375
+ his feet hanging--> down || 0.9609882831573486
+ but it will be like an old abandoned shell-->[EOS] || 0.960978090763092
+ i reached the wall just in time to catch--> my || 0.9609682559967041
+ when i came back from my work the next evening i saw from a distance my little prince sitting on top of--> it || 0.9609273672103882
+ another voice must have answered him because he replied--> yes || 0.9609049558639526
+ what are you trying to--> say || 0.9608911275863647
+ what are you trying to--> say || 0.9608911275863647
+ it is just like five hundred million little--> b || 0.9608733654022217
+

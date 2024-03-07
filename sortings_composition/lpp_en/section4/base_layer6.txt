@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i admire you said the little prince shrugg-->ing || 0.8916316032409668
+ over everything the--> king || 0.9013570547103882
+ i order you to ask me a question hastened to say the--> king || 0.9087154269218445
+ if i ordered a general he would often say if i ordered a--> general || 0.9110870361328125
+ unfortunately nobody--> ever || 0.912308394908905
+ authority--> is || 0.9133185148239136
+ i have nothing more--> to || 0.9136356711387634
+ to forget that i am ash-->amed || 0.9138187170028687
+ that fright-->ens || 0.9151017069816589
+ we do--> not || 0.9159760475158691
+ if he had held it--> himself || 0.9160407781600952
+ this was a--> very || 0.9166345000267029
+ the next planet was inhabited by a heavy drink-->er || 0.9168514609336853
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change--> himself || 0.9168614149093628
+ he sputtered a bit and seemed v-->ex || 0.9170968532562256
+ this was a very short visit but it plunged the--> little || 0.9172224998474121
+ i have come--> on || 0.9175809025764465
+ ah here comes a visit from an adm-->ir || 0.9178487658500671
+ come--> now || 0.9180469512939453
+ if he had held it himself he would have been able to watch not forty--> four || 0.9185991883277893
+ i shall--> command || 0.9187770485877991
+ but the little prince having readied himself to leave had no wish to gr-->ieve || 0.9194468855857849
+ for the king fundamentally insisted--> that || 0.920477032661438
+ admire me just--> the || 0.9208898544311523
+ what does that mean--> to || 0.920994222164154
+ so--> he || 0.9211009740829468
+ i will--> set || 0.9216090440750122
+ i will--> make || 0.9216094017028809
+ i replied--> the || 0.9216526746749878
+ it seems to me that conditions are--> fav || 0.9218457937240601
+ then--> my || 0.9224601984024048
+ then--> you || 0.9224604964256287
+ you said the little prince firm-->ly || 0.9225268959999084
+ he found himself in the--> neighborhood || 0.9225517511367798
+ to admire means to recognise that i am the most hand-->some || 0.9226363301277161
+ the little prince said to himself and he began again to clap his hands one against the other-->[EOS] || 0.9231774806976318
+ he found himself in the neighborhood of the asteroids 325 326 327 328 32-->9 || 0.9232831597328186
+ i have the right to demand ob-->ed || 0.923449695110321
+ it is much more difficult to judge ones-->elf || 0.923790454864502
+ oh really said the--> little || 0.9241269826889038
+ hum hum that will be about about that will be this evening about--> twenty || 0.9244928956031799
+ but the little prince was astonished the planet was--> tiny || 0.9245009422302246
+ approach--> so || 0.9245808720588684
+ and what should i--> do || 0.9247461557388306
+ but the little prince having readied himself to leave--> had || 0.9248297214508057
+ hum hum replied--> the || 0.9251728653907776
+ hum hum replied--> the || 0.9251730442047119
+ i shall command it but i shall wait according to my science--> of || 0.9252954125404358
+ he was reg-->rett || 0.9253567457199097
+ it is contrary--> to || 0.9259851574897766
+
+
+## 50 prefixes with the highest comosition scores:
+ the conceited man again raised his hat in a salute-->[EOS] || 0.9770317673683167
+ the conceited man again raised his hat--> in || 0.9758260250091553
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up his courage--> to || 0.9750156402587891
+ if your majesty wishes to be promptly obeyed he should--> be || 0.9747835993766785
+ the next planet was inhabited--> by || 0.9745785593986511
+ the conceited man raised his hat--> in || 0.974534809589386
+ the conceited man again raised his hat in--> a || 0.9739470481872559
+ i can not any more said the little prince blushing-->[EOS] || 0.9739438891410828
+ then you shall judge--> yourself || 0.9737000465393066
+ the conceited man raised his--> hat || 0.9735730886459351
+ from time to time you will condemn him to death--> thus || 0.9734817743301392
+ the second planet was inhab-->ited || 0.9734511971473694
+ and you will see--> how || 0.9731456637382507
+ i have not seen anyone yawning for years-->[EOS] || 0.9729530811309814
+ the first one was inhabited--> by || 0.9728522300720215
+ the second planet was inhabited--> by || 0.9726685285568237
+ the conceited man raised his hat in--> a || 0.9726302027702332
+ it is contrary to etiquette--> to || 0.9723459482192993
+ but the conceited man did not hear--> him || 0.9723296761512756
+ but the conceited man--> did || 0.9721730947494507
+ if he had held it himself--> he || 0.972088634967804
+ the conceited man raised his hat in a modest salute-->[EOS] || 0.9720713496208191
+ i replied the little prince do not like to condemn anyone to death-->[EOS] || 0.9720057845115662
+ the next planet was inhab-->ited || 0.9718438982963562
+ the little prince looked around--> him || 0.9717540144920349
+ ah here comes a visit from an admirer--> exclaimed || 0.9715754985809326
+ ah here comes a subject exclaimed the king when--> he || 0.9714862704277039
+ unfortunately nobody ever passes by this way-->[EOS] || 0.9713330268859863
+ the little prince looked around him--> for || 0.9713274240493774
+ ah here comes a subject exclaimed the king when he caught sight of the little prince-->[EOS] || 0.9712877869606018
+ but the conceited man did not hear him-->[EOS] || 0.9710662364959717
+ hum hum said the king-->[EOS] || 0.9710131883621216
+ such power filled the little prince with wonder-->[EOS] || 0.9710098505020142
+ it is to raise in salute--> when || 0.9709614515304565
+ i order you to sit down replied the king who majestically gathered in a fold of--> his || 0.9709461331367493
+ he said to the drinker--> who || 0.9706771373748779
+ if your majesty wishes to be promptly obeyed he should be able to--> give || 0.9706447124481201
+ it is much more difficult to judge oneself than to--> judge || 0.9704382419586182
+ i am fairly certain that somewhere on my planet--> there || 0.9704302549362183
+ the little prince said to himself--> as || 0.9703961610794067
+ the little prince said to himself--> and || 0.970396101474762
+ and the stars obey you-->[EOS] || 0.9700432419776917
+ the little prince said to himself as he--> continued || 0.970024585723877
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment--> he || 0.9700086712837219
+ as the king made no answer the little prince--> hes || 0.9699971079826355
+ this was a very short visit but--> it || 0.9699603319168091
+ oh but i have already looked said the little prince who leant over to--> give || 0.9699565172195435
+ may i sit down the little prince enquired timidly-->[EOS] || 0.9699286222457886
+ i have no space for a carriage and it tires me to--> walk || 0.9699046015739441
+ ah here comes a visit from an admirer exclaimed the--> conce || 0.9698258638381958
+

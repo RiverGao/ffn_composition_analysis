@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ so i made a pencil sketch of a m-->uzz || 0.9174562692642212
+ ah i said to the little prince these mem-->ories || 0.9249570965766907
+ but i have not managed to--> repair || 0.9262489080429077
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would walk very slowly toward a--> spring || 0.9263955950737
+ myself i am glad to have had a fo-->x || 0.9287747740745544
+ the men where you live said the--> little || 0.9298808574676514
+ i am wor-->ried || 0.9310089349746704
+ and the pul-->ley || 0.9325025081634521
+ the song of the pul-->ley || 0.9325457811355591
+ so i made a p-->enc || 0.9327190518379211
+ it is nice--> to || 0.932930052280426
+ it is a big time--> sa || 0.9333439469337463
+ you could take one pill--> a || 0.9334524869918823
+ i am glad he said that you agree with my--> fo || 0.9335387945175171
+ your fo-->x || 0.9341300129890442
+ it was born of the walk under the stars of the song of the pul-->ley || 0.9344423413276672
+ and once again without understanding why i felt a peculiar sense of sorrow one question occurred to me--> however || 0.9344642758369446
+ i was surprised to suddenly understand this mysterious radiation--> of || 0.9347291588783264
+ we have woken--> up || 0.9348085522651672
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the rad-->iance || 0.9353359341621399
+ his eyes closed-->[EOS] || 0.9354779720306396
+ my dear fellow our situation has nothing to do with the fo-->x || 0.935647189617157
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.9356634616851807
+ a little--> sun || 0.9358590245246887
+ when i was a little boy i lived in an old house and legend told that a tre-->asure || 0.9361138939857483
+ and the little prince added--> but || 0.9362823367118835
+ what promise-->[EOS] || 0.9362887740135193
+ men said the little prince stuff themselves into express trains but they--> do || 0.9363400936126709
+ but he did not reply--> to || 0.9365602135658264
+ and then he--> laughed || 0.9366121888160706
+ it is absurd to look for a well at random in the imm-->ens || 0.9368990063667297
+ the men where you live said the little prince grow five thousand roses in a single garden and they do not find what--> they || 0.9369771480560303
+ this water was something very different from ordinary n-->our || 0.9370741844177246
+ i am thirst-->y || 0.9370794296264648
+ you run the risk of weeping a--> little || 0.9372094869613647
+ the stars are beautiful because of a--> flower || 0.9374896883964539
+ men said the--> little || 0.9377122521400452
+ we were at the e-->ighth || 0.9377297163009644
+ so you are also th-->irst || 0.937873125076294
+ the stars are beautiful because of a flower that can--> not || 0.938122034072876
+ i took my sketches out--> of || 0.9382693767547607
+ you know a--> m || 0.9385174512863159
+ it was good for the--> heart || 0.9391588568687439
+ why are you selling those asked the little--> prince || 0.9392658472061157
+ you can do anything you like--> with || 0.939538300037384
+ it is abs-->urd || 0.9396584630012512
+ your--> fo || 0.9396695494651794
+ and i came to--> think || 0.9398071765899658
+ and once again without understanding why i felt a peculiar sense--> of || 0.939927875995636
+ you see--> nothing || 0.9400064945220947
+
+
+## 50 prefixes with the highest comosition scores:
+ when i was a little boy i lived in an old house and legend told that a treasure was buried there-->[EOS] || 0.978298008441925
+ of course no one had ever been able to find it or perhaps no one had even looked for--> it || 0.9781391620635986
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the--> tend || 0.978074312210083
+ he has never been hungry or thirst-->y || 0.9776213765144348
+ what makes the desert beautiful said the little prince is that--> somewhere || 0.9774012565612793
+ everything has been prepared the pulley the bucket and--> the || 0.976976215839386
+ and yet what they are looking for could be found in a single rose or--> in || 0.9768875241279602
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is his devotion--> to || 0.9765098690986633
+ he said to me you know my descent to earth tomorrow will be its anniversary-->[EOS] || 0.9763773083686829
+ when i was a little boy i lived in an old house and legend told that a treasure was--> buried || 0.9763250946998596
+ when i was a little boy i lived in an old house and legend told that a treasure was buried--> there || 0.9761720895767212
+ as his slightly parted lips gave way to a half smile--> i || 0.9761397242546082
+ i do not know how to draw anything except boa constrictors--> closed || 0.9760481119155884
+ i am glad he said that you agree--> with || 0.9759655594825745
+ i have nothing left to drink and i too--> would || 0.9758948087692261
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of my water supply-->[EOS] || 0.9757972359657288
+ everything has been prepared the pulley the--> bucket || 0.9757530689239502
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in--> the || 0.9757433533668518
+ and i said to myself what--> i || 0.9757300615310669
+ of course no one had ever been able to find it or perhaps--> no || 0.9757131338119507
+ this one looked like a village well but there was no village there--> and || 0.9755871891975403
+ he laughed took the rope and put the pulley--> to || 0.9754937887191772
+ you have plans that i do not know about-->[EOS] || 0.9754538536071777
+ and then he laughed again-->[EOS] || 0.9753797650337219
+ when i was a little boy i lived in an old house and legend--> told || 0.975342869758606
+ i do not know how to draw anything except--> bo || 0.9752591848373413
+ why then did i have to--> have || 0.9752162098884583
+ this was a merchant who sold pills that had been created to--> qu || 0.9751957058906555
+ i hoisted the bucket slowly to the edge of the well and set it down good and level-->[EOS] || 0.9751777052879333
+ men said the little prince stuff themselves into express trains but they do not know what they are looking--> for || 0.9751690626144409
+ it is the image of a rose that shines--> in || 0.9751046299934387
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles--> produced || 0.9750924706459045
+ i saw them as if in a dream as--> my || 0.9750887751579285
+ you have plans that i do--> not || 0.9749811887741089
+ your fox his ears they look a bit like horns and--> they || 0.9749655723571777
+ the little prince saw them and laughed as he said--> your || 0.9749494791030884
+ and i knew then--> what || 0.9748856425285339
+ and the pulley moaned like--> an || 0.9748072028160095
+ your fox his ears they look a bit like--> horn || 0.9747979044914246
+ when we had walked for hours in silence night fell and the stars began to come out-->[EOS] || 0.9747325778007507
+ the well we had reached was--> not || 0.9747256636619568
+ i have nothing left to drink and--> i || 0.9746577143669128
+ it is the image of a rose that shines in him like the flame of a lamp even when he is sleeping-->[EOS] || 0.9746012091636658
+ the stars are beautiful because--> of || 0.9745736122131348
+ it is the image of a rose that shines in him like the flame of a lamp--> even || 0.974563717842102
+ he never considers the danger i--> said || 0.9745429158210754
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the--> rad || 0.9745393395423889
+ oh and i had been so proud of my--> ba || 0.9745267033576965
+ the men where you live said the little prince grow five thousand roses in a single--> garden || 0.9744608402252197
+ so it was not by chance that the morning i first met you a week ago-->[EOS] || 0.9744147062301636
+

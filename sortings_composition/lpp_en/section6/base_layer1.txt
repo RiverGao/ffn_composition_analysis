@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then came the turn of the lamplighters of russia and--> the || 0.6254156231880188
+ i run the risk of giving a fasle idea of--> our || 0.640356183052063
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a--> ver || 0.6444727182388306
+ from a mountain as high as this one he said to--> himself || 0.6523461937904358
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over--> the || 0.6592667102813721
+ i run the risk of giving a fasle idea of our planet to those who do not know it-->[EOS] || 0.6629799008369446
+ because an explorer who told lies would cause havoc to geography books so--> would || 0.6654638051986694
+ that is to say about two--> billion || 0.6667050719261169
+ the little prince gazed at him for--> a || 0.6669440269470215
+ to give you an idea of the size of the earth i will tell you that--> before || 0.6673884391784668
+ he had never seen such a majestic planet before-->[EOS] || 0.6710145473480225
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to--> maintain || 0.6733806133270264
+ because an explorer who told lies would cause havoc to geography books so would an--> expl || 0.6751529574394226
+ because an explorer who told lies would cause havoc to--> ge || 0.6754032969474792
+ they are blown here and--> there || 0.6776706576347351
+ i feel sorry for you so weak on this earth made of--> gran || 0.6777399778366089
+ that was his first moment of regret but he--> took || 0.6794992089271545
+ he had already travelled so--> far || 0.6820794939994812
+ i would not know that--> either || 0.6829110383987427
+ all humanity could be piled up on--> the || 0.6831028461456299
+ the old gentleman said to--> him || 0.6838288903236389
+ there is no one in the deserts-->[EOS] || 0.6843847632408142
+ if the two billion people who inhabit the earth were to stand upright and--> squ || 0.6851545572280884
+ you are a funny animal he said finally as thin as--> a || 0.6871048212051392
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of--> four || 0.6874958872795105
+ where are the men asked the little prince at--> last || 0.6880623698234558
+ because intoxicated men see double so--> the || 0.689068078994751
+ seen from a distance it--> made || 0.6897286772727966
+ oh so there is no one on--> earth || 0.6897556185722351
+ i can help you if someday you--> become || 0.6900076270103455
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as--> a || 0.6902790665626526
+ having set their lamps alight they would go--> off || 0.6905056238174438
+ your planet is very beautiful he said-->[EOS] || 0.6913299560546875
+ it is not for the geographer to count the towns the rivers the mountains the seas the oceans and--> the || 0.6935504078865051
+ next came the turn of the lamplighters of china and siberia to enter into--> the || 0.6941863298416138
+ they worked twice a--> year || 0.6944769620895386
+ if for example the discovery in question was of a large mountain one would require that he bring back--> large || 0.6948192119598389
+ and if any of their recollections seem interesting to him the geographer orders an inquiry into--> that || 0.6955564618110657
+ to give you an idea of the size of the earth i will tell you that before--> the || 0.6955986022949219
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all--> at || 0.695955216884613
+ the little prince crossed the desert and met only with one flower a flower with three--> pet || 0.6966003775596619
+ and she has only four thorns to--> defend || 0.6966299414634705
+ having set their lamps alight they would go off to--> bed || 0.6971087455749512
+ because intoxicated men see double so the geographer would record two mountains in--> a || 0.6971198916435242
+ to give you an idea of the size of--> the || 0.6977596879005432
+ it is not for--> the || 0.6979784965515137
+ the grownups of course will not believe you-->[EOS] || 0.6980335116386414
+ whoever i touch i send him back to--> the || 0.6989542841911316
+ if the two billion people who inhabit the earth were to stand upright and squash together--> a || 0.6993768811225891
+ but i am more powerful than the finger of--> a || 0.6994938254356384
+
+
+## 50 prefixes with the highest comosition scores:
+ he does not leave his desk--> but || 0.9063117504119873
+ the geographer is too important to go strolling--> about || 0.9038695096969604
+ only the lam-->pl || 0.9033419489860535
+ the recitals--> of || 0.9004422426223755
+ first--> came || 0.8984575867652893
+ i am a geograph-->er || 0.8943505883216858
+ we do not--> record || 0.8930806517601013
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents--> a || 0.8920924663543701
+ he had already travelled--> so || 0.8916101455688477
+ first came the turn of the lam-->pl || 0.8908939957618713
+ if the two billion people who inhabit the earth were to stand upright and squash--> together || 0.8896410465240479
+ then came the turn of the lamplighters of russia and the indies-->[EOS] || 0.8895082473754883
+ and the geographer having opened his big register sharpened his penc-->il || 0.889360785484314
+ all humanity could be piled up on the smallest pacific--> is || 0.8889583349227905
+ next came the turn of the lam-->pl || 0.8885462284088135
+ if for example--> the || 0.8882151246070862
+ then came the turn of the lam-->pl || 0.8879774808883667
+ but what does ephemeral mean--> repeated || 0.8874290585517883
+ the little prince sat down on the table and panted--> a || 0.8871403932571411
+ and the geograph-->er || 0.8852166533470154
+ then those of south america-->[EOS] || 0.885081946849823
+ of--> course || 0.8845996260643005
+ he wrapped himself around the little prince s ankle like a golden--> bra || 0.8845805525779724
+ to--> give || 0.8842905759811401
+ i have been having some trouble--> with || 0.8842210173606873
+ but i am more powerful than the finger--> of || 0.8836617469787598
+ he had already--> started || 0.8831300735473633
+ he had already--> travel || 0.8831296563148499
+ you are a--> fun || 0.8828657865524292
+ when one wants to be witty it can happen that one bends--> the || 0.8827027678489685
+ it is not for the geograph-->er || 0.8815068006515503
+ the geographer is too--> important || 0.8814656734466553
+ and if any of their recollections seem interesting to him the geographer orders an inquiry--> into || 0.8811942338943481
+ on my planet i had a flower-->[EOS] || 0.8808990716934204
+ he wrapped himself around the little prince s ankle like a golden brace-->let || 0.8808578252792358
+ the geograph-->er || 0.8805293440818787
+ the geograph-->er || 0.8805278539657593
+ what is a geograph-->er || 0.8802914619445801
+ it was inhabited by an old gentleman who wrote enormous--> books || 0.8801013827323914
+ because intoxicated men see double--> so || 0.8799043893814087
+ well--> said || 0.8791329264640808
+ what does ephemeral mean-->[EOS] || 0.8788845539093018
+ it means which is at risk of imminent--> disapp || 0.8782948851585388
+ whether volcanoes are extinct or active is of no consequence to us said the geograph-->er || 0.8782721161842346
+ it means which is at risk of imminent disappearance-->[EOS] || 0.8780441880226135
+ if the two billion people who inhabit the earth--> were || 0.8776551485061646
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity--> it || 0.8769990801811218
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondescript flower belonging to no one-->[EOS] || 0.8767116665840149
+ it was magnificent-->[EOS] || 0.8765021562576294
+ is my flower--> at || 0.8764482736587524
+

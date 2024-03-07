@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ of course no one had ever been able--> to || 0.9380212426185608
+ the sand at sunr-->ise || 0.9464209079742432
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.9487742185592651
+ so it was not by chance that--> the || 0.9588603973388672
+ and i added hesitantly perhaps because of the--> anni || 0.9601545929908752
+ i will wait for you--> here || 0.9611738324165344
+ i did not want--> him || 0.962230920791626
+ does--> not || 0.9628819823265076
+ it is--> the || 0.9635337591171265
+ it is--> abs || 0.9635337591171265
+ it is--> strange || 0.9635337591171265
+ it is--> too || 0.9635337591171265
+ it is--> a || 0.9635337591171265
+ it is--> nice || 0.9635337591171265
+ and continuing to walk i found the well at--> day || 0.9646046757698059
+ it was born of the walk under the stars of the song of the pulley of the--> effort || 0.9650744795799255
+ we were at the eighth day since my accident in the desert--> and || 0.9653680920600891
+ he laughed took the rope and put the--> pul || 0.9654169678688049
+ it seemed to me that--> i || 0.965603768825531
+ i looked in the moonlight--> at || 0.9666447639465332
+ as his--> slightly || 0.9667485952377319
+ that is--> true || 0.9669037461280823
+ the song of the pulley continued in my ears and in the still trembling water i could see the sunlight--> sh || 0.96755051612854
+ i replied that--> is || 0.9677395820617676
+ he did not follow my reasoning and he answered me-->[EOS] || 0.9679431319236755
+ and i looked without saying anything at the--> fol || 0.9680929183959961
+ my dear fellow our situation has nothing to do with the--> fo || 0.9682332873344421
+ so you are also--> th || 0.9686508774757385
+ whether the house the--> stars || 0.968750536441803
+ but he responded now--> you || 0.9687941670417786
+ so it was--> not || 0.9688296914100647
+ what promise-->[EOS] || 0.9689000844955444
+ you could take one pill a week and you no longer felt the need--> to || 0.9689350128173828
+ why are you selling those--> asked || 0.9692724943161011
+ that--> which || 0.9693774580955505
+ that--> is || 0.9693775773048401
+ so it was not by chance that the--> morning || 0.969444751739502
+ they do not--> find || 0.9696645736694336
+ you have--> to || 0.9697338938713074
+ you have--> plans || 0.9697340130805969
+ you have--> to || 0.9697340130805969
+ i am glad he said that you agree with--> my || 0.9698925018310547
+ we were at the eighth day since my--> accident || 0.9699370265007019
+ it even seemed to me that--> there || 0.9699434638023376
+ i looked in the moonlight at--> his || 0.9699828624725342
+ why not-->[EOS] || 0.9700121283531189
+ whether the house the stars or--> the || 0.9701570272445679
+ men said the little prince stuff themselves into express trains but they do not know--> what || 0.970190703868866
+ the well we had reached was--> not || 0.9702132344245911
+ but i was not re-->ass || 0.970219612121582
+
+
+## 50 prefixes with the highest comosition scores:
+ i knew better than to press my--> questions || 0.9944421648979187
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving--> about || 0.9936926364898682
+ this one looked like a village well but there was no village there and i thought i was dream-->ing || 0.9931572675704956
+ yes--> i || 0.9925245642662048
+ when i was a little boy i lived in an old house and legend told--> that || 0.9922230839729309
+ he has never been hungry or th-->irst || 0.9922102689743042
+ it is absurd to look for a well at random in the immens-->ity || 0.992090106010437
+ i have nothing left to drink and i too would be happy if i--> could || 0.9920405149459839
+ a little sunshine is all--> he || 0.9920337796211243
+ they do not find--> it || 0.9919462203979492
+ i am glad he said that you agree with my fox-->[EOS] || 0.9919455051422119
+ it even seemed to me that there was nothing more fragile on--> earth || 0.9918034672737122
+ as his slightly parted lips gave way to a half smile i continued what--> i || 0.9916136264801025
+ when i was a little boy i lived in an old house and legend told that a treasure was buried--> there || 0.9915067553520203
+ you can do anything you--> like || 0.9914780259132385
+ and continuing to walk i found the well at day-->break || 0.991475522518158
+ so i made a penc-->il || 0.9914383292198181
+ and the pulley moaned like an old weathervane when there has long been no--> wind || 0.9914261698722839
+ i have nothing left to drink and i too would be happy--> if || 0.9913390874862671
+ i hoisted the bucket slowly to--> the || 0.9913349747657776
+ when i was a little boy the lights of the christmas tree the music--> of || 0.9912837743759155
+ as his slightly parted lips gave--> way || 0.9912510514259338
+ i felt deeply moved-->[EOS] || 0.991200864315033
+ as his slightly part-->ed || 0.9911859035491943
+ whether the house--> the || 0.9911292195320129
+ he never answered questions but when you blush that means yes-->[EOS] || 0.9910982251167297
+ he sat--> down || 0.9910822510719299
+ as the little prince fell asleep i took him in my arms and set--> out || 0.9910319447517395
+ the men where you live said the little prince grow--> five || 0.9909505248069763
+ as the little prince fell asleep i took him in my arms and--> set || 0.9909321069717407
+ when i was a little boy i lived--> in || 0.9909071922302246
+ it is abs-->urd || 0.9908620119094849
+ it seemed to me that i was carrying a very frag-->ile || 0.9908557534217834
+ you have to keep your promise said the little prince softly who had again sat down--> beside || 0.9908498525619507
+ and once--> again || 0.9908325672149658
+ we were at the eighth day since my accident in the desert and i had--> listened || 0.9907915592193604
+ it was good for the heart like a--> present || 0.9907764792442322
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the sm-->iles || 0.9907758235931396
+ i am thirsty for this water said the--> little || 0.9907628893852234
+ and the pulley moaned like an old weather-->v || 0.9907565116882324
+ my dear fellow our situation has nothing--> to || 0.990715503692627
+ you hear nothing and yet something radi-->ates || 0.9907153844833374
+ this one looked like a village well but there was no village there and i thought--> i || 0.9906903505325317
+ my dear fellow our situation has nothing to do with the fox--> anymore || 0.9906620383262634
+ i sat down beside him and after a silence he spoke--> again || 0.9906325936317444
+ i felt deeply--> moved || 0.9906168580055237
+ i hoisted the bucket slowly to the edge of the well and set it--> down || 0.9905977845191956
+ so it was not by chance that the morning i first met you a week--> ago || 0.9905885457992554
+ as his slightly parted lips--> gave || 0.9905778169631958
+ but i have not managed--> to || 0.9905778169631958
+

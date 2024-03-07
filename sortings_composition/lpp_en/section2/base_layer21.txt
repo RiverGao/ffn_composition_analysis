@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the astronomer gave his presentation again in 1-->9 || 0.7848579287528992
+ this asteroid has only been seen through a telescope once in 1-->9 || 0.8095257878303528
+ then it elongates and grows timidly at first toward the sun a charming little harml-->ess || 0.8132479786872864
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catastrop-->he || 0.821419358253479
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.8220884799957275
+ i will try of course to make my portraits as lifeli-->ke || 0.8446483612060547
+ it would suffice to be able--> to || 0.8669126033782959
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.8763547539710999
+ does he collect butterf-->lies || 0.888827919960022
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.9388510584831238
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it--> that || 0.9613626599311829
+ and a little later you added you know--> you || 0.9623544216156006
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it that--> i || 0.9627019166946411
+ i will make mistakes on certain important points too but you will have to forgive me that my friend--> never || 0.9634274840354919
+ and a little later you added you know you love the--> sun || 0.9638375043869019
+ fort-->un || 0.9654762744903564
+ and based on what the--> little || 0.9659671783447266
+ i have serious reason to believe that the--> planet || 0.9660954475402832
+ if i have told you these details about the--> astero || 0.9668580293655396
+ he might call it for example--> astero || 0.9671230912208557
+ fortunately for the--> reputation || 0.9675459861755371
+ it would suffice to be able to go to france in one minute to be able--> to || 0.9677802324295044
+ it was in this way that on the third day i came to know of the traged-->y || 0.9678288698196411
+ perhaps he thought i was just like himself but i unfortunately do not know how to see sheep through boxes-->[EOS] || 0.9692596793174744
+ i did not understand why--> it || 0.970162034034729
+ so if you were to say--> to || 0.9701933264732361
+ it is hard to take up drawing again at my age--> when || 0.9704342484474182
+ one day i saw--> the || 0.9704969525337219
+ that is right but why do you want the--> sheep || 0.9705414175987244
+ it was in this way that on the third day i--> came || 0.9706090092658997
+ if one day they travel--> he || 0.9709975123405457
+ i feel so much sadness in recounting these--> mem || 0.9710808396339417
+ then it elongates and grows timidly at first toward the sun--> a || 0.9711563587188721
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants--> and || 0.9714222550392151
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a--> few || 0.9717159867286682
+ and one day he suggested that i apply myself to making a beautiful drawing--> so || 0.9719014167785645
+ i--> have || 0.9719623923301697
+ i--> will || 0.9719623923301697
+ i--> will || 0.9719623923301697
+ i--> pointed || 0.9719623923301697
+ i--> would || 0.9719623923301697
+ i--> learned || 0.9719623923301697
+ i--> would || 0.9719623923301697
+ i--> did || 0.9719623923301697
+ i--> must || 0.9719623923301697
+ i--> am || 0.9719623923301697
+ i--> also || 0.9719623923301697
+i--> thus || 0.9719623923301697
+ i--> knew || 0.9719623923301697
+ i--> do || 0.9719623923301697
+
+
+## 50 prefixes with the highest comosition scores:
+ and if the planet is too small and if there are too--> many || 0.9998064637184143
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from the rose bush-->es || 0.9992902278900146
+ if it is a sprig of radish or rose bush--> you || 0.9981579780578613
+ they would have to be piled up on top of each--> other || 0.9956791400909424
+ i used to know a planet inhabited by a--> lazy || 0.995461106300354
+ but if it is a bad plant one must pull the plant out straight--> away || 0.9951377511024475
+ i will make mistakes on certain important points too but you will have to forgive me that my friend never--> gave || 0.9947541952133179
+ i knew that apart from the large planets like the earth jupiter mars--> and || 0.9946861863136292
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa constrict-->or || 0.9946719408035278
+ i knew that apart from the large planets like--> the || 0.9945856332778931
+ they would have to be piled up on top of--> each || 0.9945707321166992
+ and if the planet is too small and if there are too many baobabs they shatter it to--> pieces || 0.9944223761558533
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty in spotting them through the--> teles || 0.9940270781517029
+ the little prince--> told || 0.9938554763793945
+ but if you were to say the planet he came from is the asteroid b-->  || 0.9937415719032288
+ i will try of course to make my portraits as--> lif || 0.9937393069267273
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get--> lost || 0.9936650395393372
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been--> given || 0.9936554431915283
+ it is to warn my friends of the danger they have--> long || 0.9936127066612244
+ indeed when it is noon in the united states the sun everybody knows is--> setting || 0.9936095476150513
+ so that is why i have again bought a box of paints and some--> p || 0.9935133457183838
+ a baobab if you get to it too late can never be--> got || 0.9934956431388855
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a few steps and you watched the twilight falling whenever you--> liked || 0.993483304977417
+ what games does--> he || 0.9934398531913757
+ it is hard to take up drawing again at my age when i--> have || 0.9933832883834839
+ if i have told you these details about the asteroid b 612 and revealed to you its--> number || 0.9933789372444153
+ but the little prince made--> no || 0.9933061003684998
+ i did not understand why it was so important that sheep eat shrubs but the little prince added then it--> follows || 0.9932591915130615
+ i have serious reason to believe that the planet from where the little prince came is the asteroid--> b || 0.9931850433349609
+ a baobab if you get to it too--> late || 0.9931620955467224
+ and if the planet is too--> small || 0.9931520819664001
+ so that is why i have again bought a box of paints and some p-->enc || 0.993145763874054
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty in--> spot || 0.9931390881538391
+ so that is why i have again bought a box of pain-->ts || 0.993137001991272
+ i will try of course to make my portraits as lifelike as possible but i am not quite--> sure || 0.9931325316429138
+ i knew that apart from the large planets like the earth j-->up || 0.9930948615074158
+ that is right but why do you want the sheep to eat the little ba-->ob || 0.9930700659751892
+ unfortunately france is much too far--> away || 0.9930557012557983
+ then it elongates and grows timidly at first toward the sun a charming little harmless--> spr || 0.9930508136749268
+ i did not understand why it was so important that sheep eat--> shr || 0.9929980039596558
+ if it is a sprig of radish or rose bush you can let it--> grow || 0.9929600358009338
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the--> windows || 0.9929035305976868
+ i knew that apart from the large planets like the earth jupiter mars and--> ven || 0.992896556854248
+ but if you were to say the planet he came from is the asteroid--> b || 0.9928885102272034
+ if i have told you these details about the asteroid--> b || 0.9928719401359558
+ this time again it was thanks to the sheep--> because || 0.9928512573242188
+ not everyone has had a--> friend || 0.9928497076034546
+ i have serious reason to believe that the planet from where the little prince came is the asteroid b-->  || 0.9928198456764221
+ i feel--> so || 0.992816686630249
+ i thus learned a second--> very || 0.992798924446106
+

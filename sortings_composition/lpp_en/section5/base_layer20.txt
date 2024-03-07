@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then he sponged his forehead with a handkerch-->ief || 0.8640309572219849
+ your cigaret-->te || 0.9234330058097839
+ that i--> put || 0.9579800367355347
+the--> fourth || 0.9580330848693848
+ the--> fifth || 0.9580330848693848
+ the--> grow || 0.9580330848693848
+ the--> business || 0.9580330848693848
+ the--> little || 0.9580330848693848
+ the--> business || 0.9580330848693848
+ the--> orders || 0.9580330848693848
+ the--> business || 0.9580330848693848
+ the--> little || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ the--> first || 0.9580332040786743
+ the--> second || 0.9580332040786743
+ the--> third || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ the--> business || 0.9580332040786743
+ if i--> owned || 0.9592602252960205
+ if i--> owned || 0.9592602252960205
+ is that all that is necessary-->[EOS] || 0.9601620435714722
+ but i--> have || 0.9635470509529114
+ they reign over-->[EOS] || 0.9651126861572266
+ who own-->s || 0.9653000831604004
+ when you--> discover || 0.9653527140617371
+ when you--> get || 0.9653527140617371
+ when you--> find || 0.9653527140617371
+ and i--> own || 0.965507984161377
+ yes that is it the--> stars || 0.9655309915542603
+ those are the--> orders || 0.9658905863761902
+ those are the--> orders || 0.9658905863761902
+ perhaps--> it || 0.9659331440925598
+ i had--> the || 0.9663026332855225
+ and what do you do with these--> stars || 0.9664397835731506
+ that man said the--> little || 0.9667490124702454
+ but he is less absurd than the king than the conceited man the businessman--> or || 0.9670397043228149
+ no but i--> can || 0.9673857688903809
+ phew phew then that makes five--> hundred || 0.9676065444946289
+ the first time was twenty two--> years || 0.967650830745697
+ as for me i--> am || 0.9680961966514587
+ how can you own--> the || 0.9684972167015076
+ that means that--> i || 0.968540370464325
+ he said to himself nevertheless--> it || 0.9689449071884155
+ once every minute--> i || 0.9689696431159973
+ five hundred and one million what repeated the--> little || 0.9689698219299316
+ millions of those little objects--> that || 0.9690864086151123
+ certainly-->[EOS] || 0.9691576361656189
+ three and two make five-->[EOS] || 0.9692062735557556
+ every year the--> planet || 0.9692481160163879
+ where you live a--> day || 0.9692825675010681
+
+
+## 50 prefixes with the highest comosition scores:
+ phew phew then that makes--> five || 0.9991526007652283
+ he made the most dreadful noise and i made four mistakes in a--> sum || 0.9975665211677551
+ i would put the lamp out in the morning and in the evening i would light--> it || 0.9945566654205322
+ then he sponged his forehead with a--> hand || 0.9943668246269226
+ you only have to walk along rather slowly to always stay in the sun when you want to--> rest || 0.9942455291748047
+ i had the rest of the day--> to || 0.994081437587738
+ this man was so busy that he did not even--> raise || 0.9940065145492554
+ then he sponged his forehead with--> a || 0.9938291907310486
+ he remembered the sunsets which he himself had gone to seek in the past by moving his chair-->[EOS] || 0.9936286211013794
+ the businessman opened his mouth but he found nothing--> to || 0.9935794472694397
+ if i owned a scarf i could put it around my neck and take it--> away || 0.9934988617897034
+ but why have you just lit--> it || 0.9934679865837097
+ he breathed a s-->igh || 0.9933803081512451
+ the second time was eleven years ago by an attack of r-->he || 0.9933356642723083
+ you only have to walk along rather slowly to always stay in the sun--> when || 0.9932770729064941
+ when you discover an island that belongs to nobody it is--> yours || 0.9931349754333496
+ the businessman opened his mouth but he found nothing to--> say || 0.9930520057678223
+ this man the little prince said to himself reasons a bit like my poor--> drink || 0.9930465817451477
+ what the little prince did not dare admit to himself was that he missed this blessed planet most--> of || 0.9927733540534973
+ the first time was twenty two years ago by some scatterbrain who fell from god--> knows || 0.9927433729171753
+ then he sponged his forehead with a hand-->ker || 0.9927288889884949
+ your cigarette has gone--> out || 0.9927127957344055
+ he breathed a--> s || 0.9926289319992065
+ but why have you just lit it--> again || 0.9926214814186096
+ i own three volcanoes that i sweep out every--> week || 0.9925397634506226
+ that means that i write the number of my stars on a little paper and then i lock this paper in--> a || 0.9925395846366882
+ when you find a diamond that belongs to nobody it--> is || 0.9925262928009033
+ i am a man of--> consequence || 0.9925008416175842
+ i am a man of--> consequence || 0.9925008416175842
+ i am a man of--> consequence || 0.9925008416175842
+ during the fifty four years that i have lived on this planet i have only been--> dist || 0.9923754930496216
+ it is rather po-->etic || 0.9923741817474365
+ that man is the only one with whom i could have made friends but his planet is really very--> small || 0.9922981858253479
+ this man was so busy that he did not--> even || 0.9922779202461243
+ he remembered the sunsets which he--> himself || 0.9922575950622559
+ i would put the lamp out in the morning and in the evening i would--> light || 0.9922425746917725
+ when you get an idea first you take--> out || 0.9922232031822205
+ i have so much--> work || 0.992184042930603
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer--> and || 0.9921059012413025
+ he said to himself nevertheless it may well be that this--> man || 0.992077648639679
+ once every minute i light the lamp and put it--> out || 0.992074728012085
+ as for me i am a man of--> consequence || 0.9920589923858643
+ when he puts out his lamp he sends the flower--> or || 0.9920427799224854
+ the little prince could not work out the purpose of having a street lamp and a lamplighter somewhere out in the skies on a--> planet || 0.9920411109924316
+ huh are you still--> there || 0.9920322299003601
+ when he arrived on the planet he respect-->fully || 0.9919813275337219
+ this man the little prince said to himself reasons a bit like my--> poor || 0.991981029510498
+ it helps by making me--> rich || 0.9919801950454712
+ that does not do--> me || 0.9919611215591431
+ that man said the little prince to himself as he continued further on his--> journey || 0.9919500350952148
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.9131056070327759
+ and now--> i || 0.9376413226127625
+ and now--> of || 0.9376413226127625
+ and sometimes--> you || 0.9379093647003174
+ you only you will have--> stars || 0.9384543299674988
+ for others who are schol-->ars || 0.9400364756584167
+ other times--> i || 0.942916214466095
+ for others--> they || 0.945227324962616
+ for others--> who || 0.945227324962616
+ do not come to see that-->[EOS] || 0.9455716013908386
+ and your friends--> will || 0.9461863040924072
+ it is much more difficult-->[EOS] || 0.9475300312042236
+ she has four thorns of no use at all to protect herself--> against || 0.9476748108863831
+ and yet--> it || 0.9478207230567932
+ just that--> it || 0.9481435418128967
+ and besides--> i || 0.9496757388114929
+ he said to me that which is important--> can || 0.9497683644294739
+ sometimes--> i || 0.9504787921905518
+ for me--> it || 0.9512726664543152
+ they will all be your friends-->[EOS] || 0.9532392621040344
+ even as--> i || 0.9533715844154358
+ it will be as if i would given you instead--> of || 0.9542654156684875
+ for others they are--> nothing || 0.9546470046043396
+ it is better like that-->[EOS] || 0.9549415707588196
+ so you will tell them yes the--> stars || 0.9552919268608093
+ it is true--> that || 0.9557790756225586
+ it is true that they have no--> poison || 0.9561284184455872
+ and no--> grown || 0.9563843607902527
+ look at this landscape carefully so as to be sure to recognize it if one day--> you || 0.9568242430686951
+ he said that is everything-->[EOS] || 0.95691978931427
+ there was not even any--> sound || 0.9572035670280457
+ another voice--> must || 0.9575678110122681
+ at night--> you || 0.9578153491020203
+ other times i tell myself everyone--> is || 0.9579155445098877
+ you have made--> a || 0.9580910801887512
+ and then--> the || 0.9581204652786255
+ and then--> he || 0.9581204652786255
+ he remained--> motion || 0.9581467509269714
+ there was not--> even || 0.9581811428070068
+ it is like that-->[EOS] || 0.9584378004074097
+ write to me--> quickly || 0.9585257172584534
+ you will have the stars as no one else--> has || 0.9586107134819031
+ i will also look at the--> stars || 0.958742618560791
+ that--> night || 0.9589070081710815
+ that--> is || 0.9589071869850159
+ he said to me that--> which || 0.9589901566505432
+ all the--> stars || 0.9590910077095032
+ all the--> stars || 0.9590910077095032
+ all the--> stars || 0.959091067314148
+ i will also look at--> the || 0.9591254591941833
+
+
+## 50 prefixes with the highest comosition scores:
+ and your friends will be very surprised to see you la-->ughing || 0.9998263120651245
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are--> la || 0.9993122220039368
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are la-->ughing || 0.9989177584648132
+ and he laughed some--> more || 0.9989129900932312
+ i felt his heart beat like the heart of a dying bird when shot with--> a || 0.9987912178039551
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that laugh-->ter || 0.9983311295509338
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that laughter--> again || 0.9982227683067322
+ when you look at the sky at night because i will be living on one of them because i will be la-->ughing || 0.9972936511039734
+ sometimes i tell--> myself || 0.9971174001693726
+ and he smiled sad-->ly || 0.9969437718391418
+ i felt his heart beat like the heart of a dying bird when shot with a--> rif || 0.9963545799255371
+ i was just coming to tell--> him || 0.9962398409843445
+ my star will be right above the spot--> where || 0.9959757924079895
+ i had loosened the golden muffler that he always wore-->[EOS] || 0.9957643747329712
+ and yet it seemed to me that he was plummeting down into an--> aby || 0.9952975511550903
+ i reached the wall just in--> time || 0.9951652884483337
+ he looked at me grav-->ely || 0.9951046109199524
+ i felt his heart beat like the heart of a dying bird when shot with a rif-->le || 0.994987964630127
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing--> that || 0.9948989152908325
+ he looked at me gravely and put his arms--> around || 0.9948187470436096
+ and then he too was silent because he--> was || 0.9946669936180115
+ look at this landscape carefully so--> as || 0.9946563243865967
+ i waited a--> long || 0.9945651292800903
+ and when your sorrow is comforted time he-->als || 0.9945427775382996
+ i had lo-->os || 0.9945341944694519
+ and he sat--> down || 0.9944501519203186
+ when i managed to catch him up he was walking along determinedly at a brisk--> pace || 0.9941819310188293
+ when i managed to catch him up he was walking along determinedly at a br-->isk || 0.9941521883010864
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to--> rest || 0.994044840335846
+ and if you happen to pass by there i beg you do not hur-->ry || 0.9940447807312012
+ ah little fellow dear little fellow i love to hear--> that || 0.9940054416656494
+ one evening he would have forgotten the glass d-->ome || 0.9939672946929932
+ sometimes i tell myself surely not the little prince shuts his flower under her glass d-->ome || 0.9939463138580322
+ when i drew the muzzle for the little prince i forgot to add the le-->ather || 0.9939126372337341
+ i still did not see or--> hear || 0.9938665628433228
+ when i drew the muzzle for the little prince i forgot to add the leather st-->rap || 0.9938527345657349
+ i had loosened the golden m-->uff || 0.9937973022460938
+ again i felt myself frozen by the sense of something irrepar-->able || 0.9936326742172241
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never--> hearing || 0.9935782551765442
+ when i managed to catch him up he was walking along determinedly at a--> br || 0.9935580492019653
+ if a child then comes to you if he laughs if he--> has || 0.9934524893760681
+ so you will tell them yes the stars always make me laugh and they--> will || 0.9933728575706482
+ even as i dug around in my pocket to take out my revolver i made--> a || 0.9933347702026367
+ his feet h-->anging || 0.9933199882507324
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to rest-->rain || 0.9932233691215515
+ again i felt myself frozen by the sense of something irre-->par || 0.9931911826133728
+ he fell as g-->ently || 0.9931530952453613
+ i had loosened the golden muffler that--> he || 0.9931526780128479
+ if you love a flower that is on a star it is sweet to look--> at || 0.9931359887123108
+ but he said to me ton-->ight || 0.993122398853302
+

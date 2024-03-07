@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i caught a glimp-->se || 0.8224707245826721
+ so getting impat-->ient || 0.8651056289672852
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.8951064348220825
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9249940514564514
+ you can imagine--> how || 0.9583282470703125
+ that is--> right || 0.959789514541626
+ after a reflect-->ive || 0.9600817561149597
+ i talked to them about bridge golf politics and neckties--> and || 0.9613780379295349
+ it is true that you can not have come from far away in that and he--> dr || 0.9616680145263672
+ and that--> is || 0.9622334241867065
+ but if--> you || 0.9625445008277893
+ it is exactly the--> way || 0.9632923603057861
+ i talked to them about--> bridge || 0.9633318185806274
+ he looked nothing like a child lost in the middle of the desert a thousand miles from any inhabited region-->[EOS] || 0.963337242603302
+ my friend broke into another peal--> of || 0.9639488458633423
+ because where i am from--> everything || 0.963988184928894
+ because--> where || 0.9646419286727905
+ then the--> little || 0.96498042345047
+ that is right and if you are--> good || 0.9652543067932129
+ it is true that you can not have come from far away--> in || 0.9654839634895325
+ remember that--> i || 0.9657964110374451
+ why-->[EOS] || 0.9658550024032593
+ then he cried what you fell from the sky-->[EOS] || 0.9660938382148743
+ and perhaps--> with || 0.96710205078125
+ so once again--> i || 0.9671139717102051
+ i have had during my life--> a || 0.9673370122909546
+ that is right and if--> you || 0.9675611257553101
+ for me--> it || 0.9676764011383057
+ they--> answered || 0.9678621888160706
+ they--> always || 0.9678621888160706
+ yes i said--> mod || 0.9682381749153137
+ after a reflective silence he answered what is good about the--> box || 0.9682840704917908
+ it is true that--> you || 0.9687196612358093
+ he is--> fallen || 0.9687830805778503
+ anywhere straight ahead-->[EOS] || 0.968981921672821
+ where i live--> everything || 0.9693424701690674
+ where i live--> everything || 0.9693424701690674
+ for me it was a matter of--> life || 0.9695853590965271
+ but--> then || 0.9702380299568176
+ but--> i || 0.9702380299568176
+ but--> he || 0.9702380299568176
+ but--> it || 0.9702380299568176
+ but--> if || 0.9702380299568176
+ this is not--> a || 0.970295786857605
+ i talked to them about bridge golf politics--> and || 0.9703817963600159
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for them again and again-->[EOS] || 0.9704138040542603
+ the first--> night || 0.970679759979248
+ when--> i || 0.9707809686660767
+ when--> a || 0.9707809686660767
+ and i--> was || 0.9712167978286743
+
+
+## 50 prefixes with the highest comosition scores:
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of th-->irst || 0.9997831583023071
+ it said in the book boa constrictors swallow their pre-->y || 0.9997493624687195
+ it said in the book boa constrictors swallow their--> pre || 0.9994789361953735
+ it is true that you can not have come from far away in that and he drifted into a daydream which last-->ed || 0.9972158670425415
+ grownups never understand anything by themselves and it is tiresome for children to always--> explain || 0.9970995783805847
+ something had broken in my engine and as i had with me neither a mechanic nor--> any || 0.9970793724060059
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little crossly that i did--> not || 0.9969916343688965
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number one that i have always--> kept || 0.9969554543495178
+ grownups never understand anything by themselves and it is t-->ires || 0.9967461228370667
+ i stared at this sudden apparition wide--> e || 0.9966435432434082
+ it said in the book boa constrictors swallow their prey--> whole || 0.9963371753692627
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of--> death || 0.9963024854660034
+ something had broken in my engine and as i had with me neither a mechanic nor any--> passengers || 0.9962964653968811
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all--> alone || 0.9953292608261108
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my--> pocket || 0.9953024983406067
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number one that i have always kept-->[EOS] || 0.9950467944145203
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this drawing and i snapped this-->[EOS] || 0.9949117302894592
+ it said in the book boa constrictors swallow their prey whole without che-->wing || 0.9948015213012695
+ when a mystery is too overpowering one dare not dis-->ob || 0.9947158098220825
+ it showed a boa constrictor digesting--> an || 0.9946538805961609
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of--> th || 0.9946387410163879
+ absurd as it--> seemed || 0.994613528251648
+ but i was very surprised to see the face of my young judge light--> up || 0.9945492148399353
+ after a reflective silence he answered what is good about the box you have given is that at night he can use it as a--> house || 0.9945475459098816
+ that is right and if you are good i will give you a rope to tie him up with during the day and a--> st || 0.9945336580276489
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and--> carry || 0.9944958686828613
+ something had broken in my engine and as i had with me neither a--> mechan || 0.9943269491195679
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone the--> difficult || 0.9941731095314026
+ so i had to choose another profession and i learned to fly air-->plan || 0.9939951300621033
+ it said in the book boa constrictors swallow their prey whole without--> che || 0.9939361810684204
+ they always need to have things explained-->[EOS] || 0.993918240070343
+ so i lived alone without anyone i could really talk to until a break-->down || 0.9939032196998596
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a--> sheet || 0.993884265422821
+ i jumped to my feet as if i had been--> struck || 0.9938831329345703
+ here is the best portrait that later i managed to do of him but my drawing of course is much less--> char || 0.9938803911209106
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took--> out || 0.9938390254974365
+ once when i was six years old i saw a magnificent picture in a--> book || 0.993837833404541
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for them again--> and || 0.9938028454780579
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this drawing and i snapped--> this || 0.9937636256217957
+ it said in the book boa constrictors swallow their prey whole without chewing then they--> are || 0.9937540888786316
+ it showed a boa constrictor swallowing--> a || 0.9936742782592773
+ you can imagine how my curiosity was--> ar || 0.9936742186546326
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet of paper and a--> pen || 0.9936618208885193
+ grownups never understand anything by themselves and it is tiresome for children to--> always || 0.9936271905899048
+ the grownups advised me to leave aside drawings of boa constrictors--> open || 0.9935197830200195
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet of paper and a pen-->[EOS] || 0.9935012459754944
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and they sleep for the six months it takes for--> dig || 0.9934848546981812
+ absurd as it seemed to me a thousand--> miles || 0.9934543371200562
+ the first night i went--> to || 0.993424654006958
+ so getting impatient as i was eager to start dismantling my engine i hastily--> sketch || 0.9934143424034119
+

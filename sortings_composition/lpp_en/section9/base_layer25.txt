@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.811295211315155
+ he got a bit discou-->rag || 0.8507574796676636
+ for others who are schol-->ars || 0.8588904142379761
+ then he suddenly became serious again-->[EOS] || 0.9444355964660645
+ then he suddenly became serious--> again || 0.9555438160896301
+ it was not a--> very || 0.9601958990097046
+ write to--> me || 0.9607381224632263
+ you will see where my tracks begin in--> the || 0.9618390202522278
+ and when--> your || 0.962760865688324
+ it will be as if i would given you instead--> of || 0.964202880859375
+ i felt his heart beat like--> the || 0.9649307727813721
+ and sometimes--> you || 0.9653344750404358
+ even as--> i || 0.9653382301330566
+ and besides--> i || 0.9665941596031189
+ you will want--> to || 0.9666048288345337
+ it will look as if--> i || 0.9669216275215149
+ it will look as if--> i || 0.9669217467308044
+ i reached the wall just in time to catch my little fellow in my arms--> who || 0.9669369459152222
+ it will look a bit as if i am--> dying || 0.9672722816467285
+ there was nothing but a yellow flash close to--> his || 0.9675695896148682
+ it will be as if i would given you instead of stars lots and lots--> of || 0.9676466584205627
+ and he--> sat || 0.967721164226532
+ and he--> laughed || 0.967721164226532
+ and he--> laughed || 0.967721164226532
+ and he--> laughed || 0.967721164226532
+ and he--> smiled || 0.967721164226532
+ and he--> took || 0.9677212834358215
+ then he said sadly--> it || 0.9678124785423279
+ it will be--> so || 0.9679613709449768
+ it will be--> as || 0.9679614305496216
+ save me from--> this || 0.9680109024047852
+ what are you--> trying || 0.9680405259132385
+ what are you--> trying || 0.9680405259132385
+ here is--> the || 0.9681096076965332
+ do not come to see--> that || 0.9681766033172607
+ he said to me that which is important--> can || 0.9683124423027039
+ and you will see how--> everything || 0.9684821963310242
+ it is true that they have no poison left for a second bite-->[EOS] || 0.9685206413269043
+ and then he too was silent because--> he || 0.9685267210006714
+ when you look at the--> sky || 0.9686105847358704
+ other times i tell myself everyone is absent minded--> at || 0.9686954617500305
+ there was nothing but--> a || 0.9690163135528564
+ do not come to--> see || 0.9691209197044373
+ look at--> the || 0.9691883325576782
+ look at--> this || 0.9691883325576782
+ for me it was--> like || 0.9693371653556824
+ he made no answer to my question but he added i am also--> going || 0.9693387746810913
+ my little fellow i--> said || 0.9693416357040405
+ but he did not--> answer || 0.9694390296936035
+ i was twenty--> meters || 0.9695156216621399
+
+
+## 50 prefixes with the highest comosition scores:
+ he remained motion-->less || 0.9992688298225403
+ it will look a--> bit || 0.9986250400543213
+ i reached the wall just in time to catch my little fellow in my arms who--> was || 0.9986140727996826
+ what is going--> on || 0.9985897541046143
+ i held him tightly in my--> arms || 0.9984453916549683
+ you will have five hundred million little bells and i will have five hundred--> million || 0.9984315633773804
+ and she is so--> na || 0.9975787401199341
+ and she is so--> weak || 0.9975786805152893
+ you will have five hundred million little bells and i will have five--> hundred || 0.9974409341812134
+ i reached the wall just in time to catch my little fellow in my--> arms || 0.9974127411842346
+ and no grownup will ever understand that this is a matter of such--> importance || 0.99615877866745
+ and she is so na-->ive || 0.9960170984268188
+ when i drew the muzzle for the little prince i forgot to add the leather strap to--> it || 0.9959057569503784
+ it will be as if i would given you instead of stars lots and lots of little bells that--> can || 0.9956725835800171
+ i waited a long--> while || 0.9954472184181213
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do--> nothing || 0.9954007267951965
+ he got a bit discouraged but he made--> one || 0.9948640465736389
+ it will be as if i would given you instead of stars lots and lots of little bells that can--> laugh || 0.9941875338554382
+ for me it was like a spring of fresh water--> in || 0.9940313100814819
+ and your friends will be very surprised to see you laughing whilst--> watching || 0.9939857125282288
+ if a child then comes to you if he laughs if he--> has || 0.9939491748809814
+ my star will be right above the spot where i--> came || 0.9937872290611267
+ and now i did not dare ask him anything--> more || 0.9936579465866089
+ i felt very clearly that something extraordinary was--> happening || 0.9936280250549316
+ and i love to listen to--> the || 0.9936238527297974
+ i had moistened his temples and had him--> drink || 0.9936190843582153
+ there was next to the well the ruin of an old stone--> wall || 0.9935985803604126
+ i reached the wall just--> in || 0.9935822486877441
+ i then lowered my eyes to the foot of the wall and i le-->apt || 0.9935623407363892
+ when i managed to catch him up he was walking along determinedly at a br-->isk || 0.9935347437858582
+ there was next to--> the || 0.9935234785079956
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light--> met || 0.9934545755386353
+ this to me is the most beautiful and most sad landscape in the world-->[EOS] || 0.9934418201446533
+ even as i dug around in my pocket to take out my revolver i made a running step--> back || 0.9934352040290833
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea--> of || 0.9933977127075195
+ and now of course it has already been six years-->[EOS] || 0.9933681488037109
+ when i drew the muzzle for the little prince i forgot to add the leather--> st || 0.993366003036499
+ and then the little bells--> turn || 0.9933342933654785
+ but at the noise i made the snake--> let || 0.9932699203491211
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped--> between || 0.9932129383087158
+ it is true that they have no poison left for a second b-->ite || 0.9932088851928711
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and--> in || 0.9931992292404175
+ even as i dug around in my pocket to take out my revolver i made a running--> step || 0.9931904673576355
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic--> sound || 0.993167519569397
+ sometimes i tell myself surely not the little prince shuts his flower under her glass dome every night and he watch-->es || 0.9931644797325134
+ you will have five hundred million little bells and--> i || 0.9931483864784241
+ sometimes i tell myself surely not the little prince shuts his flower under her glass--> d || 0.9931283593177795
+ i reached the wall just in time to catch my little fellow in my arms who was white as--> snow || 0.9931116700172424
+ when i came back from my work--> the || 0.9930838346481323
+ it is just like five hundred million little bells-->[EOS] || 0.9930758476257324
+

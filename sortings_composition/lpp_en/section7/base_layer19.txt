@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i can go for a walk as far as the viney-->ards || 0.9170487523078918
+ but every day you will be able--> to || 0.9177355766296387
+ the fox seemed very intrigu-->ed || 0.9226307272911072
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.9227876663208008
+ my life is very monoton-->ous || 0.9246587157249451
+ the fox--> went || 0.9609060883522034
+ the fox--> seemed || 0.9609060883522034
+ there is a rite for example among my hunters-->[EOS] || 0.9616058468818665
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all--> roads || 0.9633135199546814
+ and he went back to the fox-->[EOS] || 0.9637342691421509
+ if the hunters danced on just any day all the days would be alike and i had never have--> any || 0.9638110995292664
+ and then he added go and see the roses again-->[EOS] || 0.9639078974723816
+ he was only a fox--> just || 0.9651966094970703
+ i dispatch the trains--> that || 0.9655834436416626
+ and he went back--> to || 0.9655963778495789
+ these--> are || 0.9657662510871887
+ so all--> this || 0.9662892818450928
+ but the fox--> came || 0.9663606286048889
+ but if you tame me it would bring some sunlight--> into || 0.9664992094039917
+ then he said--> to || 0.9671812653541565
+ they are what make one day different from other days--> one || 0.9672764539718628
+ the men have forgotten this truth said the fox but you must not forget--> it || 0.9673450589179993
+ it was a garden covered in roses-->[EOS] || 0.9674258232116699
+ nothing is perfect sighed the fox-->[EOS] || 0.9676323533058167
+ it would have been better to come back at--> the || 0.9679318070411682
+ first you will sit down a little way away from me--> like || 0.9681011438369751
+ so the little prince tamed the fox-->[EOS] || 0.9684176445007324
+ to you i am only a fox--> just || 0.9684675931930542
+ then come back to say goodbye to me--> and || 0.9685811400413513
+ what--> is || 0.9687466025352478
+ what--> is || 0.9687466025352478
+ what--> do || 0.9687466025352478
+ what--> is || 0.9687466025352478
+ what--> is || 0.9687466025352478
+ what--> is || 0.9687466025352478
+ what--> should || 0.9687466025352478
+ what--> does || 0.9687466621398926
+ what--> does || 0.9687466621398926
+ you are not from here said the fox-->[EOS] || 0.9688154458999634
+ one which is--> perhaps || 0.9690176844596863
+ on thursdays they dance with the girls of the village--> so || 0.9691629409790039
+ it is an--> exchange || 0.9692507982254028
+ one only sees clearly--> with || 0.9692792892456055
+ they are also something too often forgotten--> said || 0.969434916973114
+ but if you tame me we will need--> each || 0.9694886207580566
+ because it is her that--> i || 0.9695375561714172
+ because it is her that--> i || 0.9695375561714172
+ because it is her that--> i || 0.9695375561714172
+ because she--> is || 0.969554603099823
+ you are like my fox used to be-->[EOS] || 0.9695814847946167
+
+
+## 50 prefixes with the highest comosition scores:
+ so all this has done you no good at--> all || 0.9994960427284241
+ it would have been better--> to || 0.9965313076972961
+ only the children are squashing their noses up against the--> windows || 0.9951648712158203
+ only the children are squashing their noses up against--> the || 0.9940258860588074
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really--> would || 0.9936201572418213
+ they are not chasing after anything at--> all || 0.9930073618888855
+ that and my three volcanoes that come up to my--> kne || 0.992603600025177
+ they are what make one day different--> from || 0.9923819303512573
+ and when the time to leave drew--> near || 0.9923699498176575
+ so all this has done you no--> good || 0.9921547770500183
+ if the hunters danced on just any day all the days would--> be || 0.9921132922172546
+ i will watch you out of the corner of my eye and you will not say--> anything || 0.9920073747634888
+ that and my three volcanoes that come up to--> my || 0.9919759035110474
+ i can go for a walk as--> far || 0.9919037222862244
+ men no longer have the time to get--> to || 0.9918369650840759
+ but after some thought he added what does that--> mean || 0.9918298721313477
+ she would cough and cough and pretend to die to--> avoid || 0.9916902780532837
+ his flower had told him that she was the only one of her kind in--> the || 0.991653561592102
+ the fox seemed very intr-->igu || 0.9916520118713379
+ no one has tamed you and you have not t-->amed || 0.9915769696235657
+ if--> you || 0.9915677309036255
+ if--> the || 0.9915677309036255
+ if--> you || 0.9915676712989807
+ all the chickens look al-->ike || 0.9915174841880798
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to--> life || 0.9915124773979187
+ i really want to the little--> prince || 0.9915031790733337
+ because it is her that i sheltered behind the screen-->[EOS] || 0.9914560317993164
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came--> across || 0.9914255142211914
+ that does not make me a very--> great || 0.9914246797561646
+ then come back to say--> good || 0.9914212226867676
+ what do you do here the little--> prince || 0.9913561940193176
+ i am beginning--> to || 0.9913507699966431
+ oh i--> am || 0.9913074970245361
+ and he suddenly felt very--> unh || 0.9912340641021729
+ i would--> be || 0.9911749362945557
+ i would--> come || 0.9911749362945557
+ i would--> come || 0.9911749362945557
+ i would--> feel || 0.9911749362945557
+ men no longer have--> the || 0.9911593198776245
+ i am right here the voice--> said || 0.9911515116691589
+ and a brilliantly lit express train rumbling like--> th || 0.9911269545555115
+ but your hair is the color of gold so it will be wonderful when you have t-->amed || 0.9910715818405151
+ on th-->urs || 0.9910355806350708
+ i would feel happier--> and || 0.9910082221031189
+ i would come to know a sound of foot-->steps || 0.9909988045692444
+ i never wished you any harm but--> you || 0.9909815788269043
+ because it is her that i listened to grumble or boast or even sometimes when she said--> nothing || 0.9909555912017822
+ because it is for her that i killed the caterpillars except two or three to--> become || 0.9909499883651733
+ so all this has--> done || 0.9909289479255676
+ i am right--> here || 0.9909045696258545
+

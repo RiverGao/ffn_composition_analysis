@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ they sleep secretly deep in the earth until on a whim one of--> them || 0.48595091700553894
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able to--> picture || 0.49242517352104187
+ if it is a sprig of--> rad || 0.4986834228038788
+ they sleep secretly deep in the earth until on a whim one of them decides to--> w || 0.5147935748100281
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him a whole herd of elephants the herd would not manage to--> eat || 0.5244209170341492
+ he replied oh come on as if it were obvious and it took me a great mental effort to understand this problem on my own without--> any || 0.5272968411445618
+ if i try to describe him here it is--> so || 0.5325347781181335
+ the lesson which i pass on by--> this || 0.5407624244689941
+ so that is why i have again bought a box of paints and some pencils-->[EOS] || 0.5432265996932983
+ so that is why i have again bought a box of paints and--> some || 0.5498961806297302
+ when you talk to them about--> a || 0.5512188673019409
+ you might be wondering why is it that in this book there are--> not || 0.5563172698020935
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they--> would || 0.5598407983779907
+ they ask how old is--> he || 0.5609036087989807
+ but if you were to say the planet he came from is the asteroid b 61-->2 || 0.5613569021224976
+ it was in this way that on the third day i came to know of the traged-->y || 0.5618024468421936
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would--> not || 0.5619911551475525
+ this time again it was--> thanks || 0.5647566318511963
+ you might be wondering why is--> it || 0.5659467577934265
+ he had neglected three little bushes-->[EOS] || 0.5708013772964478
+ this time again it was thanks to the sheep because the little prince asked me abruptly as--> if || 0.5716429948806763
+ so if you were to say to them the proof that the little prince existed is--> that || 0.5727823376655579
+ i would have liked to begin this story in the same way as a fairy--> tale || 0.5730900764465332
+ i will try of course to make my portraits as--> lif || 0.5753264427185059
+ i say children beware of baobabs-->[EOS] || 0.5754641890525818
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody had believed him because of his--> out || 0.5755748152732849
+ and based on what the little prince told me i--> drew || 0.5760049819946289
+ if i have told you these details about the asteroid b 612 and revealed to--> you || 0.5771376490592957
+ they sleep secretly deep in the earth until--> on || 0.5773963928222656
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it that i have worked so hard on this--> drawing || 0.5778242349624634
+ this asteroid has only been seen through--> a || 0.5794773101806641
+ i will try of course to make my portraits as lifelike--> as || 0.5795440077781677
+ and if the planet is too small and if there are too many baobabs they--> sh || 0.5803948640823364
+ i pointed out to the little prince that baobabs--> were || 0.582667350769043
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an--> astero || 0.5828399658203125
+ it would suffice to be able to go to france in one minute to be able to see a sunset-->[EOS] || 0.5839228630065918
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from the rose bushes to which they look very similar when--> they || 0.5839641094207764
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it that--> i || 0.5840649604797363
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on his people--> on || 0.5847150683403015
+ oh little prince i came--> to || 0.5855609178543091
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him a whole herd--> of || 0.5855724811553955
+ but if you were to say the planet he came from is the asteroid b 612 they would be convinced and leave you--> in || 0.5875300168991089
+ the lesson which i pass on by this--> means || 0.5877618193626404
+ this time again it was thanks to the sheep because the little prince asked me abrupt-->ly || 0.5893137454986572
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from the rose bushes to which--> they || 0.5904356837272644
+ the information came slowly as--> his || 0.5904468894004822
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him a whole herd of elephants the herd would--> not || 0.591087818145752
+ it is already been six--> years || 0.5916444063186646
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are--> so || 0.5939021706581116
+ if i have told you these details about the asteroid b 612 and revealed to you its number it is--> because || 0.5943964123725891
+
+
+## 50 prefixes with the highest comosition scores:
+ here the--> little || 0.8395559787750244
+ after grooming oneself in the--> morning || 0.8359480500221252
+ children should be forgiving towards the--> grow || 0.8309047818183899
+ i did not understand why it was so important that sheep eat shrubs but the--> little || 0.8281750082969666
+ but if you were to say the planet he came from is the--> astero || 0.8185172080993652
+ it was in this way that on the--> third || 0.8145726323127747
+ one day i saw the--> sun || 0.8145186901092529
+ it takes over the--> entire || 0.8129206895828247
+ i knew that apart from the large planets like the--> earth || 0.8083879947662354
+ wait until the--> sun || 0.8081215620040894
+ and indeed on the--> planet || 0.8070197701454163
+ the answer is simple-->[EOS] || 0.8063184022903442
+ i do not like to sound like a--> moral || 0.8062827587127686
+ and if the--> planet || 0.8056875467300415
+ and based--> on || 0.804957926273346
+ i would have liked to say once upon a--> time || 0.8048431873321533
+ and based on what the--> little || 0.8040210008621216
+ the idea--> of || 0.8037152290344238
+ this--> time || 0.8032256960868835
+ this--> astero || 0.8032256960868835
+ it is to warn my friends of the danger they have long been sk-->ir || 0.8029171228408813
+ fortunately for the--> reputation || 0.8028030395507812
+ and a little later you added you know you love the--> sun || 0.802436351776123
+ every day i would learn something about his planet the--> departure || 0.8006248474121094
+ so--> if || 0.7992650866508484
+ so--> that || 0.7992650866508484
+ so if you were to say to them the--> proof || 0.7985938191413879
+ but he--> remarked || 0.7980248928070068
+ but he remarked wisely the--> ba || 0.7969009280204773
+ this time again it was thanks to the--> sheep || 0.7965542078018188
+ for a long time your only entertainment was the--> soft || 0.7961164712905884
+ how much does he--> we || 0.7957625985145569
+ i have serious reason to believe that the--> planet || 0.7954108715057373
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him a whole herd of elephants the--> her || 0.7943862676620483
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it that i have worked so--> hard || 0.7935684323310852
+ indeed when it is noon in the united states the sun everybody knows is setting over fran-->ce || 0.7926203608512878
+ and if the planet is too small--> and || 0.7914720773696899
+ if i have told you these details about the--> astero || 0.7900339365005493
+ the soil--> of || 0.7897680401802063
+ they would sh-->rug || 0.7897138595581055
+ the lesson which i pass--> on || 0.7893120050430298
+ how many brothers does--> he || 0.7887914776802063
+ if you--> said || 0.7884525656700134
+ sometimes--> there || 0.7877557277679443
+ i also get the--> size || 0.7872593402862549
+ it was in this way that on the third day i came to know of the--> tra || 0.7856590151786804
+ that is right but why do you want the sheep to eat the--> little || 0.7850210666656494
+ do not bl-->ame || 0.7849106788635254
+ the--> astronom || 0.7842739224433899
+ the--> information || 0.7842734456062317
+

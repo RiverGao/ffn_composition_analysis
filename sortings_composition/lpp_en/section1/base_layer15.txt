@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.8677773475646973
+ i caught a glimp-->se || 0.8705786466598511
+ so getting impat-->ient || 0.8753398060798645
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9320822954177856
+ i was discou-->rag || 0.9459075927734375
+ i was discou-->rag || 0.9459075927734375
+ i talked to them about bridge golf politics and neckties and the grownup was glad to know such a sensible--> man || 0.9531551599502563
+ and perhaps with a hint--> of || 0.9543130993843079
+ and i was astounded to hear the little fellow respond no no i do not want an elephant--> inside || 0.9546461701393127
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to ge-->ography || 0.9567060470581055
+ so getting impatient as--> i || 0.9569613337516785
+ and perhaps with a hint of--> sad || 0.9572679400444031
+ i prefer people to take my misfortunes--> seriously || 0.957746684551239
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to geography history--> arithmetic || 0.9578394293785095
+ here is the best portrait that later i managed to do of him--> but || 0.9580053687095642
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constrict-->ors || 0.9590959548950195
+ where do you--> think || 0.9600769281387329
+ where do you--> take || 0.9600769281387329
+ i was discouraged in my career as a painter by the grownups at the age of six--> and || 0.9601739048957825
+ i flew a little in many--> places || 0.96029132604599
+ he replied it--> does || 0.9611657857894897
+ but then i remembered that i--> had || 0.9613439440727234
+ i talked to them about bridge golf politics and neckties and the grownup was--> glad || 0.9616070985794067
+ the little prince--> who || 0.96164470911026
+ that is right and if you are good i will give you a ro-->pe || 0.9617061018943787
+ i want a sheep that will live a long time-->[EOS] || 0.9622122049331665
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of th-->irst || 0.9624072909355164
+ where is this where i live of yours-->[EOS] || 0.962470531463623
+ he leaned his head--> towards || 0.962536096572876
+ once when i was six years old i saw a magnificent--> picture || 0.9626573324203491
+ so getting impatient as i was eager to start dism-->ant || 0.9627764225006104
+ i then drew--> the || 0.9629932045936584
+ so you can imagine my surprise when at daybreak a funny little--> voice || 0.9632949233055115
+ i have lived a lot amongst the grow-->nu || 0.9634063243865967
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little--> cross || 0.9634466767311096
+ and perhaps with a hint of sadness he added straight--> ahead || 0.9634960293769836
+ i was discouraged in my career as a painter by the grownups at the--> age || 0.9635697603225708
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a--> little || 0.963716983795166
+ he lean-->ed || 0.9641475081443787
+ and that is how i met the little prince-->[EOS] || 0.9642008543014526
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all--> alone || 0.964236319065094
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets--> so || 0.964294970035553
+ then the little prince said--> grav || 0.9643124341964722
+ as i had never drawn a sheep i redrew for him one of the only two draw-->ings || 0.9643348455429077
+ the one of the closed boa constrict-->or || 0.9647538661956787
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constrictors closed--> and || 0.9648006558418274
+ he leaned--> his || 0.9650393724441528
+ i caught a glimpse into the--> mystery || 0.9650537967681885
+ the first night i went to sleep on the--> sand || 0.9650688171386719
+ it is true that you can--> not || 0.9652227759361267
+
+
+## 50 prefixes with the highest comosition scores:
+ i have seen them from close--> up || 0.9908640384674072
+ because where--> i || 0.9897892475128174
+ he looked carefully then--> said || 0.9894167184829712
+ what a funny idea-->[EOS] || 0.9893158674240112
+ it looked--> like || 0.9890609383583069
+ i--> then || 0.989000678062439
+ i--> showed || 0.989000678062439
+ i--> talked || 0.989000678062439
+ i--> caught || 0.989000678062439
+ i--> was || 0.989000678062439
+ i--> jump || 0.989000678062439
+ i--> was || 0.989000678062439
+ i--> took || 0.989000678062439
+ i--> fle || 0.989000678062439
+ i--> was || 0.989000678062439
+ i--> have || 0.989000678062439
+ i--> wanted || 0.989000678062439
+ i--> prefer || 0.9890006184577942
+ i--> rub || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> could || 0.9890006184577942
+ i--> want || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> had || 0.9890006184577942
+ i--> gave || 0.9890006184577942
+ i--> put || 0.9890006184577942
+ i--> need || 0.9890006184577942
+ i--> drew || 0.9890004992485046
+ i--> st || 0.9890004992485046
+ he asked me what is that thing there-->[EOS] || 0.9889066815376282
+ and i was proud to have him know that i could fly-->[EOS] || 0.9887781143188477
+ then--> taking || 0.988605260848999
+ then--> he || 0.9886052012443542
+ then--> he || 0.9886052012443542
+ then--> the || 0.9886052012443542
+ my drawing number two looked--> like || 0.9885322451591492
+ here is the best portrait that later i managed to do of him but my drawing of course is much less char-->ming || 0.9885149598121643
+ i had hardly enough water to drink for a--> week || 0.9883573651313782
+ i rubbed my--> eyes || 0.9882163405418396
+ why-->[EOS] || 0.9881991147994995
+ and i was astounded to hear the little fellow respond no no i do--> not || 0.9881525039672852
+ something had broken in--> my || 0.9881359338760376
+ it has horn-->s || 0.9880611896514893
+ remember that i was a thousand miles from any inhabited region and yet--> this || 0.9880467057228088
+ thus i abandoned at the age--> of || 0.9880209565162659
+ i jumped--> to || 0.9879847168922424
+ i wanted to know if--> they || 0.9879703521728516
+ but then--> i || 0.9879430532455444
+ i took a good look around me and i saw a quite extraordinary little man who was exam-->ining || 0.9878988265991211
+

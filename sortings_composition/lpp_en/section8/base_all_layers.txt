@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ of course no one had ever been able--> to || 0.8850200772285461
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.8924998044967651
+ the sand at sunr-->ise || 0.9068005084991455
+ we were at the eighth day since my accident in the desert and i had listened to the story of the--> merchant || 0.9415875673294067
+ your fox his ears they look a bit like horns and they are--> too || 0.9420719146728516
+ we were at the eighth day since my accident in the desert and--> i || 0.9421791434288025
+ and i added hesitantly perhaps because of the--> anni || 0.9422786831855774
+ so it was not by chance that the--> morning || 0.9424632787704468
+ myself--> the || 0.9428380131721497
+ myself--> i || 0.9428380727767944
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is his--> dev || 0.9438759088516235
+ it is absurd to look for a well at random in the immensity of the desert but we--> started || 0.9442548155784607
+ of course no one had ever been able to find it or--> perhaps || 0.9445539712905884
+ it was born of the walk under the stars of the song of the pulley of the effort of my--> arms || 0.9447387456893921
+ we were at the eighth day since my accident in the desert and i had listened to the--> story || 0.9447870850563049
+ my dear fellow our situation has nothing to do with the--> fo || 0.944823145866394
+ and it was--> true || 0.9449761509895325
+ as his--> slightly || 0.9450371861457825
+ it was born of the walk under the stars of the song of the pulley of--> the || 0.9451469779014587
+ and yet what they are looking for could be found in a single rose or--> in || 0.9451677799224854
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as--> i || 0.945229709148407
+ as the little prince fell as-->leep || 0.9452571272850037
+ the song of the pulley continued in my ears and in the still trembling water i could see the--> sun || 0.9452733993530273
+ he was--> tired || 0.9454717636108398
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the radiance of the--> gift || 0.945685625076294
+ you know a muzzle for--> my || 0.9457540512084961
+ i was surprised to suddenly understand this mysterious radiation of the--> s || 0.9457861185073853
+ i saw them as if in a dream as my--> th || 0.9458540678024292
+ that which is most important is--> invisible || 0.9459865689277649
+ his--> eyes || 0.9460244178771973
+ he has--> never || 0.946053147315979
+ so they rush about and go in circles and he added it is--> not || 0.9460546970367432
+ so they rush about and go in circles and he added it is not--> worth || 0.9460828304290771
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave it to him-->[EOS] || 0.9461117386817932
+ the men where you live said the--> little || 0.946262776851654
+ it is the image of a--> rose || 0.9464671611785889
+ what makes the desert beautiful said the little prince is--> that || 0.9466387629508972
+ i looked in the moonlight at his--> pale || 0.9467096924781799
+ children--> understand || 0.9468923807144165
+ whether--> the || 0.94691401720047
+ i am thirsty for this--> water || 0.9470434188842773
+ my home was hiding a secret in the--> depth || 0.9470813274383545
+ the song--> of || 0.947111964225769
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is his devotion to a--> flower || 0.9471444487571716
+ myself the--> little || 0.9471997618675232
+ and i said to myself what i see here is--> only || 0.94733065366745
+ your fox his ears they look a bit like horns and--> they || 0.94734126329422
+ so i made a pencil sketch of a muzzle and i felt a p-->ang || 0.9473569393157959
+ it seemed to me that--> i || 0.9473757743835449
+ because we will--> die || 0.9474188685417175
+
+
+## 50 prefixes with the highest comosition scores:
+ the wells of the sahara are mere holes dug--> in || 0.9641107320785522
+ i looked in the moonlight at his pale forehead his closed eyes his locks of hair that trembled--> in || 0.9637179970741272
+ it is the image of a rose that shines--> in || 0.9636992812156677
+ i saw them as if in a dream as my thirst had made me fever-->ish || 0.9635575413703918
+ you have to keep your promise said the little prince softly who had again sat down--> beside || 0.9633142352104187
+ i do not know how to draw anything except--> bo || 0.9630941152572632
+ when we had walked for hours in silence night fell and the stars--> began || 0.9629402160644531
+ he never answered questions but when you blush--> that || 0.9629060626029968
+ so i made a penc-->il || 0.9628329873085022
+ and he blushed-->[EOS] || 0.9626517295837402
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last--> drop || 0.9624814391136169
+ you are not being fair my little--> fellow || 0.9624111652374268
+ the little prince s words danced--> in || 0.962130606174469
+ when we had walked for hours in silence night fell and the stars began to come out-->[EOS] || 0.9621216058731079
+ and i knew then--> what || 0.9620090126991272
+ this was a merchant who sold pills that had been created to quench--> th || 0.961961567401886
+ i have nothing left--> to || 0.9619591236114502
+ i do not know how to draw anything except boa constrict-->ors || 0.9619340300559998
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank--> the || 0.9618539810180664
+ i saw them as if in a dream as my thirst--> had || 0.96180260181427
+ i looked in the moonlight at his pale forehead his closed eyes his locks--> of || 0.9613839387893677
+ the little prince blushed--> again || 0.9612734317779541
+ the little prince blushed--> once || 0.9612733721733093
+ when we had walked for hours in silence night fell--> and || 0.9610840082168579
+ when i was a little boy the lights of the christmas tree the music of the midnight--> mass || 0.9610795974731445
+ i have nothing left to drink and i too would be happy if i could--> walk || 0.9610117673873901
+ the stars are beautiful because of a flower that can not--> be || 0.9609573483467102
+ a little sunshine is all--> he || 0.9609211087226868
+ when we had walked for hours in silence night fell and the stars began to--> come || 0.9608435034751892
+ his eyes closed-->[EOS] || 0.96083664894104
+ can you hear that said the little--> prince || 0.960830807685852
+ the little prince s words danced in my memory-->[EOS] || 0.9608259201049805
+ and i came to think of him as even more--> frag || 0.9608088135719299
+ the little prince blushed once more-->[EOS] || 0.9607983827590942
+ why then did--> i || 0.9607659578323364
+ you are not being fair--> my || 0.9607133865356445
+ i looked in the moonlight at his pale fore-->head || 0.960659384727478
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles--> produced || 0.9606428146362305
+ you were out walking like that all alone a thousand miles--> from || 0.9606072306632996
+ but it cast an enchantment--> over || 0.9605663418769836
+ of course no one had ever--> been || 0.9605419039726257
+ i did not want him to tire himself--> out || 0.9604835510253906
+ he laughed took the rope and put the pulley--> to || 0.9604665040969849
+ this honey color was also making me feel--> good || 0.9604591131210327
+ the men where you live said the little prince grow five thousand roses--> in || 0.96041339635849
+ it is strange i said to the little prince-->[EOS] || 0.9603908061981201
+ you are--> not || 0.9603796005249023
+ i took my sketches out of my pocket-->[EOS] || 0.9603509306907654
+ oh and i had been so--> proud || 0.9603500366210938
+ ah i said to the little prince these memories of yours are very charming-->[EOS] || 0.9603312015533447
+

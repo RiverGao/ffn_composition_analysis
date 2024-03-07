@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ his--> eyes || 0.9211189150810242
+ myself the--> little || 0.9329180717468262
+ and what do i do with the--> fifty || 0.9354647994041443
+ let us--> look || 0.9403353333473206
+ myself--> the || 0.940426766872406
+ myself--> i || 0.940426766872406
+ your fox--> his || 0.9406359195709229
+ why are--> you || 0.9413886666297913
+ one has--> to || 0.9426653981208801
+ everything has been prepared the pulley the--> bucket || 0.9434570670127869
+ the sand at sunr-->ise || 0.9436427354812622
+ you are not--> being || 0.9436678290367126
+ the men where you live said the--> little || 0.9437059164047241
+ you can do--> anything || 0.9440401196479797
+ but i was not--> re || 0.9451846480369568
+ we have woken up the--> well || 0.9454595446586609
+ and he--> bl || 0.9454838633537292
+ and i--> said || 0.9455833435058594
+ and i--> knew || 0.9455834031105042
+ and i--> came || 0.9455834031105042
+ and i--> added || 0.9455834031105042
+ and i--> looked || 0.9455834031105042
+ you run--> the || 0.9460930228233337
+ it is the image--> of || 0.9469336867332458
+ and yet--> what || 0.9470187425613403
+ i knew--> better || 0.9471518993377686
+ when i--> was || 0.9485280513763428
+ when i--> was || 0.9485280513763428
+ everything has been prepared the pulley the bucket and the--> ro || 0.9489148259162903
+ it was born of the walk--> under || 0.9489166736602783
+ he never considers the--> danger || 0.9491468667984009
+ and i looked without saying anything at the folds of sand in the--> moon || 0.9492768049240112
+ and it--> was || 0.9492841958999634
+ but he--> looked || 0.9497135877609253
+ but he--> did || 0.9497135877609253
+ but he--> respond || 0.9497135877609253
+ but he--> did || 0.9497135877609253
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.9497194886207581
+ everything has been prepared the pulley the bucket and--> the || 0.9497305750846863
+ and i added hesitantly perhaps because of the--> anni || 0.9498070478439331
+ let me do it i--> said || 0.9499204754829407
+ oh it--> will || 0.9500008821487427
+ so i--> made || 0.9501031637191772
+ myself i am glad to have had a fox--> as || 0.9505995512008667
+ so they rush--> about || 0.95087069272995
+ i raised the--> bucket || 0.9509747624397278
+ when we--> had || 0.9509904384613037
+ i was surprised to suddenly understand this myster-->ious || 0.9511144757270813
+ it is a big time saver said the--> merchant || 0.9512822031974792
+ i breathed--> easily || 0.9516412019729614
+
+
+## 50 prefixes with the highest comosition scores:
+ as the little prince fell--> as || 0.9996707439422607
+ as the little prince fell as-->leep || 0.9993776679039001
+ it is nice to have had a friend even--> if || 0.9984458684921265
+ you were out walking like that all alone a thousand miles from--> any || 0.9984196424484253
+ so it was not by chance that the morning i first met you a week--> ago || 0.9981436133384705
+ it seemed to me that i was carrying a very frag-->ile || 0.9959230422973633
+ i saw them as if in a dream as my th-->irst || 0.9953405857086182
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i d-->rank || 0.9952175617218018
+ you have to keep your promise said the little prince soft-->ly || 0.9948938488960266
+ and the pulley moaned like an old weatherv-->ane || 0.994208812713623
+ i hoisted the bucket slowly to the edge of the well and set it--> down || 0.9940415024757385
+ it is absurd to look for a well at random in the imm-->ens || 0.9936836957931519
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would--> walk || 0.9935935139656067
+ it is the image of a rose that sh-->ines || 0.9935551881790161
+ so i made a penc-->il || 0.9934318661689758
+ myself the little prince said to himself if i had fifty three minutes to--> spend || 0.9932018518447876
+ and i came to think of him as even more frag-->ile || 0.9931057691574097
+ i looked in the moonlight at his pale forehead his closed eyes his lo-->cks || 0.9930827021598816
+ you have to keep your promise said the little prince softly who had again sat down--> beside || 0.9930500984191895
+ and yet what they are looking for could be found in a single rose or in a little water-->[EOS] || 0.9930040240287781
+ the men where you live said the little prince grow five thousand roses in a--> single || 0.9929375648498535
+ we have w-->oken || 0.9929097294807434
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i--> would || 0.992905855178833
+ what makes the desert beautiful said the little prince is that somewhere--> it || 0.9928325414657593
+ what makes the desert beautiful said the--> little || 0.9928317070007324
+ i do not know how to draw anything except boa constr-->ict || 0.9926403164863586
+ you are--> not || 0.9925150871276855
+ what makes the desert beautiful said the little prince is that somewhere it--> h || 0.9925134778022766
+ men said the little prince stuff themselves into express trains but they do not know what--> they || 0.9924837350845337
+ i hoisted the bucket slowly to the edge of the well and set it down--> good || 0.9924695491790771
+ and the little prince added but the eyes are--> blind || 0.9924497604370117
+ a little sunsh-->ine || 0.9923483729362488
+ i hoisted the bucket slowly to the edge of the well and set it down good and--> level || 0.9922317266464233
+ you were out walking like that all alone a thousand miles from any inhab-->ited || 0.992194652557373
+ i saw them as if in a dream as my thirst had made me fe-->ver || 0.9920891523361206
+ you sit down on a sand d-->une || 0.9919528365135193
+ i bre-->athed || 0.9919483661651611
+ the little prince saw them and laughed as he said your baobabs they look a bit like cabb-->ages || 0.9919372797012329
+ the wells of the sahara are mere holes d-->ug || 0.991874098777771
+ i do not know how to draw anything except boa con-->str || 0.9918326139450073
+ then after a silence he went--> on || 0.9918092489242554
+ and the pulley moaned like an old weathervane when there--> has || 0.9917946457862854
+ what makes the desert beautiful said the little--> prince || 0.9917433261871338
+ it is the image of a rose that shines in him like the flame of a lamp even when he is--> sleep || 0.9917116165161133
+ myself the little prince said to himself if i had fifty three minutes to spend--> as || 0.9916959404945374
+ you hear nothing and yet something radi-->ates || 0.991675853729248
+ i was surprised to suddenly understand this mysterious radiation of the s-->ands || 0.991585373878479
+ you have to keep your promise said the little prince softly who had--> again || 0.9915632605552673
+ he has never been hungry or th-->irst || 0.9915465116500854
+ men said the little prince stuff themselves into express trains but they do not--> know || 0.9915339946746826
+

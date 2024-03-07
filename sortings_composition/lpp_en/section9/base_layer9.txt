@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ and when your sorrow is comforted--> time || 0.8962090015411377
+ he got a bit--> disc || 0.9140014052391052
+ she has four thorns of--> no || 0.9154881834983826
+ i have never yet told this--> story || 0.9187925457954407
+ ask yourselves has the sheep yes--> or || 0.9197041988372803
+ other times--> i || 0.9224834442138672
+ for some who are--> travel || 0.9247088432312012
+ it is true that they have no poison left for a second b-->ite || 0.9283597469329834
+ it will be as if i would given you instead of stars lots and lots of little b-->ells || 0.928388237953186
+ i had mo-->ist || 0.929122805595398
+ i can not carry--> this || 0.9292848110198975
+ and then the little--> b || 0.9301565885543823
+ for some who are travelers the stars are guides-->[EOS] || 0.9315705299377441
+ if a child--> then || 0.9321121573448181
+ he said to me that which is--> important || 0.9321642518043518
+ i then lowered my eyes to the foot--> of || 0.9323065280914307
+ i have your sheep and i have the box for the sheep and i have the m-->uzz || 0.9325070381164551
+ that night--> i || 0.933139443397522
+ do not come--> to || 0.9331806302070618
+ little fellow i said i want--> to || 0.9332250356674194
+ then i am happy and all--> the || 0.9335517883300781
+ i have your sheep and i have the box for the sheep and i have the muzzle-->[EOS] || 0.9339964389801025
+ if you love a flower--> that || 0.9343191981315613
+ so you will--> tell || 0.9343457221984863
+ so you will--> love || 0.9343459010124207
+ i have never--> yet || 0.9346452951431274
+ it will look a--> bit || 0.9351393580436707
+ and then the little bells turn--> to || 0.9352896213531494
+ but at the noise i made the snake let himself flow easily across the sand like the dying sp-->ray || 0.9355790615081787
+ and then the little b-->ells || 0.9356210827827454
+ sometimes i--> tell || 0.9357607960700989
+ why are you talking with sn-->akes || 0.9360038042068481
+ you will have five hundred million little bells and i will--> have || 0.9361792802810669
+ and i heard him--> say || 0.936411440372467
+ what are you--> trying || 0.9365494251251221
+ what are you--> trying || 0.9365494251251221
+ and then he--> too || 0.9366124868392944
+ i had loosened--> the || 0.9371321201324463
+ i had moistened his--> tem || 0.9375813603401184
+ it will look a bit as if i am dying-->[EOS] || 0.9377285242080688
+ herein lies a great mystery for you who also love the little--> prince || 0.9378288984298706
+ let me go on by myself-->[EOS] || 0.9378808736801147
+ i mean not entirely but i do know that he got back to--> his || 0.9379634261131287
+ for others who are sch-->ol || 0.937974214553833
+ there was next to the well the ruin of an old stone wall-->[EOS] || 0.9381119608879089
+ it is much more--> difficult || 0.9381760358810425
+ and yet it seemed to me--> that || 0.9384937286376953
+ and no grownup--> will || 0.9385067224502563
+ he looked at me gravely and put his arms--> around || 0.9386000037193298
+ if a child then comes to you if he laughs if he has golden--> hair || 0.9386230707168579
+
+
+## 50 prefixes with the highest comosition scores:
+ when you look at--> the || 0.9869727492332458
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that laughter again-->[EOS] || 0.9785518050193787
+ he made no answer to my question but he added i am also going back home today-->[EOS] || 0.9783732891082764
+ even as i dug around in my pocket to take out my revolver i--> made || 0.9778963327407837
+ i have your sheep and i have--> the || 0.9778322577476501
+ little fellow is this all a bad dream--> this || 0.9776851534843445
+ one evening he would have forgotten the glass dome or--> maybe || 0.9776699542999268
+ you will see where my tracks begin in--> the || 0.9776598811149597
+ if a child then comes to you if he laughs if he has golden hair if he does not respond when questioned you--> will || 0.9774768948554993
+ it will be as if i would given you instead of stars lots and lots of little--> b || 0.9771307706832886
+ and then he too was silent because he was crying-->[EOS] || 0.9770700931549072
+ for others they are nothing but--> little || 0.9770541191101074
+ then this is not the--> exact || 0.9770254492759705
+ even as i dug around in my pocket to take--> out || 0.9767674803733826
+ he said you know my flower i--> am || 0.9767491221427917
+ where i live everything is too small for me to point out to you where--> my || 0.9765297770500183
+ when i drew the muzzle for--> the || 0.9765090346336365
+ but i have drawn it again to show--> it || 0.9764868021011353
+ i had loosened the golden muffler that he always wore-->[EOS] || 0.9763427972793579
+ save me from this sorrow-->[EOS] || 0.9762768149375916
+ another voice must have answered him because he replied yes yes it is the right day but this is not the right place-->[EOS] || 0.9761531949043274
+ if a child then comes to you if he laughs if--> he || 0.9761447310447693
+ ah little fellow dear little fellow--> i || 0.9759880304336548
+ then this is not the exact spot-->[EOS] || 0.975924015045166
+ he got a bit discouraged but he made one more effort-->[EOS] || 0.9759182333946228
+ the water you gave me to drink was like music because of--> the || 0.9758352637290955
+ and yet it seemed to me that he was plummeting down into an abyss--> and || 0.9758332967758179
+ it is true that they have no poison left for a second bite-->[EOS] || 0.9758244156837463
+ i was sad but i told them it is because i--> am || 0.9757699966430664
+ it will be as if i would given you instead of stars lots and--> lots || 0.9757538437843323
+ if a child then comes to you if he laughs if he has golden hair if he does not respond--> when || 0.9757051467895508
+ one evening he would have forgotten the glass dome or maybe the sheep got--> out || 0.9756980538368225
+ other times i tell myself everyone is absent minded--> at || 0.975675106048584
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic sound-->[EOS] || 0.9755945801734924
+ i held him tight-->ly || 0.9755881428718567
+ it will look as if i am dead and that will not be true-->[EOS] || 0.9755827784538269
+ he made no answer to my question but--> he || 0.9755781888961792
+ i could feel that he was reviving little by little-->[EOS] || 0.9755778312683105
+ but i have drawn it again to show it to--> you || 0.975501298904419
+ everyone has the same stars but they are not the same to--> everyone || 0.9754806756973267
+ he got a bit discouraged but--> he || 0.9754806756973267
+ there was nothing but a yellow flash close to his ankle-->[EOS] || 0.9754739999771118
+ when i drew the muzzle for the little prince i forgot to add--> the || 0.9754636883735657
+ ask yourselves has the sheep yes or no eaten--> the || 0.9754366874694824
+ he was afraid of course but he laughed soft-->ly || 0.9754354953765869
+ i sat down too because i was no longer able to--> stand || 0.975280225276947
+ it is the same landscape as--> the || 0.9751088619232178
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them--> for || 0.9750353693962097
+ one evening he would have forgotten the glass dome or maybe the sheep got out quietly during the night-->[EOS] || 0.9749678373336792
+ and sometimes you will open your window just like that for fun-->[EOS] || 0.974927544593811
+

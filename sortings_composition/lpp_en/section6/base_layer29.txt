@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.8944555521011353
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.9046249389648438
+ i can help you if somed-->ay || 0.9060218930244446
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9150518774986267
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9247113466262817
+ what does that--> mean || 0.9350525140762329
+ but do not waste your--> time || 0.9375242590904236
+ but extinct volcanoes can wake up interrupted the little--> prince || 0.9380049109458923
+ then those of a-->frica || 0.9383767247200012
+ the recitals of--> expl || 0.9396961331367493
+ then--> came || 0.9406996965408325
+ then--> they || 0.9406996965408325
+ then--> those || 0.9406996965408325
+ then--> those || 0.9406998157501221
+ then--> those || 0.9406998157501221
+ there is no--> one || 0.9414494633674622
+ there is no--> point || 0.9414495229721069
+ but one--> requires || 0.9416224360466003
+ that is to say about--> two || 0.943088173866272
+ and--> they || 0.9440470933914185
+ and--> they || 0.9440470933914185
+ and--> the || 0.9440470933914185
+ and--> if || 0.9440470933914185
+ and--> the || 0.9440471529960632
+ and--> towns || 0.9440471529960632
+ and--> i || 0.9440471529960632
+ and--> mountains || 0.9440471529960632
+ and--> never || 0.9440472722053528
+ and--> he || 0.9440472722053528
+ and--> she || 0.9440472722053528
+ of--> course || 0.9440632462501526
+ and towns and--> rivers || 0.9444019794464111
+ what is a--> ge || 0.9451416730880737
+ is my--> flower || 0.9454168677330017
+ seven million five hundred thousand heavy drink-->ers || 0.9456397294998169
+ who--> are || 0.9457370638847351
+ who--> are || 0.9457371234893799
+ who-->ever || 0.9457371830940247
+ i run the--> risk || 0.9459037780761719
+ the movements of--> this || 0.9459214806556702
+ but what does ephemeral mean repeated--> the || 0.9461589455604553
+ are there--> o || 0.9462575316429138
+ to give you an--> idea || 0.9464443922042847
+ and if any--> of || 0.9465060830116272
+ we write about et-->ernal || 0.9466134905815125
+ they adore numbers and that--> will || 0.9467413425445557
+ it is also lonely amongst--> men || 0.9467625021934509
+ three hundred--> and || 0.9470471739768982
+ but do not waste your time on--> this || 0.947252094745636
+ three hundred and eleven million conceited--> men || 0.9472720623016357
+
+
+## 50 prefixes with the highest comosition scores:
+ i run the risk of giving a fasle idea of our planet to those who--> do || 0.9978421926498413
+ because an explorer who told lies would cause havoc to geography books so would an explorer who d-->rank || 0.9960451126098633
+ but why do you always speak in r-->idd || 0.9958130717277527
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetlamp l-->igh || 0.9955061674118042
+ when one wants to be witty it can happen that one b-->ends || 0.9952031970024109
+ that is to say about two billion grownu-->ps || 0.9951045513153076
+ the movements of this army were reg-->ulated || 0.9946697950363159
+ then came the turn of the l-->am || 0.9943323731422424
+ first came the turn of the l-->am || 0.9941249489784241
+ the recitals of explorers are first recorded in p-->enc || 0.9939363598823547
+ the movements of this army were regulated--> like || 0.993929922580719
+ he asks them questions and he writes down their re-->collections || 0.9938239455223083
+ and the geographer having opened his big register sharpened his penc-->il || 0.9937881827354431
+ i have not been entirely honest in telling you about the l-->am || 0.9937794208526611
+ next came the turn of the l-->am || 0.9936605095863342
+ but extinct volcanoes can w-->ake || 0.99361652135849
+ whether volcanoes are extinct or active is of no consequence to us said the ge-->ograph || 0.9933830499649048
+ the geographer is too important to go st-->rolling || 0.9932193756103516
+ i have three volcanoes two active vol-->cano || 0.9931479692459106
+ whether volcanoes are extinct or active is of no consequence to us--> said || 0.9930937886238098
+ it is very rare that an ocean empt-->ies || 0.9929856657981873
+ the little prince crossed the desert and met only with one flower a flower with three petals a n-->ond || 0.9927782416343689
+ having set their lamps al-->ight || 0.99274742603302
+ is my flower at risk of imminent disappearance-->[EOS] || 0.9927312731742859
+ and he gl-->anced || 0.9926146864891052
+ it is not for the geographer to count the towns the rivers the mountains the seas the oce-->ans || 0.9925596117973328
+ good morning he said courte-->ously || 0.9925097227096558
+ because an explorer who told lies would cause havoc to geography books so would an expl-->orer || 0.9923569560050964
+ then they too would disappear--> into || 0.9923149943351746
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a footst-->ool || 0.9922817945480347
+ it is very rare that a mountain changes position-->[EOS] || 0.9922013282775879
+ because an explorer who told lies would cause hav-->oc || 0.992161214351654
+ it has one hundred and eleven kings not forgetting of course the negro k-->ings || 0.9920268654823303
+ and never would they make a mistake--> in || 0.991936445236206
+ the only mountains he had ever known were the three volcanoes that came up to--> his || 0.9917816519737244
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all at--> once || 0.9916179776191711
+ if the two billion people who inhabit the earth were to stand u-->pr || 0.9915671348571777
+ if the two billion people who inhab-->it || 0.9915481209754944
+ because an explorer who told lies would cause havoc to geography--> books || 0.9915079474449158
+ they worked twice--> a || 0.9914946556091309
+ but why do you always speak in ridd-->les || 0.9914121031761169
+ the only mountains he had ever known were the three vol-->cano || 0.9913778305053711
+ the grownu-->ps || 0.9913231730461121
+ it is very rare that an ocean empties itself--> of || 0.9911924004554749
+ the recitals--> of || 0.9911068081855774
+ only the lamplighter of the single lamp of the north pole and his colle-->ague || 0.9909806847572327
+ that was his first moment of regret but he took heart--> once || 0.9907854199409485
+ and the little prince went away--> thinking || 0.9907712340354919
+ is my flower at risk of imminent disapp-->earance || 0.9905175566673279
+ your planet is very beautiful he said-->[EOS] || 0.9905129075050354
+

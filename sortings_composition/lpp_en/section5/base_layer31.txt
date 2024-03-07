@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ your cigaret-->te || 0.9547516703605652
+ on matters of consequence the little prince had ideas which were very different from those of--> the || 0.9640082716941833
+ on matters of consequence the little prince had ideas which were very different from those of the grow-->nu || 0.973265528678894
+ there is nothing to understand said--> the || 0.9745352268218994
+ this man the little prince said to himself reasons a bit like my poor--> drink || 0.9749136567115784
+ what the little prince did not dare admit to--> himself || 0.9749585390090942
+ what the little prince did not dare admit to himself was that he missed--> this || 0.9751535058021545
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the--> others || 0.9752565622329712
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited--> man || 0.9759588837623596
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited man by the drink-->er || 0.9762753248214722
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited man by the--> drink || 0.9769582748413086
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited man by the drinker and by the business-->man || 0.9775882363319397
+ who own-->s || 0.9776719212532043
+ i do not understand said the little--> prince || 0.9777160286903381
+ on matters of consequence the little prince had ideas which were very different from those of the--> grow || 0.9791473150253296
+ i do not understand said the--> little || 0.9792134761810303
+ good--> morning || 0.979396641254425
+ good--> evening || 0.979396641254425
+ good--> morning || 0.979396641254425
+ good--> evening || 0.979396641254425
+ good--> morning || 0.979396641254425
+ good--> morning || 0.979396641254425
+ good--> morning || 0.979396641254425
+ good--> morning || 0.9793967008590698
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of all because of the one thousand four--> hundred || 0.9796643257141113
+ on matters of consequence the little prince had ideas which were very different from those--> of || 0.9797584414482117
+ there was just enough room on it to accommodate a street lamp and a lam-->pl || 0.9800958037376404
+ five hundred and one million what repeated the little prince who had never in his--> life || 0.9803509712219238
+ the orders have not changed said the lam-->pl || 0.9804381132125854
+ that does not do me much good said the lam-->pl || 0.9810178875923157
+ the little prince could not work out the purpose of having a street--> lamp || 0.9811549186706543
+ i do not understand said--> the || 0.9812348484992981
+ this man the little prince said to himself reasons a bit like my--> poor || 0.9812560677528381
+ the little prince watched him and felt that he loved this lamplighter who was so faithful to his--> orders || 0.9815778732299805
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of all because of the one thousand four hundred and forty sunsets every--> day || 0.9817129969596863
+ that man said the little prince to--> himself || 0.9819092750549316
+ it is not funny at all said the lam-->pl || 0.9819163680076599
+ and the--> little || 0.981955349445343
+ twelve--> and || 0.9821233153343201
+ and he put out his--> lamp || 0.982215166091919
+ and he put out his--> lamp || 0.982215166091919
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all--> the || 0.9827398657798767
+ he said to himself nevertheless it may well be that this man is--> abs || 0.9830703735351562
+ the businessman real-->ised || 0.983122706413269
+ on matters of consequence the little prince had ideas which were very different from--> those || 0.9832432270050049
+ what the little--> prince || 0.9833608865737915
+
+
+## 50 prefixes with the highest comosition scores:
+ i own three volcanoes that i sweep out--> every || 0.9999721646308899
+ he remembered the sunsets which he himself had gone to seek in the past by moving his chair-->[EOS] || 0.9999436140060425
+ then they belong to me because--> i || 0.999907910823822
+ i myself he continued own a flower that i water--> every || 0.999902606010437
+ then they belong to me because i thought--> of || 0.9998989105224609
+ this man was so busy that--> he || 0.9998928308486938
+ but he is less absurd than the king than the conceited man the businessman--> or || 0.999875545501709
+ he remembered the sunsets which he himself had gone to seek in the past by moving--> his || 0.9998685717582703
+ that means that i write the number of my stars on a little paper and then i lock this paper in a dra-->wer || 0.9998676180839539
+ the businessman realised that--> there || 0.9998663067817688
+ the fourth planet belonged to--> a || 0.9998570680618286
+ perhaps it is--> because || 0.9998570680618286
+ i own three volcanoes that i sweep--> out || 0.9998538494110107
+ but i have already seen--> a || 0.9998490810394287
+ but he is less absurd than the king than the conceited man the businessman or the drinker-->[EOS] || 0.9998475313186646
+ it is very different-->[EOS] || 0.9998416304588318
+ i own three volcanoes that i sweep out every week as i also swe-->ep || 0.9998347759246826
+ you know i know a way you can rest whenever you want-->[EOS] || 0.9998180270195007
+ but he is less absurd--> than || 0.9998142123222351
+ the first time was twenty two years ago by some scatterbra-->in || 0.999811053276062
+ you can walk and the day will last as long as you like-->[EOS] || 0.9998088479042053
+ i was saying then five hundred and one--> million || 0.9998053908348083
+ but i have--> already || 0.9998035430908203
+ so what then said--> the || 0.999802827835083
+ yet he is the only one that does not seem rid-->icul || 0.9997909665107727
+ it is of some use to my volcanoes and it is of some use--> to || 0.9997831583023071
+ the businessman realised that there--> was || 0.9997760653495789
+ and i own the stars because--> no || 0.9997696876525879
+ that does not do me much good--> said || 0.9997696876525879
+ but he is less absurd than the king than--> the || 0.9997568726539612
+ he made--> the || 0.9997543096542358
+ the first time--> was || 0.9997527599334717
+ it is of some use to my volcanoes and it is of some use to my flower that i own them-->[EOS] || 0.9997506141662598
+ when he arrived on the planet he respectfully sal-->uted || 0.9997456669807434
+ it serves a real purpose because--> it || 0.9997414350509644
+ no but i--> can || 0.9997411966323853
+ yet he is the only one that does not seem ridiculous to me-->[EOS] || 0.9997396469116211
+ it is rather poetic but it is of no great consequence-->[EOS] || 0.9997357130050659
+ millions of those little objects--> that || 0.999728262424469
+ but he is less abs-->urd || 0.9997235536575317
+ the fourth planet belonged to a businessman-->[EOS] || 0.999721884727478
+ perhaps it is because he thinks of something--> other || 0.9997189044952393
+ i count them and rec-->ount || 0.9997155666351318
+ on matters of consequence the little prince had ideas which were very different from those of the grownu-->ps || 0.9997111558914185
+ i would put--> the || 0.9997097253799438
+ in the old days--> it || 0.999708354473114
+ i count them and recount them--> said || 0.9997010827064514
+ and he lit it--> again || 0.9996997117996216
+ but he is less absurd than the king than the conceited man--> the || 0.9996964931488037
+ your planet is so small that--> you || 0.9996905326843262
+

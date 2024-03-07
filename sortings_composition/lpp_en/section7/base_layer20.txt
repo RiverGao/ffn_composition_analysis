@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8620453476905823
+ my life is very monoton-->ous || 0.8644739389419556
+ the fox seemed very intrigu-->ed || 0.8833805322647095
+ i can go for a walk as far as the viney-->ards || 0.8946058750152588
+ but every day you will be able--> to || 0.9132870435714722
+ because she--> is || 0.9554453492164612
+ the--> next || 0.9580330848693848
+ the--> little || 0.9580330848693848
+ the--> fo || 0.9580330848693848
+ the--> whe || 0.9580330848693848
+ the--> men || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ the--> whe || 0.9580332040786743
+ the--> fo || 0.9580332040786743
+ you will understand that yours is unique--> in || 0.9610564112663269
+ unlike any other--> other || 0.9616488218307495
+ unlike any other other--> foot || 0.9627951383590698
+ but i--> do || 0.9635469913482666
+ she would c-->ough || 0.9646068811416626
+ and i--> do || 0.9655078053474426
+ all the--> ch || 0.9660855531692505
+ because it--> is || 0.9660907983779907
+ because it--> is || 0.9660907983779907
+ because it--> is || 0.9660907983779907
+ because it--> is || 0.9660907983779907
+ i am right here the voice--> said || 0.9661048054695129
+ i think she has tamed--> me || 0.9661327004432678
+ you will understand that--> yours || 0.9664478302001953
+ what is it that they are looking for-->[EOS] || 0.9664756059646606
+ but the--> fo || 0.9665753245353699
+ but if you tame--> me || 0.967399001121521
+ but if you tame--> me || 0.967399001121521
+ what is essential is invisible to the eye repeated the--> little || 0.9674445390701294
+ to me you are still only a little boy--> just || 0.9674679040908813
+ i dispatch the trains that carry them sometimes to the right sometimes to--> the || 0.9675477147102356
+ oh i--> am || 0.9682635068893433
+ i dispatch the--> trains || 0.968625545501709
+ my--> life || 0.9691293835639954
+ because of the--> color || 0.9693154096603394
+ if you--> want || 0.9693194627761841
+ if you--> come || 0.9693194627761841
+ then he said to himself--> i || 0.9696083068847656
+ on--> another || 0.9698941111564636
+ on--> th || 0.9698941707611084
+ on--> earth || 0.9698941707611084
+ oh but she--> is || 0.970511257648468
+ one which--> is || 0.9706587195396423
+ if you come for example at four o--> clock || 0.9707701802253723
+ what is it that you are looking for-->[EOS] || 0.9708402752876282
+ of course an ordinary passer by would think that my--> rose || 0.9708774089813232
+
+
+## 50 prefixes with the highest comosition scores:
+ that does not make--> me || 0.9969089031219482
+ men no longer have the--> time || 0.994695246219635
+ they are not chasing--> after || 0.9943882822990417
+ they are asleep in there or if not they are yaw-->ning || 0.9942114353179932
+ i would feel happier and happ-->ier || 0.9936841726303101
+ but your hair is--> the || 0.9935812950134277
+ men no longer have the time to get to know--> anything || 0.9934768080711365
+ i think she has t-->amed || 0.9933684468269348
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all--> al || 0.993192195892334
+ i am so unh-->appy || 0.9930635690689087
+ if the hunters danced on just any day all the--> days || 0.9930273294448853
+ a second brilliantly lit express thundered by in the--> opposite || 0.992939293384552
+ i will watch you out of the corner of my--> eye || 0.9928966760635376
+ but your hair is the color of gold so it will be wonderful when you have--> t || 0.9928799867630005
+ but your hair is the color of gold so it will be wonderful when you have t-->amed || 0.9928024411201477
+ and when the time to leave drew--> near || 0.9927821159362793
+ to me you are still only a little boy just--> like || 0.9926127195358276
+ but every day you will be able to sit--> a || 0.9926084876060486
+ he was only a fox just--> like || 0.9925965666770935
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to--> nur || 0.9925103187561035
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time--> got || 0.9925015568733215
+ and a brilliantly lit express train rumbling like--> th || 0.9924288988113403
+ because it is for her that i killed the caterpillars except two or three to become--> but || 0.9924148321151733
+ if the hunters danced on just any day all--> the || 0.9923797249794006
+ but the fox came back to his--> idea || 0.9923744201660156
+ then he said to himself i thought i was rich with a flower that was one of a kind and all i have is a common--> rose || 0.9923319220542908
+ and then look you see the wheat fields down--> there || 0.9922962188720703
+ the fox seemed very--> intr || 0.9922944903373718
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my--> bur || 0.9921658635139465
+ i would come to know a sound of foot-->steps || 0.9921196103096008
+ that does not make me a very great prince and lying in the grass he started--> to || 0.9920377731323242
+ only the children are squashing their noses up against--> the || 0.9920341968536377
+ we must observe the r-->ites || 0.9920282363891602
+ but if you come at just any time i would never know at what time my heart should be ready to gre-->et || 0.9920016527175903
+ i would feel--> happ || 0.9920008182525635
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to hum-->ble || 0.9919083118438721
+ the little prince went away to see the ros-->es || 0.9919030666351318
+ i would be jump-->ing || 0.9918591976165771
+ i will watch you out of the corner--> of || 0.991851270198822
+ because it is her that i listened to grumble or boast or even sometimes when she said--> nothing || 0.9918467998504639
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to--> pret || 0.9918018579483032
+ first you will sit down a little way away from me like this in the--> grass || 0.9917957782745361
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to--> hum || 0.9917752146720886
+ and a brilliantly lit express train rumbling like thunder--> shook || 0.9917634725570679
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got--> near || 0.991754412651062
+ and the roses were very embar-->rass || 0.9917214512825012
+ the wheat which is golden will remind me of you and i will love the sound of the wind blowing through the whe-->at || 0.9917007088661194
+ and he suddenly felt very unh-->appy || 0.991673469543457
+ men said the fox they have guns and they--> h || 0.9915749430656433
+ men no longer have--> the || 0.9915638566017151
+

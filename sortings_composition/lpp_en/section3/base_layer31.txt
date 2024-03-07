@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he looks at--> them || 0.9652911424636841
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when--> he || 0.9683066010475159
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough--> to || 0.96994948387146
+ one day for example speaking of her four thorns she told the little prince let them come the tig-->ers || 0.9747132062911987
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make--> him || 0.9752774238586426
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely this--> spr || 0.975651204586029
+ i said the flower that you love--> is || 0.9766178131103516
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he looks--> at || 0.9768709540367126
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely this sprout that was not like the--> other || 0.9780316352844238
+ safe--> in || 0.9781960844993591
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.978826642036438
+ if someone loves a flower of which just--> one || 0.979073703289032
+ good-->bye || 0.979396641254425
+ good-->bye || 0.9793967008590698
+ the little prince never let go of a--> question || 0.9794994592666626
+ i rock-->ed || 0.9796843528747559
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars--> it || 0.9797643423080444
+ and the little prince completely abashed having gone to look for--> a || 0.9801173210144043
+ det-->ests || 0.9802973866462708
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it--> is || 0.9813162088394165
+ my cold is not all--> that || 0.981553852558136
+ i answered--> the || 0.9815723896026611
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ hum-->ili || 0.9817296862602234
+ i said the flower that you love is not--> in || 0.9818649291992188
+ he has never looked at a star-->[EOS] || 0.9818741679191589
+ and the--> little || 0.981955349445343
+ the little prince also pulled up with a hint of sadness the last little shoots of the--> ba || 0.9821112155914307
+ the little prince guess-->ed || 0.9821366667747498
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of--> stars || 0.9824337959289551
+ he owned two active--> vol || 0.9824560284614563
+ if someone loves a flower of which just one specimen exists amongst the millions--> and || 0.9828570485115051
+ and the little prince completely abashed having gone to look for a sprinkling can of--> fresh || 0.982871949672699
+ one day for example speaking of her four thorns she told the little prince let them come the tigers with their--> cla || 0.9830400347709656
+ i said the flower that you love is not in--> danger || 0.9832018613815308
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he--> looks || 0.9833769202232361
+ my cold--> is || 0.9835951328277588
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched--> very || 0.9836052060127258
+ i am a flower-->[EOS] || 0.9836729764938354
+ and the little prince completely abashed having gone to look for a--> spr || 0.9838312864303589
+ yes--> even || 0.9839157462120056
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely--> this || 0.9839716553688049
+ am--> i || 0.984065055847168
+
+
+## 50 prefixes with the highest comosition scores:
+ we must look at them and breathe their fragr-->ance || 0.9999125599861145
+ she overwhel-->med || 0.9999071359634399
+ i was very worried because--> my || 0.9999051094055176
+ this business of the claws which anno-->yed || 0.9999046921730042
+ volcanic eru-->ptions || 0.9998847246170044
+ one day for example speaking of her four thorns--> she || 0.9998685121536255
+ if they are well cleaned out volcanoes--> burn || 0.9998637437820435
+ you conf-->use || 0.9998593330383301
+ then one--> morning || 0.9998576045036316
+ she overwhelmed me with her fragr-->ance || 0.9998548626899719
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the extinct vol-->cano || 0.9998522996902466
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the ext-->inct || 0.999841570854187
+ we must look at them and breathe their fra-->gr || 0.9998412728309631
+ is the war between the flowers and sheep not important-->[EOS] || 0.9998409152030945
+ on the morning of--> his || 0.99983811378479
+ on the fifth day again--> thanks || 0.9998270273208618
+ he looked at me dumbf-->ounded || 0.9998260736465454
+ at that--> moment || 0.9998167753219604
+ he shook his golden curls in the bree-->ze || 0.9998165965080261
+ the little prince who witnessed the appearance of a huge bud felt that a mi-->rac || 0.9998162388801575
+ he believed--> he || 0.999814510345459
+ and after having worked--> with || 0.9998078942298889
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emer-->ge || 0.9998047351837158
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emerge--> from || 0.9998041391372681
+ if they are well cleaned out volcanoes burn slowly and steadily without any eru-->ptions || 0.9997900724411011
+ they are naive-->[EOS] || 0.9997841715812683
+ that is why--> they || 0.9997837543487549
+ we must look at them--> and || 0.99978107213974
+ on our earth we are obviously much--> too || 0.9997803568840027
+ i should have her jud-->ged || 0.9997739195823669
+ and her mysterious ad-->orn || 0.9997732043266296
+ if they are well cleaned--> out || 0.9997703433036804
+ and you think--> that || 0.9997646808624268
+ and like that she had soon begun to tor-->ment || 0.9997593760490417
+ the little prince could not restrain his adm-->iration || 0.9997575283050537
+ they would appear one morning in the grass and by evening they would have faded--> away || 0.9997559189796448
+ he owned two active vol-->cano || 0.9997515082359314
+ he asked abruptly without anything leading up to it as if it was the result of a long silent med-->itation || 0.999750018119812
+ at that moment i was thinking to myself if this bolt will not bud-->ge || 0.9997429847717285
+ and it is not a matter of consequence to try to understand why--> they || 0.9997403025627136
+ on the morning of his departure--> he || 0.9997363090515137
+ volcanic eruptions are like fires in a chim-->ney || 0.9997352957725525
+ the thorns are of no use--> at || 0.999731183052063
+ at that moment i was thinking to myself if--> this || 0.9997310042381287
+ they would appear--> one || 0.9997282028198242
+ he has never done anything but sums and all day long he repeats--> just || 0.9997268915176392
+ i felt very awk-->ward || 0.999720573425293
+ but this one had--> spr || 0.9997193813323975
+ he also owned an extinct vol-->cano || 0.9997182488441467
+ we must look at them and breathe their fragrance-->[EOS] || 0.9997174143791199
+

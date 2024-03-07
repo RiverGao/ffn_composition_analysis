@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ she overwh-->el || 0.8829081654548645
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8878846168518066
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.8886160254478455
+ i should have seen the tendern-->ess || 0.9002715349197388
+ we must look at them and breat-->he || 0.9063472151756287
+ then one morning exactly at sunr-->ise || 0.9186217188835144
+ the little prince who witnessed--> the || 0.954351544380188
+ mine perfumed my whole planet but i did not know how to take pleasure in it-->[EOS] || 0.9554657936096191
+ the thorns are of no use at all-->[EOS] || 0.9558703899383545
+ it seems that they are very beautiful and otherwise who else will come to visit me-->[EOS] || 0.9559095501899719
+ i should not have listened to her-->[EOS] || 0.9559541344642639
+ and the little prince completely abashed having gone to look for a sprinkling can of fresh--> water || 0.9559840559959412
+ he can say my flower is out--> there || 0.9572383761405945
+ i myself am busy with matters of consequence-->[EOS] || 0.9580261707305908
+ but i was too young to know how to love her-->[EOS] || 0.9593096375465393
+ we must look at them and breathe their fragr-->ance || 0.959557294845581
+ he watched me hammer in hand and my fingers black with grease leaning on an object that would have seemed to him--> very || 0.9598340392112732
+ matters of consequence-->[EOS] || 0.9600430130958557
+ she could not have known anything of other worlds-->[EOS] || 0.9605097770690918
+ it could have been a--> new || 0.9605833292007446
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the extinct volcano--> too || 0.9607641696929932
+ the little prince who witness-->ed || 0.9616353511810303
+ i will draw you a muzzle for your sheep-->[EOS] || 0.9617506265640259
+ oh yes she was a very flirtatious creature-->[EOS] || 0.9618720412254333
+ he watched me hammer in hand and my fingers black with grease leaning on an object--> that || 0.961878776550293
+ i am busy with matters of consequence-->[EOS] || 0.9621261954307556
+ flowers have been growing thorns for millions of years-->[EOS] || 0.9623488783836365
+ volcanic eruptions are like fires--> in || 0.9623652696609497
+ the flower cough-->ed || 0.9625731706619263
+ i myself am busy with matters of--> consequence || 0.9625846743583679
+ at that moment i was thinking to myself if this bolt will--> not || 0.9626455307006836
+ the little prince who witnessed the appearance of a huge bud felt that a miracul-->ous || 0.9635093808174133
+ i do not fear tigers--> but || 0.963672935962677
+ and it is not a matter of consequence to try to understand--> why || 0.9638231992721558
+ and that makes him swell--> up || 0.9639505743980408
+ i am busy with matters of--> consequence || 0.9640236496925354
+ i think that for his escape he took advantage of a migration of a flock of wild birds-->[EOS] || 0.9641826152801514
+ that made me feel--> a || 0.9645869135856628
+ he stood there all bew-->ilder || 0.9646718502044678
+ there was on--> a || 0.9647893905639648
+ he watched me hammer in hand and my fingers black with grease leaning on an object that--> would || 0.9651018381118774
+ i felt very--> awk || 0.9651711583137512
+ volcanic eruptions are like--> fires || 0.9652354121208191
+ you should never listen to the--> flowers || 0.9654359817504883
+ i was upset over--> the || 0.9655810594558716
+ humiliated at having been caught out on a lie so naive she--> c || 0.9657277464866638
+ and her mysterious adornment had thus lasted for days and days-->[EOS] || 0.9659260511398315
+ the little prince who witnessed the appearance of a--> huge || 0.9659925103187561
+ he stood there all bewildered the dome held in--> mid || 0.9662097096443176
+ then she forced a c-->ough || 0.9662677645683289
+
+
+## 50 prefixes with the highest comosition scores:
+ you would not happen to have a screen-->[EOS] || 0.9932695031166077
+ but she interrupted--> herself || 0.9923555254936218
+ volcanic eruptions are like fires in a chim-->ney || 0.9921727776527405
+ the screen-->[EOS] || 0.9921022057533264
+ i should have seen the tend-->ern || 0.9916667938232422
+ on the fifth day again thanks to the sheep this secret--> of || 0.9912126064300537
+ he owned two active--> vol || 0.9911084771156311
+ that is bad--> luck || 0.9910067915916443
+ but the shrub soon stopped growing and began to produce--> a || 0.99085533618927
+ i know a planet where there is a redfac-->ed || 0.99077308177948
+ he carefully swept out his active--> vol || 0.9906429052352905
+ so the little prince despite the good will of his love had soon come--> to || 0.9906421899795532
+ i do apolog-->ize || 0.9905165433883667
+ humiliated at having been caught out on a lie so naive she coughed two or three times to--> imply || 0.9903707504272461
+ i should have seen the tenderness behind her cont-->riv || 0.9903064966201782
+ on the morning of his departure he put--> his || 0.9902777075767517
+ i was--> not || 0.9900818467140198
+ i was--> silly || 0.9900818467140198
+ i was--> very || 0.9900818467140198
+ i was--> very || 0.9900818467140198
+ i was--> just || 0.9900818467140198
+ i was--> ups || 0.9900818467140198
+ he also owned an extinct volcano but as he used to say you never know so he clean-->ed || 0.9900636672973633
+ if they are well cleaned out volcanoes burn slowly and stead-->ily || 0.9900261163711548
+ and the little prince completely abashed having gone--> to || 0.9899849891662598
+ i will have to end-->ure || 0.9899632334709167
+ that made me feel a little ash-->amed || 0.9897228479385376
+ i was just going to look for it when you spoke--> to || 0.9896984100341797
+ he also owned an extinct volcano but as he used to say you never--> know || 0.9896305799484253
+ a mush-->room || 0.9895381331443787
+ let the d-->ome || 0.9895091652870178
+ and it is not a matter of consequence to try--> to || 0.9895069003105164
+ he asked abruptly without anything leading up to--> it || 0.9894742965698242
+ i was upset over the bolt and i said the first thing that--> came || 0.989433228969574
+ there was--> on || 0.989430844783783
+ he stood there all bewildered the dome held in mid--> air || 0.9894235134124756
+ mine--> perf || 0.9893785119056702
+ he stood there all bewildered the d-->ome || 0.9893746376037598
+ i was upset over the bolt and i said the first thing that came into--> my || 0.9893725514411926
+ this business of the claws which annoyed me so much should only have filled my heart with tend-->ern || 0.9893657565116882
+ he has never sm-->elled || 0.9893200397491455
+ he also owned an extinct volcano but as he used to say you never know so he cleaned--> out || 0.9893174767494202
+ on the morning of his departure he put his planet in--> perfect || 0.9892922639846802
+ if someone loves--> a || 0.9892570972442627
+ i was very worried because my breakdown was--> beginning || 0.9891584515571594
+ he also owned an extinct volcano but as he used--> to || 0.9891574382781982
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy--> in || 0.9891389012336731
+ i was upset over the bolt and i said the first thing that came--> into || 0.9891202449798584
+ the little prince could not rest-->rain || 0.98909991979599
+ and it is not a matter of consequence to try to understand why they take so much--> trouble || 0.9890822172164917
+

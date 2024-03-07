@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8871992230415344
+ my life is very monoton-->ous || 0.9107268452644348
+ i can go for a walk as far as the viney-->ards || 0.9214695692062378
+ the fox seemed very intrigu-->ed || 0.9228878617286682
+ but every day you will be able--> to || 0.9262735247612
+ his--> flower || 0.9292830228805542
+ a second brilliantly lit--> express || 0.9314004778862
+ they are also something too--> often || 0.9366670250892639
+ i hunt chick-->ens || 0.9374238848686218
+ they are not chasing after--> anything || 0.938845694065094
+ not even the locomotive engineer knows that said--> the || 0.9395301938056946
+ come and play with me proposed the--> little || 0.9400603175163269
+ words are a source--> of || 0.9404017925262451
+ then--> he || 0.9406996965408325
+ then--> come || 0.9406996965408325
+ no one is ever happy where they are said the switch-->man || 0.940827488899231
+ they waste their--> time || 0.9411705136299133
+ i am looking for men said the--> little || 0.9417374134063721
+ they buy--> things || 0.9421277642250061
+ of course an--> ordinary || 0.9425125122070312
+ unlike any other--> other || 0.942635178565979
+ i am responsible for my rose repeated--> the || 0.9431869983673096
+ and--> he || 0.9440470933914185
+ and--> ch || 0.9440470933914185
+ and--> a || 0.9440470933914185
+ and--> when || 0.9440470933914185
+ and--> then || 0.9440471529960632
+ and--> he || 0.9440471529960632
+ and--> if || 0.9440471529960632
+ and--> then || 0.9440471529960632
+ and--> the || 0.9440471529960632
+ and--> i || 0.9440472722053528
+ of--> course || 0.9440633654594421
+ but she alone is--> more || 0.9443522095680237
+ good morning responded the--> little || 0.9446965456008911
+ these are not the same ones said--> the || 0.9447128176689148
+ they are not--> ch || 0.9450077414512634
+ what is a--> r || 0.9451415538787842
+ then he said to himself i thought i was rich--> with || 0.9453117251396179
+ who--> are || 0.9457370638847351
+ who--> are || 0.9457371234893799
+ are they chasing after the first travel-->ers || 0.946073055267334
+ are there--> hun || 0.9462575316429138
+ these are not--> the || 0.9464545845985413
+ it would have been better to come back at the same time of day said--> the || 0.9467453956604004
+ if you come for--> example || 0.9472411274909973
+ they are not chasing after anything at all said the switch-->man || 0.9472485780715942
+ i am a fox the--> fo || 0.9472989439964294
+ you are not from here said--> the || 0.9476202726364136
+ the wheat fields mean--> nothing || 0.9476633667945862
+
+
+## 50 prefixes with the highest comosition scores:
+ it is the time that i have wasted--> on || 0.9997529983520508
+ it is the time you have wasted--> on || 0.9992590546607971
+ but as there are not any shops--> that || 0.9971240162849426
+ because it is her that i put under the glass d-->ome || 0.9962220788002014
+ one only understands the things that one t-->ames || 0.9960882663726807
+ she would c-->ough || 0.994996964931488
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nur-->se || 0.9948760271072388
+ no one has tamed you and you have not t-->amed || 0.9946942329406738
+ i will watch you out of the corner--> of || 0.9945062398910522
+ the wheat which is golden will remind me of you and i will love the sound of the wind blowing--> through || 0.9941446185112
+ you become forever responsible for that which you have t-->amed || 0.9941296577453613
+ they really are in a hurry--> said || 0.9940717816352844
+ so the little prince t-->amed || 0.9940196871757507
+ what is essential is invisible to the--> eye || 0.9937450885772705
+ what is essential is invisible to the--> eye || 0.9937449097633362
+ it is the time you have wasted on your rose that makes--> your || 0.9935782551765442
+ first you will sit down--> a || 0.9934061765670776
+ a third brilliantly lit express th-->under || 0.993285059928894
+ but if you tame me it would bring some sunlight into my--> life || 0.9931705594062805
+ and he suddenly felt very unh-->appy || 0.9931650161743164
+ because it is for her that i killed the c-->ater || 0.9928198456764221
+ but it happened that the little prince having walked for a long time through the s-->ands || 0.9926643371582031
+ the men have forgotten this truth--> said || 0.9924377202987671
+ the little prince went away--> to || 0.9924348592758179
+ she would cough and c-->ough || 0.9923419952392578
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the dwellings of--> men || 0.9922074675559998
+ a second brilliantly lit express th-->under || 0.9921714663505554
+ to me you are still only a little boy just like a hundred thousand other little boys-->[EOS] || 0.9920338988304138
+ the men have forgotten this--> truth || 0.9918373227119446
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my bur-->row || 0.9917109608650208
+ if the hunters danced on just any day all the days--> would || 0.9916796684265137
+ it is the time you have wasted on your rose that makes your rose so--> important || 0.9913137555122375
+ they waste their time with a rag doll and it becomes very important to them-->[EOS] || 0.9912815690040588
+ i will watch you out of the corner of--> my || 0.9912359118461609
+ only the children are squ-->ash || 0.9911182522773743
+ what is it that they are looking--> for || 0.9910447001457214
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all al-->ike || 0.9909058213233948
+ but if you come at just any time i would never know at what time my heart should be ready to gre-->et || 0.9907906651496887
+ but it happened--> that || 0.9907059073448181
+ they are asleep in there or if not they--> are || 0.9906831979751587
+ because it is for her that i killed the caterpillars except two or three to become--> but || 0.9906503558158875
+ men said the fox they have guns and they h-->unt || 0.9905310869216919
+ and then look--> you || 0.9904639720916748
+ i never wished you any harm but you wanted me to t-->ame || 0.9904160499572754
+ a second brilliantly lit express thundered by in the opposite direction-->[EOS] || 0.9902833104133606
+ but if you t-->ame || 0.9902216792106628
+ but if you t-->ame || 0.9902215600013733
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to--> pret || 0.9902026653289795
+ the little prince went away to see the--> ros || 0.9902013540267944
+ i never wished you any harm but you wanted me--> to || 0.9898843169212341
+

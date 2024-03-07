@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ of course no one had ever been able--> to || 0.8544253706932068
+ the sand at sunr-->ise || 0.8811585903167725
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.8978331685066223
+ the desert--> is || 0.943528950214386
+ it is a big time sa-->ver || 0.9438427090644836
+ i looked in the moonlight at his pale forehead his closed eyes his locks of hair that trembled in the wind-->[EOS] || 0.9438565969467163
+ we were at the e-->ighth || 0.9452210664749146
+ myself the little prince said to himself if i had fifty three--> minutes || 0.9456255435943604
+ i bre-->athed || 0.9470729231834412
+ i looked in the moonlight at his pale forehead his--> closed || 0.9483386874198914
+ the well-->s || 0.9484394192695618
+ the well--> we || 0.9484394788742065
+ he has never--> been || 0.9495726227760315
+ so i--> made || 0.9506719708442688
+ the well we had reached was not like the other wells of the--> sah || 0.9509398341178894
+ your fox--> his || 0.9517775177955627
+ i have always loved the desert-->[EOS] || 0.9520213007926941
+ that which is most important is--> invisible || 0.9520505666732788
+ we were at the eighth day since my accident in the--> desert || 0.9521130323410034
+ they do not find it i--> replied || 0.9525371789932251
+ it is absurd to look for a well at random in the immensity of the desert--> but || 0.9525527358055115
+ you sit down on a sand d-->une || 0.952768087387085
+ as--> his || 0.9529839754104614
+ as--> the || 0.9529839754104614
+ i have always loved the--> desert || 0.9530356526374817
+ you were out walking like that all alone a thousand--> miles || 0.9531296491622925
+ we were at the eighth day since my accident--> in || 0.953407883644104
+ so it was not by chance that the morning i first met you a--> week || 0.9535711407661438
+ i looked in the moonlight at his pale forehead his closed eyes his locks of hair that trembled--> in || 0.9536267518997192
+ let me do it--> i || 0.9542747735977173
+ and what do i do with the fifty three--> minutes || 0.9544945359230042
+ the little prince saw them and laughed as he said your--> ba || 0.9545688033103943
+ you were out walking like that all alone a--> thousand || 0.9550409913063049
+ when i was a little boy the lights of the christ-->mas || 0.9550632238388062
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant--> as || 0.9553315043449402
+ the stars--> are || 0.9560828804969788
+ the desert is--> beautiful || 0.9560986161231995
+ so i made a pencil sketch of--> a || 0.956123411655426
+ the song of the pulley continued in my ears and in the still trembling water i could see the sunlight shimmer-->[EOS] || 0.9564381837844849
+ a--> g || 0.9567224979400635
+ a--> little || 0.9567224979400635
+ so i made a pencil sketch of a--> m || 0.9571350812911987
+ he has--> never || 0.9572900533676147
+ my home was hiding a secret in the depth-->s || 0.9573439359664917
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this--> little || 0.9573678970336914
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness--> in || 0.9574968814849854
+ yes i said to--> the || 0.9577435255050659
+ but he looked--> at || 0.9578417539596558
+ he did not--> follow || 0.9579266309738159
+ you run the risk of weeping a little if you allow yourself to be t-->amed || 0.9579587578773499
+
+
+## 50 prefixes with the highest comosition scores:
+ you run the risk of weeping a little if you allow yourself--> to || 0.9899988770484924
+ i did not want him to tire himself--> out || 0.9891289472579956
+ because--> we || 0.9886616468429565
+ men said the little prince stuff themselves into express--> trains || 0.9881564974784851
+ good morning said--> the || 0.9879706501960754
+ good morning said--> the || 0.9879706501960754
+ when we--> had || 0.9869852066040039
+ men said the little prince stuff themselves--> into || 0.9869804382324219
+ oh and i had been so proud--> of || 0.9866634011268616
+ i am thirsty for this water said--> the || 0.9863913655281067
+ but it cast--> an || 0.9863877892494202
+ a gust of wind can put them out-->[EOS] || 0.9862937331199646
+ i have nothing left to--> drink || 0.9862269163131714
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart--> as || 0.9861615896224976
+ you were out walking like that all--> alone || 0.9861310720443726
+ i took my sketches out--> of || 0.9860780835151672
+ i do not know how to draw--> anything || 0.9860507845878601
+ it was as sweet--> as || 0.9860289692878723
+ i sat down beside him and after--> a || 0.9860273599624634
+ ah i said to the little prince these mem-->ories || 0.986001193523407
+ i will wait--> for || 0.9859840273857117
+ you have to search with the heart-->[EOS] || 0.9859812259674072
+ can you hear--> that || 0.9859529733657837
+ you have to keep your promise said the little prince softly who had again sat down beside--> me || 0.9859074354171753
+ when i was a little boy i lived in an old house and legend told that a tre-->asure || 0.9858852028846741
+ so it was not by chance--> that || 0.9858466386795044
+ i sat down beside him and after a silence he spoke--> again || 0.9858046174049377
+ i hoisted the bucket slowly to the edge--> of || 0.985704243183136
+ you have to keep your promise said--> the || 0.9856757521629333
+ and yet what they are looking for could be found in a single rose or in--> a || 0.9856669902801514
+ men said--> the || 0.9855648875236511
+ i sat down beside him and after a--> silence || 0.9855368733406067
+ he never answered questions but when you blush that means--> yes || 0.9854691028594971
+ the men where you live said--> the || 0.985426664352417
+ he said simply--> water || 0.9853711128234863
+ it is a big time saver said--> the || 0.9853549003601074
+ when we had walked for hours in silence--> night || 0.9853416085243225
+ i am wor-->ried || 0.9853315353393555
+ and yet what they are looking for could be--> found || 0.9853032231330872
+ come back tomorrow evening-->[EOS] || 0.9852879643440247
+ we were at the eighth day since my accident in the desert and i had listened to the story--> of || 0.9852175712585449
+ the men where you live said the little prince grow--> five || 0.9852136373519897
+ when i--> was || 0.9851792454719543
+ when i--> was || 0.9851792454719543
+ does not it-->[EOS] || 0.9851383566856384
+ this one looked like a village well but there--> was || 0.9851327538490295
+ yes i said--> to || 0.9851275086402893
+ i hoisted the bucket slowly to the edge of the well and set it--> down || 0.9851272106170654
+ he did not follow--> my || 0.9851041436195374
+ you hear nothing and yet something radiates forth in the silence-->[EOS] || 0.9849991202354431
+

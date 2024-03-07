@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ five--> hundred || 0.9318797588348389
+ five--> and || 0.9318797588348389
+ five--> hundred || 0.9318797588348389
+ five--> hundred || 0.9318797588348389
+ five--> hundred || 0.9318798184394836
+ twenty two--> and || 0.9420639276504517
+ those are the--> orders || 0.9440686702728271
+ those are the--> orders || 0.9440686702728271
+ the little prince could not work out the purpose of having a street lamp and a lamplighter somewhere out in the sk-->ies || 0.9461195468902588
+ he said to himself nevertheless it may well be that this man is abs-->urd || 0.948573887348175
+ there is nothing to understand said the lam-->pl || 0.9485903978347778
+ twenty--> six || 0.9521318078041077
+ twenty--> two || 0.9521318078041077
+ i own three volcano-->es || 0.9532721042633057
+ for--> it || 0.9553498029708862
+ no time--> to || 0.956129789352417
+ i do not am-->use || 0.9566455483436584
+ then--> they || 0.9573841691017151
+ then--> he || 0.9573841691017151
+ i have no--> time || 0.9577670097351074
+ i always want to said the lampl-->ighter || 0.958389401435852
+ and how does ow-->ning || 0.9589015245437622
+ he remembered the--> sun || 0.9589143395423889
+ it is rather po-->etic || 0.9592294692993164
+ your cigaret-->te || 0.9592524170875549
+ how can you own the--> stars || 0.9596250653266907
+ the little prince could not work out the purpose of having a street lamp and a lamplighter somewhere out in the--> sk || 0.9600392580032349
+ this man the little--> prince || 0.9603356719017029
+ that is bad luck said the l-->am || 0.9604608416557312
+ if i owned a--> scar || 0.9604912996292114
+ if i owned a--> flower || 0.9604912996292114
+ i own three vol-->cano || 0.9605430960655212
+ the little prince could not work out the purpose of having a street lamp and a l-->am || 0.9605474472045898
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of all because of the one thousand four hundred--> and || 0.9605724215507507
+ but he is less absurd than the--> king || 0.9607515335083008
+ the business-->man || 0.9608436822891235
+ the business-->man || 0.9608436822891235
+ the business-->man || 0.9608436822891235
+ the business-->man || 0.9608436822891235
+ this--> man || 0.9611914753913879
+ this--> man || 0.9611914753913879
+ thirty--> minutes || 0.9616850018501282
+ every--> year || 0.9639480113983154
+ good morning the--> little || 0.964455246925354
+ it--> was || 0.9644878506660461
+ it--> is || 0.9644879102706909
+ it--> is || 0.9644879102706909
+ it--> serves || 0.9644879102706909
+ it--> is || 0.9644879102706909
+ it--> is || 0.9644879102706909
+
+
+## 50 prefixes with the highest comosition scores:
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer--> and || 0.9986647367477417
+ that means that i write the number of my stars on a little paper and then i lock this paper--> in || 0.9983946084976196
+ then he sponged his forehead with a handkerchief decorated--> with || 0.9980239272117615
+ when he lights his lamp it is as if he is bringing to life one more star or one more flower-->[EOS] || 0.9978336095809937
+ every year the planet has turned faster and faster--> and || 0.9977781176567078
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer and that is all that is enough-->[EOS] || 0.9977261424064636
+ that man is the only one with whom i could have made friends but his planet is really very small-->[EOS] || 0.9976932406425476
+ that is bad luck--> said || 0.9976494312286377
+ that is bad luck--> said || 0.9976493716239929
+ yet he is the only one that does not seem ridiculous to me-->[EOS] || 0.9976277351379395
+ i would put the lamp out in the morning and in the evening i would light it-->[EOS] || 0.9976047873497009
+ your planet is so small--> that || 0.9975830316543579
+ if i owned a scarf i could put it--> around || 0.9974767565727234
+ yet he is the only one that does not seem ridiculous--> to || 0.9974652528762817
+ during the fifty four years that i have lived on this planet i have only been disturbed three times-->[EOS] || 0.9973928928375244
+ i myself he continued own a flower that i water every day-->[EOS] || 0.9972972869873047
+ during the fifty four years that i have lived on this planet i have only been disturbed--> three || 0.997296929359436
+ you can walk and the day will last as long as you like-->[EOS] || 0.9972870945930481
+ if i owned a scarf i could put it around my neck and take it away with me-->[EOS] || 0.997221827507019
+ if i owned a scarf i--> could || 0.9972171187400818
+ it is rather poetic but it is of no great consequence-->[EOS] || 0.997209370136261
+ it is of some use to my volcanoes and it is of some use to my flower that i own them-->[EOS] || 0.9972012042999268
+ it is not funny at all--> said || 0.9971784353256226
+ you only have to walk along rather slowly to always stay in the sun when you want to rest-->[EOS] || 0.9971475005149841
+ it was the smallest of them all-->[EOS] || 0.9971438050270081
+ there was just enough room--> on || 0.997101366519928
+ the fifth planet was very strange-->[EOS] || 0.9970858693122864
+ if i owned a scarf i could put it around my neck and take it away--> with || 0.9970413446426392
+ it serves a real purpose--> because || 0.9970396161079407
+ you only have to walk--> along || 0.9970232248306274
+ then he sponged his forehead with a handkerchief--> decor || 0.9970222115516663
+ i own three volcanoes that i sweep out every week as i also sweep out the one that is extinct-->[EOS] || 0.9970144629478455
+ it was the smallest of them--> all || 0.9969915747642517
+ millions of those little objects that you see sometimes in the sky-->[EOS] || 0.9969438314437866
+ that man is the only one with whom i could have made friends--> but || 0.9969034194946289
+ your planet is so small that you can go right round it in three strides-->[EOS] || 0.9969019293785095
+ so now that it spins round once every minute-->[EOS] || 0.9968958497047424
+ i own three volcanoes that i sweep out every week--> as || 0.996875524520874
+ and he lit it again-->[EOS] || 0.9968710541725159
+ but he still had some questions-->[EOS] || 0.9968169927597046
+ when he puts out his lamp he sends the flower or the star to sleep-->[EOS] || 0.996795117855072
+ i count them and recount them--> said || 0.9967771172523499
+ the first time was twenty two years ago--> by || 0.9967733025550842
+ once every minute i light the lamp and put it out--> again || 0.9967405796051025
+ the first time was twenty two years ago by some scatterbrain who fell from god knows where-->[EOS] || 0.9967009425163269
+ every year the planet has turned faster and faster and the orders have not changed-->[EOS] || 0.9966990947723389
+ at least his work has some meaning-->[EOS] || 0.9966922402381897
+ i had the rest of the day to rest and the rest of the night to sleep-->[EOS] || 0.9966722726821899
+ when you get an idea--> first || 0.9966526627540588
+ then they belong to me because i thought of it first-->[EOS] || 0.9966426491737366
+

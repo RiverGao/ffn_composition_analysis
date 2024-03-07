@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i have nothing left to drink and--> i || 0.8587877154350281
+ i sat down beside him and after a silence he--> spoke || 0.8716059923171997
+ it is absurd to look for a well at random in the--> imm || 0.8745467066764832
+ i took my sketches out of my--> pocket || 0.8812429904937744
+ this was a merchant who sold pills that had been created to qu-->en || 0.8815069198608398
+ the desert is beautiful the little--> prince || 0.8816946744918823
+ then after a silence he--> went || 0.8822103142738342
+ we were at the eighth day since my accident in the--> desert || 0.8826981782913208
+ this one looked like a village well but there was no village there and--> i || 0.8831180334091187
+ and yet what they are looking for could be found in a single rose or--> in || 0.8833699226379395
+ so i made a pencil sketch of a muzzle and i felt a p-->ang || 0.8835376501083374
+ of course no one had ever been able--> to || 0.886672854423523
+ we were at the eighth day since my--> accident || 0.8872427344322205
+ i am wor-->ried || 0.888809859752655
+ it was born of the walk under the stars of the--> song || 0.889214277267456
+ we were at the eighth day since my accident in the desert and i had listened to the--> story || 0.8893136382102966
+ we were at the eighth day since my accident in the desert and i had listened to the story of the--> merchant || 0.8897883892059326
+ you can--> do || 0.8900246024131775
+ of course no--> one || 0.8908048868179321
+ i do not know how to draw anything except boa constrictors closed and--> open || 0.8921061754226685
+ so i made a pencil sketch of a m-->uzz || 0.8921433687210083
+ men said the little prince stuff themselves into express trains but they do--> not || 0.8925778865814209
+ it was born of the walk--> under || 0.892920732498169
+ myself i am glad to have had a fox as--> a || 0.8930362462997437
+ it was born of the walk under the stars of the song--> of || 0.8934903740882874
+ your fox his ears they look a bit like horns and they are--> too || 0.893520176410675
+ he was--> tired || 0.8947668671607971
+ the men where you live said the little prince grow five thousand roses in a single garden--> and || 0.8948617577552795
+ when we had walked for hours in silence night fell and the--> stars || 0.8957648873329163
+ men said the little prince stuff themselves into express trains but they--> do || 0.8962355256080627
+ and once again without understanding why i felt a peculiar--> sense || 0.8971049785614014
+ experts have--> done || 0.8971104621887207
+ and once again without understanding why i felt--> a || 0.8972555994987488
+ i saw them as if in a dream as my th-->irst || 0.897490382194519
+ you hear nothing and yet something radiates forth in the--> silence || 0.8979449272155762
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the rad-->iance || 0.898074209690094
+ myself the little prince said to himself if i had--> fifty || 0.8980845212936401
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little--> sleep || 0.8984410166740417
+ i have nothing left to drink and i too would be happy if i could walk slowly towards a spring of--> fresh || 0.8990912437438965
+ but i was not re-->ass || 0.8995596170425415
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.8997671008110046
+ my home was hiding a secret in the--> depth || 0.8999853134155273
+ that which is--> most || 0.899994969367981
+ of course no one had ever been able to find it or perhaps no--> one || 0.9002374410629272
+ so it was not by chance that the--> morning || 0.9004883766174316
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave--> it || 0.9007408022880554
+ the men where you live said the little prince grow five--> thousand || 0.9012032151222229
+ the men where you live said the little prince grow five thousand roses in a single garden and they--> do || 0.9016715884208679
+ your fox his ears they look a bit like horns and--> they || 0.9019105434417725
+ he never answered questions but when you--> bl || 0.9019532203674316
+
+
+## 50 prefixes with the highest comosition scores:
+ when i was a little boy i lived in an old house and legend told that--> a || 0.9731460213661194
+ the song of the pulley continued in my ears and in the still trembling--> water || 0.970302164554596
+ i looked in the moonlight at his pale forehead his closed eyes his locks of--> hair || 0.9695548415184021
+ and i looked without saying anything--> at || 0.9689245223999023
+ i sat down beside--> him || 0.9672791361808777
+ when i was a little boy i lived in an old house and legend told--> that || 0.9666441679000854
+ you can do anything--> you || 0.9664375185966492
+ and i came--> to || 0.9663293957710266
+ you are not being fair my little fellow-->[EOS] || 0.9661080837249756
+ you run the risk of weeping a little--> if || 0.965130627155304
+ the little prince--> s || 0.9645273089408875
+ the little prince--> bl || 0.9645273089408875
+ the little prince--> bl || 0.9645270705223083
+ the little prince--> saw || 0.9645270109176636
+ we have woken up the--> well || 0.9642813801765442
+ he said to me--> you || 0.9641984701156616
+ the song of the--> pul || 0.9640355110168457
+ i was surprised to--> suddenly || 0.9638054370880127
+ you have to keep your promise said the--> little || 0.9637756943702698
+ the men where you live said the little prince grow five thousand roses--> in || 0.9637717008590698
+ you run the risk of weeping a little if you allow yourself to be tamed-->[EOS] || 0.9637160301208496
+ i saw--> them || 0.9633065462112427
+ i sat down--> beside || 0.9632359147071838
+ the song of--> the || 0.963214635848999
+ and i said to myself what i see here--> is || 0.9631242752075195
+ and the pulley moaned like an old weathervane--> when || 0.9629796147346497
+ i sat down beside him--> and || 0.9629224538803101
+ i have--> always || 0.9629178643226624
+ i have--> nothing || 0.9629175662994385
+ because we will die of thirst-->[EOS] || 0.9629074931144714
+ you hear nothing--> and || 0.9626415371894836
+ i raised the bucket to his lips-->[EOS] || 0.9626270532608032
+ as the little prince--> fell || 0.9624361991882324
+ you sit down on--> a || 0.9624044299125671
+ it is a big time saver--> said || 0.9623975157737732
+ as his slightly parted lips gave way--> to || 0.9623957276344299
+ you have to keep your promise said the little prince softly who had again sat down beside--> me || 0.9623787999153137
+ i have nothing left to--> drink || 0.9621956944465637
+ the song of the pulley continued in my ears and in the still trembling water i could see the sunlight shimmer-->[EOS] || 0.9621543288230896
+ and i said to myself what i--> see || 0.9620234370231628
+ the little prince blushed--> again || 0.9618933796882629
+ the little prince blushed--> once || 0.9618932008743286
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave it to--> him || 0.9617686867713928
+ and what do i--> do || 0.9617640376091003
+ i made--> a || 0.9616780877113342
+ when we had walked for hours in silence night fell--> and || 0.9616765379905701
+ my home was hiding a--> secret || 0.9616537094116211
+ his eyes closed-->[EOS] || 0.9615241289138794
+ and i knew then--> what || 0.9615014791488647
+ he said to me you--> know || 0.9613151550292969
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he found himself in the neighborhood of the asteroids 325 326 3-->2 || 0.8615131378173828
+ i admire you said the little prince shrugg-->ing || 0.8638032078742981
+ if he had held it himself he would have been able--> to || 0.8689743280410767
+ he found himself in the neighborhood of the asteroids 325 326 327 328 329 and 3-->3 || 0.8733016848564148
+ he found himself in the neighborhood of the asteroids 325 326 327 3-->2 || 0.8749446272850037
+ the second planet--> was || 0.8841880559921265
+ then my sunset the little prince reminded him who never forgot a question once he had asked--> it || 0.887520432472229
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two hundred sunsets on the--> same || 0.8875344395637512
+ he found himself in the neighborhood of the asteroids 325 3-->2 || 0.888200044631958
+ he found himself in the neighborhood of the asteroids 325 326 327 328 3-->2 || 0.8886818885803223
+ the next planet--> was || 0.888944149017334
+ if i ordered a general he would often--> say || 0.8891109228134155
+ the little prince said to himself and he began again to clap his hands one against the--> other || 0.8892195820808411
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order--> received || 0.8893595337867737
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the--> general || 0.8899327516555786
+ you can--> judge || 0.8900246620178223
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the--> general || 0.8916314244270325
+ but the little--> prince || 0.892295241355896
+ but the little--> prince || 0.8922954797744751
+ to admire means to recognise that i am the most handsome the best--> dressed || 0.8931174874305725
+ but you are the only man on the--> planet || 0.893588662147522
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry--> out || 0.8938658833503723
+ ah here--> comes || 0.8939681053161621
+ ah here--> comes || 0.8939681053161621
+ to forget what asked the little prince who already--> felt || 0.8945299983024597
+ he was--> reg || 0.8947665095329285
+ he was--> an || 0.8947665095329285
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most intelligent man on the--> planet || 0.8948335647583008
+ it is contrary to etiquette to yawn in the--> presence || 0.8948675394058228
+ clap your hands one against the--> other || 0.8967944979667664
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he--> was || 0.8972547650337219
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and--> since || 0.8974103331565857
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so--> he || 0.8976539969444275
+ to admire means to recognise that i am the most handsome the--> best || 0.8977067470550537
+ but the little prince was astonished--> the || 0.8979013562202454
+ to admire means to recognise that i am the most handsome the best dressed the--> rich || 0.8991381525993347
+ to forget what asked the little prince who already felt--> sorry || 0.8993951082229614
+ ah here comes a visit from an admirer exclaimed the conceited man from af-->ar || 0.8996372818946838
+ this is more--> fun || 0.8996496200561523
+ but i can judge myself anywhere-->[EOS] || 0.8996509313583374
+ he should be--> able || 0.8999246954917908
+ you shall have your sunset-->[EOS] || 0.9007484316825867
+ for his rule was not only--> absolute || 0.9009966850280762
+ he asked the little--> prince || 0.9013456106185913
+ over everything the king made a subtle gesture pointing out his planet the other planets and--> the || 0.9018482565879822
+ then my sunset the--> little || 0.9019277095794678
+ so he began by visiting them to--> learn || 0.9025906324386597
+ the second planet was--> inhab || 0.9029658436775208
+ do not go said the king who was--> very || 0.9029670357704163
+ he had--> a || 0.9034903645515442
+
+
+## 50 prefixes with the highest comosition scores:
+ he did not know that--> for || 0.9676027297973633
+ from time to time--> you || 0.966461181640625
+ for the king fundamentally insisted that his authority be respected-->[EOS] || 0.965610682964325
+ authority is based above all on--> reason || 0.9651058316230774
+ he said to himself--> as || 0.965052604675293
+ he said to himself--> as || 0.965052604675293
+ if you succeed in judging yourself--> right || 0.9647347927093506
+ hum hum--> said || 0.96470046043396
+ hum hum--> replied || 0.9647004008293152
+ hum hum--> replied || 0.9646999835968018
+ hum hum--> that || 0.9646999835968018
+ the little prince--> cla || 0.9645273089408875
+ the little prince--> ya || 0.9645273089408875
+ the little prince--> asked || 0.9645271897315979
+ the little prince--> said || 0.9645271897315979
+ the little prince--> said || 0.9645270109176636
+ the little prince--> looked || 0.9645270109176636
+ yawn-->s || 0.9644119739532471
+ i shall command it but i shall wait according to my science of government until conditions are favourable-->[EOS] || 0.9643638730049133
+ he was regretting--> his || 0.9642670750617981
+ that is the most difficult thing of all-->[EOS] || 0.9639917612075806
+ the conceited man raised his hat in a modest salute-->[EOS] || 0.9639211297035217
+ may i sit down the little prince enquired timid-->ly || 0.9639092087745667
+ to admire means to recognise that i am the most handsome the best dressed--> the || 0.9638415575027466
+ the grownu-->ps || 0.9635345935821533
+ the grownu-->ps || 0.9635344743728638
+ the grownu-->ps || 0.963534414768219
+ ah here comes a subject exclaimed the king when he caught sight of--> the || 0.9634628295898438
+ i admire--> you || 0.9632489085197449
+ the little prince said to himself and he began again to clap his hands--> one || 0.9632478952407837
+ but there is nobody here to judge-->[EOS] || 0.9632423520088196
+ the little prince yawn-->ed || 0.9631437659263611
+ authority--> is || 0.9629479646682739
+ i have--> not || 0.9629178047180176
+ i have--> not || 0.9629178047180176
+ i have--> nothing || 0.962917685508728
+ i have--> come || 0.9629172682762146
+ i have--> the || 0.9629172682762146
+ i have--> no || 0.9629172682762146
+ to forget what asked the--> little || 0.9629023671150208
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was tired he yawn-->ed || 0.9627773761749268
+ he did not tolerate--> dis || 0.9625288844108582
+ if your majesty wishes to be promptly--> obey || 0.9623646140098572
+ over everything the king made--> a || 0.9622923731803894
+ ah then the king said i order you to yawn-->[EOS] || 0.9622042179107666
+ and the little prince asked himself--> how || 0.9621075391769409
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up his courage to ask the king a favour-->[EOS] || 0.9619446992874146
+ do--> not || 0.9618692398071289
+ do--> it || 0.9618691205978394
+ do--> not || 0.9618691205978394
+

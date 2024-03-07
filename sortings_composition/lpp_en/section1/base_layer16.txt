@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.8896452188491821
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.8929969668388367
+ so getting impat-->ient || 0.8980709314346313
+ i caught a glimp-->se || 0.9017933011054993
+ i was discou-->rag || 0.9097769260406494
+ i was discou-->rag || 0.9097769260406494
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real life stories-->[EOS] || 0.9541168212890625
+ it said please draw me a--> sheep || 0.9545979499816895
+ it said in the book boa constrict-->ors || 0.9553111791610718
+ i jumped to my feet as if i had been struck by lightning-->[EOS] || 0.9578607678413391
+ so i thought a lot about the adventures of the jung-->le || 0.958301305770874
+ once when--> i || 0.9597181081771851
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying--> of || 0.9598574638366699
+ i showed my masterpiece to--> the || 0.9599390625953674
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real--> life || 0.9607316255569458
+ then he added so you also come from the sky-->[EOS] || 0.9610746502876282
+ my drawing--> number || 0.9616211652755737
+ my drawing--> was || 0.9616211652755737
+ absurd as it seemed to me a thousand miles from any human habitation--> and || 0.9618350863456726
+ and i was astounded to hear the little fellow respond no no i do not want an eleph-->ant || 0.9618884325027466
+ draw me a--> sheep || 0.9625469446182251
+ draw me a--> sheep || 0.9625469446182251
+ draw me a--> sheep || 0.9625469446182251
+ a boa constrict-->or || 0.9627822041511536
+ the sheep you want is inside-->[EOS] || 0.9631274342536926
+ when a mystery is too overpowering one dare not disobey-->[EOS] || 0.963280975818634
+ i then drew the inside of the boa constrictor so that the grownu-->ps || 0.9633867144584656
+ that is right and if you are--> good || 0.9637047648429871
+ so i thought a lot about the adventures of the j-->ung || 0.9638321399688721
+ so i would never speak to them of boa constrict-->ors || 0.9638643860816956
+ thus i abandoned at the age of six--> a || 0.9641662836074829
+ and perhaps with--> a || 0.9641929864883423
+ i caught a glimpse into the mystery of his presence and i asked abruptly so you come from another planet--> then || 0.9642871022224426
+ it f-->lies || 0.9643682837486267
+ yes i--> said || 0.9649672508239746
+ i need a--> sheep || 0.9654147028923035
+ i jump-->ed || 0.9654568433761597
+ and that is how i met the--> little || 0.9655340313911438
+ and that is how i met--> the || 0.9658139944076538
+ i talked to them about bridge golf politics and neckties and the--> grown || 0.9658296704292297
+ it is true that you can not have come from far away in that and he dr-->ift || 0.9659409523010254
+ i have had during my life a lot of contact with many persons of consequence-->[EOS] || 0.9662289023399353
+ this is not a sheep-->[EOS] || 0.9665687680244446
+ and he repeated very slowly as if it was something very serious please--> draw || 0.9665923714637756
+ it said please draw me--> a || 0.9666793346405029
+ and i was astounded to hear the little fellow respond no no i do not want an elephant inside a boa constrict-->or || 0.9666807651519775
+ because where i am from everything is very small-->[EOS] || 0.9671147465705872
+ i was more isolated than a shipwrecked sailor on a raft in the middle of the ocean-->[EOS] || 0.9671164155006409
+ it has not--> much || 0.9674845337867737
+ i showed my masterpiece to the grownups--> and || 0.9675487279891968
+
+
+## 50 prefixes with the highest comosition scores:
+ it took me--> a || 0.9924994707107544
+ anywhere straight--> ahead || 0.9922052025794983
+ i showed my master-->pie || 0.9915430545806885
+ then the little prince said grav-->ely || 0.9914272427558899
+ but i was very surprised to see the face--> of || 0.9911858439445496
+ the offer--> seemed || 0.9910841584205627
+ so getting impatient as i was eager to start dismantling my engine i hast-->ily || 0.9910644292831421
+ and perhaps with a hint of sadness he added straight--> ahead || 0.9909613728523254
+ they always need to have things explained-->[EOS] || 0.9909534454345703
+ and i was ast-->ounded || 0.9906346201896667
+ i put myself at their--> level || 0.9905826449394226
+ so i lived alone without anyone i could really talk to until a breakdown in the sah-->ara || 0.9905400276184082
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone the difficult--> rep || 0.9905140399932861
+ the little prince who asked me many questions never seemed to hear my--> own || 0.9903913736343384
+ when a mystery--> is || 0.9903742074966431
+ absurd as it seemed to me a thousand miles from any human--> habit || 0.9903725385665894
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to--> move || 0.990339994430542
+ then taking my sheep out of his pocket he sank himself into the cont-->empl || 0.9902224540710449
+ i was--> more || 0.9900818467140198
+ i was--> disc || 0.9900818467140198
+ i was--> disc || 0.9900818467140198
+ and the little prince broke into--> a || 0.9900298714637756
+ so getting impatient as--> i || 0.9900144338607788
+ so you can imagine my--> surprise || 0.9899781346321106
+ i caught a glimpse into the mystery of his presence and i asked abruptly so you come--> from || 0.9898767471313477
+ then he cried what you fell from the--> sky || 0.9897815585136414
+ so you can imagine my surprise--> when || 0.9897772073745728
+ my friend broke into another peal of laugh-->ter || 0.98969566822052
+ so i lived alone without anyone i could--> really || 0.9896842837333679
+ i jumped to my--> feet || 0.9896520972251892
+ the first night i went to sleep on the sand--> a || 0.9896098375320435
+ my friend broke into another peal of--> laugh || 0.9895995259284973
+ so i lived alone without anyone i--> could || 0.9895846247673035
+ i caught a glimpse into the mystery--> of || 0.9894763827323914
+ when a mystery is too overpowering one dare--> not || 0.9894049167633057
+ i then drew the inside of the boa constrictor so that the grownups--> could || 0.9893779754638672
+ and the little prince broke into a lovely peal of--> laugh || 0.9893440008163452
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment--> of || 0.9892656803131104
+ something had broken in my engine and as i had with me neither a mechanic nor--> any || 0.9892593622207642
+ where are you from my--> little || 0.9892565608024597
+ so getting impatient as i was eager--> to || 0.9892393350601196
+ you can imagine how my curiosity--> was || 0.9892318248748779
+ he leaned his--> head || 0.989220380783081
+ when i finally managed to speak--> i || 0.989203929901123
+ but i was very surprised to see the face of my young judge light--> up || 0.9891796708106995
+ so once--> again || 0.9891436100006104
+ yes i said mod-->est || 0.9891104698181152
+ whenever i met one of them that seemed a bit more clear sighted i tried--> the || 0.9890920519828796
+ and the little prince broke into a lovely peal of laughter which--> ir || 0.9890658855438232
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched--> this || 0.9890607595443726
+

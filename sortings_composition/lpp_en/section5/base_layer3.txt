@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the little prince could not work out the purpose of having a street lamp and--> a || 0.7466800212860107
+ it is of some use to my volcanoes and--> it || 0.7852487564086914
+ there was just enough room on it to accommodate a street lamp and--> a || 0.7896097302436829
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited man by the drinker and--> by || 0.8003097176551819
+ if i owned a scarf i could put it around my neck and--> take || 0.8028936982154846
+ once every minute i light the lamp and--> put || 0.8039214611053467
+ i would put the lamp out in the morning and--> in || 0.8062115907669067
+ that man is the only one with whom i could have made friends but his--> planet || 0.8071981072425842
+ you only have to walk along rather slowly to always stay in the--> sun || 0.8119502663612366
+ that means that i write the number of my stars on a little paper and--> then || 0.8127005100250244
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of all because of the--> one || 0.8150962591171265
+ i had the rest of the day to rest and--> the || 0.8183696269989014
+ what the little prince did not dare admit to himself was that he--> missed || 0.8260276913642883
+ your planet is so small that you can go right round it in--> three || 0.8263146281242371
+ he made the most dreadful noise and--> i || 0.8267078399658203
+ i would put the lamp out in the morning and in the--> evening || 0.8272524476051331
+ those--> are || 0.8305937647819519
+ those--> are || 0.8305937647819519
+ perhaps it is because he--> thinks || 0.8307512402534485
+ the businessman opened his mouth but he--> found || 0.8314818143844604
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer and that--> is || 0.8352250456809998
+ yet he--> is || 0.8363205790519714
+ they--> reign || 0.8382266759872437
+ five hundred and one million what repeated the little prince who had never in his life let go of a question once he--> had || 0.8387126326560974
+ when he puts out his lamp he sends the flower or the star to--> sleep || 0.8387527465820312
+ millions of those little objects that--> you || 0.8393778204917908
+ at least his--> work || 0.8397061228752136
+ every--> year || 0.8400490880012512
+ for--> it || 0.8412707448005676
+ that man is the only one with whom i could have made friends but his planet is--> really || 0.8418911099433899
+ and what do you do with them-->[EOS] || 0.8431144952774048
+ it helps by making--> me || 0.8435735106468201
+ if i owned a flower i could pick my flower and--> take || 0.8437633514404297
+ he breathed a sigh of regret and--> said || 0.8452237844467163
+ he made the most dreadful noise and i made four--> mistakes || 0.845247745513916
+ but he--> still || 0.8457774519920349
+ but he--> is || 0.845778226852417
+ in the old days it--> was || 0.8460245132446289
+ but why--> have || 0.8463223576545715
+ the first time was--> twenty || 0.8466060757637024
+ there is no room on it for two--> people || 0.8468618392944336
+ certainly-->[EOS] || 0.8472216129302979
+ when you get an idea first you take out a patent it--> is || 0.8481631875038147
+ the little prince watched him and felt that he loved this lamplighter who--> was || 0.8482624292373657
+ to buy more stars if someone disco-->vers || 0.8483799695968628
+ there was just enough room on it to accommodate a street--> lamp || 0.8485458493232727
+ it--> is || 0.8485995531082153
+ it--> is || 0.8485995531082153
+ it--> serves || 0.8485995531082153
+ it--> helps || 0.8485996127128601
+
+
+## 50 prefixes with the highest comosition scores:
+ but you are of no use--> to || 0.9573754072189331
+ good morning-->[EOS] || 0.9556467533111572
+ good morning-->[EOS] || 0.9556467533111572
+ good morning-->[EOS] || 0.9556467533111572
+ good morning-->[EOS] || 0.9556467533111572
+ good morning-->[EOS] || 0.9556467533111572
+ good morning--> the || 0.9556461572647095
+ on matters of consequence the little prince had ideas which were very different from those of--> the || 0.953463077545166
+ on matters of consequence--> the || 0.9527207612991333
+ the businessman retorted grump-->ily || 0.9518836736679077
+ yes that is true said the little prince-->[EOS] || 0.9517979621887207
+ as for--> me || 0.9515944719314575
+ i do not have time--> to || 0.951400876045227
+ that is bad luck said the little prince-->[EOS] || 0.9511089324951172
+ it is of some use--> to || 0.9502161741256714
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer--> and || 0.9500161409378052
+ five hundred and one million what repeated the little prince--> who || 0.9495988488197327
+ and since then--> have || 0.9492478370666504
+ i do not understand said the little prince-->[EOS] || 0.9488601684570312
+ the orders have not changed said the lampl-->ighter || 0.9487873911857605
+ i do not amuse myself with balderdash-->[EOS] || 0.9485621452331543
+ yet he is the only one that does not seem ridiculous to me-->[EOS] || 0.9485499262809753
+ when he arrived on the planet he respectfully saluted the lampl-->ighter || 0.9484562873840332
+ there was just enough room--> on || 0.9483848810195923
+ i have no time to dayd-->ream || 0.9483644366264343
+ good evening-->[EOS] || 0.9483616352081299
+ good evening-->[EOS] || 0.9483616352081299
+ the little prince watched him and felt that he loved this lamplighter--> who || 0.9482343792915344
+ then they belong to me because i thought of--> it || 0.9482225775718689
+ it was the smallest of them all-->[EOS] || 0.9481804370880127
+ those are the orders replied the lampl-->ighter || 0.9479917883872986
+ those are the orders replied the lampl-->ighter || 0.9479917883872986
+ the first time was twenty two years ago by some scatterbrain who fell from god knows--> where || 0.9478005766868591
+ that is the tragedy-->[EOS] || 0.9477725625038147
+ when he arrived on the planet he respectfully saluted--> the || 0.9476845264434814
+ it is of some use to my volcanoes and it is of some use--> to || 0.9476338028907776
+ but he is less abs-->urd || 0.9476020336151123
+ that is funny thought the little prince-->[EOS] || 0.9474194645881653
+ when he lights his lamp it is as if he is bringing to life--> one || 0.9472383260726929
+ bees-->[EOS] || 0.9471514225006104
+ that man said the little prince--> to || 0.9469453692436218
+ so what then said the little prince-->[EOS] || 0.9468150734901428
+ and how does being rich help--> you || 0.9467760920524597
+ when he lights his lamp it is as if he is bringing to life one more--> star || 0.9465484023094177
+ who own-->s || 0.9463833570480347
+ good morning the little prince--> said || 0.9461864829063416
+ that is bad luck--> said || 0.9458271861076355
+ that is bad luck--> said || 0.9458271265029907
+ where you live a day only lasts--> a || 0.9457852244377136
+ on matters of consequence the little prince--> had || 0.9453639984130859
+

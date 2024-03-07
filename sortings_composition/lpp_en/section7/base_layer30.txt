@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ but it happened that the little prince having walked for a long time through the sands rocks and--> snow || 0.9332280158996582
+ first--> you || 0.9354885816574097
+ the little prince gaz-->ed || 0.9385001063346863
+ the fo-->x || 0.9385654926300049
+ the fo-->x || 0.9385656118392944
+ wheat--> is || 0.9405840635299683
+ one only sees clearly with the--> heart || 0.9416468143463135
+ that is right said the fo-->x || 0.9468774795532227
+ it is something that is too often forgotten said the fo-->x || 0.9480211138725281
+ but if you tame me it would bring some--> sun || 0.948432981967926
+ i can go for a walk as far as the viney-->ards || 0.9491132497787476
+ a second br-->illi || 0.9510931968688965
+ one only sees clearly with--> the || 0.9516485929489136
+ oh--> but || 0.9517454504966736
+ oh--> said || 0.9517455697059631
+ oh--> i || 0.9517455697059631
+ one only understands the things that one tames said the fo-->x || 0.9525733590126038
+ it was then that the fo-->x || 0.9527451992034912
+ and the ros-->es || 0.9527701735496521
+ good morning said the ros-->es || 0.9532425403594971
+ i can not play with you said the fo-->x || 0.9533611536026001
+ it is the time that i have wasted on my rose said the little--> prince || 0.953425407409668
+ goodbye he--> said || 0.9534436464309692
+ and when the time to leave drew near oh said the fo-->x || 0.953604519367218
+ it is possible said the fo-->x || 0.9538413286209106
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all--> roads || 0.9539026618003845
+ they are also something too often forgotten said the fo-->x || 0.9547585248947144
+ but every day you will be able--> to || 0.9549434781074524
+ but after some--> thought || 0.9552806615829468
+ a third br-->illi || 0.9552878737449646
+ are--> there || 0.9558827877044678
+ are--> they || 0.9558827877044678
+ are--> you || 0.9558827877044678
+ are--> they || 0.9558828473091125
+ then--> he || 0.9573841691017151
+ then--> come || 0.9573841691017151
+ i hunt chick-->ens || 0.9576671719551086
+ if the hunters danced on just any day all the days would be al-->ike || 0.9581127762794495
+ if the hun-->ters || 0.958209216594696
+ because of the color of the whe-->at || 0.9589105248451233
+ to establish b-->onds || 0.9591587781906128
+ these--> are || 0.9593466520309448
+ what does tame mean-->[EOS] || 0.9595510363578796
+ what does tame mean-->[EOS] || 0.9595510363578796
+ you are not from here said the fo-->x || 0.9601664543151855
+ unlike any other other footsteps send me hur-->ry || 0.9608878493309021
+ you have to be very patient replied the fo-->x || 0.9609935879707336
+ and then he added go and see the ros-->es || 0.9609991312026978
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead--> to || 0.9610150456428528
+ i am a fox the fox--> said || 0.9612635374069214
+
+
+## 50 prefixes with the highest comosition scores:
+ words are a source of misunderstand-->ings || 0.9983965754508972
+ they are asleep in there or if not they are yawning-->[EOS] || 0.9982995986938477
+ it is something that is too often forgotten--> said || 0.9981645345687866
+ the fox seemed very intrigued-->[EOS] || 0.9981567859649658
+ she would be very upset--> he || 0.9980465173721313
+ on earth you see all kinds of things-->[EOS] || 0.9979799389839172
+ because it is her that i listened to grumble or boast--> or || 0.9979028105735779
+ they are also something too often forgotten--> said || 0.9977728724479675
+ she would cough and cough and pretend to die to avoid being laughed--> at || 0.9977590441703796
+ and then look you see the wheat fields down there-->[EOS] || 0.9977337718009949
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself--> also || 0.997714102268219
+ they are what make one day different--> from || 0.9977117776870728
+ and then he added go and see the roses again-->[EOS] || 0.997660219669342
+ first you will sit down a little way away--> from || 0.9976306557655334
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow herself to die-->[EOS] || 0.9976072311401367
+ but i do not have much time-->[EOS] || 0.9975817799568176
+ they waste their time with a rag doll and it becomes very important to them-->[EOS] || 0.9975704550743103
+ that and my three volcanoes that come up to my knees-->[EOS] || 0.9974904656410217
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got nearer-->[EOS] || 0.9973444938659668
+ but if you come at just--> any || 0.9973244071006775
+ and when the time to leave drew--> near || 0.9972479939460754
+ she would cough and cough--> and || 0.9971795082092285
+ because it is her that i sheltered--> behind || 0.9971424341201782
+ you have to be very patient--> replied || 0.9971250295639038
+ the wheat fields mean nothing to me--> and || 0.9971179962158203
+ but if you come at just any time i would never know at what time my heart should be ready--> to || 0.9971086978912354
+ if you come for example at four o clock in the afternoon--> from || 0.9970921277999878
+ and the roses were very embarrassed-->[EOS] || 0.9970801472663879
+ and if someone takes it away--> from || 0.9970705509185791
+ first you will sit down a little way away from me--> like || 0.9970664381980896
+ then come back to say goodbye--> to || 0.9970489144325256
+ who are you he asked them stunned-->[EOS] || 0.9970373511314392
+ i have friends to discover and many things to understand-->[EOS] || 0.9970002770423889
+ then he said to himself i thought i was rich with a flower that was one of a kind--> and || 0.9969936609268188
+ they waste their time with a rag doll and it becomes very important--> to || 0.9969680309295654
+ no one is ever happy where they are--> said || 0.9969620704650879
+ first you will sit down a little way away from me like this--> in || 0.9969355463981628
+ because it is for her that i killed the caterpillars except two or three to become butterflies-->[EOS] || 0.9969240427017212
+ what is it that they are looking--> for || 0.9969012141227722
+ but every day you will be able to sit a little closer-->[EOS] || 0.9967674016952515
+ what is it that they are looking for-->[EOS] || 0.9967159628868103
+ his flower had told him that she was the only one--> of || 0.9966935515403748
+ they are what make one day different from other days--> one || 0.996664822101593
+ i would come to know a sound of footsteps-->[EOS] || 0.9965776205062866
+ to me you will be unique in the entire world-->[EOS] || 0.9965708255767822
+ it would have been better to come back at the same time of day--> said || 0.9965506792068481
+ i can go for a walk as far as the vineyards-->[EOS] || 0.9965107440948486
+ his flower had told him that she was the only one of her kind--> in || 0.9965087175369263
+ and if someone takes it--> away || 0.9964723587036133
+ but if you come at just any time--> i || 0.9964619278907776
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i admire you said the little prince shrugg-->ing || 0.8642849326133728
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.8855626583099365
+ from time to--> time || 0.8914276361465454
+ if he had held it himself he would have been able--> to || 0.8968416452407837
+ he should be able--> for || 0.9000875353813171
+ the first one was--> inhab || 0.9450808167457581
+ the king--> was || 0.9454504251480103
+ the king--> hast || 0.945450484752655
+ the king--> went || 0.9454505443572998
+ the king--> answered || 0.9454505443572998
+ the king--> said || 0.9454505443572998
+ the second planet was inhabited by a conceited--> man || 0.9466657042503357
+ ash-->amed || 0.9470123648643494
+ ash-->amed || 0.9470124244689941
+ it is contrary to et-->iqu || 0.9471290111541748
+ it seems to me that--> conditions || 0.9480129480361938
+ he did not tolerate dis-->ob || 0.949471652507782
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a--> hundred || 0.9496049880981445
+ he s-->put || 0.9500344395637512
+ then my sunset the little prince reminded him who never--> forgot || 0.9502753615379333
+ he did not tolerate disob-->ed || 0.950831413269043
+ do not go--> said || 0.9510101675987244
+ do not go-->[EOS] || 0.9510102272033691
+ the next planet was inhabited by a heavy drink-->er || 0.9513146877288818
+ hum hum said the king-->[EOS] || 0.951989471912384
+ hum hum that--> will || 0.9520042538642883
+ if he had held it himself he would have been able to watch not forty four but seventy two or even--> a || 0.9527584910392761
+ the second planet was inhabited by a conce-->ited || 0.952944278717041
+ as--> the || 0.9529839754104614
+ of course the king--> said || 0.9530428647994995
+ ah here comes a visit from an admirer exclaimed the conceited--> man || 0.9530524611473083
+ i order you to sit down replied the king who majestically gathered in a--> fol || 0.9531000256538391
+ the king was--> sitting || 0.9542654156684875
+ come now--> ya || 0.9546255469322205
+ the monarch--> said || 0.9552149176597595
+ there was no--> one || 0.9552507400512695
+ ah here comes a visit from an admirer exclaimed the conceited man from af-->ar || 0.9552815556526184
+ i shall command it but i shall wait according to my science of government until--> conditions || 0.9552967548370361
+ it is contrary to etiqu-->ette || 0.9553297162055969
+ ah here comes a visit from an admirer exclaimed the conce-->ited || 0.9561147093772888
+ to admire means to recognise that i am the most handsome the best dressed the rich-->est || 0.9561169147491455
+ ya-->wn || 0.9562807083129883
+ and what should i do he--> asked || 0.957067608833313
+ i have the right to demand obed-->ience || 0.9571138024330139
+ and you will see how--> well || 0.9571777582168579
+ the grownups--> are || 0.9572800993919373
+ the grownups--> are || 0.9572802186012268
+ the grownups--> are || 0.9572802186012268
+ and you will see how well i am obey-->ed || 0.9577766060829163
+ he did not--> toler || 0.9579266309738159
+
+
+## 50 prefixes with the highest comosition scores:
+ clap--> your || 0.9890622496604919
+ because--> to || 0.988661527633667
+ oh but i have already looked said the little prince who leant--> over || 0.9886258244514465
+ oh really said--> the || 0.9880967140197754
+ good morning said--> the || 0.9879706501960754
+ over all--> that || 0.9873902797698975
+ over all--> that || 0.9873901605606079
+ i can not any more said--> the || 0.9869540929794312
+ to forget replied--> the || 0.9868736267089844
+ the little prince said to himself and he began again to clap his hands one--> against || 0.9865956902503967
+ sire--> he || 0.9864393472671509
+ sire--> over || 0.9864392876625061
+ hum hum said--> the || 0.9861842393875122
+ he sputtered a bit and seemed vex-->ed || 0.9860742688179016
+ this was a very short visit but it--> pl || 0.9859561920166016
+ oh but i have already looked said the little prince who leant over to give one more glance at the other side--> of || 0.9858859777450562
+ the next planet was inhabited--> by || 0.9858783483505249
+ do not go said--> the || 0.9858131408691406
+ if you succeed in judging yourself--> right || 0.985802412033081
+ and what should i do he asked to make the hat--> come || 0.9857795834541321
+ if i ordered a general to fly from one flower--> to || 0.9857702255249023
+ the little prince cla-->pped || 0.9857372641563416
+ it seems to me that conditions--> are || 0.9856587052345276
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which--> one || 0.9856181144714355
+ hum hum replied--> the || 0.9855218529701233
+ hum hum replied--> the || 0.9855218529701233
+ that is the most difficult thing--> of || 0.9854884743690491
+ i have no space for a carriage and it--> t || 0.9854484796524048
+ approach so that i may see you better said--> the || 0.9854403734207153
+ sire over what do you--> rule || 0.9853991270065308
+ you said the--> little || 0.9853807687759399
+ he found himself in the neighborhood of the asteroids 325 326 327 328 329 and 33-->0 || 0.9853403568267822
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was--> tired || 0.9853352308273315
+ i shall command it but i shall wait according--> to || 0.9852809906005859
+ for his rule was not only absolute it--> was || 0.9852101802825928
+ if your majesty--> wishes || 0.9852082133293152
+ but i can judge--> myself || 0.9852033853530884
+ i replied the little prince do not like--> to || 0.9851809740066528
+ i order you to sit down replied the king who majestically gathered in a fold--> of || 0.985156238079071
+ oh but i have already looked said--> the || 0.9851008057594299
+ he was an absolute--> monarch || 0.9850198030471802
+ the next planet was inhab-->ited || 0.9850118160247803
+ i admire you said--> the || 0.98499596118927
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did not obey me it would not be the general s--> fault || 0.9849767684936523
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up--> his || 0.9849652647972107
+ to forget what asked the little prince who already felt sorry for him-->[EOS] || 0.9849415421485901
+ i am fairly certain that somewhere on my planet there--> is || 0.9849215149879456
+ over everything said the king with--> a || 0.9849117398262024
+ if your majesty wishes to be promptly obeyed he should be able to--> give || 0.9848598837852478
+ he said to the drinker who he found--> sitting || 0.9848556518554688
+

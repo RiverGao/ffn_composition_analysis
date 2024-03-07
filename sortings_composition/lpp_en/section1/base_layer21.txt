@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i caught a glimp-->se || 0.8412917256355286
+ so getting impat-->ient || 0.8485608696937561
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.8840681314468384
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9364112615585327
+ here is the best portrait that later i managed to do of him--> but || 0.9592960476875305
+ i was discou-->rag || 0.9623989462852478
+ i was discou-->rag || 0.9623989462852478
+ and i--> was || 0.9645339250564575
+ and i--> was || 0.9645340442657471
+ then he added so you also come from the sky-->[EOS] || 0.9660998582839966
+ and i was astounded to hear the--> little || 0.9675767421722412
+ i talked to them about bridge golf politics--> and || 0.9677445888519287
+ i have had during my life--> a || 0.9677753448486328
+ my drawing--> was || 0.9680799841880798
+ my drawing--> number || 0.9680799841880798
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real life stories-->[EOS] || 0.9683282375335693
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored pencil to make my first drawing my drawing number--> one || 0.9684637784957886
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little crossly that i did not know how--> to || 0.9685167074203491
+ but i--> was || 0.9685285091400146
+ you can imagine how my curiosity was aroused by this small disclosure about the--> other || 0.9686895608901978
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing--> number || 0.9689794778823853
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i--> told || 0.9692240953445435
+ my drawing number--> two || 0.9693986773490906
+ i stared at this sudden--> appar || 0.9698711633682251
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to geography--> history || 0.9701060056686401
+ and i was astounded to hear the little fellow respond no no i--> do || 0.9701487421989441
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming than its--> model || 0.9707516431808472
+ but if you do not tie him up he--> will || 0.9707747101783752
+ my drawing number two--> looked || 0.9708437323570251
+ but i was very surprised to see the--> face || 0.9709476828575134
+ and i was astounded to hear--> the || 0.9709615707397461
+ so i thought a lot about the adventures of the jungle and in turn i--> managed || 0.9710798263549805
+ i have lived a lot amongst the--> grow || 0.9712626934051514
+ but i was very surprised to see--> the || 0.9716196060180664
+ the first night i went to sleep on the sand a thousand miles from any human habitation-->[EOS] || 0.9716675281524658
+ where is--> this || 0.9716811776161194
+ and he repeated very slowly as if it was something very serious--> please || 0.9718533158302307
+ i--> showed || 0.9719623923301697
+ i--> caught || 0.9719623923301697
+ i--> was || 0.9719623923301697
+ i--> fle || 0.9719623923301697
+ i--> was || 0.9719623923301697
+ i--> talked || 0.9719623923301697
+ i--> put || 0.9719623923301697
+ i--> then || 0.9719623923301697
+ i--> rub || 0.9719623923301697
+ i--> was || 0.9719623923301697
+ i--> took || 0.9719623923301697
+ i--> wanted || 0.9719623923301697
+ i--> need || 0.9719623923301697
+
+
+## 50 prefixes with the highest comosition scores:
+ where is this where i live of--> yours || 0.9993383884429932
+ so i would never speak to them of boa constrictors nor of--> prime || 0.9975537657737732
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet of paper--> and || 0.9968211054801941
+ my drawing number two looked--> like || 0.9963749051094055
+ so i would never speak to them of boa constrictors nor--> of || 0.9958620071411133
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply--> myself || 0.9956827759742737
+ a boa constrictor is very dangerous and an--> ele || 0.9956732392311096
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and--> carry || 0.9948501586914062
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming than--> its || 0.9948477149009705
+ the grownups advised me to leave aside drawings of boa constrict-->ors || 0.9947873950004578
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not--> able || 0.9947758316993713
+ i flew a little in many places around the world and geography it is true has--> served || 0.9947444796562195
+ it would be--> a || 0.9946458339691162
+ i was discouraged in my career as a painter by the grownups--> at || 0.9945966601371765
+ i stared at this sudden appar-->ition || 0.9944214820861816
+ something had broken in my engine and as i had with me neither a mechanic nor any--> passengers || 0.9942358732223511
+ as i had never drawn a sheep i redrew for him one of the only two drawings that i was--> capable || 0.9942172765731812
+ it showed a boa--> con || 0.994157075881958
+ it showed a boa--> con || 0.994157075881958
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to--> try || 0.9940623641014099
+ it showed a boa constrictor--> sw || 0.9939100742340088
+ it showed a boa constrictor--> dig || 0.9939100742340088
+ he looked nothing--> like || 0.9938861727714539
+ the little prince--> who || 0.9938554763793945
+ something had broken in my engine and as i had--> with || 0.9937021136283875
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half--> dead || 0.9936668276786804
+ he looked carefully then said no this one is already very--> sick || 0.9936065077781677
+ it showed a boa constrictor swallowing a wild--> animal || 0.9936060905456543
+ i then drew the inside of the boa constrict-->or || 0.9935653805732727
+ i jumped to my feet as if i had been--> struck || 0.9935018420219421
+ what planet are you from-->[EOS] || 0.993461012840271
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i--> read || 0.9934335350990295
+ i flew a little in many places around--> the || 0.9933637380599976
+ and the little prince broke into--> a || 0.9933530688285828
+ something had broken in my engine and as i had with me neither a mechanic nor--> any || 0.9933288097381592
+ the grownups advised me to leave aside drawings of boa--> con || 0.9932773113250732
+ i have seen them from close--> up || 0.993249237537384
+ the one of the closed boa constrictor-->[EOS] || 0.9932337999343872
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to--> draw || 0.9932205677032471
+ it said in the book boa constrictors swallow their prey whole without--> che || 0.9931690692901611
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this drawing and i snapped this-->[EOS] || 0.9931578040122986
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored p-->enc || 0.9931512475013733
+ what planet--> are || 0.9931321144104004
+ something had broken in my engine and as i had with me neither--> a || 0.9931116700172424
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this--> drawing || 0.9930998086929321
+ then taking my sheep out--> of || 0.9930769205093384
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone the--> difficult || 0.9930586814880371
+ i was discouraged in my career as a painter by the grownups at the--> age || 0.9930546283721924
+ and perhaps with a hint of sadness he added straight--> ahead || 0.9929961562156677
+ here is the best portrait that later i managed to do of him but my drawing of course is--> much || 0.992955207824707
+

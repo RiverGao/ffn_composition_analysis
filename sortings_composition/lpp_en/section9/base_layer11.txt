@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ for others who are schol-->ars || 0.8733496069908142
+ he got a bit discou-->rag || 0.8894835114479065
+ he would never have been able--> to || 0.894752025604248
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.8970563411712646
+ i then lowered my eyes to the foot of the--> wall || 0.9258814454078674
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ i had moistened his tem-->ples || 0.9328336715698242
+ and your friends will be very surprised to--> see || 0.9336740374565125
+ the compan-->ions || 0.9357543587684631
+ and your friends will be very surprised to see you laughing whilst watching the--> sky || 0.9360513091087341
+ even as i dug around in--> my || 0.9373838901519775
+ but he--> was || 0.9378757476806641
+ but he--> did || 0.9378758072853088
+ but he--> said || 0.9378759860992432
+ i waited--> a || 0.9380481243133545
+ my star will be for you just one of--> the || 0.9392001032829285
+ i will have--> played || 0.93976891040802
+ it is much--> more || 0.9398363828659058
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in africa--> in || 0.9401913285255432
+ you will have five hundred--> million || 0.9404797554016113
+ for some who are travel-->ers || 0.9411515593528748
+ if you love a--> flower || 0.9412462115287781
+ i want to come down from--> here || 0.9415361285209656
+ i waited a--> long || 0.9415618181228638
+ it may well be the sheep ate the--> flower || 0.9416791200637817
+ when you look at--> the || 0.9422598481178284
+ he would never have been able to fasten it to the sheep-->[EOS] || 0.9427368640899658
+ my little--> fellow || 0.9427538514137268
+ it may well--> be || 0.9432443380355835
+ but there is--> one || 0.9434415102005005
+ i had moistened his temples and--> had || 0.9436827301979065
+ if you love--> a || 0.943952202796936
+ you have made a--> mistake || 0.9440682530403137
+ i reached the wall just in time to catch my--> little || 0.9444339871406555
+ but it will--> be || 0.9445434808731079
+ she has four th-->orn || 0.944719135761261
+ for others who are sch-->ol || 0.9448056221008301
+ when i drew the muzzle for the little prince--> i || 0.9451738595962524
+ it may well be the sheep ate--> the || 0.9452278017997742
+ and now of course--> it || 0.9453379511833191
+ it is the same--> landscape || 0.9454178214073181
+ i reached the wall just in time to catch--> my || 0.9455403089523315
+ everyone has the--> same || 0.9455858469009399
+ everyone has the same--> stars || 0.9455958008766174
+ it may well be--> the || 0.9456806182861328
+ tonight you know do--> not || 0.9458276033401489
+ nothing in the universe is the same if somewhere out there a sheep that we have never seen has has it--> e || 0.9460658431053162
+ even as i dug around in my pocket to--> take || 0.9464016556739807
+ if you love a flower that is on a star it is sweet to look at the sky at--> night || 0.9464082717895508
+
+
+## 50 prefixes with the highest comosition scores:
+ ah little fellow dear little fellow i love to hear that laugh-->[EOS] || 0.983592689037323
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that laugh-->ter || 0.9829283356666565
+ when i drew the muzzle for the little prince i forgot to add--> the || 0.9819732904434204
+ and he laughed--> again || 0.981378972530365
+ and he laughed--> some || 0.981378972530365
+ and he laughed--> again || 0.981378972530365
+ and you will see how everything changes-->[EOS] || 0.9813296794891357
+ another voice must have answered him because he replied yes yes--> it || 0.9812584519386292
+ when you look at the sky at night because i will be living on one of them because i will be laughing--> on || 0.9807116985321045
+ i was twenty meters from the wall and i still saw--> nothing || 0.9804918169975281
+ he hesitated a bit and then--> stood || 0.9804495573043823
+ another voice must have answered him because he replied yes yes it is--> the || 0.9803484082221985
+ just that--> it || 0.9797910451889038
+ snakes--> are || 0.979550838470459
+ the little prince replied again that is--> right || 0.9794278740882874
+ look at this landscape carefully so as to be sure to recognize--> it || 0.9794015884399414
+ that night i did not see--> him || 0.9793450236320496
+ herein lies a great mystery for you who also love the little prince just like--> for || 0.9792913794517517
+ nothing in the universe is the same if somewhere--> out || 0.9792881608009338
+ the companions who met me were very happy to see--> me || 0.9790665507316589
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are laughing-->[EOS] || 0.9790490865707397
+ i still did not see or hear anyone yet-->[EOS] || 0.9789796471595764
+ one evening he would have forgotten the glass dome or--> maybe || 0.9789124727249146
+ if a child then comes to you if he laughs if he has golden hair if he does not respond when questioned you will easily guess--> who || 0.9788972735404968
+ when you look at the sky at night because i will be living on one of--> them || 0.9788545370101929
+ everyone has the same stars but they are not the same to everyone-->[EOS] || 0.978791356086731
+ if a child then comes to you if he laughs if he has golden hair if he does not respond when questioned you will easily guess who--> it || 0.9786462783813477
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one--> of || 0.9786353707313538
+ and i heard him say--> do || 0.9785844087600708
+ when i drew the muzzle for the little prince i forgot--> to || 0.9785816669464111
+ sometimes i tell myself surely not the little prince shuts--> his || 0.9784577488899231
+ you will always be my--> friend || 0.9784178137779236
+ so you will tell them yes the stars always make me laugh and they will think you are cra-->zy || 0.9784068465232849
+ ah little fellow dear--> little || 0.9783643484115601
+ but he did not answer my question-->[EOS] || 0.9783313274383545
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry sli-->pped || 0.9783174991607666
+ if you love a flower that is on a star it is sweet to look at the sky at night-->[EOS] || 0.9782936573028564
+ everyone has the same stars but they--> are || 0.9782609343528748
+ herein lies a great mystery for you who also love the little prince just--> like || 0.9782575964927673
+ so you will tell them yes the stars always make me laugh and they will think you are crazy-->[EOS] || 0.978257417678833
+ nothing in the universe is the same if somewhere out there a sheep that we have never seen has has it e-->aten || 0.9782474637031555
+ do not--> come || 0.978205680847168
+ ah little fellow dear little fellow i love--> to || 0.9781617522239685
+ another voice must have answered him because he replied yes yes it is the right day but this is not the right place-->[EOS] || 0.9781392216682434
+ i felt his heart beat like the heart of a dying bird when shot with a rif-->le || 0.9781043529510498
+ ah little fellow dear little fellow i--> love || 0.9780538082122803
+ other times i tell myself everyone is absent minded at some point--> and || 0.9780478477478027
+ ah little fellow dear little fellow--> i || 0.9780327081680298
+ you know it will be nice-->[EOS] || 0.9780261516571045
+ his feet--> h || 0.9780115485191345
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then he said to himself i thought i was rich with a flower that was one of a kind and--> all || 0.8356539607048035
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is unique in the--> entire || 0.870280921459198
+ you will understand that yours is unique in the--> entire || 0.8723177909851074
+ but every day you will be able--> to || 0.8779132962226868
+ to me you will be unique in the--> entire || 0.8795546293258667
+ first you will sit down a little way away from me like this in the--> grass || 0.8818381428718567
+ to you i will be unique in the--> entire || 0.8828736543655396
+ his flower had told him that she was the only one of her kind in the--> universe || 0.8845532536506653
+ i am a fox the--> fo || 0.8849572539329529
+ they waste their time with a--> rag || 0.8850143551826477
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of--> them || 0.885943591594696
+ all the chickens look alike and all the men--> look || 0.8922215700149536
+ i can go for a walk as far as the--> v || 0.8927005529403687
+ but she alone is more--> important || 0.8934451341629028
+ they are asleep in there or if not they are--> y || 0.8938959240913391
+ she would--> be || 0.8940209746360779
+ she would--> c || 0.8940209746360779
+ goodbye he--> said || 0.8942419290542603
+ he was--> only || 0.8947665095329285
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the--> dwell || 0.8947703838348389
+ unlike any other other footsteps send me hur-->ry || 0.8949180841445923
+ one only sees clearly with the--> heart || 0.8964344263076782
+ they all looked just like his--> flower || 0.8972232341766357
+ my life is very monoton-->ous || 0.8973888158798218
+ they waste their time with a rag doll and--> it || 0.8977168202400208
+ we are roses the--> ros || 0.8979988694190979
+ it would have been better to come back at the--> same || 0.8981394171714783
+ the fox went silent and gazed at the little--> prince || 0.8982243537902832
+ it is the time you have wasted on your--> rose || 0.8984582424163818
+ then come back to say goodbye to me and--> i || 0.8984763622283936
+ words--> are || 0.8993479609489441
+ they buy things ready made in the--> sh || 0.8996257781982422
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my bur-->row || 0.8998104333877563
+ the fox went silent and--> gaz || 0.900237500667572
+ one only understands the things that one t-->ames || 0.9005667567253113
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because--> if || 0.9008080363273621
+ his flower had told him that she was the--> only || 0.9010482430458069
+ because it is for her that--> i || 0.9011602997779846
+ she would cough and cough and pretend to die to avoid being laughed at and i--> would || 0.9011914730072021
+ they are asleep in there or--> if || 0.9013890624046326
+ and a brilliantly lit express train r-->umb || 0.9015950560569763
+ the next day--> the || 0.9021254777908325
+ then he said to himself i thought i was rich with a flower that was one of a kind and all i have is a common--> rose || 0.9021559953689575
+ it was then that the--> fo || 0.9024586081504822
+ only the--> children || 0.9024696350097656
+ only the--> children || 0.9024698734283447
+ these are not the--> same || 0.9025083184242249
+ his flower had told him that she was the only one of her kind in the universe and here--> were || 0.9025744795799255
+ they really are--> in || 0.9033491015434265
+ of course an ordinary--> passer || 0.9036455154418945
+
+
+## 50 prefixes with the highest comosition scores:
+ the wheat which is golden will remind me of you and i will love the sound of the wind blow-->ing || 0.9713872075080872
+ and when the time to leave drew near--> oh || 0.9699459671974182
+ because it is for her that i killed the caterpill-->ars || 0.9665330648422241
+ because it is her that i put under the glass dome-->[EOS] || 0.9661649465560913
+ are they chasing after the first travelers asked the little prince-->[EOS] || 0.9660394191741943
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got near-->er || 0.964914083480835
+ that does not make me a very great prince and lying in the grass--> he || 0.9647756218910217
+ she would cough and cough and pretend to--> die || 0.9646963477134705
+ the little prince--> went || 0.9645273089408875
+ the little prince--> gaz || 0.9645270705223083
+ they waste their time--> with || 0.9644085168838501
+ come and play with--> me || 0.9643059372901917
+ men no longer have the time--> to || 0.9638593196868896
+ i am looking for--> friends || 0.9637364149093628
+ i am looking for--> men || 0.9637362360954285
+ but your hair is the color of--> gold || 0.963699221611023
+ they all looked just--> like || 0.9633810520172119
+ come and--> play || 0.9630466103553772
+ i have--> friends || 0.9629178047180176
+ but after some thought--> he || 0.962653398513794
+ then come back to say goodbye to me and i will make you a present--> of || 0.9624380469322205
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend--> to || 0.9622732400894165
+ what should i--> do || 0.9620006680488586
+ it is your fault--> said || 0.9619442224502563
+ i am responsible for my rose repeated the--> little || 0.9619337320327759
+ you become forever responsible for--> that || 0.9619075655937195
+ i can not play with you--> said || 0.9618273377418518
+ no one has tamed--> you || 0.9617865085601807
+ but you are going to cry said the--> little || 0.9614391922950745
+ what is essential is--> invisible || 0.9614226222038269
+ what is essential is--> invisible || 0.961422324180603
+ then he said to himself--> i || 0.9613601565361023
+ i would be jumping about--> and || 0.9611826539039612
+ and a brilliantly lit express train rumb-->ling || 0.9610704779624939
+ you become forever responsible for that which you have tamed-->[EOS] || 0.9610704183578491
+ all the chickens look alike and all the men look alike-->[EOS] || 0.9609127044677734
+ one only sees clearly with--> the || 0.9608964920043945
+ goodbye said the--> fo || 0.9608403444290161
+ it has done me good--> said || 0.9608094692230225
+ she would be very upset he said to himself--> if || 0.9607893824577332
+ the fox seemed very intrigu-->ed || 0.9607447385787964
+ and then he added go and see the roses--> again || 0.9606791138648987
+ i never wished you any harm but you wanted me to--> t || 0.9606713056564331
+ please tame me--> he || 0.9605619311332703
+ one only sees--> clearly || 0.9605199694633484
+ and then look you see the wheat fields--> down || 0.9605193734169006
+ nothing--> is || 0.9603970646858215
+ i am so--> unh || 0.9603905081748962
+ men said the--> fo || 0.960017740726471
+ it is very bothersome-->[EOS] || 0.9599021077156067
+

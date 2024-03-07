@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.9359221458435059
+ so when he saw--> my || 0.9434805512428284
+ so getting impat-->ient || 0.9442933201789856
+ it said in--> the || 0.9454185962677002
+ and he--> repeated || 0.9454839825630188
+ and i--> was || 0.9455834031105042
+ and i--> was || 0.9455834031105042
+ i then drew the inside--> of || 0.946635365486145
+ do you think this sheep needs a lot--> of || 0.9471431374549866
+ but it was--> rejected || 0.9474691152572632
+ when i--> finally || 0.9485280513763428
+ i was discouraged by the failure of my drawing number--> one || 0.9488776326179504
+ they answered me why would--> anyone || 0.9489694237709045
+ but it was rejected like the--> previous || 0.9493771195411682
+ the sheep--> you || 0.9493955373764038
+ but he--> did || 0.9497135877609253
+ where i live everything is very small-->[EOS] || 0.9500374794006348
+ so i--> thought || 0.9501031637191772
+ so i--> drew || 0.9501031637191772
+ so i--> had || 0.9501031637191772
+ so i--> would || 0.9501031637191772
+ so i--> lived || 0.9501031637191772
+ but if you do not tie--> him || 0.9513756632804871
+ it is true that you can not have come from far away in that and he drifted into--> a || 0.9517412185668945
+ it was the--> words || 0.9519851803779602
+ make another--> one || 0.9526129364967346
+ i have had during my life a lot--> of || 0.9528833627700806
+ then he added so you also come from the--> sky || 0.9531603455543518
+ it is not a--> thing || 0.9533500075340271
+ i talked to them about bridge golf politics and neck-->ties || 0.9534834623336792
+ remember that i was--> a || 0.9535115957260132
+ thus--> i || 0.9535824060440063
+ and perhaps with a hint of sadness he--> added || 0.953606128692627
+ it said please draw me--> a || 0.9537657499313354
+ it is exactly the way--> i || 0.953896701335907
+ and perhaps with a hint of sadness he added straight ahead you--> can || 0.953920304775238
+ my friend smiled gently and indulgently you can see--> yourself || 0.9539952874183655
+ it said in the book boa constrictors swallow their prey whole without chewing then they are--> not || 0.95408034324646
+ the little prince--> who || 0.9545609354972839
+ for--> me || 0.9555716514587402
+ i wanted to know if they were really a person of true--> understanding || 0.9556859135627747
+ it showed a--> bo || 0.9558728933334351
+ it showed a--> bo || 0.9558728933334351
+ then he--> cried || 0.9559043049812317
+ then he--> added || 0.9559043049812317
+ do you think this--> sheep || 0.9560234546661377
+ i prefer--> people || 0.9561005234718323
+ i could recognize--> at || 0.9561113119125366
+ i talked to them about bridge--> golf || 0.956186830997467
+ the one--> of || 0.9562080502510071
+
+
+## 50 prefixes with the highest comosition scores:
+ he looked nothing like a child lost in the middle of--> the || 0.999791145324707
+ for me it was a matter of life--> or || 0.9985102415084839
+ i caught a glimpse into the mystery of his presence and i asked abrupt-->ly || 0.9968731999397278
+ i had hardly enough water to--> drink || 0.9959433674812317
+ i was more--> isolated || 0.9959229230880737
+ he looked nothing like a child lost in the middle of the desert a thousand miles from--> any || 0.9955549836158752
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored penc-->il || 0.9952738285064697
+ so getting impatient as i was eager to start dismant-->ling || 0.995055615901947
+ as i had never drawn a sheep i red-->rew || 0.9947248101234436
+ a boa constr-->ict || 0.9944353699684143
+ and i was astounded to hear the little fellow respond no no i do not want an elephant inside a boa constr-->ict || 0.9944278597831726
+ i was more isolated than a shipwrecked sailor on a ra-->ft || 0.9944025278091431
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored p-->enc || 0.9943219423294067
+ i then drew the inside of the boa constr-->ict || 0.9942528009414673
+ so you can imagine my surprise when at daybreak a funny little voice w-->oke || 0.9940057992935181
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little cross-->ly || 0.9938905239105225
+ when i finally managed to speak i said--> what || 0.9938183426856995
+ i was more isolated than a shipwrecked sailor on a raft in the middle of--> the || 0.9934771656990051
+ it said in the book boa con-->str || 0.9934069514274597
+ i was discourag-->ed || 0.9933968782424927
+ i was discourag-->ed || 0.9933968782424927
+ i stared at this sudden apparition wide e-->yed || 0.9933843612670898
+ it said in the book boa constr-->ict || 0.9932984113693237
+ it is true that you can not have come from far away in that and he drifted into a dayd-->ream || 0.9932645559310913
+ then taking my sheep out of his pocket he sank himself--> into || 0.9932279586791992
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of--> th || 0.9931801557540894
+ remember that i was a thousand miles from any inhab-->ited || 0.9930261969566345
+ when a mystery is too overpower-->ing || 0.9929890036582947
+ it showed a boa constr-->ict || 0.9927757978439331
+ it showed a boa constr-->ict || 0.9927757978439331
+ so i thought a lot about the adventures of the j-->ung || 0.9927719831466675
+ once when i was six years old i saw a magnificent picture in a book about--> the || 0.9926043152809143
+ the one of the closed boa constr-->ict || 0.992554783821106
+ i was more isolated than a shipwrecked sailor on a--> ra || 0.9924017786979675
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a--> sheet || 0.9922666549682617
+ so i would never speak to them of boa constr-->ict || 0.9922645688056946
+ and the little prince broke into a lovely peal of laughter which irrit-->ated || 0.9920963048934937
+ remember that i was a thousand miles from any inhabited region and--> yet || 0.9920883178710938
+ i showed my masterpie-->ce || 0.9920596480369568
+ and the little prince broke into a lov-->ely || 0.9920399188995361
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constrictors closed--> and || 0.99198979139328
+ he shook his head slowly whilst looking--> at || 0.9919359087944031
+ then the little prince said gravely that does not--> matter || 0.9918521046638489
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of th-->irst || 0.9918301105499268
+ and the little prince broke into a lovely peal of laughter which irritated me very--> much || 0.9918180704116821
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet of paper and a--> pen || 0.9918180108070374
+ i rub-->bed || 0.991767168045044
+ it is true that you can not have come from--> far || 0.9917556643486023
+ and i was astounded to hear the little fellow respond no no i do not want an elephant inside a boa con-->str || 0.9917548894882202
+ my friend smiled g-->ently || 0.9917283058166504
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ you run the risk of weeping a little if you--> allow || 0.8814048171043396
+ the song of the pulley continued in my ears and in the still trembling water i could see the--> sun || 0.8882877826690674
+ you could take one pill a week and you no--> longer || 0.8883610367774963
+ and i came to think of him--> as || 0.8916319012641907
+ but he looked--> at || 0.8938565254211426
+ and i added hesitantly perhaps because of the--> anni || 0.8943353891372681
+ whether the house the stars or the desert what gives them--> their || 0.8965715765953064
+ what makes the desert beautiful said the little prince is that somewhere it h-->ides || 0.899449348449707
+ the wells of the sah-->ara || 0.8996214866638184
+ of course no one had ever been able--> to || 0.9001767039299011
+ you must go--> back || 0.9021104574203491
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.9031844139099121
+ it is strange i said to the--> little || 0.9032379984855652
+ it is too--> heavy || 0.9043093919754028
+ the desert is beautiful the little--> prince || 0.904408872127533
+ and continuing to walk i found the--> well || 0.9044919013977051
+ you hear nothing and yet something radiates forth in the--> silence || 0.9047321677207947
+ men said the little prince stuff themselves into express--> trains || 0.9048528075218201
+ and yet what they are looking--> for || 0.9050118327140808
+ we were at the eighth day since my accident in the desert and i had listened to the--> story || 0.9060976505279541
+ myself the little prince said to himself if i had--> fifty || 0.9061679244041443
+ it seemed to--> me || 0.9063314199447632
+ we were at the eighth day since my accident in the--> desert || 0.9066129326820374
+ we were at the eighth day since my accident in the desert and i had--> listened || 0.9067328572273254
+ i was surprised to suddenly understand this mysterious radiation of the s-->ands || 0.9069055318832397
+ my dear fellow our situation has nothing to do with the fo-->x || 0.907126784324646
+ so they rush about and go in circles and he added--> it || 0.9073144793510437
+ i sat down beside him and after--> a || 0.9078293442726135
+ you know a m-->uzz || 0.9080153703689575
+ i am glad he--> said || 0.9084909558296204
+ the men where you live said the--> little || 0.9087592363357544
+ we have w-->oken || 0.9090840220451355
+ the song--> of || 0.9094069004058838
+ i did not want him to t-->ire || 0.9096161723136902
+ but he--> did || 0.9098575711250305
+ but he--> respond || 0.9098576307296753
+ but he--> did || 0.9098576307296753
+ but he--> looked || 0.9098578095436096
+ and i added hes-->it || 0.9104589819908142
+ you could take--> one || 0.9105719327926636
+ my friend--> the || 0.9106202125549316
+ so they rush about and go in circles and he--> added || 0.9110441207885742
+ what makes the desert beautiful said the little prince is that--> somewhere || 0.9112280011177063
+ as his--> slightly || 0.9113908410072327
+ when i was a little boy the lights of the--> christ || 0.9116430878639221
+ myself i am glad to have had a fo-->x || 0.9118279814720154
+ your fox his ears they--> look || 0.912013590335846
+ experts--> have || 0.9127811193466187
+ so i made a pencil sketch of a m-->uzz || 0.9129825830459595
+ the stars are beautiful because of a flower that can not be seen-->[EOS] || 0.9135879874229431
+
+
+## 50 prefixes with the highest comosition scores:
+ you were out walking like that all alone--> a || 0.9721603989601135
+ i did not want him to tire himself out-->[EOS] || 0.9718881249427795
+ this one looked like a village well--> but || 0.9707775115966797
+ so i made a pencil sketch of--> a || 0.9699522852897644
+ you save fifty three minutes per week-->[EOS] || 0.9696938991546631
+ you could take one pill a week--> and || 0.9693561792373657
+ the song of the pulley continued in my ears and in the still trembling water i could see the sunlight shimmer-->[EOS] || 0.969282329082489
+ when we had walked for hours in silence night fell and the stars--> began || 0.969265341758728
+ it is nice to have had a friend even if you are about to die-->[EOS] || 0.9691740274429321
+ and the pulley moaned like an old weathervane--> when || 0.9691678285598755
+ your fox his ears they look a bit like horns--> and || 0.9690297245979309
+ oh and i had been so proud--> of || 0.9688172340393066
+ i felt deeply moved-->[EOS] || 0.968437910079956
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving--> about || 0.9674995541572571
+ i hoisted the bucket slowly to the edge of the well and set it down good and--> level || 0.9674815535545349
+ the men where you live said the little prince grow five thousand roses in a single garden and they do not find what they are looking for--> in || 0.9669501781463623
+ when we had walked for hours in silence night fell and the stars began to come out-->[EOS] || 0.966940701007843
+ why then did--> i || 0.966863214969635
+ i hoisted the bucket slowly to the edge of the well--> and || 0.9667927622795105
+ when we had walked for hours in silence--> night || 0.9665818214416504
+ i hoisted the bucket slowly to the edge--> of || 0.966387152671814
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave it to--> him || 0.9663149118423462
+ you are not being fair--> my || 0.9661920070648193
+ i looked in the moonlight at his pale forehead his closed eyes his locks of--> hair || 0.965944766998291
+ we were at the eighth day since my accident--> in || 0.965938150882721
+ and the pulley moaned like--> an || 0.965929388999939
+ the well we had reached was not like the other wells of--> the || 0.9657540917396545
+ what makes the desert beautiful--> said || 0.9657378792762756
+ a little sunshine is all he needs-->[EOS] || 0.9657036662101746
+ the wells of the sahara are mere holes dug--> in || 0.965609610080719
+ the sand at sunrise is the color of--> h || 0.965603232383728
+ and once again without understanding why i felt a peculiar sense of--> sorrow || 0.9655922055244446
+ when we had walked for hours in silence night fell and the stars began to come--> out || 0.9655700922012329
+ i have nothing left to drink and i too would be happy if i could walk slowly towards a spring of--> fresh || 0.9655498266220093
+ everything has been prepared--> the || 0.9655268788337708
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about--> this || 0.9654502868652344
+ this one looked like a village well but there was no village there and i thought i was dreaming-->[EOS] || 0.9653725624084473
+ you hear nothing and--> yet || 0.9653081297874451
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart--> as || 0.9651913642883301
+ myself the little prince said to himself--> if || 0.9651347994804382
+ but he did not reply to my question-->[EOS] || 0.9651062488555908
+ what makes the desert beautiful said the little prince is that somewhere it hides a well-->[EOS] || 0.9648866653442383
+ and continuing to walk i found the well at daybreak-->[EOS] || 0.9648362398147583
+ you save fifty three minutes per--> week || 0.9645867347717285
+ i am glad he said that you agree with--> my || 0.9645814299583435
+ it is absurd to look for a well at random in the immensity of the--> desert || 0.9644511342048645
+ myself the little prince said to himself if i had fifty three minutes to spend--> as || 0.9644485116004944
+ you can do anything--> you || 0.9644042253494263
+ and i looked without saying anything at the folds of sand in the moonlight-->[EOS] || 0.9643262028694153
+ i breathed easily-->[EOS] || 0.9643197059631348
+

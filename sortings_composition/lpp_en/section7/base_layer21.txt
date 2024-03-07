@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the fox seemed very intrigu-->ed || 0.8171104192733765
+ my life is very monoton-->ous || 0.8296335339546204
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8374707698822021
+ i can go for a walk as far as the viney-->ards || 0.8551779985427856
+ but every day you will be able--> to || 0.8960884809494019
+ i really want to the--> little || 0.9634057879447937
+ and i--> do || 0.9645338654518127
+ first you will sit down a little way away from me--> like || 0.9647559523582458
+ she would be very upset he said to himself if she saw--> this || 0.9652036428451538
+ his flower had told him that she was the only one of her kind in the universe--> and || 0.9670068621635437
+ but after some thought he added what does that mean--> t || 0.9674172401428223
+ you will understand that yours is unique in the entire world-->[EOS] || 0.9683998227119446
+ it was a garden covered in--> ros || 0.9684940576553345
+ but i--> do || 0.9685285091400146
+ and then look you see the--> whe || 0.9688990116119385
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the dwell-->ings || 0.9690551161766052
+ on thursdays they dance with the girls of the village so thursday is a wonderful--> day || 0.9701089262962341
+ what is--> a || 0.9706529974937439
+ what is--> essential || 0.9706529974937439
+ what is--> it || 0.9706530570983887
+ what is--> it || 0.9706530570983887
+ what is--> essential || 0.9706530570983887
+ but she alone is more important than all of you because it is her that i watered-->[EOS] || 0.9706996083259583
+ she would cough and cough and pretend to die to avoid being laughed at and i--> would || 0.9708421230316162
+ i have friends to discover and many--> things || 0.9713186025619507
+ i dispatch the trains--> that || 0.9713459610939026
+ what is essential is invisible to the eye repeated the--> little || 0.9713608622550964
+ i--> really || 0.9719623923301697
+ i--> will || 0.9719623923301697
+ i--> know || 0.9719623923301697
+ i--> h || 0.9719623923301697
+ i--> am || 0.9719623923301697
+ i--> know || 0.9719623923301697
+ i--> am || 0.9719623923301697
+ i--> am || 0.9719623923301697
+ i--> do || 0.9719623923301697
+ i--> am || 0.9719624519348145
+ i--> think || 0.9719624519348145
+ i--> have || 0.9719624519348145
+ i--> am || 0.9719624519348145
+ i--> am || 0.9719624519348145
+ i--> would || 0.9719624519348145
+ i--> would || 0.9719624519348145
+ i--> would || 0.9719624519348145
+ i--> am || 0.9719624519348145
+ i--> sort || 0.9719624519348145
+ i--> never || 0.9719624519348145
+ i--> am || 0.9719624519348145
+ i--> can || 0.9719624519348145
+ i--> would || 0.9719624519348145
+
+
+## 50 prefixes with the highest comosition scores:
+ so all this has done you no--> good || 0.9985031485557556
+ it has done me--> good || 0.9963798522949219
+ but your hair is the color of gold so it will be--> wonderful || 0.995936393737793
+ not even the locomotive engineer knows that said the switch-->man || 0.9957025051116943
+ that and my three volcano-->es || 0.9955642819404602
+ good morning said the railway switchman-->[EOS] || 0.9951087236404419
+ they all looked just--> like || 0.9950854182243347
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow herself to--> die || 0.9946776032447815
+ she would be very upset he said to himself if she--> saw || 0.9945157170295715
+ good morning said the roses-->[EOS] || 0.9942443370819092
+ a second brilliantly lit express thundered--> by || 0.9941564202308655
+ so all this has done you--> no || 0.9941078424453735
+ they also raise ch-->ick || 0.9940232038497925
+ what do you do here the little prince--> asked || 0.9939650893211365
+ goodbye said the fox-->[EOS] || 0.9939529895782471
+ the little prince--> went || 0.9938555955886841
+ the little prince--> gaz || 0.9938554763793945
+ and a brilliantly lit express train rumbling--> like || 0.993821918964386
+ she would cough and c-->ough || 0.993815004825592
+ she would cough and cough and pretend to die to avoid being laughed at and i would--> have || 0.9938050508499146
+ good morning said the railway--> switch || 0.9937971234321594
+ i can not play with you said the fox-->[EOS] || 0.9937938451766968
+ and the roses were--> very || 0.9937648177146912
+ and a brilliantly lit express train rumbling like thunder shook the switch-->man || 0.9937426447868347
+ a third brilliantly lit express thundered--> by || 0.9937088489532471
+ i would come to know a sound of foot-->steps || 0.9936795830726624
+ and a brilliantly lit express train rumbling like thunder shook the--> switch || 0.9936172962188721
+ but if you come at just--> any || 0.9936001896858215
+ but if you tame me we will need each--> other || 0.9935997724533081
+ good morning said the fox-->[EOS] || 0.9935958981513977
+ the fox went silent--> and || 0.9935518503189087
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow--> herself || 0.9935194253921509
+ if the hunters danced on just any day all the days would be al-->ike || 0.9934670925140381
+ i would feel happier and happier already by four o clock-->[EOS] || 0.9934531450271606
+ a second brilliantly lit express thundered by in the--> opposite || 0.9934517741203308
+ if you come for example at four o clock in the afternoon from three o clock--> i || 0.9933289289474487
+ they also raise chick-->ens || 0.9932621121406555
+ she would cough and cough and pretend to die to avoid being--> laughed || 0.9931567311286926
+ she would cough and cough and pretend to--> die || 0.9931401014328003
+ that and my three volcanoes that--> come || 0.9930779933929443
+ she would cough and--> c || 0.9930335879325867
+ it was then that the fox appeared-->[EOS] || 0.9930055737495422
+ they are not chasing after anything at all said the switch-->man || 0.9929909706115723
+ not even the locomotive--> engineer || 0.9929621815681458
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would--> allow || 0.9929510354995728
+ i sort travelers in packs of a thousand said the switch-->man || 0.9929494261741638
+ come and play with me--> proposed || 0.9929272532463074
+ i would feel--> happ || 0.9928155541419983
+ then he said to himself i thought i was rich with a flower that was one of a kind and all--> i || 0.9926885366439819
+ i would be jumping--> about || 0.9926717877388
+

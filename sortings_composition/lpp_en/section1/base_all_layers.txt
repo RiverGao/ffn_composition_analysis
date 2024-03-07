@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i caught a glimp-->se || 0.8916704058647156
+ so getting impat-->ient || 0.8981180191040039
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.9039766788482666
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9123033285140991
+ i was discou-->rag || 0.935165524482727
+ i was discou-->rag || 0.935165524482727
+ then he added so you also come from the--> sky || 0.9422039985656738
+ i was discouraged in my career as a painter by the grownups at the age of six and--> i || 0.9424806833267212
+ you can imagine how my curiosity was aroused by this small disclosure about the--> other || 0.9425243735313416
+ he is--> fallen || 0.9434773325920105
+ and i was astounded to hear the--> little || 0.9438210725784302
+ but it was--> rejected || 0.9438706636428833
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to--> ge || 0.9442123770713806
+ i talked to them about--> bridge || 0.9444631338119507
+ i could recognize at first glance ch-->ina || 0.9444940090179443
+ grownups never understand anything by themselves and it is--> t || 0.9444980621337891
+ after a reflective silence he answered what is good about the box you have given is that at--> night || 0.9448265433311462
+ so i had to choose another profession and--> i || 0.9448977708816528
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and--> to || 0.945206880569458
+ i flew a little in many places around the world and geography it is--> true || 0.9454153776168823
+ that is right and if you are--> good || 0.9454841017723083
+ after a reflective silence he answered what is good about the box you have given is that at night he--> can || 0.9455026388168335
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and--> they || 0.9455166459083557
+ but i was very surprised to see the--> face || 0.9455898404121399
+ where is this where i live of--> yours || 0.9456691741943359
+ i talked to them about bridge golf politics and neckties and the grownup was--> glad || 0.9456706047058105
+ so i thought a lot about the--> advent || 0.9457727074623108
+ he looked carefully then said no this one is--> already || 0.9458282589912415
+ so i thought a lot about the adventures of the jungle and--> in || 0.945849597454071
+ i caught a glimpse into the mystery of his presence and--> i || 0.9461376667022705
+ i caught a glimpse into the--> mystery || 0.9461454153060913
+ so i would never speak to them of--> bo || 0.946226179599762
+ he looked nothing like a child lost in the middle of the desert a--> thousand || 0.9462352991104126
+ grownups never understand anything by themselves and it is t-->ires || 0.9462630152702332
+ so when he--> saw || 0.9462911486625671
+ i was discouraged by the--> failure || 0.9462994933128357
+ a boa constrictor is very dangerous and an--> ele || 0.9463099241256714
+ after a reflective silence he answered what is good about the--> box || 0.9463104009628296
+ it is not--> my || 0.9465716481208801
+ it is not--> a || 0.9465716481208801
+ i was discouraged in my career as a painter by the grownups at the age of six and i had--> not || 0.9465875625610352
+ i talked to them about bridge golf politics and--> neck || 0.9467412829399109
+ so i lived alone without anyone i could really talk to until a breakdown in the--> sah || 0.9467747807502747
+ it said in the book boa constrictors swallow their prey whole without chewing then they are--> not || 0.9468063712120056
+ i have had during my life a--> lot || 0.9468710422515869
+ the one of the--> closed || 0.9470616579055786
+ i then drew the inside of the boa constrictor so that the--> grow || 0.9470654726028442
+ i flew a little in many places around the world and geography it--> is || 0.9471838474273682
+ this one is--> too || 0.9472723603248596
+ and i was astounded to--> hear || 0.9473179578781128
+
+
+## 50 prefixes with the highest comosition scores:
+ it is true that you can not have come from far away in that and he drifted into a daydream which lasted--> a || 0.9640119671821594
+ i was discourag-->ed || 0.9637790322303772
+ i was discourag-->ed || 0.9637790322303772
+ then taking my sheep out of his pocket he sank himself--> into || 0.9636520743370056
+ so i lived alone without anyone i could really talk to until a breakdown--> in || 0.9632494449615479
+ and the little prince broke into a lovely peal of laughter which irrit-->ated || 0.9632201194763184
+ but i was very surprised to see the face of my young judge light up-->[EOS] || 0.9628782272338867
+ grownu-->ps || 0.962807297706604
+ i was more isolated than a shipw-->reck || 0.9627645611763
+ so you can imagine my surprise when at daybreak a funny little voice woke--> me || 0.9627512693405151
+ the one of the closed boa--> con || 0.9626873731613159
+ i was more isolated than a shipwreck-->ed || 0.9625982642173767
+ i caught a glimpse--> into || 0.9625777006149292
+ yes i said modest-->ly || 0.9623551964759827
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of thirst--> or || 0.9623443484306335
+ i was discouraged in my career as a painter by the grownu-->ps || 0.962340772151947
+ it said in the book boa constrictors swallow their prey whole without chewing--> then || 0.9623028039932251
+ you can imagine how my curiosity was aroused--> by || 0.9622362852096558
+ grownups never understand anything by themselves and it is tires-->ome || 0.9622032046318054
+ it showed a boa constrictor swallow-->ing || 0.9621224999427795
+ and he repeated very slowly as if--> it || 0.9621186852455139
+ so getting impatient as i was eager to start dismant-->ling || 0.9620526432991028
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved--> or || 0.9620318412780762
+ a boa constrictor is very dangerous and an eleph-->ant || 0.9620211720466614
+ i then drew the inside of the boa constrict-->or || 0.9620122909545898
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor--> half || 0.9619840383529663
+ it showed a boa constrict-->or || 0.9619008898735046
+ it showed a boa constrict-->or || 0.9619008302688599
+ remember that i was a thousand miles from any inhabited region and yet this little fellow--> seemed || 0.9617891907691956
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except--> bo || 0.9617648124694824
+ i then drew the inside of the boa constrictor so that the grownups could--> understand || 0.9617624878883362
+ oh that is fun-->ny || 0.9617418050765991
+ i stared at this sudden apparition wide eyed--> with || 0.9617196321487427
+ it showed a boa constrictor digest-->ing || 0.9617109298706055
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored penc-->il || 0.9617006778717041
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself--> to || 0.9616783261299133
+ once when i was six years old i saw a magnificent picture in a book about the primeval--> forest || 0.9616752862930298
+ oh that is funny-->[EOS] || 0.9616317749023438
+ and the little prince broke into a lovely peal of laughter which irritated--> me || 0.9615576863288879
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored pencil--> to || 0.9615463614463806
+ so you can imagine my surprise when at daybreak--> a || 0.9614443182945251
+ he asked me--> what || 0.9614080786705017
+ the little prince who asked--> me || 0.9614018797874451
+ the grownups advised me to leave aside drawings of boa constr-->ict || 0.9613834619522095
+ so you can imagine my surprise when at daybreak a funny little voice woke me up-->[EOS] || 0.9613737463951111
+ i rubbed my eyes-->[EOS] || 0.9613359570503235
+ the one of the closed boa constr-->ict || 0.9613267183303833
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and--> carry || 0.9613212943077087
+ i had hardly--> enough || 0.9612869620323181
+ i talked to them about bridge golf politics and neckties and the grownup was glad to know such a--> sensible || 0.9612560272216797
+

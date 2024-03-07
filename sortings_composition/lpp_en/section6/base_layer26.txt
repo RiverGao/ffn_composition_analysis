@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.9082719683647156
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.9126335978507996
+ the only--> mountains || 0.9399743676185608
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9419540762901306
+ therefore--> you || 0.9427417516708374
+ that is to say--> about || 0.9427905678749084
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9429382681846619
+ i can help you if somed-->ay || 0.9453453421592712
+ of course-->[EOS] || 0.9475141763687134
+ that is possible--> so || 0.9480277895927429
+ onto earth in africa--> the || 0.9485246539115906
+ all humanity--> could || 0.9495680928230286
+ but you you come from far away-->[EOS] || 0.9501054883003235
+ first came the--> turn || 0.9503813982009888
+ then came the--> turn || 0.9504662752151489
+ that is true the--> ge || 0.9508090019226074
+ he had never seen such a majestic planet before-->[EOS] || 0.9508180618286133
+ it is also lonely amongst men--> the || 0.9513385891914368
+ because into-->xic || 0.9545761346817017
+ therefore you should advise them to--> do || 0.9547876119613647
+ that is true--> the || 0.9549335241317749
+ if for example--> the || 0.955534815788269
+ that is possible so when the moral character of the explorer appears to be in order--> an || 0.95555579662323
+ he is--> a || 0.9557372331619263
+ it means which is at--> risk || 0.9558786153793335
+ geography books said the geographer of all books--> are || 0.9562051296234131
+ you trust me-->[EOS] || 0.9568480849266052
+ next came the--> turn || 0.9574967622756958
+ but extinct volcanoes can wake up interrupted the--> little || 0.9579967260360718
+ then those of--> a || 0.9580582976341248
+ then those of--> south || 0.9580584168434143
+ then those of--> north || 0.9580584168434143
+ but you are a geographer-->[EOS] || 0.9581215977668762
+ it is not very interesting-->[EOS] || 0.9581510424613953
+ it has a good--> reputation || 0.9583393335342407
+ you have not--> even || 0.9585074782371521
+ that--> is || 0.9589070081710815
+ that--> is || 0.9589071273803711
+ that--> was || 0.9589071273803711
+ that--> really || 0.9589071273803711
+ that--> is || 0.9589071273803711
+ that--> is || 0.9589071869850159
+ he continued-->[EOS] || 0.9590886235237122
+ and if any--> of || 0.9590939879417419
+ that really is at last a--> real || 0.9592555165290833
+ everything is very small-->[EOS] || 0.9593594670295715
+ they worked twice a year-->[EOS] || 0.9596186280250549
+ good--> evening || 0.9596527814865112
+ good--> morning || 0.9596527814865112
+ good-->bye || 0.9596529006958008
+
+
+## 50 prefixes with the highest comosition scores:
+ i have been having some trouble--> with || 0.9991806149482727
+ he asks them questions and he writes--> down || 0.9976595640182495
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all--> at || 0.9976287484169006
+ the only mountains he had ever known were the three volcanoes that came up to his kne-->es || 0.9968953132629395
+ it is not for the geographer to count the towns the rivers the mountains the seas the o-->ce || 0.996797502040863
+ the geographer is too important to go strolling--> about || 0.9967042803764343
+ that was his first moment of regret but he took heart once--> again || 0.996566891670227
+ he cried out when he caught--> sight || 0.9958547353744507
+ i can help you if--> som || 0.9956876039505005
+ he had already travel-->led || 0.995624840259552
+ good morning he said cour-->te || 0.9953298568725586
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and--> eleven || 0.9952095150947571
+ he had already started to worry that he had got the wrong planet when a moon colored coil stir-->red || 0.9952036738395691
+ when one wants to be witty it can happen that one bends the truth a--> little || 0.9950506091117859
+ whether volcanoes are extinct or active is of no consequence to--> us || 0.9948405027389526
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and--> si || 0.9947716593742371
+ it is not for the geographer to count the towns the rivers the mountains the se-->as || 0.9946768879890442
+ and the geographer having opened his big register shar-->pen || 0.9943387508392334
+ they picture themselves as taking up a lot of--> space || 0.9943122267723083
+ next came the turn of the lamplighters of china and--> si || 0.9942536354064941
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetlamp--> l || 0.9940908551216125
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable--> army || 0.9940792322158813
+ and he glanced--> around || 0.9940726161003113
+ all humanity could be piled up on the smallest pacific--> is || 0.9940317273139954
+ because an explorer who told lies would cause havoc to geography books so would an explorer who d-->rank || 0.9939692616462708
+ and the geographer having opened his big register sharpened his--> p || 0.9939574003219604
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetlamp ligh-->ters || 0.9939247369766235
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity--> it || 0.9939002394676208
+ i wonder he said if the stars are lit so that each of us can one day find his--> own || 0.9938448667526245
+ it has one hundred and eleven kings not forgetting of course the negro k-->ings || 0.9938448071479797
+ when one wants to be witty it can happen that one b-->ends || 0.993815004825592
+ men take up very little--> space || 0.9937981367111206
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a footst-->ool || 0.9937543869018555
+ the movements of this army were regulated like those of an--> opera || 0.9937451481819153
+ first came the turn of the lamplighters of new zealand and--> austral || 0.9936815500259399
+ if the two billion people who inhab-->it || 0.9936686158180237
+ i feel sorry for--> you || 0.993647038936615
+ it is not for the geographer to count the towns the rivers the mountains the seas the oceans and the--> desert || 0.9936046004295349
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven street-->l || 0.9935987591743469
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to--> maintain || 0.9935640692710876
+ when one wants to be w-->itt || 0.9935580492019653
+ it is very rare that an ocean empt-->ies || 0.993537425994873
+ it is all dry and all j-->ag || 0.9935340285301208
+ it has one hundred and--> eleven || 0.9935073852539062
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he--> used || 0.9934908151626587
+ and the geographer having opened his--> big || 0.9933556318283081
+ then came the turn of the lamplighters of russia and--> the || 0.9933488965034485
+ i wonder he said if the stars are lit so that each of us can one day find his own--> again || 0.993347704410553
+ the sixth planet was ten times--> larger || 0.9932306408882141
+ all humanity could be piled up on the smallest pacific is-->let || 0.9932304620742798
+

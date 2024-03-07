@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catastrop-->he || 0.8869207501411438
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.8889498114585876
+ it would suffice to be able--> to || 0.8889812231063843
+ then it elongates and grows timidly at first toward the sun a charming little harml-->ess || 0.8968169689178467
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.9016852378845215
+ does he collect butterf-->lies || 0.9020470976829529
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.9039760828018188
+ i will try of course to make my portraits as lifeli-->ke || 0.9044451117515564
+ the astronomer gave his presentation again in 1-->9 || 0.9072617292404175
+ this asteroid has only been seen through a telescope once in 1-->9 || 0.9120326042175293
+ unfortunately--> fran || 0.9356625080108643
+ they are like--> that || 0.9357815980911255
+ sometimes--> there || 0.9367550611495972
+ but of--> course || 0.9368916153907776
+ wait--> for || 0.9380386471748352
+ wait--> until || 0.9380386471748352
+ for--> i || 0.9381788969039917
+ for--> a || 0.9381788969039917
+ for--> those || 0.9381788969039917
+ then--> it || 0.9406996965408325
+ does he collect but-->ter || 0.9408819079399109
+ others--> do || 0.9422229528427124
+ for i do not want my book--> to || 0.942306637763977
+ and--> a || 0.9440470933914185
+ and--> if || 0.9440470933914185
+ and--> indeed || 0.9440470933914185
+ and--> one || 0.9440470933914185
+ and--> based || 0.9440472722053528
+ i knew that apart from the--> large || 0.944826602935791
+ so if you were to say to them the--> proof || 0.9456210732460022
+ for a long--> time || 0.9462188482284546
+ i am also not sure about the color of his--> out || 0.946977436542511
+ when i drew the--> ba || 0.9470463395118713
+ i learned this new detail on the--> fourth || 0.9472159147262573
+ if someone wants a sheep that proves--> they || 0.9475197196006775
+ but if it is a bad plant one--> must || 0.9476335644721985
+ you would have to tell them i saw a hundred thousand--> franc || 0.9478810429573059
+ not everyone has had a friend and--> if || 0.9480023980140686
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and--> bad || 0.9481803178787231
+ now there were some terrible seeds on the planet of the little--> prince || 0.9482250213623047
+ perhaps--> i || 0.9486201405525208
+ perhaps--> he || 0.9486202597618103
+ it is hard to take up--> drawing || 0.9491159915924072
+ but if it is a bad plant one must pull the--> plant || 0.9491410255432129
+ but we have--> to || 0.9493584036827087
+ what--> games || 0.9493604898452759
+ when you talk to them about a friend they never ask you about any of the important--> things || 0.9494180083274841
+ i pointed out to the little--> prince || 0.949519157409668
+ it is true is--> not || 0.9498148560523987
+ there he is too--> small || 0.950645923614502
+
+
+## 50 prefixes with the highest comosition scores:
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there--> are || 0.9994931221008301
+ if someone wants a sheep that proves they--> exist || 0.9983873963356018
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a few steps and you--> watched || 0.9979988932609558
+ i am also not sure about the color of his outfit so i f-->umble || 0.9974030256271362
+ if i have told you these details about the asteroid b 612 and revealed to you its number it is because of the grownu-->ps || 0.9964727759361267
+ grownu-->ps || 0.9957974553108215
+ grownu-->ps || 0.9957973957061768
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that--> are || 0.9957732558250427
+ the information came slowly as his thoughts w-->ander || 0.9953922033309937
+ they sleep secretly deep in the earth until on a whim one of them decides to w-->ake || 0.9946572184562683
+ it was in this way that on the third day i came to know of the tra-->ged || 0.9941322803497314
+ i would have liked to say once upon a time there was a little prince who lived on a--> planet || 0.9939032196998596
+ when i drew the baobabs i was spurred on--> by || 0.9938921928405762
+ but he remarked wis-->ely || 0.9933502078056335
+ i would have liked to say once upon a time there was a little prince who lived--> on || 0.9932162165641785
+ perhaps i am a bit like the grownu-->ps || 0.9929410815238953
+ i would have liked to say once upon a time there was a little prince who lived on a planet not much bigger than himself and who--> needed || 0.9927482604980469
+ so that is why i have again bought a box of paints and some penc-->ils || 0.992601215839386
+ if you said to the grownups i saw a beautiful red brick house with geran-->iums || 0.9924445748329163
+ i would have liked to say once upon a time there was a little prince who lived on--> a || 0.9922619462013245
+ i will make mistakes on certain important points--> too || 0.9921067953109741
+ and one day he suggested that i apply myself--> to || 0.9920751452445984
+ i did not understand why it was so important that sheep eat shrubs but the little prince added then it follows they also eat baob-->abs || 0.9919652938842773
+ after grooming oneself in the morning the planet must be carefully gro-->omed || 0.9917733669281006
+ you seemed surprised at first and then you ch-->uck || 0.9917293190956116
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa constr-->ict || 0.9916024804115295
+ they sleep secretly deep in the earth until on a whim one of them dec-->ides || 0.9915528893470764
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good se-->eds || 0.9915248155593872
+ if someone wants a sheep that proves they exist-->[EOS] || 0.9914426803588867
+ i have serious reason to believe that the planet from where the little prince came is the asteroid b 6-->1 || 0.9912300705909729
+ if you said to the grownu-->ps || 0.9911690950393677
+ it is to warn my friends of the danger they have long been skir-->ting || 0.9911293983459473
+ i would have liked to say once upon a time there--> was || 0.9911006689071655
+ it is to warn my friends of the danger they have long been sk-->ir || 0.9910056591033936
+ i will try of course to make my portraits as lifelike as possible--> but || 0.9909474849700928
+ they sleep secretly deep in the earth until on a whim one of them decides to--> w || 0.9909133911132812
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good--> se || 0.990907609462738
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty in spotting them through the teles-->cope || 0.9908108115196228
+ that is right but why do you want the sheep to eat the little ba-->ob || 0.9907923936843872
+ a baobab if you--> get || 0.9907276034355164
+ they sleep secretly deep in the earth until on a wh-->im || 0.9905589818954468
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it--> that || 0.9905521869659424
+ i used to know a planet inhabited--> by || 0.9904857873916626
+ if i try to describe him here it is so as not to forget him-->[EOS] || 0.9904350638389587
+ i would have liked to say once upon a time there was a little prince who lived on a planet not much bigger than himself and who needed a--> friend || 0.9903927445411682
+ the day you saw it--> forty || 0.9903712868690491
+ and if the planet is too small and if there--> are || 0.9903711676597595
+ you might be wondering why is it that in this book there--> are || 0.9902833700180054
+ but if you were to say the planet he came from is the asteroid b -->6 || 0.9902441501617432
+ i have serious reason to believe that the planet from where the little prince came is the asteroid b -->6 || 0.9902281761169434
+

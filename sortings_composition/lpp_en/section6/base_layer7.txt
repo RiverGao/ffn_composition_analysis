@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ because an explorer who told lies would cause hav-->oc || 0.9063030481338501
+ because intoxicated men see double so the ge-->ograph || 0.9141371846199036
+ seven thousand ge-->ograph || 0.9165511131286621
+ we do not--> record || 0.9197388291358948
+ we write about et-->ernal || 0.9207091331481934
+ i have been having some trouble with a flower said--> the || 0.9209226369857788
+ you are not very powerful-->[EOS] || 0.9231961369514465
+ i am all alone all--> alone || 0.9232189655303955
+ what place--> would || 0.9245077967643738
+ and he glanced around at the planet of the ge-->ograph || 0.9249642491340637
+ you are not--> very || 0.924972653388977
+ good morning he said courte-->ously || 0.925503671169281
+ first came the turn of the lamplighters of new ze-->aland || 0.9255141019821167
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to--> maintain || 0.9263398051261902
+ but i am more powerful than the finger of a king--> said || 0.9271448254585266
+ i would not know that either said the ge-->ograph || 0.9272434115409851
+ men i think there exists six or seven--> of || 0.9277326464653015
+ and the little--> prince || 0.9280035495758057
+ one wa-->its || 0.9281717538833618
+ you must describe--> your || 0.928726077079773
+ having set their l-->amps || 0.928852915763855
+ next came the turn of--> the || 0.9289026856422424
+ he does not leave his des-->k || 0.9296660423278809
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty--> miles || 0.9297313094139099
+ the geographer suddenly became--> excited || 0.9300894737243652
+ everything--> is || 0.93018639087677
+ but you never know where to--> find || 0.9302632808685303
+ the only mountains he had ever known were the three volcanoes that came up--> to || 0.9304934144020081
+ that is possible so when the moral character of the--> expl || 0.9306173920631409
+ but it is so--> far || 0.9307428598403931
+ then came the turn of--> the || 0.9307823181152344
+ it is very rare that an ocean em-->pt || 0.9308333396911621
+ it is the prettiest thing-->[EOS] || 0.9308395981788635
+ it was magnific-->ent || 0.930918276309967
+ but he saw nothing but--> sharp || 0.9310271739959717
+ you go--> to || 0.9311175346374512
+ it is not--> for || 0.9312281608581543
+ it is not--> very || 0.9312284588813782
+ he had never seen such a--> maj || 0.9314270615577698
+ one waits until the explorer has provided proof--> before || 0.931492269039154
+ the only mountains he had ever known were the three vol-->cano || 0.9315286874771118
+ because an--> expl || 0.9316318035125732
+ he does not leave his desk but he--> receives || 0.9319132566452026
+ they are blow-->n || 0.9320544600486755
+ if for example the discovery in--> question || 0.9322487115859985
+ next came the turn--> of || 0.9324766397476196
+ but do not waste your time on this ch-->ore || 0.9324848055839539
+ she was always the--> first || 0.9329119920730591
+ because flowers are--> e || 0.9329401850700378
+ men i think there exists six--> or || 0.9330326318740845
+
+
+## 50 prefixes with the highest comosition scores:
+ the sixth planet was ten times larger--> than || 0.9788507223129272
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five--> hundred || 0.9779269695281982
+ they are blown here and there by--> the || 0.9776236414909363
+ one never knows said the--> ge || 0.977365255355835
+ the little prince sat down on the table and panted a little-->[EOS] || 0.9773568511009216
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit--> on || 0.9769891500473022
+ he had already started to worry that he had got the wrong planet when a moon colored coil stirred in the--> sand || 0.9768300652503967
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a footstool-->[EOS] || 0.9765415787696838
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9759690165519714
+ the little prince crossed the desert and met only with one flower a flower--> with || 0.9758598208427429
+ the little prince made no reply-->[EOS] || 0.9758420586585999
+ because an explorer who told lies would cause havoc to geography books so would an explorer who drank too--> much || 0.9752992391586304
+ where are the men asked the little prince at--> last || 0.9752280712127686
+ i understand very well said the--> little || 0.9749032855033875
+ it means which is at risk of imminent disappearance-->[EOS] || 0.9748764634132385
+ all humanity could be piled--> up || 0.9748222827911377
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondescript flower belonging to no one-->[EOS] || 0.9747666120529175
+ to give you an idea of the size of the earth i will tell you that before the invention of--> electric || 0.9743546843528748
+ the little prince sat down on a stone and raised his eyes toward--> the || 0.9743400812149048
+ the little prince--> sat || 0.9741525053977966
+ the little prince--> was || 0.9741525053977966
+ the little prince--> made || 0.9741525053977966
+ the little prince--> said || 0.9741525053977966
+ the little prince--> sat || 0.9741523861885071
+ the little prince--> having || 0.9741523861885071
+ the little prince--> gaz || 0.9741523861885071
+ the little prince--> clim || 0.9741523861885071
+ the little prince--> crossed || 0.9741523861885071
+ the little prince--> smiled || 0.9741523861885071
+ good morning good morning good--> morning || 0.9741263389587402
+ but what does ephemeral mean repeated the little prince who had never in his life let go of--> a || 0.9740034937858582
+ having set their lamps--> al || 0.9738926291465759
+ i have not been entirely honest in--> telling || 0.9737640619277954
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on--> one || 0.9737526774406433
+ to give you an idea of the size of the earth i will tell you that before the invention--> of || 0.9735665917396545
+ whether volcanoes are extinct or active is of no--> consequence || 0.9735642671585083
+ i wonder he said if the stars are lit so that each of--> us || 0.9734736680984497
+ so the seventh planet--> was || 0.9734387993812561
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetlamp--> l || 0.9734362959861755
+ the sixth planet was ten times--> larger || 0.973392128944397
+ and if any of their recollections seem interesting to him the geographer orders an inquiry into that explorer--> s || 0.9733452796936035
+ the geographer is too important to--> go || 0.9733334183692932
+ and towns and rivers and--> desert || 0.9732597470283508
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six contin-->ents || 0.9732520580291748
+ it is not for the geographer to--> count || 0.9731931090354919
+ because an explorer who told lies would cause havoc to geography books so would an explorer who drank too much-->[EOS] || 0.9730633497238159
+ to give you an idea of the size of--> the || 0.9729409217834473
+ the only mountains he had ever known were the three volcano-->es || 0.9729006290435791
+ it has one hundred and eleven kings not forgetting--> of || 0.9727709889411926
+ all humanity could be piled up--> on || 0.9726756811141968
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i learned this new detail on the fourth day in the morning when you said to me i am very fond of--> sun || 0.6191542744636536
+ and one day he suggested that i apply myself to making a beautiful drawing so that the children from where i come would understand--> all || 0.6270804405212402
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody had believed him because--> of || 0.6305051445960999
+ it was in this way that on the third day i came to know of the tragedy of--> the || 0.6382433772087097
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are--> so || 0.6400865316390991
+ i will make mistakes on certain important points too but you will have to forgive me that--> my || 0.6431916952133179
+ i say children beware of--> ba || 0.6444063186645508
+ i also get the size a--> bit || 0.6446541547775269
+ it would suffice to be able to go to france in one minute to--> be || 0.6513838768005371
+ if i have told you these details about the asteroid b 61-->2 || 0.6542497277259827
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are so large that--> for || 0.6542872786521912
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from the rose bushes to which they look very similar when--> they || 0.6558043956756592
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on--> his || 0.6558327078819275
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who--> might || 0.6589189767837524
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would--> not || 0.6607260704040527
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from--> good || 0.6609249711036682
+ you might be wondering why is it that in this book there are not any other drawings as impressive as--> the || 0.6635748744010925
+ i did not understand why it was so important that sheep eat shrubs but--> the || 0.6653231382369995
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on his people on pain of--> death || 0.6656779050827026
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on--> the || 0.6663365364074707
+ you seemed surprised at first and--> then || 0.6673460006713867
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so--> small || 0.6676251888275146
+ there were the seeds of--> ba || 0.6680775284767151
+ but if you were to say the planet he came from is the asteroid b 612 they would be convinced and leave you in peace and spare you--> their || 0.6688462495803833
+ if you said to the grownups i saw a beautiful red brick house with geraniums by--> the || 0.6689102053642273
+ i am also not sure about the color of his outfit so--> i || 0.6703038215637207
+ they sleep secretly deep in--> the || 0.6706146597862244
+ when an astronomer discovers one of these he gives it a number for--> a || 0.671410322189331
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be--> able || 0.6724115610122681
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a--> few || 0.6730451583862305
+ when i drew the baobabs i was spurred on by--> a || 0.6745517253875732
+ and indeed on the planet of the little prince there--> were || 0.6754633784294128
+ but if it is a bad plant one must pull the plant out straight away as--> soon || 0.6763598918914795
+ they sleep secretly deep in the earth until on a whim one--> of || 0.6763644218444824
+ but of course those of--> us || 0.6766968369483948
+ for i do not want my book to--> be || 0.6770618557929993
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able to picture this--> house || 0.6772494316101074
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he--> took || 0.6781604886054993
+ if i try to describe him here it--> is || 0.6788353323936462
+ i will try of course to make my portraits as lifelike as--> possible || 0.6788733601570129
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it--> that || 0.6793549656867981
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him a whole herd of--> ele || 0.6796698570251465
+ i have serious reason to believe that the planet from where the little prince came is the asteroid b-->  || 0.6803309321403503
+ if i have told you these details about the asteroid b 612 and revealed to you its number it is because--> of || 0.6817989945411682
+ it is a very boring job--> but || 0.6837634444236755
+ if i have told you these details about the asteroid b 612 and revealed to you its number it--> is || 0.6844032406806946
+ if you said to--> the || 0.6852713823318481
+ sometimes there is no harm in postponing one s work but in the case of--> ba || 0.6865724921226501
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able to--> picture || 0.6867024302482605
+ but if it--> is || 0.6884431838989258
+
+
+## 50 prefixes with the highest comosition scores:
+ indeed when it is noon in the united--> states || 0.9052624702453613
+ there were the seeds--> of || 0.8998443484306335
+ for--> i || 0.8952117562294006
+ for--> those || 0.8952117562294006
+ for--> a || 0.8952106237411499
+ it is a matter--> of || 0.8945856094360352
+ it is a very boring--> job || 0.8929846882820129
+ so if you were to say to them the proof that the little prince existed is that he was charming-->[EOS] || 0.8926576375961304
+ and based on what the little prince told me i drew--> this || 0.8899056911468506
+ i will try of course to make my portraits as lifelike--> as || 0.8897290825843811
+ you might be wondering why is it that in this book there are not any other drawings as impress-->ive || 0.8865129351615906
+ but if you were to say the planet he came from is the asteroid b 612 they would be convinced and leave you in peace--> and || 0.8860348463058472
+ here--> the || 0.8838169574737549
+ it is hard to take up drawing again at my age when i have only--> ever || 0.8834794163703918
+ for a long time your only entertainment was the soft-->ness || 0.8833942413330078
+ and indeed on the planet of the little prince there were like on all planets--> both || 0.883337140083313
+ but if it is a bad plant--> one || 0.88289475440979
+ they sleep secretly deep in the earth until on a whim one of them decides to wake--> up || 0.8823869228363037
+ you might be wondering why is it that in this book there are not any other drawings as impressive--> as || 0.8823091983795166
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks--> run || 0.8821907639503479
+ i have serious--> reason || 0.8814647793769836
+ after grooming oneself in the morning the planet must be carefully groomed-->[EOS] || 0.880944550037384
+ i knew that apart from the large planets--> like || 0.8806456327438354
+ do not blame--> them || 0.8806359767913818
+ you seemed surprised at first and then you chuckled--> at || 0.8782909512519836
+ but we have to--> wait || 0.8776771426200867
+ this time again it was thanks to the sheep because the little--> prince || 0.8774134516716003
+ oh little prince i came to understand gradually in this way your sad--> life || 0.8773099780082703
+ but seeds--> are || 0.8768848180770874
+ i am also not sure about the color--> of || 0.8765162229537964
+ unfortunately france is much too far away but on your tiny planet all--> you || 0.8765124678611755
+ some--> draw || 0.8764175772666931
+ and if the planet is too--> small || 0.8752400279045105
+ let--> us || 0.8750708699226379
+ they would have to be piled up on top of each other-->[EOS] || 0.8745388388633728
+ if--> i || 0.8741378784179688
+ if--> someone || 0.874137282371521
+ if--> one || 0.8741362690925598
+ if--> it || 0.8741348385810852
+ if--> i || 0.8741348385810852
+ if--> you || 0.8741348385810852
+ they never ask you how does his voice--> sound || 0.8734907507896423
+ i did not understand why it was so--> important || 0.8731100559234619
+ i feel so much sadness in recount-->ing || 0.8730511665344238
+ some draw-->ings || 0.8728435635566711
+ then it elongates and grows timidly at first toward the sun a charming little harml-->ess || 0.8723837733268738
+ the idea of the herd of eleph-->ants || 0.8721742630004883
+ then it elongates--> and || 0.8717013001441956
+ i tried but i could not--> succeed || 0.8711111545562744
+ oh i am glad-->[EOS] || 0.8709398508071899
+

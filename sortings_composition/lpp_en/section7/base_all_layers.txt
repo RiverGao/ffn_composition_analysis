@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the fox seemed very intrigu-->ed || 0.8866978883743286
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8917960524559021
+ my life is very monoton-->ous || 0.8938370943069458
+ but every day you will be able--> to || 0.899848222732544
+ i can go for a walk as far as the viney-->ards || 0.9021191596984863
+ then he said to himself i thought i was rich with a flower that was one of a kind and--> all || 0.9389751553535461
+ of course an ordinary passer by would think that my--> rose || 0.9412784576416016
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is--> unique || 0.9426288604736328
+ they really are--> in || 0.9431172013282776
+ if you come for example at four o clock in--> the || 0.9436410665512085
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is unique in the--> entire || 0.9446892142295837
+ if you want a--> friend || 0.944800853729248
+ they are what make one day different from other days one hour different from other hours-->[EOS] || 0.9448413848876953
+ you will understand that yours is--> unique || 0.9450435042381287
+ because it is her that i listened to grumble or--> bo || 0.9453197717666626
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her--> back || 0.9453768730163574
+ if the hun-->ters || 0.9454121589660645
+ he was--> only || 0.9454718828201294
+ of course an--> ordinary || 0.9454787969589233
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also--> because || 0.9455928802490234
+ are you looking for ch-->ick || 0.9456836581230164
+ then he said to himself i thought i was rich with a flower that was one of--> a || 0.9457184672355652
+ because of the--> color || 0.9457285404205322
+ they are--> not || 0.9457681775093079
+ they are--> as || 0.9457681775093079
+ they are--> also || 0.9457681775093079
+ they are--> luck || 0.9457682371139526
+ they are--> what || 0.9457682967185974
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as--> the || 0.9460039138793945
+ his--> flower || 0.9460242986679077
+ they waste their time with a rag doll and it becomes very important to--> them || 0.9461469054222107
+ on thursdays they dance with the girls of the village so thursday is--> a || 0.9461676478385925
+ what is it that they are--> looking || 0.9462466239929199
+ but she--> alone || 0.9463969469070435
+ his flower had told him that she was the only one of her kind in the universe and--> here || 0.9464406967163086
+ but your hair is the color of gold so it will be wonderful when you have t-->amed || 0.9465056657791138
+ they are not--> ch || 0.946652889251709
+ there is a rite for--> example || 0.9466902613639832
+ the next--> day || 0.9466981887817383
+ we must observe the--> r || 0.9467304348945618
+ there is a rite for example among my--> hun || 0.9468098282814026
+ because she--> is || 0.9468192458152771
+ oh but she is--> not || 0.9468408823013306
+ one which is--> perhaps || 0.9468709230422974
+ it was then that the--> fo || 0.9468722343444824
+ because it is--> her || 0.946931779384613
+ because it is--> her || 0.946931779384613
+ because it is--> her || 0.9469318389892578
+ because it is--> for || 0.9469318389892578
+ they waste their time with a rag doll and--> it || 0.9469563961029053
+
+
+## 50 prefixes with the highest comosition scores:
+ and a brilliantly lit express train rumb-->ling || 0.9647063612937927
+ so i get a bit bored-->[EOS] || 0.9644926190376282
+ and a brilliantly lit express train rumbling like thunder--> shook || 0.9639579653739929
+ a third brilliantly lit express thunder-->ed || 0.9639343023300171
+ but it happened that the little prince having walked for a long time--> through || 0.963863730430603
+ one only understands the things that one tames--> said || 0.9634007811546326
+ she would cough and cough and pretend--> to || 0.9631382822990417
+ a second brilliantly lit express thunder-->ed || 0.9630985260009766
+ and a brilliantly lit express train rumbling--> like || 0.9630830883979797
+ then he said to himself i thought i was rich with a flower that was one of a kind--> and || 0.9630154371261597
+ i would feel happier and happier already by four o clock-->[EOS] || 0.9624024033546448
+ and then look you see the wheat fields down--> there || 0.962354302406311
+ so the little prince tamed--> the || 0.9621576070785522
+ because it is for her that i killed the caterpill-->ars || 0.9620600938796997
+ one only understands the things that one--> t || 0.9620331525802612
+ i would be jumping about and getting restless-->[EOS] || 0.9618710875511169
+ nothing is perfect sighed the--> fo || 0.9617927074432373
+ it is the time you have wasted--> on || 0.9616839289665222
+ only the children are squashing their noses--> up || 0.9616498351097107
+ i dispatch the trains that carry--> them || 0.9615938663482666
+ if the hunters danced on just any day all the days would be alike--> and || 0.961585283279419
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend--> to || 0.9615272879600525
+ you become forever responsible for that which you have tamed-->[EOS] || 0.9615002274513245
+ so the little prince tamed the fox-->[EOS] || 0.9614978432655334
+ and when the time to leave drew near oh said the fox i will cry-->[EOS] || 0.9614964723587036
+ so all this has done you no good--> at || 0.9614896178245544
+ and when the time to leave drew--> near || 0.9613997936248779
+ i never wished you any harm--> but || 0.961358368396759
+ a second brilliantly lit express thundered by in the opposite--> direction || 0.9612753391265869
+ that does not make me a very great prince and lying in the grass--> he || 0.9612375497817993
+ i can not play with you said the fox-->[EOS] || 0.9611964225769043
+ i can go for a walk as far as the vineyards-->[EOS] || 0.9611518383026123
+ only the children know what they are after said the little--> prince || 0.961118221282959
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got nearer-->[EOS] || 0.9610955715179443
+ the next day the little prince came--> back || 0.9610859751701355
+ a third brilliantly lit express thundered--> by || 0.9610687494277954
+ and the roses were very embarrass-->ed || 0.9609811902046204
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pret-->end || 0.9609715938568115
+ but i do not have much time-->[EOS] || 0.9609510898590088
+ the wheat which is golden will remind--> me || 0.9609225988388062
+ and a brilliantly lit express train rumbling like--> th || 0.9608909487724304
+ are you looking--> for || 0.9608619213104248
+ the little prince gazed--> at || 0.9608551263809204
+ but your hair is the color--> of || 0.9607791900634766
+ oh i am sorry said the little--> prince || 0.9607727527618408
+ only the children are squash-->ing || 0.9607574939727783
+ if you want a friend tame--> me || 0.9607195258140564
+ they are asleep in there or if not they are yawning-->[EOS] || 0.9606478214263916
+ that does not make me a--> very || 0.9605951905250549
+ but if you tame me we will need each other-->[EOS] || 0.9605881571769714
+

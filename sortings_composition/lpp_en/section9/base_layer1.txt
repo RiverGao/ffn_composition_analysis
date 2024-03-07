@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if you love a flower that is on a star it is sweet to--> look || 0.6034095883369446
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with--> a || 0.6165539622306824
+ look at this landscape carefully so as to--> be || 0.628206193447113
+ another voice must have answered him because he replied yes yes it is the right day--> but || 0.6336549520492554
+ he would never have been able to fasten it--> to || 0.63973468542099
+ where i live everything is too small for--> me || 0.645431637763977
+ little fellow is this all a bad dream this business with the snake and--> the || 0.646340012550354
+ and if you happen to pass by there i beg you do not hurry on-->[EOS] || 0.6474226117134094
+ he would never have been able to fasten it to--> the || 0.649931788444519
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for--> you || 0.6562197804450989
+ write to me quickly to--> tell || 0.6576573252677917
+ i then lowered my eyes to the foot of the wall and--> i || 0.6607549786567688
+ look at this landscape carefully so--> as || 0.6620011925697327
+ you will have five hundred million little bells and i will have--> five || 0.6628568172454834
+ i have your sheep and i have the box for the sheep and--> i || 0.6638323664665222
+ it will look as if i am dead and--> that || 0.6664607524871826
+ he said to--> me || 0.6682499051094055
+ he said to--> me || 0.6682511568069458
+ he said to--> me || 0.6682519912719727
+ the water you gave me to drink was like music because of the pulley and--> the || 0.6693379878997803
+ when you look at the sky at night because i will be living on one of them because--> i || 0.6700102090835571
+ and no grownup will ever understand that this is a matter of--> such || 0.6702602505683899
+ she has four thorns of no use at all to--> protect || 0.6704744100570679
+ but i have drawn it again to--> show || 0.6731346249580383
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and--> in || 0.6733465790748596
+ it is true that they have no poison left for--> a || 0.673393964767456
+ i mean not entirely but i do know that he got back to his planet because--> at || 0.6734455823898315
+ they can bite you just for--> fun || 0.6736674904823303
+ look at this landscape carefully so as--> to || 0.6742811799049377
+ for me it was like a spring of--> fresh || 0.6750059127807617
+ it is the same landscape as the one on--> the || 0.6752889752388
+ right there facing the little prince was one of those yellow snakes that can kill you in--> thirty || 0.6755841970443726
+ i mean not entirely but i do know that--> he || 0.6760128736495972
+ but i have drawn it again to show it to--> you || 0.6760331988334656
+ i reached the wall just in time to catch my--> little || 0.677783191204071
+ i then lowered my eyes to the foot of--> the || 0.6782627701759338
+ he made no answer to my question but he--> added || 0.6803236603736877
+ where i live everything is too small for me to point out to--> you || 0.6803786158561707
+ it is here that--> the || 0.6824184656143188
+ when i drew the muzzle for the little prince i forgot to--> add || 0.6829196214675903
+ my heart skipped a--> beat || 0.6841672658920288
+ there was next to the well the ruin of an--> old || 0.684941828250885
+ i mean not entirely but i do know that he got back to his planet because at daybreak i did not find his body-->[EOS] || 0.6851577162742615
+ i reached the wall just in--> time || 0.6857509613037109
+ for some who are--> travel || 0.6859447956085205
+ there was next to the well the ruin of--> an || 0.686148464679718
+ this to me is the most beautiful and most sad landscape in--> the || 0.6867464184761047
+ and he took me by the hand but he was still worry-->ing || 0.6869350075721741
+ look at this landscape carefully so as to be sure to recognize it--> if || 0.6874805688858032
+ and he sat down because he--> was || 0.6887924075126648
+
+
+## 50 prefixes with the highest comosition scores:
+ for others who are scholars--> they || 0.9238623976707458
+ my heart ski-->pped || 0.9059974551200867
+ i had moist-->ened || 0.9025424718856812
+ i could feel that he was reviving--> little || 0.9021248817443848
+ this to me is the most beautiful and most sad--> landscape || 0.8994866609573364
+ for me it was like a spring of fresh--> water || 0.8961160778999329
+ for--> others || 0.8952121734619141
+ for--> me || 0.8952118158340454
+ for--> others || 0.8952117562294006
+ for--> some || 0.8952117562294006
+ for--> my || 0.8952115774154663
+ when i drew the muzzle for the little prince i forgot to add the leather--> st || 0.8927380442619324
+ i will have played a dirty--> trick || 0.8925657272338867
+ even as i dug around in my pocket--> to || 0.8922498226165771
+ he fell as gently--> as || 0.8917667269706726
+ i had moistened his temples--> and || 0.8906057476997375
+ why are you talking with snakes-->[EOS] || 0.8884165287017822
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped--> between || 0.8849685788154602
+ right--> there || 0.884484052658081
+ he said you know my flower--> i || 0.8842640519142151
+ when i drew the muzz-->le || 0.8841206431388855
+ here-->in || 0.8838165998458862
+ here--> is || 0.883816123008728
+ i had loosened the golden--> m || 0.8827224969863892
+ when i managed to catch--> him || 0.8818689584732056
+ sometimes i tell myself surely not the little prince shuts--> his || 0.8811914324760437
+ i have your sheep and i have the box for the sheep and i have the muzzle-->[EOS] || 0.8809157013893127
+ and if you happen to pass by there i beg--> you || 0.8808625936508179
+ i had loos-->ened || 0.8807740807533264
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not--> bear || 0.8800907135009766
+ that night--> i || 0.8796080350875854
+ i held him tightly--> in || 0.879526674747467
+ herein lies a great mystery--> for || 0.8791816234588623
+ right there facing the little prince was one of those yellow--> sn || 0.8790430426597595
+ if you love a flower--> that || 0.8789857625961304
+ if a child then comes to you if he laughs if he has golden--> hair || 0.8786742091178894
+ it is like--> that || 0.8786607980728149
+ it is like--> with || 0.8786605000495911
+ it is like--> with || 0.8786605000495911
+ my star will be for you--> just || 0.8778035044670105
+ my heart skipped--> a || 0.877785325050354
+ you will have five hundred million little bells and i will have five hundred million springs--> of || 0.8773794770240784
+ let--> me || 0.8750708103179932
+ my star will be for you just one of the stars-->[EOS] || 0.8742323517799377
+ if--> you || 0.8741348385810852
+ if--> a || 0.8741348385810852
+ and she is so naive-->[EOS] || 0.8737074136734009
+ i felt his heart beat like the heart of a dying bird when shot with a rifle-->[EOS] || 0.8731905817985535
+ and when your sorrow is comforted time heals all wounds--> you || 0.872806191444397
+ and if you happen to pass by there i beg you do not hurry--> on || 0.8727784156799316
+

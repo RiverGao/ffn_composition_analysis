@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i admire you said the little prince shrugg-->ing || 0.9446675181388855
+ he should be able--> for || 0.9493913650512695
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.9495585560798645
+ if he had held it himself he would have been able--> to || 0.9629765152931213
+ the king was sitting dressed in purple and--> er || 0.9670903086662292
+ but the little prince having readied himself to leave had no wish to grieve the old--> monarch || 0.9718058705329895
+ the little prince looked around him for a place to sit but the planet was completely taken over by the--> magnific || 0.9720332026481628
+ over all that the king answered-->[EOS] || 0.9734509587287903
+ conceited people never hear anything--> but || 0.974673330783844
+ and the little prince asked himself how--> could || 0.9748241901397705
+ the little prince said to--> himself || 0.9758720397949219
+ the little prince said to--> himself || 0.9758720993995667
+ and the little prince asked--> himself || 0.9765603542327881
+ over everything the king made a--> subt || 0.9766340255737305
+ he found himself in the neighborhood of the asteroids 32-->5 || 0.9768591523170471
+ i can not any more said--> the || 0.9769522547721863
+ from time to--> time || 0.976953387260437
+ exactly--> one || 0.9772018194198608
+ oh but i have already looked said the little prince who leant over to give one more glance at the other--> side || 0.9772207140922546
+ i admire you said--> the || 0.9775270819664001
+ the king was sitting dressed in purple and ermine on--> a || 0.97775799036026
+ oh but i have already looked said the little prince who leant over to give one more glance at--> the || 0.9779892563819885
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent er-->mine || 0.9790477752685547
+ oh but i have already looked said the little prince who leant over to give one more glance at the other side of--> the || 0.9791212677955627
+ good--> morning || 0.9793967008590698
+ if you ordered your people to go and throw--> themselves || 0.9794557094573975
+ because to conceited men all other men are--> adm || 0.9797384142875671
+ i order you to ask me a question hast-->ened || 0.9803125858306885
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent--> er || 0.9803346991539001
+ the king was sitting dressed in purple and er-->mine || 0.980492353439331
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was tired he yawn-->ed || 0.9806573987007141
+ oh but i have already looked said the little prince who leant over to give one more glance at the other side of the--> planet || 0.9807519316673279
+ he found himself in the neighborhood of the asteroids 3-->2 || 0.9808530211448669
+ you shall have your--> sun || 0.9809358716011047
+ clap your hands--> one || 0.9810433983802795
+ for the king fundament-->ally || 0.9811334013938904
+ the little prince looked around him for a place to sit but the planet was completely taken over by--> the || 0.9811904430389404
+ because to conceited men all other--> men || 0.9813193678855896
+ oh but i have already looked said the little prince who leant over to give one more glance at the--> other || 0.9815029501914978
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the--> order || 0.9815459251403809
+ i order you to sit down replied the king who majestically gathered in a fold of his er-->mine || 0.9815877079963684
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ oh but i have already looked said the little prince who leant over to give--> one || 0.9817196130752563
+ hum--> hum || 0.9817295670509338
+ hum--> hum || 0.9817296862602234
+
+
+## 50 prefixes with the highest comosition scores:
+ i would like to see--> a || 0.9999401569366455
+ he found himself in--> the || 0.9999256134033203
+ i can not stop myself replied the little prince thoroughly embar-->rass || 0.9999143481254578
+ authority is based above--> all || 0.9999068975448608
+ to forget that--> i || 0.9999061226844788
+ i have the right to demand obed-->ience || 0.999901294708252
+ so he began by visiting them--> to || 0.9998898506164551
+ he did not know that--> for || 0.9998845458030701
+ to forget that i am ashamed conf-->essed || 0.9998819828033447
+ authority is based--> above || 0.9998711347579956
+ it is to raise in salute when people acclaim--> me || 0.9998692274093628
+ from time to time you will condemn--> him || 0.9998670220375061
+ and you will see--> how || 0.9998562335968018
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he sp-->otted || 0.9998558163642883
+ the second planet was inhab-->ited || 0.9998553991317749
+ if he had held it himself he would have been able to watch--> not || 0.9998422265052795
+ i order you to ask--> me || 0.9998331665992737
+ that is the most difficult--> thing || 0.999832808971405
+ from time to time you will condemn him to death thus his life will depend--> on || 0.9998278617858887
+ to admire means to recognise that i am the most hand-->some || 0.9998246431350708
+ the next planet was inhab-->ited || 0.9998204708099365
+ it is contrary to etiqu-->ette || 0.9998131990432739
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up his courage to ask--> the || 0.9998036026954651
+ over what--> could || 0.9998035430908203
+ over everything said--> the || 0.9998030066490173
+ but the little prince having readied himself to leave had no wish to gr-->ieve || 0.9998003244400024
+ but the little prince having readied--> himself || 0.9997993111610413
+ the first one was inhab-->ited || 0.9997943043708801
+ the king was sitting dressed in purple and ermine on a very simple yet maj-->estic || 0.9997942447662354
+ to admire--> means || 0.9997866153717041
+ if he had held it himself he would have been able to watch not forty four but sevent-->y || 0.9997809529304504
+ but there--> is || 0.9997784495353699
+ i am fairly certain that--> somewhere || 0.9997763633728027
+ i have not seen--> anyone || 0.9997762441635132
+ i have come on a long journey and i have not sle-->pt || 0.9997711777687073
+ from time to time you will condem-->n || 0.9997676014900208
+ i admire you said the little prince shru-->gg || 0.999760627746582
+ he was an absolute monarch but because he was good at heart--> he || 0.9997527599334717
+ exactly one--> must || 0.9997519254684448
+ he found himself in the neighborhood of the asteroids 325 326 327 328 3-->2 || 0.9997423887252808
+ if i ordered a general to fly from one flower to another like a butter-->fly || 0.9997367858886719
+ over all that asked--> the || 0.999733567237854
+ it is much more difficult to judge--> ones || 0.9997335076332092
+ and now i think--> i || 0.9997254014015198
+ he should be able for example--> to || 0.9997220039367676
+ he did not tolerate disobed-->ience || 0.9997209906578064
+ if you succeed in judging--> yourself || 0.9997196197509766
+ he did not know that for kings the world is very much simplified-->[EOS] || 0.9997192621231079
+ i order you to sit down replied the king who majestically gathered in a fol-->d || 0.999713659286499
+ i shall command it but i shall wait according to my science of government until conditions are fav-->ou || 0.9997135996818542
+

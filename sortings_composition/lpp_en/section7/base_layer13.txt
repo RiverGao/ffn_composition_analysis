@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the fox seemed very intrigu-->ed || 0.7994436621665955
+ but every day you will be able--> to || 0.8112937808036804
+ i can go for a walk as far as the viney-->ards || 0.8238183856010437
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8561475872993469
+ my life is very monoton-->ous || 0.8686820268630981
+ it would have been better to come back at the same time of day said the fox-->[EOS] || 0.9294192790985107
+ to you i will be unique in the--> entire || 0.9376826882362366
+ you are not from here said the fox-->[EOS] || 0.9399930834770203
+ they really are in a hur-->ry || 0.9402456879615784
+ his--> flower || 0.9410840272903442
+ he was--> only || 0.941446840763092
+ it has done me good said the fox-->[EOS] || 0.943168044090271
+ they are also something too often forgotten said the fox-->[EOS] || 0.9443934559822083
+ men hunt--> me || 0.9450095891952515
+ i hunt ch-->ick || 0.945068895816803
+ on thursdays they dance with the girls of the--> village || 0.9452250003814697
+ that is right said the fox-->[EOS] || 0.9452627301216125
+ the fox--> seemed || 0.9455686807632446
+ the fox--> went || 0.945568859577179
+ because it is her that i listened to grumble or boast or even sometimes--> when || 0.945605993270874
+ good morning he--> said || 0.9460851550102234
+ you have to--> be || 0.9463211297988892
+ i would be jump-->ing || 0.9463298916816711
+ to me--> you || 0.9463780522346497
+ to me--> you || 0.946378231048584
+ and the ros-->es || 0.9467068910598755
+ i dispatch the trains that carry them sometimes to the right sometimes--> to || 0.9469451904296875
+ to you i am only a fox--> just || 0.9469955563545227
+ it is the time that i have was-->ted || 0.9475646615028381
+ it is the time you have was-->ted || 0.9475657343864441
+ it is something that is too often forgotten said the fox-->[EOS] || 0.9476597905158997
+ but if you tame me it would bring some sunlight into my--> life || 0.9477662444114685
+ it is the time that i have wasted on my rose--> said || 0.9482306838035583
+ that does not--> make || 0.9484051465988159
+ what is a r-->ite || 0.9490645527839661
+ it is the time you have wasted on your rose that makes your rose--> so || 0.949160635471344
+ and then he added go and see the ros-->es || 0.9498429894447327
+ they are what make one day--> different || 0.950307309627533
+ nothing is perfect sighed the fox-->[EOS] || 0.9504625797271729
+ it is the time you have wasted on your rose that makes your rose so--> important || 0.9505670666694641
+ a third brilliantly lit express--> th || 0.9508352279663086
+ unlike any--> other || 0.9508464932441711
+ all the chickens look alike and all the--> men || 0.9509164094924927
+ one only understands the things that one tames said the fox-->[EOS] || 0.9512442946434021
+ it was a garden covered in roses-->[EOS] || 0.951305091381073
+ i can not play with you said the fox-->[EOS] || 0.9515223503112793
+ and a brilliantly lit express train rumbling like thunder shook the switchman--> s || 0.9516063928604126
+ i can not--> play || 0.9517490863800049
+ all the chickens look--> al || 0.95196533203125
+ there is a--> r || 0.9521170258522034
+
+
+## 50 prefixes with the highest comosition scores:
+ i would be jumping about--> and || 0.9869546294212341
+ you will understand that yours--> is || 0.986883819103241
+ but it happened that the little prince having walked for a long time through the sands rocks and snow--> at || 0.9859903454780579
+ but she alone is more important than all--> of || 0.9857589602470398
+ if the hunters danced on just any day all the days would be alike and--> i || 0.9843398928642273
+ but if you come at just any time i would never know at what time--> my || 0.9842943549156189
+ but she alone is more important than--> all || 0.9842758178710938
+ i will watch you out of--> the || 0.9841744303703308
+ only the children are squashing their noses up against the windows-->[EOS] || 0.9840104579925537
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow--> herself || 0.9839879870414734
+ it is the time that i have wasted on my--> rose || 0.9839778542518616
+ but every day you will be able to sit a little--> closer || 0.9838114380836487
+ one only understands the things that one tames said the--> fo || 0.9837213754653931
+ were not they--> happy || 0.983566403388977
+ she would cough and cough and pret-->end || 0.9834824204444885
+ to me you are still only a little--> boy || 0.983450174331665
+ unlike any other other footsteps send me hurrying back--> under || 0.9832245707511902
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nur-->se || 0.9831977486610413
+ i am right here the voice said under the--> apple || 0.9829626679420471
+ and he went back to the fo-->x || 0.9829298853874207
+ but if you come at just any time i--> would || 0.9827708601951599
+ one only understands the things that--> one || 0.9826332926750183
+ that does not make me a very great prince and--> lying || 0.9824948906898499
+ it is possible said the fo-->x || 0.9824174046516418
+ i will watch you out of the--> corner || 0.9824171662330627
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse--> her || 0.9823758602142334
+ they all looked just like his flower-->[EOS] || 0.9823479652404785
+ my life--> is || 0.9821632504463196
+ i can go for a walk as far--> as || 0.9821271300315857
+ she would be very upset he said to himself if she saw--> this || 0.9820629358291626
+ then come back to say goodbye to me and i will make--> you || 0.9820364713668823
+ nothing is perfect sighed the--> fo || 0.9818146228790283
+ his flower had told him that she was the only one of her kind in the universe and--> here || 0.9817623496055603
+ but every day you will be able to sit--> a || 0.9817495346069336
+ that does not make me a very great prince and lying in the grass he started to cry-->[EOS] || 0.9816744327545166
+ a second--> br || 0.981529951095581
+ and when the time to leave drew near oh said the fox i will cry-->[EOS] || 0.9814940094947815
+ the little prince gaz-->ed || 0.981469452381134
+ come and play with me proposed--> the || 0.9814539551734924
+ if you come--> for || 0.9814067482948303
+ if the hunters danced on just any day all the days would be alike and i--> had || 0.9813905954360962
+ a second brilliantly lit express thundered by in the opposite direction-->[EOS] || 0.9813734889030457
+ they are also something too often forgotten said the fo-->x || 0.9813619256019592
+ i never wished you any harm--> but || 0.9813534617424011
+ of course an ordinary passer by would--> think || 0.9813302755355835
+ but if you come at just any time i would never know at what time my heart--> should || 0.9813207387924194
+ i am responsible for my rose repeated the little prince so as to remember-->[EOS] || 0.981286883354187
+ i am beginning--> to || 0.9812697768211365
+ she would cough and cough and pretend to die to avoid--> being || 0.9812409281730652
+ but as there are not any shops that sell friends men no longer have any--> friends || 0.9812014698982239
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ this business of the claws which annoyed me so--> much || 0.5894494652748108
+ the little prince also pulled up with--> a || 0.6417185068130493
+ and her mysterious adornment had thus lasted for--> days || 0.6428588628768921
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when--> he || 0.645641565322876
+ what are the thorns for--> then || 0.6463559865951538
+ what are the thorns for--> then || 0.6463559865951538
+ if someone loves a flower of which just one specimen exists amongst the millions and--> millions || 0.6492440104484558
+ i think that for his escape he took advantage of a migration of a flock of--> wild || 0.6550257205963135
+ he also owned an extinct volcano but as he used to say you never know so--> he || 0.6551190614700317
+ this business of the claws which annoyed me so much should only have filled my heart with--> tend || 0.6572883725166321
+ she would only want to appear in the full radiance of--> her || 0.6581913828849792
+ at that moment i was thinking to myself if this bolt will not--> bud || 0.6589936017990112
+ is the war between the flowers and--> sheep || 0.6602608561515808
+ so the little prince despite the good will of--> his || 0.6607316732406616
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely this sprout that was not like--> the || 0.6690279245376587
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emerge from--> it || 0.6696671843528748
+ goodbye he said to--> the || 0.6710798740386963
+ there had always been very simple flowers on the planet of the little prince decorated with--> a || 0.6751400232315063
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just--> like || 0.678704023361206
+ i think that for his escape he took advantage of a migration of a--> f || 0.6794174313545227
+ on the fifth day again thanks to the sheep this secret of--> the || 0.6803497076034546
+ humiliated at having been caught out on a lie so--> na || 0.6806070804595947
+ he asked abruptly without anything leading up to it--> as || 0.6821480989456177
+ and that makes him swell up with--> pride || 0.682165265083313
+ the little prince never let go of a question once he--> had || 0.6822421550750732
+ and after having worked with such care and attention to detail she said--> with || 0.6823015213012695
+ he has never done anything but sums and all day long he--> repe || 0.6828384399414062
+ i had put down my tools of--> what || 0.683079183101654
+ the little prince who witnessed the appearance of--> a || 0.683356761932373
+ and it is--> not || 0.6837558746337891
+ and the little prince completely abashed having gone to look for a sprinkling can of--> fresh || 0.6840416193008423
+ i should have her judged by--> her || 0.6852617859840393
+ one day for example speaking of her four thorns she told the little prince let them come the tigers with--> their || 0.6856791377067566
+ on the fifth day again thanks to--> the || 0.6857993006706238
+ he watched me hammer in hand and my fingers black with grease leaning on an--> object || 0.6862342953681946
+ he also owned an extinct volcano but as he used to say you never know so he--> clean || 0.6869800090789795
+ there had always been very simple flowers on the planet of--> the || 0.6886074542999268
+ i was very worried because my breakdown was beginning to appear to--> be || 0.6889218091964722
+ i had put down my tools of what moment was my hammer my bolt or thirst or--> death || 0.6889620423316956
+ but if the sheep eats the flower for--> him || 0.6890202760696411
+ at that moment i was thinking to myself if this bolt will--> not || 0.6894057989120483
+ mine perfumed my whole planet but--> i || 0.6900898814201355
+ is it not of more consequence and more important than--> the || 0.6911071538925171
+ he watched me hammer in hand and my fingers black with grease leaning on an object that would have seemed to him very--> ugly || 0.6913964152336121
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he--> looks || 0.6916958093643188
+ but you have been just as foolish as--> i || 0.6919301152229309
+ the little prince also pulled up with a hint of sadness the last little shoots of--> the || 0.6919512748718262
+ but this one had sprouted one day from a seed blown in--> from || 0.6933383345603943
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had--> watched || 0.6938949227333069
+ it is time i think for--> breakfast || 0.6950080990791321
+
+
+## 50 prefixes with the highest comosition scores:
+ the little prince guessed easily enough that she was not very modest-->[EOS] || 0.9096909761428833
+ please forgive--> me || 0.9076873660087585
+ he watched me hammer--> in || 0.9042973518371582
+ he has never smelled--> a || 0.9035612940788269
+ that made me feel a little ashamed--> but || 0.9022836685180664
+ i am not a weed-->[EOS] || 0.9013226628303528
+ it is tires-->ome || 0.9011797308921814
+ you confuse--> everything || 0.8993091583251953
+ i will draw you a muzzle--> for || 0.8975472450256348
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke--> just || 0.8973777890205383
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without realising--> what || 0.8967913389205933
+ humiliated at having been caught out on a lie so naive--> she || 0.8958011269569397
+ for--> millions || 0.8952118158340454
+ for--> she || 0.8952117562294006
+ they are naive-->[EOS] || 0.8946163654327393
+ i am busy--> with || 0.8944048881530762
+ and that makes him swell--> up || 0.8943482637405396
+ and that makes him swell up with pride-->[EOS] || 0.8917666077613831
+ he shook his golden--> curl || 0.8908962607383728
+ but the flower never stopped preparing--> for || 0.8906580805778503
+ and if i myself know of a unique flower which grows nowhere--> but || 0.8899222016334534
+ humiliated at having been caught out on a lie so naive she cough-->ed || 0.8896529674530029
+ it seems that they are very beautiful and otherwise--> who || 0.8894996643066406
+ we must look at them and breathe--> their || 0.88942950963974
+ a sheep eats--> everything || 0.8867630362510681
+ the little prince was now white with rage-->[EOS] || 0.8867560625076294
+ no no--> i || 0.8860468864440918
+ i will draw you a railing--> for || 0.886002779006958
+ at that moment i was thinking to myself if this bolt--> will || 0.8857651352882385
+ i will draw you a muzz-->le || 0.8856909275054932
+ it was very convenient for heating--> his || 0.8851253390312195
+ but all these familiar tasks seemed on that morning very precious-->[EOS] || 0.8847609758377075
+ of--> course || 0.8845986127853394
+ oh yes she was a very flirt-->ati || 0.8845377564430237
+ i should never have run--> away || 0.8843907117843628
+ and naively she showed her four thorn-->s || 0.8840590119361877
+ goodbye he said to the flower but she did not--> answer || 0.8832671046257019
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with a hammer-->[EOS] || 0.8831888437271118
+ he watched me hammer in hand and my fingers black with grease lean-->ing || 0.8825798034667969
+ and the little prince completely abashed having gone to look for a sprinkling can of fresh water tended--> to || 0.8824732303619385
+ i was upset--> over || 0.8821582794189453
+ and the little prince completely abashed having gone to look for a sprinkling can of fresh--> water || 0.8819379806518555
+ i rock-->ed || 0.8817507028579712
+ i myself am busy--> with || 0.8811776041984558
+ and like that she had soon begun to torment--> him || 0.8808870911598206
+ i had put down my tools of what moment was my hammer my bolt--> or || 0.8806808590888977
+ they reass-->ure || 0.8800823092460632
+ on the fifth day again thanks to the sheep--> this || 0.8795000314712524
+ there was on a star on a planet my planet earth--> a || 0.8792039752006531
+ if someone loves--> a || 0.8788999319076538
+

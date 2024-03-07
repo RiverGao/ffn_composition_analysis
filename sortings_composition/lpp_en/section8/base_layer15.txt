@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.870578408241272
+ the sand at sunr-->ise || 0.8730810284614563
+ of course no one had ever been able--> to || 0.8780879378318787
+ you sit down on a sand d-->une || 0.95038902759552
+ and what--> do || 0.9526405334472656
+ this water was something very different from ordinary n-->our || 0.9534863829612732
+ the men where you live said the little prince grow five thousand--> ros || 0.9537022709846497
+ but it cast an enchant-->ment || 0.953851580619812
+ the desert is beautiful the little prince--> added || 0.9554333686828613
+ we were at the eighth day since my accident in the desert and i had listened to the--> story || 0.9561519026756287
+ i saw them as if in a dream as my thirst had made me fever-->ish || 0.956739604473114
+ you run the risk of--> we || 0.9572322964668274
+ this was a merchant who sold p-->ills || 0.959403395652771
+ and yet what they are looking for could be found in a single rose or in a--> little || 0.9595606327056885
+ a gust of wind--> can || 0.9599809050559998
+ a little sunshine is--> all || 0.960236668586731
+ this was a merchant who sold pills that had been created to quench th-->irst || 0.9607452154159546
+ you could take one pill a week and you no longer felt the need to--> drink || 0.9609341621398926
+ this was a merchant who sold pills that had been created to quench--> th || 0.9610005021095276
+ you can do anything you like with--> them || 0.9611327052116394
+ myself the little prince said to himself if i had fifty three--> minutes || 0.9616120457649231
+ the little prince--> bl || 0.9616445899009705
+ the little prince--> s || 0.9616446495056152
+ the little prince--> saw || 0.96164470911026
+ the little prince--> bl || 0.9616447687149048
+ and continuing to--> walk || 0.9618535041809082
+ this was a merchant who sold pills that had been created to quen-->ch || 0.9620403051376343
+ and i looked without saying anything at the fol-->ds || 0.9622997045516968
+ it is too heavy for you-->[EOS] || 0.9623308777809143
+ you were going back to the place--> where || 0.9623576998710632
+ this was a merchant who sold pills that had been created to qu-->en || 0.962367594242096
+ you have to search--> with || 0.9624744653701782
+ i looked in the moonlight at his--> pale || 0.9625605940818787
+ it is absurd to look for a--> well || 0.9627959728240967
+ you run the risk of weeping a little--> if || 0.9628922939300537
+ children--> understand || 0.9632802605628967
+ i was surprised to suddenly understand this mysterious radiation of the sands-->[EOS] || 0.9632956385612488
+ he d-->rank || 0.9633463025093079
+ why are you selling those asked the little prince-->[EOS] || 0.9636515378952026
+ you must--> go || 0.9637118577957153
+ and the little prince added but the--> eyes || 0.9639360904693604
+ men said the little prince stuff themselves--> into || 0.96396404504776
+ and i looked without saying anything at the folds of sand in the moon-->light || 0.964044451713562
+ he has never been hungry or thirsty-->[EOS] || 0.9641523957252502
+ oh and i had been so proud of my--> ba || 0.964213490486145
+ ah i said to the little prince these mem-->ories || 0.9642237424850464
+ the men where you live said the--> little || 0.9642319083213806
+ this water was something very different from ordinary nourishment-->[EOS] || 0.9644449353218079
+ he never considers the danger i said to myself-->[EOS] || 0.9644593000411987
+ and continuing--> to || 0.9645525217056274
+
+
+## 50 prefixes with the highest comosition scores:
+ and the pulley moaned like an old weather-->v || 0.9921258687973022
+ why are you selling those asked--> the || 0.9918999075889587
+ i made a gesture of wear-->iness || 0.9904521703720093
+ so i made a pencil sketch of a muzzle and i felt--> a || 0.9891557097434998
+ i hoisted the bucket slowly to the edge of the well and set--> it || 0.9890214800834656
+ i--> do || 0.989000678062439
+ i--> have || 0.989000678062439
+ i--> looked || 0.989000678062439
+ i--> saw || 0.989000678062439
+ i--> ho || 0.989000678062439
+ i--> am || 0.9890006184577942
+ i--> raised || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> felt || 0.9890006184577942
+ i--> replied || 0.9890006184577942
+ i--> made || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> came || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> sat || 0.9890006184577942
+ i--> took || 0.9890006184577942
+ i--> bre || 0.9890006184577942
+ i--> did || 0.9890006184577942
+ i--> did || 0.9890006184577942
+ i--> knew || 0.9890006184577942
+ i--> had || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> remembered || 0.9890006184577942
+ i--> was || 0.9890004992485046
+ you save--> fifty || 0.9888666868209839
+ i am th-->irst || 0.9888484477996826
+ then--> after || 0.9886052012443542
+ i will wait for you here-->[EOS] || 0.9885788559913635
+ your fox his ears they look a bit like horn-->s || 0.9884068965911865
+ ah i said to the little prince these memories of yours are very char-->ming || 0.9883471727371216
+ you could take one pill a week and you no longer felt the need--> to || 0.9883272647857666
+ you run the--> risk || 0.988243818283081
+ of course no one had ever been able to find it or perhaps no one had even--> looked || 0.9882365465164185
+ why--> not || 0.9881991147994995
+ why--> then || 0.9881991147994995
+ why--> are || 0.9881991147994995
+ the stars are beautiful because of--> a || 0.9881752729415894
+ you can do anything you--> like || 0.9881286025047302
+ it is the image of a rose that shines in him like the flame of a lamp even--> when || 0.9878843426704407
+ of course no one had ever been--> able || 0.9878672957420349
+ and i said to myself what i see here is only--> a || 0.9878427386283875
+ good morning said--> the || 0.9878305196762085
+ good morning said--> the || 0.9878304600715637
+

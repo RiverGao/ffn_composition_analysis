@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ when i drew the muzzle for the little prince i forgot to add the le-->ather || 0.8955955505371094
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the--> stars || 0.8995380997657776
+ but he was wor-->ried || 0.9078189134597778
+ i was sad but i told them--> it || 0.9085679054260254
+ the companions who met me--> were || 0.9088557958602905
+ you understand it--> is || 0.9095121622085571
+ when i came--> back || 0.9096646904945374
+ the water you gave me to drink was like music because--> of || 0.9100604057312012
+ i will have played a--> dirty || 0.9106046557426453
+ you know it will be--> nice || 0.9112083315849304
+ i mean not entirely but i do know that he got back--> to || 0.9127413034439087
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in--> no || 0.9135454297065735
+ when you look at the sky at night because i will be living on one--> of || 0.9140174388885498
+ when i managed to catch him up he was walking along determinedly at a br-->isk || 0.9144461154937744
+ do not come--> to || 0.9144960045814514
+ so you will tell them--> yes || 0.9150428771972656
+ nothing in the universe is the--> same || 0.9151278138160706
+ the water you gave me to drink was like music because of the--> pul || 0.9159928560256958
+ it will be as if i would given you instead of stars lots and lots of little bells that--> can || 0.9160813689231873
+ all the stars will be wells with a rusty pulley-->[EOS] || 0.916476309299469
+ herein lies a great mystery for you who also love the--> little || 0.9168477654457092
+ ask--> your || 0.9169149994850159
+ but he said to me tonight it will be a--> year || 0.9173200130462646
+ wait a while exactly under the--> star || 0.9176446795463562
+ for some who are travelers the stars are gu-->ides || 0.9178553223609924
+ i could--> not || 0.9188492894172668
+ i could--> feel || 0.918849527835846
+ i will have played--> a || 0.9188690781593323
+ you know it--> will || 0.919010579586029
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all--> the || 0.9190804958343506
+ when i drew the muzzle for the little prince i forgot to add the leather st-->rap || 0.91937255859375
+ herein lies a great mystery for you who also love the little prince just--> like || 0.9193865060806274
+ the water--> you || 0.9194990396499634
+ i mean not entirely but i do know that he got--> back || 0.9200656414031982
+ it is true that they have--> no || 0.9201981425285339
+ even as i dug around in my pocket to--> take || 0.9203740358352661
+ i know-->[EOS] || 0.9205842018127441
+ i know-->[EOS] || 0.9205842018127441
+ i know-->[EOS] || 0.9205842018127441
+ i waited a--> long || 0.9206135272979736
+ do you have--> good || 0.9207892417907715
+ the little prince replied again that is--> right || 0.9209526181221008
+ my star will be for you just one of the--> stars || 0.9210097789764404
+ so--> you || 0.9211008548736572
+ so--> i || 0.921100914478302
+ so--> you || 0.9211009740829468
+ so--> think || 0.9211011528968811
+ it will be as if i would given you instead of stars lots--> and || 0.9211742281913757
+ i then lowered my eyes to the foot of the wall and i le-->apt || 0.9212789535522461
+ it will look a bit as--> if || 0.9213240146636963
+
+
+## 50 prefixes with the highest comosition scores:
+ herein lies a great mystery for you who also love the little prince just like for me-->[EOS] || 0.975656270980835
+ my heart skipped a beat--> but || 0.9751395583152771
+ ah little fellow dear little fellow i love to hear that laugh-->[EOS] || 0.9742227792739868
+ there was nothing but a yellow flash close to his ank-->le || 0.9731503129005432
+ and you will see--> how || 0.9731459021568298
+ it will look as if i am dead and that will--> not || 0.972520112991333
+ but i have drawn it again to show--> it || 0.9723312258720398
+ there was next to the well the ruin of--> an || 0.9722833633422852
+ i mean not entirely but--> i || 0.9720640778541565
+ he fell as gently as a--> tree || 0.9720030426979065
+ i could feel that he was--> rev || 0.9716509580612183
+ i held him tightly in my arms--> like || 0.9715564846992493
+ i then lowered my eyes to the foot of the wall and i leapt--> up || 0.971448540687561
+ there was nothing but a yellow flash close--> to || 0.9713171720504761
+ he got a bit discouraged but he made one more effort-->[EOS] || 0.9711921811103821
+ i had moistened his temples--> and || 0.9710659980773926
+ when i came back from my work the next evening i saw from a distance--> my || 0.9709932208061218
+ little fellow i said i want to hear you laugh again-->[EOS] || 0.9707344770431519
+ i reached the wall just in time--> to || 0.9706513285636902
+ now my sorrow is comforted a--> little || 0.9704819917678833
+ and if you happen to pass by there i beg you do not hurry--> on || 0.9703187942504883
+ my heart skipped a--> beat || 0.9703165292739868
+ ask yourselves has the sheep yes or no--> e || 0.9701259732246399
+ so you will tell them yes the stars always make me laugh and they will think you are crazy-->[EOS] || 0.9700506925582886
+ nothing in the universe is the same if somewhere out there a sheep that we have never seen has has--> it || 0.9700357913970947
+ write to me quickly to tell me he is back-->[EOS] || 0.9699603319168091
+ this to me is the most beautiful and most sad landscape in--> the || 0.9699015021324158
+ and yet it seemed to me that he was plummet-->ing || 0.9698201417922974
+ my star will be right above the spot where i came down--> to || 0.969785213470459
+ the water you gave me to drink was like music because of the pulley and the rope-->[EOS] || 0.9697774052619934
+ my heart skipped--> a || 0.969714343547821
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that laughter--> again || 0.9696155786514282
+ i felt his heart beat like the heart of a--> dying || 0.9695532321929932
+ when i came back from my work the next evening i saw from a distance my little prince sitting on top of--> it || 0.9694912433624268
+ the little prince spoke again after a pause-->[EOS] || 0.9693968892097473
+ she has four thorns of no use at all to protect herself--> against || 0.9693492650985718
+ i continued my--> walk || 0.9693251848220825
+ all the stars will pour out fresh water for me to drink-->[EOS] || 0.9692609906196594
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to--> rest || 0.9692378640174866
+ but at the noise i made the snake let himself flow--> easily || 0.9691895842552185
+ i will have played a dirty trick on you-->[EOS] || 0.9691569805145264
+ right there facing the little prince was one of those yellow snakes that can kill you--> in || 0.9691295623779297
+ when you look at--> the || 0.9691283106803894
+ and if you happen to pass by--> there || 0.9690461754798889
+ the little prince replied again that--> is || 0.9689469337463379
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea--> of || 0.9689205288887024
+ he said to me--> i || 0.968731701374054
+ he said to me--> only || 0.9687315821647644
+ he said to me--> that || 0.9687314033508301
+ when i came back from my work the next--> evening || 0.9685779809951782
+

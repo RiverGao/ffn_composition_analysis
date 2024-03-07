@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.7985662817955017
+ the sand at sunr-->ise || 0.8200207948684692
+ of course no one had ever been able--> to || 0.8304198384284973
+ it is strange--> i || 0.9556368589401245
+ let us look for--> a || 0.9559757113456726
+ and i came to think of him as even more fragile-->[EOS] || 0.9567252993583679
+ it was born of the walk under the stars--> of || 0.9587838649749756
+ it is absurd--> to || 0.9594502449035645
+ does not it-->[EOS] || 0.9612424373626709
+ but he looked at me and replied--> to || 0.962104856967926
+ and i looked without saying anything at the folds of sand in--> the || 0.9621446132659912
+ the men where--> you || 0.9623737931251526
+ that which is most important--> is || 0.9627149701118469
+ they do not find it i--> replied || 0.9642742872238159
+ you see--> nothing || 0.9648684859275818
+ of course--> no || 0.965321958065033
+ they do not find--> it || 0.9654992818832397
+ why not-->[EOS] || 0.9658477306365967
+ one has to look after--> l || 0.9659315347671509
+ and i said to myself what i see here is--> only || 0.966973602771759
+ and he--> bl || 0.967721164226532
+ and once--> again || 0.9679579734802246
+ the song of the pulley continued--> in || 0.9682357907295227
+ you must go back to--> your || 0.9685723781585693
+ let us look for a--> well || 0.9687665104866028
+ and once again without--> understanding || 0.968776285648346
+ everything has been prepared the pulley the bucket and--> the || 0.9688146114349365
+ i was surprised to suddenly understand this mysterious--> radiation || 0.9694022536277771
+ but he did not--> reply || 0.9694390296936035
+ but he did not--> respond || 0.9694391489028931
+ and i said to--> myself || 0.9695796370506287
+ it was--> born || 0.969708263874054
+ it was--> as || 0.969708263874054
+ it was--> good || 0.969708263874054
+ it is the image of--> a || 0.9698460698127747
+ i did not want him to tire--> himself || 0.9703348278999329
+ and i came to--> think || 0.9705525040626526
+ he said to--> me || 0.9706186652183533
+ this was a merchant who sold pills that had been created to quench thirst-->[EOS] || 0.9706850647926331
+ and it was--> true || 0.9707029461860657
+ but it cast an enchantment over--> that || 0.9707337021827698
+ i breathed easily-->[EOS] || 0.9711146950721741
+ but he did not reply to--> my || 0.9711378812789917
+ everything has been prepared the pulley the--> bucket || 0.9714251160621643
+ you have to--> search || 0.9714645743370056
+ you have to--> keep || 0.9714645743370056
+ one has to--> look || 0.9716828465461731
+ it is strange i--> said || 0.9716871380805969
+ i sat down beside him and after a silence he spoke again-->[EOS] || 0.9717203378677368
+ and i knew--> then || 0.9718316793441772
+
+
+## 50 prefixes with the highest comosition scores:
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the--> tend || 0.9999637007713318
+ when i was a little boy i--> lived || 0.999856173992157
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the sm-->iles || 0.9997645616531372
+ when i was a little boy the lights of the christmas tree--> the || 0.9993975162506104
+ the well we had reached was not like the other--> well || 0.99905925989151
+ your fox his ears they look a--> bit || 0.9986035227775574
+ when i was a little boy the lights--> of || 0.9986028075218201
+ when i was a little boy the lights of the christmas tree the--> music || 0.9983336329460144
+ of course no one had ever been able to find it or perhaps no one--> had || 0.9982025027275085
+ i hoisted the bucket slowly to the edge of the--> well || 0.9979963302612305
+ it seemed to me that i was carrying a very frag-->ile || 0.9978116154670715
+ the well we had reached was not like the--> other || 0.9976813197135925
+ i hoisted the bucket slowly to the edge of the well and--> set || 0.9971698522567749
+ the men where you live said the little prince grow five thousand roses in a single garden and they do not--> find || 0.9969927668571472
+ your fox his ears they look a bit like horns and they are too--> long || 0.9962299466133118
+ the wells of the sahara are mere--> holes || 0.9959370493888855
+ of course no one had ever been able to find it or perhaps no one had--> even || 0.9950249791145325
+ i looked in the moonlight at his pale forehead his closed eyes his locks of hair that--> trem || 0.9941896796226501
+ when i was a little boy the lights of the christmas tree the music of--> the || 0.9941607713699341
+ this one looked like a village well but there was no--> village || 0.9940539598464966
+ it is absurd to look for a well at random in the immensity of the desert but we started walking--> anyway || 0.9940311908721924
+ myself the little prince said to himself if i had fifty three minutes to spend as i--> liked || 0.9939568638801575
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i d-->rank || 0.9938730001449585
+ you were going back to the place where you--> land || 0.9938542246818542
+ of course no one had ever been able to find it or perhaps no one had even--> looked || 0.9938490986824036
+ the song of the pulley continued in my ears and in the still trembling water i could see the sunlight sh-->immer || 0.9938024282455444
+ when i was a little--> boy || 0.9937750101089478
+ when i was a little--> boy || 0.9937750101089478
+ i sat down beside him and after a--> silence || 0.9937618970870972
+ i do not know how to draw anything except--> bo || 0.9936752319335938
+ this was a merchant who sold p-->ills || 0.9936662316322327
+ when i was a little boy the lights of the christmas tree the music of the--> mid || 0.9934802055358887
+ i hoisted the bucket slowly to the edge of the well and set it down--> good || 0.9934719204902649
+ the wells of the sahara are mere holes dug in--> the || 0.9934214353561401
+ your fox his ears they look a bit like horns and they--> are || 0.9934000372886658
+ the sand at sunrise is the color of h-->oney || 0.9933817982673645
+ as the little prince fell asleep i took him in my--> arms || 0.9933664798736572
+ the little prince saw them and laughed as he said your baobabs they look a bit--> like || 0.9933604598045349
+ the little prince s--> words || 0.9932979941368103
+ this was a merchant who sold pills that had been created to qu-->en || 0.9932436943054199
+ as the little prince fell asleep i took him in my arms and--> set || 0.9932356476783752
+ i hoisted the bucket slowly to the edge of the well and set it--> down || 0.9931997656822205
+ the wells of the sahara are mere holes dug--> in || 0.993165135383606
+ when we had walked for hours in silence night fell and the stars--> began || 0.993136465549469
+ it is absurd to look for a well at random in the imm-->ens || 0.993129551410675
+ when we had walked for hours in silence night fell and the stars began to come--> out || 0.9931184649467468
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the--> last || 0.9930872321128845
+ but i was not re-->ass || 0.9930650591850281
+ it is the image of a rose that sh-->ines || 0.993057370185852
+ i am thirsty for this water said the--> little || 0.9930310845375061
+

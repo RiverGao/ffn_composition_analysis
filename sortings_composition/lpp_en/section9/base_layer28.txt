@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ his--> feet || 0.9211188554763794
+ for others who are schol-->ars || 0.9252281188964844
+ all the--> stars || 0.9345253109931946
+ all the--> stars || 0.9345253109931946
+ all the--> stars || 0.9345253109931946
+ it may--> well || 0.9362078905105591
+ he got a bit discou-->rag || 0.9376604557037354
+ are--> you || 0.9383281469345093
+ he said you know my flower i am--> responsible || 0.941008985042572
+ why are--> you || 0.9413887858390808
+ now my--> sorrow || 0.9414694309234619
+ when i drew--> the || 0.9422837495803833
+ the water--> you || 0.9427976608276367
+ other times i--> tell || 0.9428206086158752
+ when i drew the--> m || 0.9453646540641785
+ and he--> laughed || 0.9454838633537292
+ and he--> laughed || 0.9454838633537292
+ and he--> smiled || 0.9454838633537292
+ and he--> laughed || 0.9454838633537292
+ and he--> sat || 0.9454839825630188
+ and he--> took || 0.9454839825630188
+ for some who are travelers the--> stars || 0.9455795884132385
+ and i--> heard || 0.9455834031105042
+ and i--> love || 0.9455834031105042
+ when i managed--> to || 0.9460477232933044
+ i am telling you this it is also because of the--> s || 0.946129560470581
+ everyone has the same--> stars || 0.9464657306671143
+ so you will love to look at all--> of || 0.9465703368186951
+ all the stars--> will || 0.9465721249580383
+ all the stars--> are || 0.9465721249580383
+ all the stars--> will || 0.9465721249580383
+ even as i--> d || 0.9468860030174255
+ and yet--> it || 0.9470187425613403
+ and now of--> course || 0.9473042488098145
+ the companions--> who || 0.9474166631698608
+ and i love--> to || 0.9477137923240662
+ little fellow i said i want--> to || 0.947762668132782
+ so you will love--> to || 0.9481037855148315
+ when i--> managed || 0.9485280513763428
+ when i--> drew || 0.9485280513763428
+ when i--> came || 0.9485280513763428
+ my little fellow i--> said || 0.94939124584198
+ if you love--> a || 0.9497031569480896
+ then he said sadly it--> is || 0.9497078657150269
+ but he--> did || 0.9497135877609253
+ but he--> was || 0.9497135877609253
+ but he--> said || 0.9497135877609253
+ he had--> a || 0.9500603079795837
+ so i--> wonder || 0.9501031637191772
+ it is like with--> the || 0.9504479765892029
+
+
+## 50 prefixes with the highest comosition scores:
+ she has four thorns of no use at--> all || 0.9999176263809204
+ i felt very clearly that something extraordinary was--> happening || 0.9997720718383789
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent--> hur || 0.9991857409477234
+ then he said sad-->ly || 0.998953104019165
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic--> sound || 0.9980012774467468
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a--> light || 0.9975166916847229
+ but something reass-->ured || 0.9972774982452393
+ he was afraid of course but he laughed soft-->ly || 0.9971840977668762
+ i could feel that he was reviving little--> by || 0.9965924620628357
+ if you love a flower that is on a star it is sweet to look--> at || 0.9944081902503967
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are la-->ughing || 0.994354784488678
+ and when your sorrow is comforted time heals all w-->ounds || 0.9942209720611572
+ and he smiled sad-->ly || 0.9941224455833435
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do--> nothing || 0.9940498471260071
+ i was just coming to tell--> him || 0.9940330982208252
+ and if you happen to pass by there i beg you do not hurry--> on || 0.9939154386520386
+ sometimes i tell myself surely not the little prince shuts his flower under her glass--> d || 0.993809700012207
+ everyone has the same stars but--> they || 0.9937682151794434
+ when i drew the muzzle for the little prince i forgot to add the leather strap to--> it || 0.9937061667442322
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light met-->all || 0.9934263825416565
+ if you love a flower that is on a star it is sweet to--> look || 0.9933769106864929
+ again i felt myself frozen by the sense of something irrepar-->able || 0.9933568835258484
+ his feet h-->anging || 0.9933084845542908
+ nothing in the universe is the same if somewhere out there a sheep that we have never seen has has it e-->aten || 0.9932829141616821
+ if you love a flower that is on a star it is sweet--> to || 0.9932276010513306
+ and when your sorrow is comforted time heals all--> w || 0.9930431246757507
+ right there facing the little prince was one of those yellow snakes that can kill you in thirty--> seconds || 0.9930176734924316
+ right there facing the little prince was one of those yellow snakes that--> can || 0.9929988384246826
+ the water you gave me to drink was--> like || 0.9929911494255066
+ nothing in the universe is the same if somewhere out there a sheep that we have never seen has--> has || 0.9929056167602539
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the--> stars || 0.9928653836250305
+ sometimes i tell myself surely not the little prince sh-->uts || 0.9928269386291504
+ when i drew the muzzle for the little prince i forgot to--> add || 0.9925956130027771
+ you are--> afraid || 0.9925150871276855
+ for some who are travelers the stars are gu-->ides || 0.9924764633178711
+ right there facing the little prince was one of those yellow snakes that can kill you in--> thirty || 0.9924153089523315
+ he got a bit discourag-->ed || 0.9923954606056213
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars--> are || 0.9922384023666382
+ then i am happy and all the stars laugh sweet-->ly || 0.9920215606689453
+ if you love a flower that is--> on || 0.9919782876968384
+ it may well be the sheep ate--> the || 0.991851270198822
+ and when your sorrow is comforted time heals all wounds you--> will || 0.9917511343955994
+ there was next to the well the--> ru || 0.9917265176773071
+ even as i d-->ug || 0.9917171001434326
+ he fell as--> g || 0.9916342496871948
+ when i managed to catch him up he was walking along determinedly at a br-->isk || 0.9915966391563416
+ when you look at the sky at night because i will be living on one of them because i will--> be || 0.991507351398468
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are--> la || 0.9910509586334229
+ she has four th-->orn || 0.9910363554954529
+ the water you gave me to--> drink || 0.990922212600708
+

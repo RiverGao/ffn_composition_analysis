@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.9024004936218262
+ so getting impat-->ient || 0.9128477573394775
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9280218482017517
+ i caught a glimp-->se || 0.9324027895927429
+ i was discou-->rag || 0.9453606009483337
+ i was discou-->rag || 0.9453606009483337
+ that is right and if you are good i will give you a rope to tie him up with--> during || 0.9633597135543823
+ thus i abandoned at the age of six--> a || 0.9650144577026367
+ the first night i went to sleep on the sand a thousand miles from any human habit-->ation || 0.9669220447540283
+ grownu-->ps || 0.9677906036376953
+ absurd as it seemed to--> me || 0.9679024815559387
+ once when i was six years old i saw a magnificent picture in a book--> about || 0.9682978987693787
+ thus i abandoned at--> the || 0.9687107801437378
+ what-->[EOS] || 0.968746542930603
+ what--> a || 0.9687466621398926
+ what--> planet || 0.9687466621398926
+ the grownu-->ps || 0.9690067768096924
+ but if you do not tie him up he will wander off--> and || 0.9690419435501099
+ he shook his head slowly whilst looking at--> my || 0.9692352414131165
+ it is an--> air || 0.9692507982254028
+ my friend broke into another peal--> of || 0.9695392847061157
+ my friend broke into another--> pe || 0.9695805907249451
+ i then drew the inside of the--> bo || 0.9696376323699951
+ the grownups advised me to leave aside drawings--> of || 0.9696499109268188
+ where do--> you || 0.9697334170341492
+ where do--> you || 0.969733476638794
+ a--> bo || 0.9697602391242981
+ so i thought a lot about the adventures of the j-->ung || 0.9701518416404724
+ anywhere--> straight || 0.9703934788703918
+ i was discouraged by the failure of my drawing number one and of my drawing--> number || 0.9704126119613647
+ it was the words spoken by chance that little by little revealed everything to--> me || 0.9704607725143433
+ so i thought a lot about the adventures--> of || 0.9705367088317871
+ but he did not answer-->[EOS] || 0.9707255959510803
+ when a--> mystery || 0.9707359671592712
+ so i lived alone without anyone i could really talk to until a breakdown in the sahara desert six years ago-->[EOS] || 0.9707493782043457
+ once when i was six years old i saw a magnificent--> picture || 0.9709736108779907
+ i took a good look around me and i saw a quite extraordinary little man who--> was || 0.9714558124542236
+ when a mystery is too overpowering--> one || 0.9715186953544617
+ remember that i was a thousand miles from any inhab-->ited || 0.9717142581939697
+ he looked carefully then said--> no || 0.9717505574226379
+ it was the words spoken by chance that little by little revealed everything to me-->[EOS] || 0.9718752503395081
+ absurd as it seemed to me a thousand miles from any human habit-->ation || 0.9719234108924866
+ i have had during my life a lot of contact with many persons of consequence-->[EOS] || 0.9719425439834595
+ it is a--> ram || 0.9719691872596741
+ then he added so you also come from the sky-->[EOS] || 0.9720725417137146
+ grownups never understand anything by themselves--> and || 0.9721417427062988
+ then he added--> so || 0.9721514582633972
+ it said--> please || 0.9722279906272888
+ it said--> in || 0.9722279906272888
+ it was the words spoken by chance that little by little revealed--> everything || 0.9728925824165344
+
+
+## 50 prefixes with the highest comosition scores:
+ so when he saw my airplane for the--> first || 0.9969193339347839
+ and he repeated very slowly as--> if || 0.9951931834220886
+ i jumped to my feet as if i had been struck by light-->ning || 0.9951522350311279
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned--> to || 0.9941749572753906
+ for me it was a matter--> of || 0.9938669800758362
+ absurd as--> it || 0.9933082461357117
+ yes i said mod-->est || 0.9931038022041321
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried to--> find || 0.9927300810813904
+ i was discouraged in my career as a painter by the grow-->nu || 0.9926669597625732
+ so getting impatient as i was eager--> to || 0.9926612377166748
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number one that i have--> always || 0.9923977255821228
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of th-->irst || 0.9923921227455139
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and they--> sleep || 0.99234938621521
+ i have lived a lot amongst the grow-->nu || 0.9923230409622192
+ where do you think he would--> go || 0.9923056364059448
+ whenever i met one of them that seemed a bit more clear--> sight || 0.9922837615013123
+ i then drew the inside of the boa constrictor so that the grow-->nu || 0.9922341704368591
+ it is true that you can not have come from far away in that and he dr-->ift || 0.9922181963920593
+ where do you think he--> would || 0.9922072887420654
+ it is true that you can not have come from far away in that and he drifted into a daydream which last-->ed || 0.9921079874038696
+ and i was ast-->ounded || 0.9920068979263306
+ the grow-->nu || 0.9919242262840271
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with--> fat || 0.9919149875640869
+ i jumped to my feet as if i had been struck by--> light || 0.9919030070304871
+ so once again i red-->id || 0.9918824434280396
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number one that i have always kept-->[EOS] || 0.9918352961540222
+ and i was astounded to hear the little fellow respond no no i do--> not || 0.9918261766433716
+ i wanted to know if they were really a person of true understanding but they always respond-->ed || 0.9918032884597778
+ yes i said modest-->ly || 0.9917336702346802
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself--> instead || 0.9916167259216309
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for--> them || 0.9916001558303833
+ so when he saw my airplane for--> the || 0.9915852546691895
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw--> anything || 0.9915716648101807
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried to find out--> more || 0.9915551543235779
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet of paper--> and || 0.9915098547935486
+ he replied it does--> not || 0.9914963841438293
+ i was discouraged in my career as a painter by the grownups at the age--> of || 0.9914773106575012
+ it said in the book bo-->a || 0.9914760589599609
+ then taking my sheep out of his pocket he sank himself--> into || 0.9914235472679138
+ it is true that you can not have come from far--> away || 0.9913986921310425
+ it said in the book boa constrictors swallow their prey whole without chewing then they--> are || 0.9913833141326904
+ so i lived alone without anyone i could really talk to until a break-->down || 0.9913820028305054
+ he looked nothing like a child lost in the middle of the desert a thousand miles from any--> inhab || 0.991344153881073
+ he looked carefully then said no this one is already very--> sick || 0.9913235306739807
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of--> my || 0.9912856817245483
+ once when i was six years old i saw a magnificent picture in a book about the prime-->val || 0.9912831783294678
+ i wanted to know if they were really a person of true understanding but they always responded it is a hat-->[EOS] || 0.9911905527114868
+ i caught a glimpse into the mystery of his presence and i asked--> ab || 0.9911804795265198
+ i was more isolated than a shipwrecked sailor on a--> ra || 0.9911777377128601
+ so i lived alone without anyone i could--> really || 0.9911625981330872
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet of paper and a pen-->[EOS] || 0.9776601791381836
+ he is fallen as-->leep || 0.9780683517456055
+ i will not draw my--> air || 0.9789278507232666
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket--> a || 0.9791422486305237
+ the grownups advised me to leave aside draw-->ings || 0.9811762571334839
+ the grownups advised me to leave aside drawings of boa--> con || 0.9814256429672241
+ once when i was six years old i saw a magnificent picture in a book--> about || 0.9814415574073792
+ once when i was six years old i saw a magnificent picture in a book about--> the || 0.9815269112586975
+ the little--> prince || 0.9816100597381592
+ and the--> little || 0.981955349445343
+ the little prince who asked--> me || 0.9822309613227844
+ once when i was six years old i saw a magnificent picture in--> a || 0.9822368025779724
+ and the little prince broke--> into || 0.9825015068054199
+ it said in the book boa constrictors swallow their--> pre || 0.9825409054756165
+ so getting impat-->ient || 0.9831045269966125
+ once when i was six years old i saw a--> magnific || 0.9833419919013977
+ remember that i was a thousand miles from--> any || 0.983364999294281
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little cross-->ly || 0.9836480021476746
+ yes--> i || 0.9839158654212952
+ i caught a glimp-->se || 0.9840671420097351
+ thus--> i || 0.9842070937156677
+ i caught a glimpse into the mystery of his presence and i asked ab-->rupt || 0.9843521118164062
+ once when i was six years old i saw a magnificent picture in a book about the prime-->val || 0.9847167134284973
+ and perhaps with a hint of sadness he added straight--> ahead || 0.9847848415374756
+ then taking my sheep out of his--> pocket || 0.9849110245704651
+ here is the best--> portrait || 0.9853929877281189
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real life--> stories || 0.9858638644218445
+ i jumped to my--> feet || 0.9860518574714661
+ the sheep--> you || 0.9861488938331604
+ here--> is || 0.9861756563186646
+ here--> is || 0.9861756563186646
+ here--> is || 0.9861756563186646
+ and the little prince broke into a lovely peal of laughter which irritated--> me || 0.9863004088401794
+ remember that i was a thousand miles from any--> inhab || 0.9863817095756531
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9863964915275574
+ draw me a sheep-->[EOS] || 0.9864562153816223
+ draw me a sheep-->[EOS] || 0.9864562153816223
+ draw me a sheep-->[EOS] || 0.9864562153816223
+ remember--> that || 0.9865278005599976
+ absurd as it seemed to me a thousand miles from any--> human || 0.9865441918373108
+ this is not a--> sheep || 0.9865804314613342
+ draw me a--> sheep || 0.9867740273475647
+ draw me a--> sheep || 0.9867740273475647
+ draw me a--> sheep || 0.9867740273475647
+ abs-->urd || 0.9868554472923279
+ the--> offer || 0.9870361089706421
+ the--> little || 0.9870361089706421
+ the--> grow || 0.9870361089706421
+ the--> first || 0.9870361089706421
+ the--> one || 0.9870361685752869
+
+
+## 50 prefixes with the highest comosition scores:
+ for me it was--> a || 0.9999533295631409
+ after a reflective silence he answered what is good about the box you have given is that--> at || 0.9999476671218872
+ grownups never understand anything by themselves and it is tiresome for--> children || 0.9999358654022217
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored penc-->il || 0.9999030828475952
+ and the little prince broke into a lovely peal of laughter which irrit-->ated || 0.9998998641967773
+ i showed my masterpiece to the grownups and--> i || 0.9998959898948669
+ my friend smiled gently and indul-->g || 0.9998881220817566
+ i showed my masterpie-->ce || 0.9998744130134583
+ so you can imagine my surprise when at daybreak a funny little voice w-->oke || 0.9998635053634644
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constrict-->ors || 0.9998593926429749
+ i showed my masterpiece to the grownups and i asked them if my drawing fright-->ened || 0.999851644039154
+ i stared at this sudden apparition wide eyed with aston-->ishment || 0.9998486042022705
+ oh that is--> fun || 0.9998472929000854
+ here is the best portrait that later i managed to do of him but my drawing of course is much--> less || 0.99984210729599
+ and i was astounded to hear the little fellow respond no no i do not want an elephant inside a boa con-->str || 0.999836802482605
+ it said in the book boa constrictors swallow their prey whole without che-->wing || 0.9998342394828796
+ where do you think--> he || 0.9998253583908081
+ it is true that you can not have come from far away--> in || 0.9998244643211365
+ it is true that you can not have come from far away in that and he drifted--> into || 0.9998239874839783
+ then taking my sheep out of his pocket he sank himself--> into || 0.9998142123222351
+ it would be a drawing far--> too || 0.9998115301132202
+ grownups never understand anything by themselves and it is tiresome for children--> to || 0.9998054504394531
+ grownups never understand anything by themselves and it is tires-->ome || 0.9998027086257935
+ it is true that you can not have come from far away in that and he drifted into a dayd-->ream || 0.9997988343238831
+ but he did--> not || 0.9997734427452087
+ i talked to them about bridge golf politics--> and || 0.9997627139091492
+ the grownups advised me to leave aside drawings of boa constrict-->ors || 0.9997624158859253
+ then taking my sheep out of his pocket he sank himself into the contempl-->ation || 0.9997502565383911
+ the grownups advised me to leave--> aside || 0.9997501969337463
+ that is right and if--> you || 0.9997487664222717
+ i was discouraged in my career as a painter by the grownups at the age of--> six || 0.9997471570968628
+ my friend smiled g-->ently || 0.9997426867485046
+ but i was very surprised to see--> the || 0.9997405409812927
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for--> them || 0.999735414981842
+ i then drew the inside of the boa constrictor so that the grownu-->ps || 0.9997299909591675
+ it showed--> a || 0.9997273683547974
+ it showed--> a || 0.9997273683547974
+ so i would never speak to them of boa constrictors--> nor || 0.9997224807739258
+ so i thought a lot about the adventures of the jungle and in turn i--> managed || 0.9997180104255676
+ i jumped to my feet as if i had been struck by light-->ning || 0.9997174739837646
+ you can imagine how my curiosity was ar-->oused || 0.9997172355651855
+ when a mystery is too overpowering--> one || 0.9997169971466064
+ and that is how--> i || 0.999711275100708
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone the difficult rep-->airs || 0.9997107982635498
+ so getting impatient as i was eager to start dismant-->ling || 0.999707043170929
+ so i would never speak to them--> of || 0.9997031688690186
+ he asked me what is that--> thing || 0.9996912479400635
+ absurd as it seemed--> to || 0.9996827840805054
+ that is right and if you are good i will give you a--> ro || 0.9996747970581055
+ he looked nothing like a child lost in the middle of the desert a thousand miles from any inhab-->ited || 0.9996740818023682
+

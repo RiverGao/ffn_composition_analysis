@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ so getting impat-->ient || 0.8639073371887207
+ i caught a glimp-->se || 0.8691456913948059
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.8993715643882751
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9011111855506897
+ i was discou-->rag || 0.9069951176643372
+ i was discou-->rag || 0.9069951176643372
+ oh--> that || 0.9187835454940796
+ the grow-->nu || 0.9246433973312378
+ the little--> prince || 0.9298273324966431
+ so i lived alone without anyone i could really talk to until a break-->down || 0.9321481585502625
+ and i was astounded to hear the little fellow respond no--> no || 0.9338895082473755
+ i st-->ared || 0.9339177012443542
+ thus i abandoned at the age of six a magnificent career as--> a || 0.9363366365432739
+ but if you do not tie him up he will--> w || 0.9368043541908264
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for them again and again-->[EOS] || 0.937585175037384
+ but he--> did || 0.9378757476806641
+ i flew a little--> in || 0.938771665096283
+ he shook his head slowly whilst looking at my airplane-->[EOS] || 0.9389041662216187
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of--> my || 0.9393130540847778
+ it is not a--> thing || 0.9394258856773376
+ thus i abandoned at the age--> of || 0.9397899508476257
+ make another--> one || 0.9406276941299438
+ then he added so you also come from the--> sky || 0.9409523606300354
+ once when i was six years old i saw a magnificent picture in a book about the prime-->val || 0.9414187073707581
+ it is true that you can not--> have || 0.9416900277137756
+ i then drew the inside of the boa constrictor so that the grow-->nu || 0.9419479370117188
+ so i would never--> speak || 0.9420350790023804
+ the offer--> seemed || 0.9425515532493591
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this drawing and i sn-->apped || 0.9425786733627319
+ so i thought a lot about the advent-->ures || 0.9430695176124573
+ but if you do not tie him up he will w-->ander || 0.943278968334198
+ i was discouraged by the failure of my drawing number one and of--> my || 0.9433525800704956
+ here is the best portrait that later i managed to do of him--> but || 0.9438208937644958
+ you can imagine how my curiosity was aroused--> by || 0.9439584016799927
+ where are--> you || 0.9441026449203491
+ it is exactly--> the || 0.9442936778068542
+ but if you do not tie him up he will wander off and--> get || 0.9452411532402039
+ he leaned his head--> towards || 0.9454044103622437
+ the grownups advised me to leave aside drawings of bo-->a || 0.9460566639900208
+ so i thought a lot about the adventures--> of || 0.9461469054222107
+ i caught a--> g || 0.9461788535118103
+ they always need to--> have || 0.9461902976036072
+ it would be a--> drawing || 0.9463971853256226
+ it is true that you can not have come from far away in that and he drifted into a--> day || 0.9468687772750854
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried to--> find || 0.9469566345214844
+ i flew a little in many places around the world--> and || 0.9469576478004456
+ then taking my sheep out of his pocket he sank himself into the--> cont || 0.9470623135566711
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little crossly that i did--> not || 0.9472070336341858
+ so i lived alone without anyone i could really talk to until a breakdown in the--> sah || 0.9475931525230408
+ grownups never understand anything by themselves and it is--> t || 0.9476147294044495
+
+
+## 50 prefixes with the highest comosition scores:
+ i then drew the inside of the boa constrict-->or || 0.9832887649536133
+ it showed a boa constrict-->or || 0.9830604791641235
+ it showed a boa constrict-->or || 0.9830604195594788
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to geography history arithmetic and--> grammar || 0.9824942350387573
+ it said in the book boa constrictors swallow their prey whole without chewing then they--> are || 0.9821715354919434
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constrict-->ors || 0.9811911582946777
+ i flew a little in many places around the world and geography it is true--> has || 0.9809129238128662
+ the first night i went to sleep on the sand a--> thousand || 0.9807993173599243
+ a boa constrict-->or || 0.9805110692977905
+ my friend broke into another peal of laugh-->ter || 0.9804472327232361
+ it said in the book boa constrictors swallow their prey--> whole || 0.9804320335388184
+ i had hardly enough water to drink--> for || 0.980424702167511
+ i was more isolated than a shipwrecked sailor--> on || 0.9803358912467957
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming--> than || 0.9803124666213989
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this drawing and--> i || 0.9801057577133179
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constrictors--> closed || 0.980080783367157
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not--> able || 0.9799826145172119
+ that is right and if you are good i will give you a rope to tie him up with during--> the || 0.9799534678459167
+ as i had never drawn a sheep i redrew for him one of the only two drawings that--> i || 0.9797108173370361
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming than--> its || 0.9796589016914368
+ he looked carefully then said no this one--> is || 0.9795231819152832
+ so once again--> i || 0.9794833660125732
+ i wanted to know if they were really a person of true understanding but they always responded it is--> a || 0.979463517665863
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and they sleep for the six months it--> takes || 0.9794246554374695
+ absurd as it seemed to me a thousand miles from any human habitation--> and || 0.9794116616249084
+ remember that i was a thousand miles from any inhabited region--> and || 0.9793956279754639
+ i caught a glimpse into the mystery of his presence and i asked abruptly so you--> come || 0.9793235063552856
+ so getting impatient as--> i || 0.9792457222938538
+ he looked nothing like a child lost in the middle of the desert a--> thousand || 0.9792181849479675
+ i took a good look around me and i saw--> a || 0.9792004227638245
+ that is right and if you are good i will give you a rope to tie--> him || 0.9791539907455444
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and they--> sleep || 0.9791514873504639
+ my friend smiled gently and indulgently you can see--> yourself || 0.979149580001831
+ so i had to choose another profession and i learned--> to || 0.9791428446769714
+ it said in the book boa constrictors swallow their pre-->y || 0.9791011214256287
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself--> instead || 0.9790956974029541
+ absurd as it seemed to me--> a || 0.979089617729187
+ i talked to them about bridge golf politics and neckties and--> the || 0.9790497422218323
+ i have had during my life a lot of contact--> with || 0.9789857864379883
+ something had broken in my engine and as i had with me neither a mechanic--> nor || 0.9789050817489624
+ it is true that you can not have come from far away in that and he drifted into a daydream--> which || 0.9788990020751953
+ i was discouraged by the failure of my drawing number one and of my drawing number two-->[EOS] || 0.9788922071456909
+ it showed a boa constrictor swallowing a--> wild || 0.9788818955421448
+ you can imagine how my curiosity was aroused by this small disclosure--> about || 0.9788718223571777
+ then taking my sheep out of his pocket he sank--> himself || 0.9788495302200317
+ then the little prince said gravely that does not--> matter || 0.9786108136177063
+ where is this where i live of--> yours || 0.9785639047622681
+ he looked carefully then said no this one is--> already || 0.9785253405570984
+ the first night i went to sleep on the sand a thousand miles from any human--> habit || 0.9784936904907227
+ i then drew the inside of the boa constrictor--> so || 0.9784693717956543
+

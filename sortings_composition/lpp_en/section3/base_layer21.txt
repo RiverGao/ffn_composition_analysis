@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8013588786125183
+ we must look at them and breat-->he || 0.8422159552574158
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.8503291606903076
+ then one morning exactly at sunr-->ise || 0.861850917339325
+ i should have seen the tendern-->ess || 0.8728318810462952
+ she overwh-->el || 0.8842272162437439
+ and i--> was || 0.9645339250564575
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that--> one || 0.9646040201187134
+ so the little prince despite--> the || 0.9676735997200012
+ of course i--> love || 0.9679924249649048
+ but i--> was || 0.9685283899307251
+ as for the--> large || 0.9687237739562988
+ no no i--> do || 0.9687451124191284
+ on the fifth day again thanks to the--> sheep || 0.9693548679351807
+ i said--> the || 0.9702250361442566
+ and you actually--> believe || 0.970341682434082
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely--> this || 0.9708619713783264
+ and if i myself know of a unique flower which grows nowhere but on my planet--> that || 0.9709076285362244
+ the little prince guessed easily enough--> that || 0.9714712500572205
+ let the--> d || 0.9716456532478333
+ and that makes--> him || 0.9718682169914246
+ i--> should || 0.9719623923301697
+ i--> had || 0.9719623923301697
+ i--> was || 0.9719623923301697
+ i--> have || 0.9719623923301697
+ i--> ask || 0.9719623923301697
+ i--> am || 0.9719623923301697
+ i--> rock || 0.9719623923301697
+ i--> took || 0.9719623923301697
+ i--> was || 0.9719623923301697
+ i--> was || 0.9719623923301697
+ i--> do || 0.9719623923301697
+ i--> myself || 0.9719623923301697
+ i--> think || 0.9719623923301697
+ i--> do || 0.9719623923301697
+ i--> did || 0.9719623923301697
+ i--> will || 0.9719623923301697
+ i--> am || 0.9719623923301697
+ i--> do || 0.9719623923301697
+ i--> am || 0.9719623923301697
+ i--> made || 0.9719623923301697
+ i--> felt || 0.9719623923301697
+ i--> know || 0.9719624519348145
+ i--> should || 0.9719624519348145
+ i--> answered || 0.9719624519348145
+ i--> learned || 0.9719624519348145
+ i--> should || 0.9719624519348145
+ i--> am || 0.9719624519348145
+ i--> was || 0.9719624519348145
+ i--> said || 0.9719624519348145
+
+
+## 50 prefixes with the highest comosition scores:
+ the little prince who witness-->ed || 0.9993802905082703
+ the cool night air will do me--> good || 0.9990406632423401
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of any--> use || 0.9983765482902527
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of--> any || 0.998104989528656
+ and as he watered the flower one last time and prepared to shelter her under her dome he found himself close to--> tears || 0.9977789521217346
+ this business of--> the || 0.9975913166999817
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the extinct--> vol || 0.9967942833900452
+ and it is not a matter of consequence to try to understand why they take so--> much || 0.9967518448829651
+ humiliated at having been caught out on a lie so naive she coughed two or three--> times || 0.9961043000221252
+ for she did not want him to see her--> cry || 0.9958258271217346
+ flowers have been growing thorns for--> millions || 0.9957960844039917
+ they would appear one morning in the grass and by evening they would have faded--> away || 0.9954954385757446
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so--> little || 0.9954538345336914
+ that made me feel a little ashamed but he went--> on || 0.9954214096069336
+ they would appear one morning in the grass and by--> evening || 0.9954061508178711
+ the flower coughed but it was not because she had a--> cold || 0.9952467679977417
+ the flower coughed but it was not because she had--> a || 0.9951546788215637
+ if someone lov-->es || 0.9942949414253235
+ my cold is not--> all || 0.9942363500595093
+ on the fifth day again thanks to the sheep this secret of--> the || 0.9942360520362854
+ is it not of more consequence and more important than the sums of a fat re-->df || 0.9940873980522156
+ but if the sheep e-->ats || 0.9939289689064026
+ if they are well cleaned out volcano-->es || 0.9939100742340088
+ i think that for his escape he took advantage of a migration of a flock of wild--> birds || 0.9938696026802063
+ volcanic eruptions are--> like || 0.9938600659370422
+ he owned two active volcano-->es || 0.9938597679138184
+ the little prince--> who || 0.9938555955886841
+ the little prince--> could || 0.9938555955886841
+ the little prince--> was || 0.9938555955886841
+ the little prince--> object || 0.9938555955886841
+ the little prince--> also || 0.9938555955886841
+ the little prince--> interrupted || 0.9938554763793945
+ the little prince--> never || 0.9938554763793945
+ the little prince--> guess || 0.9938554763793945
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with a--> ham || 0.9938377737998962
+ but after a moment of silence he exclaimed with a sort of res-->ent || 0.9938331842422485
+ and as he watered the flower one last time and prepared to shelter her under her dome he found himself close--> to || 0.9938287734985352
+ this business of the claws which annoyed me so--> much || 0.9937968254089355
+ on the fifth day again thanks to the sheep this secret of the little prince s life was--> revealed || 0.9936662912368774
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of petals that did not take up any space and did--> not || 0.9936489462852478
+ my cold is not all--> that || 0.9934502840042114
+ my cold is not all that--> bad || 0.9934340119361877
+ but the shrub soon stopped growing and began to--> produce || 0.9933633208274841
+ for millions of years the sheep--> have || 0.993330180644989
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one--> stroke || 0.9932979345321655
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of petals that did--> not || 0.9932723641395569
+ where i come from-->[EOS] || 0.9931531548500061
+ yes even flowers that have--> th || 0.9931267499923706
+ but this one had sprouted one day from a seed blown in from no--> one || 0.9931193590164185
+ of course i love you-->[EOS] || 0.9931087493896484
+

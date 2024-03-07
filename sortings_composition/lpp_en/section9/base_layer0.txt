@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ when you look at the sky at night because i will be living on one of--> them || 0.5013023018836975
+ and when your sorrow is comforted time heals all wounds you will be glad to--> have || 0.5144810080528259
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry--> sli || 0.5249127149581909
+ again i felt myself frozen by the sense of something irreparable and i knew that--> i || 0.5252684950828552
+ so you will tell them yes the stars always make me laugh and they will think you are--> cra || 0.5264305472373962
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in--> a || 0.5301136374473572
+ and if you happen to pass by--> there || 0.5415163636207581
+ another voice must have answered him because he replied yes yes it is the right day but this is--> not || 0.5427416563034058
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with--> a || 0.5435657501220703
+ when i managed to catch him up he was--> walking || 0.5454432964324951
+ and if you happen to pass by there i beg you do not hurry--> on || 0.5463160276412964
+ and he took me by--> the || 0.5463254451751709
+ i mean not entirely but i do know that he got back to his planet because at--> day || 0.5510549545288086
+ so you will tell them yes the stars always make me laugh and--> they || 0.5515478253364563
+ for some who are travelers the stars are--> gu || 0.5568990111351013
+ for others who are scholars they are--> problems || 0.5572208166122437
+ and when your sorrow is comforted time heals all wounds you will be--> glad || 0.5621095299720764
+ if a child then comes to you if he laughs if he has golden hair if he does not respond when--> question || 0.5670490860939026
+ where i live everything is--> too || 0.5702401399612427
+ and he took me by the hand but he was still worrying-->[EOS] || 0.570961058139801
+ he said that is--> everything || 0.5732179284095764
+ and yet it seemed to me that he was plummeting down into an abyss and that--> i || 0.5755974054336548
+ when i managed to catch him up he was walking along determinedly at a brisk--> pace || 0.5763952732086182
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are--> la || 0.5780712366104126
+ where i live everything is too small for me to point out to you where my--> star || 0.5812489986419678
+ when you look at the sky at night because i will--> be || 0.5812703371047974
+ when you look at the sky at night because--> i || 0.5817767381668091
+ nothing in the universe is the same if somewhere out there a sheep that--> we || 0.5844645500183105
+ you know it will be--> nice || 0.5855958461761475
+ i had moistened--> his || 0.5892758965492249
+ and he took me by the hand but he was--> still || 0.5900280475616455
+ he made no answer to my question but he added i--> am || 0.591163158416748
+ i had loosened--> the || 0.5914467573165894
+ and she is so naive-->[EOS] || 0.5917278528213501
+ there was next to the well the ruin--> of || 0.5926468968391418
+ you understand it is--> too || 0.5939652323722839
+ if you love a flower that is on a star it--> is || 0.5943968892097473
+ now my sorrow is comfort-->ed || 0.5955103635787964
+ then i am happy and all the stars laugh sweet-->ly || 0.5963297486305237
+ just that it will--> be || 0.5977283716201782
+ where i live everything is too small for me to point out to you where my star is-->[EOS] || 0.5978491902351379
+ it will look as if i am dead and that will--> not || 0.5986258387565613
+ it will be as if i would given--> you || 0.5986760854721069
+ then i am happy and all the stars laugh sweetly-->[EOS] || 0.5994889736175537
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fount-->ain || 0.5998232960700989
+ it is the same landscape as--> the || 0.5998610258102417
+ even as i dug around in my pocket to take out my revolver i made a running--> step || 0.6004751920700073
+ look at this landscape carefully so as to be sure to recognize it if one day you--> travel || 0.6008027791976929
+ i had loosened the golden muffler that--> he || 0.6010730862617493
+ i held him tightly--> in || 0.6020183563232422
+
+
+## 50 prefixes with the highest comosition scores:
+ it may well be the--> sheep || 0.8394635319709778
+ and no--> grown || 0.8329929113388062
+ herein lies a great mystery for you who also love the--> little || 0.8301854729652405
+ for me it was like a spring of fresh water in the--> desert || 0.8274032473564148
+ and he took me by the--> hand || 0.8199116587638855
+ i felt his heart beat like the--> heart || 0.8190972805023193
+ my star will be right above the--> spot || 0.8190312385559082
+ look at the--> sky || 0.8170678615570068
+ but at the--> noise || 0.8158919811248779
+ it is the--> same || 0.8154142498970032
+ all--> the || 0.815301239490509
+ all--> the || 0.815300703048706
+ all--> the || 0.8153001070022583
+ for me it was like a--> spring || 0.8130866289138794
+ and then the--> little || 0.8130626678466797
+ it is here that the--> little || 0.8126364350318909
+ it is just--> like || 0.8122003674507141
+ when you look at the--> sky || 0.8096230626106262
+ here is the--> place || 0.8073456883430481
+ this--> to || 0.803225040435791
+ again i felt myself frozen by the--> sense || 0.8030275702476501
+ for some who are travelers the--> stars || 0.8023064136505127
+ wait a while exactly under the--> star || 0.7998715043067932
+ i had loosened the--> golden || 0.7995584607124329
+ and your friends will be very surprised to see you laughing whilst watching the--> sky || 0.7992919087409973
+ so--> i || 0.7992666959762573
+ so--> think || 0.7992655038833618
+ so--> you || 0.7992652654647827
+ so--> you || 0.7992650866508484
+ i then lowered my eyes to the--> foot || 0.7988170385360718
+ but he--> was || 0.79802405834198
+ but he--> said || 0.7980239391326904
+ but he--> did || 0.7980237603187561
+ then this is not the--> exact || 0.7977773547172546
+ one evening he would have forgotten the--> glass || 0.7976428270339966
+ just that it will be like with the--> water || 0.7964023947715759
+ one evening he would have forgotten the glass dome or maybe the--> sheep || 0.7953907251358032
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the--> stars || 0.7947755455970764
+ i was twenty meters from the--> wall || 0.7939369678497314
+ my--> little || 0.7938674688339233
+ my--> star || 0.7938670516014099
+ my--> star || 0.7938659191131592
+ my--> heart || 0.7938659191131592
+ again i--> felt || 0.7936288714408875
+ ask yourselves has the--> sheep || 0.7932365536689758
+ then i am happy and all the--> stars || 0.792570173740387
+ it is like with the--> water || 0.7924467921257019
+ it is like with the--> flower || 0.7924467921257019
+ sometimes i tell myself surely not the--> little || 0.7910600304603577
+ he got a bit discouraged but he made one more effort-->[EOS] || 0.7908389568328857
+

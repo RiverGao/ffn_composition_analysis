@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ next came the turn of the lamplighters of china and--> si || 0.7854847311973572
+ the thing that matters to us is the--> mountain || 0.7938653826713562
+ only the lamplighter of the single lamp of the north pole and--> his || 0.7995314598083496
+ the only mountains he had ever known were the three volcanoes that came up to his knees and--> he || 0.8048728704452515
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they--> would || 0.8048876523971558
+ then came the turn of the lamplighters of russia and--> the || 0.8096173405647278
+ one waits until the explorer has provided proof before recording them in--> in || 0.8096583485603333
+ i know someone said the little prince who would make--> a || 0.8135372996330261
+ then came the turn of the lamplighters of russ-->ia || 0.8148322105407715
+ because intoxicated men--> see || 0.8201114535331726
+ the little prince crossed the desert and met only with one flower a flower with three--> pet || 0.8224210143089294
+ first came the turn of the lamplighters of new--> ze || 0.8229666352272034
+ because intoxicated men see double so the geographer would record two--> mountains || 0.8243440985679626
+ first came the turn of the lamplighters of new zealand and--> austral || 0.8252770304679871
+ it is not for the geographer to count the towns the--> rivers || 0.8254213929176331
+ the only mountains he had ever known were the three volcanoes that--> came || 0.8277491331100464
+ they think themselves as important as the--> ba || 0.828821063041687
+ it is not for the geographer to count the towns the rivers the mountains the seas the oceans and--> the || 0.8321677446365356
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a--> meeting || 0.8335216045379639
+ if the two billion people who inhabit the earth were to stand upright and squash together a--> little || 0.834087073802948
+ and they--> were || 0.8349231481552124
+ and they--> were || 0.8349231481552124
+ he asks them questions and he--> writes || 0.8351947069168091
+ and they were--> silent || 0.8352564573287964
+ and they were--> silent || 0.8352564573287964
+ the little prince having arrived on earth was--> very || 0.8373520970344543
+ because flowers are--> e || 0.8373735547065735
+ it has one hundred and eleven kings not forgetting of course the negro k-->ings || 0.8375301957130432
+ i know someone said the little prince who--> would || 0.83753901720047
+ and if any of their re-->collections || 0.8376196026802063
+ if the two billion people who inhabit the earth were to stand upright and--> squ || 0.8379902839660645
+ i run the risk of giving a fasle idea of our--> planet || 0.8380793333053589
+ they--> lack || 0.8382266759872437
+ they--> repeat || 0.838226854801178
+ they--> picture || 0.8382273316383362
+ they--> think || 0.8382273316383362
+ they--> are || 0.8382273316383362
+ they--> ad || 0.8382273316383362
+ they--> never || 0.8382276296615601
+ they--> worked || 0.8382276296615601
+ geography books said the geographer of all books are--> the || 0.8386126756668091
+ the only mountains he--> had || 0.8386481404304504
+ next came the turn of the lamplighters of ch-->ina || 0.8388588428497314
+ i run the risk of giving a fasle idea of our planet to--> those || 0.840854287147522
+ because intoxicated men see double so the geographer would record two mountains in--> a || 0.8419947028160095
+ the recitals of explorers are--> first || 0.8420612215995789
+ the only mountains he had ever known were the--> three || 0.8423186540603638
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all at once and--> all || 0.8423232436180115
+ the sixth planet was--> ten || 0.8424084782600403
+ she--> was || 0.8424539566040039
+
+
+## 50 prefixes with the highest comosition scores:
+ one waits--> until || 0.9577332139015198
+ they are blown here and there--> by || 0.9567482471466064
+ it has one hundred and--> eleven || 0.9559237360954285
+ men i think there exists six or seven--> of || 0.9557816386222839
+ good morning--> said || 0.955646812915802
+ good morning--> good || 0.9556465148925781
+ good morning--> said || 0.955646276473999
+ good morning--> he || 0.955646276473999
+ on what planet have i come down on asked the little prince-->[EOS] || 0.9534842371940613
+ and if any of--> their || 0.9533128142356873
+ it is all dry and all jagged--> and || 0.9528156518936157
+ it is very rare--> that || 0.952534019947052
+ it is very rare--> that || 0.9525339007377625
+ it is the prettiest--> thing || 0.952124834060669
+ i can help you if someday--> you || 0.9519429802894592
+ my flower is ephemeral-->[EOS] || 0.951820969581604
+ because flowers are ephemeral-->[EOS] || 0.9514099955558777
+ then those of--> south || 0.9511860609054565
+ then those of--> north || 0.9511860609054565
+ then those of--> a || 0.9511857628822327
+ good morning good morning good morning--> answered || 0.951077401638031
+ but what does ephemeral--> mean || 0.9510759711265564
+ one waits until the explorer has provided proof before recording them in ink-->[EOS] || 0.9510429501533508
+ i understand very well said the little prince-->[EOS] || 0.9506627321243286
+ good morning good morning--> good || 0.9506558775901794
+ the movements of this army were regulated like those of--> an || 0.9505199790000916
+ and i have left her all alone--> on || 0.9503055810928345
+ i know someone said the little prince--> who || 0.9502672553062439
+ what has brought--> you || 0.9500219225883484
+ the planet earth--> replied || 0.9497613310813904
+ whether volcanoes are extinct or active is of no--> consequence || 0.9496160745620728
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable--> army || 0.9494795799255371
+ all humanity--> could || 0.949180006980896
+ he had already started to worry that he had got the wrong planet when a moon colored coil--> stir || 0.949052631855011
+ oh so--> there || 0.948816180229187
+ that is to say--> about || 0.94866943359375
+ that is very interesting said the little prince-->[EOS] || 0.9486333727836609
+ the recit-->als || 0.9485940933227539
+ good evening--> said || 0.9483619928359985
+ good evening--> said || 0.9483619928359985
+ three hundred and--> eleven || 0.9483233094215393
+ what is that big book said the little prince-->[EOS] || 0.9482198357582092
+ that is to--> say || 0.9481357336044312
+ because flowers are ephem-->eral || 0.9480208158493042
+ the geographer is too important to go strolling--> about || 0.9476787447929382
+ good evening said the little prince--> cour || 0.9476785659790039
+ the movements of this army were regulated like those--> of || 0.9476068615913391
+ it is very rare that an ocean empt-->ies || 0.947572648525238
+ good morning said the little prince-->[EOS] || 0.9474461078643799
+ the little prince sat down on the table and panted--> a || 0.9473538994789124
+

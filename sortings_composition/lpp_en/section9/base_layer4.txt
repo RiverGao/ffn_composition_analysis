@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ for others who are schol-->ars || 0.8628879189491272
+ this to me is the most beautiful and most sad landscape in the--> world || 0.8705114126205444
+ and he sat down because he was--> afraid || 0.8715853095054626
+ now you will be able--> to || 0.8721924424171448
+ and yet it seemed to me that he was plummeting down into an abyss and--> that || 0.8736554384231567
+ sometimes i tell myself surely not the--> little || 0.8782522082328796
+ he would never have been able--> to || 0.8820866346359253
+ so you will tell them yes the stars always make me laugh and they--> will || 0.884124219417572
+ and then he too was silent because he was--> cry || 0.8852984309196472
+ for others they are nothing but little--> lights || 0.8866672515869141
+ it is true that they have no poison left for a second b-->ite || 0.8878892660140991
+ right there facing the little--> prince || 0.8897902965545654
+ one evening he would have forgotten the glass dome or--> maybe || 0.8898389935493469
+ she has four thorns of no use at all to protect herself against the--> entire || 0.8904016613960266
+ he got a bit discou-->rag || 0.8921507000923157
+ it may--> well || 0.8928832411766052
+ he was--> afraid || 0.8947668075561523
+ and if you--> happen || 0.8953191041946411
+ nothing in the universe is the same if somewhere out there a sheep that--> we || 0.8954166769981384
+ i held--> him || 0.8954566717147827
+ it will look as if i am dead and that will--> not || 0.8974770903587341
+ i mean not entirely but i do know that he got back to his planet because at--> day || 0.8976797461509705
+ little fellow is this all a bad dream this business with the snake and the meeting place and the--> star || 0.8981530666351318
+ he said to me i am glad that you have found what was--> wrong || 0.8985270857810974
+ it is true that they have no poison left for a--> second || 0.8986766338348389
+ you will have--> five || 0.8987055420875549
+ you will have--> the || 0.8987055420875549
+ and no grownup will ever understand that this--> is || 0.8987305760383606
+ and yet it seemed to me that he was pl-->um || 0.8993443846702576
+ i am telling you this it is also because of the s-->nake || 0.8996351957321167
+ it is true that they--> have || 0.9000164866447449
+ my star will be right above the spot where i came down--> to || 0.9001720547676086
+ i mean not entirely but i do know that he got back to his planet because--> at || 0.9002297520637512
+ snakes are--> mean || 0.9003384709358215
+ she has four thorns of no use at--> all || 0.9005440473556519
+ she has--> four || 0.9013060927391052
+ they can--> b || 0.9013603925704956
+ and now of course--> it || 0.9014183282852173
+ i had moistened his temples and had--> him || 0.9014715552330017
+ i am telling you this it is also because--> of || 0.9020043015480042
+ sometimes i tell myself surely not the little prince shuts his flower under her glass--> d || 0.9020262956619263
+ nothing in the universe is the same if somewhere out there a sheep that we--> have || 0.902650773525238
+ for me it was like a spring of fresh water in the--> desert || 0.9027662873268127
+ again i felt myself frozen by the--> sense || 0.902873158454895
+ and yet it seemed to me that he was--> pl || 0.9032266139984131
+ he had a serious look as--> if || 0.9033467769622803
+ but at the--> noise || 0.9034148454666138
+ he had--> a || 0.9034895300865173
+ he got a bit discouraged but he made--> one || 0.9038760662078857
+ i mean not entirely but i do know that he got--> back || 0.904062032699585
+
+
+## 50 prefixes with the highest comosition scores:
+ again i--> felt || 0.9723401069641113
+ when you look at--> the || 0.9692478179931641
+ he looked at me gravely and put his arms around my neck-->[EOS] || 0.9660984873771667
+ my heart skipped a beat--> but || 0.9658859372138977
+ sometimes i tell myself surely not the little prince--> sh || 0.9654569625854492
+ he fell as gently as--> a || 0.9652196168899536
+ it is true that they have no poison left--> for || 0.965064287185669
+ i held him tightly in my arms--> like || 0.9650642275810242
+ i want to--> come || 0.9649377465248108
+ it will look as if--> i || 0.964606523513794
+ it will look as if--> i || 0.9646061658859253
+ the little prince--> replied || 0.9645273089408875
+ the little prince--> spoke || 0.9645273089408875
+ when you look at the--> sky || 0.9643689393997192
+ he said to me--> that || 0.9641990661621094
+ he said to me--> only || 0.9641987085342407
+ he said to me--> i || 0.9641984701156616
+ when you look at the sky at night--> because || 0.9641040563583374
+ i continued my--> walk || 0.9638830423355103
+ and besides i am going to make you a present-->[EOS] || 0.9638370871543884
+ all the stars will be wells with a rusty pulley-->[EOS] || 0.9636828303337097
+ it will be as if i would given you instead of stars lots and lots--> of || 0.963535726070404
+ and he took me by--> the || 0.9633651375770569
+ he looked at me gravely and put his arms around--> my || 0.9632859230041504
+ i sat down--> too || 0.9632359147071838
+ even as i dug around in my--> pocket || 0.9631322026252747
+ look at this landscape carefully so as to be sure to recognize it if one day--> you || 0.9631129503250122
+ he hesitated a--> bit || 0.9630492329597473
+ nothing in the universe--> is || 0.9629440307617188
+ i have--> never || 0.962917685508728
+ i have--> your || 0.9629175662994385
+ other times i tell myself everyone is absent mind-->ed || 0.9628873467445374
+ but i have drawn it again to show it to--> you || 0.9627005457878113
+ little--> fellow || 0.9626678824424744
+ little--> fellow || 0.9626675844192505
+ even as i dug around--> in || 0.962618887424469
+ i will not leave--> you || 0.9623969793319702
+ i will not leave--> you || 0.9623969793319702
+ i will not leave--> you || 0.9623969793319702
+ and when your sorrow is comforted time heals all wounds--> you || 0.9621562957763672
+ he looked at me gravely--> and || 0.962060809135437
+ what are you trying to say-->[EOS] || 0.962055504322052
+ what are you trying to say-->[EOS] || 0.962055504322052
+ do--> you || 0.9618691205978394
+ do--> not || 0.9618691205978394
+ he got away without making a sound-->[EOS] || 0.9617525339126587
+ his feet hanging down-->[EOS] || 0.9616758823394775
+ and he took me by the--> hand || 0.9615039229393005
+ why are you--> talking || 0.9609910845756531
+ i am telling you this--> it || 0.9609785079956055
+

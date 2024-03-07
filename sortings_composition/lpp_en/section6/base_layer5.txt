@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ to give you an idea of the--> size || 0.8760995268821716
+ it makes things very difficult for them-->[EOS] || 0.8894972801208496
+ he had already--> started || 0.890998899936676
+ he had already--> travel || 0.8909990787506104
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of le-->is || 0.8941377997398376
+ that is possible so when the moral--> character || 0.8997265100479126
+ geography books said the geographer of all books are the most concerned with matters--> of || 0.9004601836204529
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all at once and all the--> people || 0.9008467197418213
+ and she--> has || 0.9008559584617615
+ the little prince crossed the desert and met only with one flower a flower with--> three || 0.9008799195289612
+ the only mountains he--> had || 0.9016604423522949
+ because flowers are e-->ph || 0.9019954204559326
+ good morning good morning good morning--> answered || 0.9031407237052917
+ they think themselves as important as the ba-->ob || 0.9046810865402222
+ but do not waste your time--> on || 0.9047462940216064
+ i have not been entirely honest in telling you about the--> l || 0.9047886729240417
+ only the lamplighter of the single lamp of the north--> pole || 0.905757486820221
+ then came the turn of the l-->am || 0.9058671593666077
+ we write about et-->ernal || 0.9058813452720642
+ to give--> you || 0.9058840274810791
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span--> of || 0.9062719345092773
+ and the geographer having opened his big register sharpen-->ed || 0.9070616960525513
+ if for example the discovery in question was of a large mountain one would require that he bring back large--> stones || 0.9073171019554138
+ all humanity could be piled up on the--> smallest || 0.907429039478302
+ i feel sorry for you so weak on this earth made of gran-->ite || 0.9076825976371765
+ all human-->ity || 0.9080991148948669
+ but what does eph-->em || 0.9081379175186157
+ it was inhabited by an old gentleman who wrote enorm-->ous || 0.9082016944885254
+ what does eph-->em || 0.908243715763092
+ next came the turn of the l-->am || 0.9083376526832581
+ i run the risk of giving a fasle idea of our--> planet || 0.9085185527801514
+ because intoxicated men see double so the--> ge || 0.908769965171814
+ the rec-->it || 0.9089882373809814
+ men take up very little space on the--> earth || 0.9092597961425781
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the--> south || 0.9094710946083069
+ geography books said the geographer--> of || 0.9098256230354309
+ but he--> saw || 0.9098578095436096
+ i am all alone all alone all alone answered the--> echo || 0.9109676480293274
+ but one requires the--> expl || 0.9109749794006348
+ it is not for the geographer to count the towns the rivers the mountains the seas--> the || 0.9111292362213135
+ if for example the discovery in question was of a large mountain one would require that he--> bring || 0.9114901423454285
+ we do not record flowers said the--> ge || 0.911516547203064
+ first came the turn of the l-->am || 0.9116063117980957
+ but do not--> waste || 0.9116182327270508
+ i can help you if someday you become too homes-->ick || 0.9121994376182556
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9122321009635925
+ ah said the s-->nake || 0.9122338891029358
+ whoever i touch i send him back to the earth--> from || 0.9123698472976685
+ i can help you if somed-->ay || 0.912818431854248
+ the flower had once seen a car-->avan || 0.9128857851028442
+
+
+## 50 prefixes with the highest comosition scores:
+ it is a bit lonely in--> the || 0.9709212779998779
+ having set their lamps alight--> they || 0.9695332050323486
+ he had already started to worry that he had got the wrong planet when a moon colored coil stirred in the sand-->[EOS] || 0.9693188071250916
+ he wrapped himself around--> the || 0.9690501689910889
+ what does ephemeral mean-->[EOS] || 0.9689542651176453
+ but he saw nothing but sharp needles of--> rock || 0.9684491753578186
+ but he saw nothing but sharp needles--> of || 0.9683398604393005
+ but what does ephemeral mean--> repeated || 0.9682526588439941
+ but what does ephemeral mean repeated the little prince who had never in his life let go--> of || 0.967838704586029
+ all humanity could be piled up on the smallest pacific islet-->[EOS] || 0.9677618741989136
+ it is very rare that an ocean empties itself of--> its || 0.967634379863739
+ from a mountain as high as this one he said to himself i will be able to--> see || 0.9675214886665344
+ what place would you advise me to--> visit || 0.9674112200737
+ the movements of this army were--> reg || 0.9673228859901428
+ he had already started to worry that he had got the wrong planet when--> a || 0.9672431349754333
+ the earth is not just any old--> planet || 0.9671712517738342
+ but what does ephemeral mean repeated the little prince who had never in his life let go of--> a || 0.9670963883399963
+ the grownups of course will not believe--> you || 0.9667634963989258
+ good evening said the little prince courteously-->[EOS] || 0.9665440917015076
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity--> it || 0.9665436148643494
+ but you never know where--> to || 0.9664056897163391
+ the only mountains he had ever known were the three volcanoes that came up to his knees--> and || 0.966334879398346
+ he cried out when he caught sight of--> the || 0.9661390781402588
+ we write about eternal things-->[EOS] || 0.966117262840271
+ the grownups of course will not believe you-->[EOS] || 0.966069757938385
+ and she has only four thorns to defend--> herself || 0.9660637378692627
+ the only mountains he had ever known were the three volcanoes that came up to his kne-->es || 0.9659570455551147
+ the little prince smiled-->[EOS] || 0.9658451080322266
+ the little prince said to himself-->[EOS] || 0.965835452079773
+ where do--> you || 0.9658076763153076
+ but you never know where to find--> them || 0.9657345414161682
+ you are a funny animal he said finally as thin as a finger-->[EOS] || 0.9656597375869751
+ the earth is large--> said || 0.9655362963676453
+ it is not for the geographer to--> count || 0.9654983878135681
+ everything is very small-->[EOS] || 0.9654717445373535
+ is my flower at risk of imminent--> disapp || 0.9652674794197083
+ they repeat whatever you say to--> them || 0.9651781320571899
+ that is possible so when the moral character of--> the || 0.9647395610809326
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like--> for || 0.9645650386810303
+ it means which is at risk of imminent--> disapp || 0.9644634127616882
+ where are the--> men || 0.9643546342849731
+ where are the--> men || 0.9643546342849731
+ he cried out when he caught sight--> of || 0.9642911553382874
+ it is all dry and all jagged and--> all || 0.9642469882965088
+ it makes things--> very || 0.9642456769943237
+ what has brought you here-->[EOS] || 0.9642260670661926
+ he had already started to--> worry || 0.9642205834388733
+ the recitals of explorers are first recorded in pencil-->[EOS] || 0.9641239047050476
+ they adore numbers and that will please--> them || 0.964064359664917
+ the little prince crossed the desert--> and || 0.9640477895736694
+

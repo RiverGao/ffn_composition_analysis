@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ all humanity--> could || 0.9244895577430725
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.9272574186325073
+ that is possible so when the moral character of the--> expl || 0.9325717091560364
+ because intoxicated men--> see || 0.9340510368347168
+ seven million five hundred thousand heavy drink-->ers || 0.9362522959709167
+ i know someone said the--> little || 0.9375768899917603
+ it is also lonely amongst men the--> s || 0.9376611709594727
+ well said the--> ge || 0.9380648732185364
+ are--> there || 0.9383281469345093
+ if for example the discovery in--> question || 0.9396321177482605
+ geography books said the geographer of all books are--> the || 0.9415712952613831
+ the movements of this--> army || 0.9422301054000854
+ good morning good morning good morning answered the--> echo || 0.9425081014633179
+ you are not--> very || 0.9436678290367126
+ they adore--> numbers || 0.9438508152961731
+ that is true the--> ge || 0.9443644285202026
+ seven million five hundred thousand heavy drinkers-->[EOS] || 0.9444233179092407
+ it means which is at risk--> of || 0.945015549659729
+ you are an--> expl || 0.9451727271080017
+ there is no point-->[EOS] || 0.945175051689148
+ and he--> gl || 0.9454839825630188
+ and i--> have || 0.9455834031105042
+ i run the risk of giving a fasle idea of our--> planet || 0.9459543824195862
+ he cried out when he caught sight of the--> little || 0.9459661841392517
+ it makes--> things || 0.9459947943687439
+ he had never seen--> such || 0.9462570548057556
+ that is possible so when the moral character of the explorer--> appears || 0.9462947249412537
+ because an--> expl || 0.9464917778968811
+ you trust--> me || 0.9469546675682068
+ we do not record flowers said--> the || 0.9471778273582458
+ i feel sorry--> for || 0.9472249150276184
+ you are a funny animal he said finally as thin--> as || 0.9476719498634338
+ i have three--> vol || 0.9477794766426086
+ the only--> mountains || 0.9481838345527649
+ i feel sorry for you so weak on this earth made of granite-->[EOS] || 0.9484560489654541
+ the grownups of--> course || 0.9484954476356506
+ you must describe--> your || 0.9487497210502625
+ all humanity could--> be || 0.9488308429718018
+ oh so there is no one--> on || 0.9488669037818909
+ men i think there exists six--> or || 0.9490079283714294
+ if for--> example || 0.949036180973053
+ is--> my || 0.9494427442550659
+ geography books--> said || 0.9495644569396973
+ it is beautiful said the--> s || 0.9495882987976074
+ only the lamplighter of the single lamp of the--> north || 0.9496608376502991
+ but he--> saw || 0.9497135877609253
+ he had--> never || 0.9500603079795837
+ he had--> already || 0.9500603079795837
+ he had--> already || 0.9500603079795837
+ you are a funny animal he said finally as thin as--> a || 0.9500712156295776
+
+
+## 50 prefixes with the highest comosition scores:
+ then those of africa and--> europe || 0.998029887676239
+ and the geographer having opened his big register sharpened--> his || 0.9972063899040222
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long--> and || 0.9967901110649109
+ and the geographer having opened his big register sharpened his penc-->il || 0.9960504770278931
+ first came the turn of the lamplighters of new zealand and austral-->ia || 0.9959834218025208
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetl-->amp || 0.9957264065742493
+ the only mountains he had ever known were the three volcanoes that came up--> to || 0.9955649375915527
+ that was his first moment of regret but he took heart once--> again || 0.9953734874725342
+ and the geographer having opened his big register sh-->ar || 0.9950899481773376
+ but extinct volcanoes can wake--> up || 0.9948357939720154
+ but why do you always speak in r-->idd || 0.9948235154151917
+ it is not for the geographer to count the towns the rivers the mountains the se-->as || 0.994579017162323
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the ext-->inct || 0.9945043921470642
+ it is not for the geographer to count the towns the rivers the mountains the seas the oce-->ans || 0.9944684505462646
+ it was inhab-->ited || 0.9943255186080933
+ i can carry you further than a ship said the s-->nake || 0.994205117225647
+ it is not for the geographer to count the towns the rivers the mountains the seas the o-->ce || 0.9941729307174683
+ but i am more powerful than the finger of a king said the s-->nake || 0.9940292835235596
+ the little prince crossed the desert and met only with one flower a flower with three--> pet || 0.9938634634017944
+ he wrapped himself around the little prince s ankle like a--> golden || 0.9938177466392517
+ but extinct volcanoes can w-->ake || 0.9934431910514832
+ are there oce-->ans || 0.9934090971946716
+ having set their l-->amps || 0.9932782649993896
+ first came the turn of the lampl-->igh || 0.9932708740234375
+ it is very rare that an ocean empt-->ies || 0.993236243724823
+ when one wants to be witty it can happen that one b-->ends || 0.9931417107582092
+ but what does ephemeral mean repeated the little prince who had never--> in || 0.9930534958839417
+ the earth is large said the s-->nake || 0.9930320382118225
+ three hundred and eleven million conce-->ited || 0.9930250644683838
+ the little prince having arrived on earth was very surprised not to see--> anyone || 0.9930192232131958
+ then came the turn of the lampl-->igh || 0.9929741024971008
+ one never knows said--> the || 0.9929714202880859
+ when one wants to be w-->itt || 0.9928403496742249
+ it was inhabited by an old gentleman who wrote--> enorm || 0.9928224086761475
+ ah said the s-->nake || 0.9927852749824524
+ the recitals of explorers are first recorded in p-->enc || 0.992780864238739
+ he wrapped himself around the little prince s--> an || 0.9926034212112427
+ and if any of their recollections seem interesting to him the geographer orders an inquiry into that expl-->orer || 0.9925245046615601
+ you are--> a || 0.9925151467323303
+ you are--> not || 0.9925150871276855
+ you are--> an || 0.9925150871276855
+ i have three volcanoes two active volcanoes and one ext-->inct || 0.9925008416175842
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to--> maintain || 0.9924836754798889
+ and she has only four thorns to--> defend || 0.9924752712249756
+ only the lampl-->ighter || 0.9923591613769531
+ if the two billion people who inhabit the earth were to stand--> u || 0.9922778606414795
+ the geographer is too important to go st-->rolling || 0.9922647476196289
+ the little prince sat down--> on || 0.9922579526901245
+ the little prince sat down--> on || 0.9922579526901245
+ i would not know said--> the || 0.9922380447387695
+

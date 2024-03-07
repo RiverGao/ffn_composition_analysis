@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the fox seemed very intrigu-->ed || 0.865264356136322
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.88337242603302
+ but every day you will be able--> to || 0.8997396230697632
+ my life is very monoton-->ous || 0.9038392901420593
+ i can go for a walk as far as the viney-->ards || 0.9227042198181152
+ then--> he || 0.9424072504043579
+ then--> come || 0.9424072504043579
+ and then--> look || 0.9463333487510681
+ and then--> he || 0.9463333487510681
+ because it is her that i listened to grumble or boast or even sometimes--> when || 0.953210175037384
+ were--> not || 0.9562447667121887
+ but as there are--> not || 0.9616933465003967
+ if the hunters danced on just any day all--> the || 0.9617929458618164
+ i am--> so || 0.9624990820884705
+ i am--> not || 0.9624990820884705
+ i am--> looking || 0.9624990820884705
+ i am--> responsible || 0.96249920129776
+ i am--> beginning || 0.9624993205070496
+ i am--> a || 0.9624993205070496
+ i am--> right || 0.9624993205070496
+ i am--> looking || 0.9624993205070496
+ because it is her that i listened to grumble or boast or even sometimes when--> she || 0.9631979465484619
+ you have--> to || 0.96349036693573
+ they also raise--> ch || 0.963973879814148
+ are there--> hun || 0.9640726447105408
+ but it--> happened || 0.964369535446167
+ it is possible--> said || 0.9644910097122192
+ to me--> you || 0.965329647064209
+ to me--> you || 0.9653297066688538
+ one which is perhaps forever extinct-->[EOS] || 0.9653596878051758
+ but i do not have much--> time || 0.9654111862182617
+ and he--> suddenly || 0.965424120426178
+ and he--> went || 0.9654241800308228
+ i can--> not || 0.9656348824501038
+ i can--> go || 0.9656348824501038
+ because it is her that i listened to grumble or boast or even--> sometimes || 0.965967059135437
+ i know said the fo-->x || 0.9662579894065857
+ i know said the fo-->x || 0.9662579894065857
+ they are--> what || 0.9663931727409363
+ they are--> also || 0.9663932919502258
+ they are--> as || 0.9663932919502258
+ they are--> luck || 0.9663932919502258
+ they are--> not || 0.9663932919502258
+ oh--> but || 0.9663951992988586
+ oh--> said || 0.9663953185081482
+ oh--> i || 0.9663953185081482
+ and when the time to leave drew near oh--> said || 0.9665022492408752
+ there is a rite for example--> among || 0.9667853116989136
+ it was then that the fox--> appeared || 0.9668396711349487
+ because--> it || 0.9675597548484802
+
+
+## 50 prefixes with the highest comosition scores:
+ the wheat which is golden will remind me of you and i will love the sound of the wind blowing through the whe-->at || 0.9942256212234497
+ good morning respond-->ed || 0.9931420087814331
+ and the roses were very--> embar || 0.9923527240753174
+ she would be very--> ups || 0.9917784333229065
+ they are what make one day different from--> other || 0.991736650466919
+ and he suddenly felt very--> unh || 0.9914575219154358
+ i dispatch the trains that carry them sometimes to the right sometimes to the--> left || 0.9913576245307922
+ the fox seemed very--> intr || 0.9911946654319763
+ and then look you see the whe-->at || 0.9911329746246338
+ we are roses the ros-->es || 0.9910470843315125
+ because of the color of the whe-->at || 0.9909927248954773
+ what is it that you are looking--> for || 0.9909316301345825
+ my life is very--> monot || 0.9908872842788696
+ and then he added go--> and || 0.9908846616744995
+ there is a rite for example among my hun-->ters || 0.9908526539802551
+ whe-->at || 0.9907172322273254
+ his flower had told him that she was the only--> one || 0.9907053112983704
+ you are very--> pretty || 0.9905978441238403
+ it is the time you have wasted on your rose--> that || 0.9905417561531067
+ they waste their time with a rag doll and it becomes very--> important || 0.990540623664856
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand--> of || 0.9904468059539795
+ to me you will--> be || 0.9904294610023499
+ then come back to say goodbye to me and i will make you a--> present || 0.9903730750083923
+ and when the time to leave drew--> near || 0.9902675747871399
+ he was only a fox just like a hundred thousand--> others || 0.990184485912323
+ because it is for her that i killed the caterpillars except two or three to become--> but || 0.9901697039604187
+ it is the time that i have wasted on my rose--> said || 0.9899550080299377
+ but if you come at just any time i would never know at what time my heart should be ready to gre-->et || 0.9899144768714905
+ i sort--> travel || 0.9898863434791565
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to--> nur || 0.9898833632469177
+ what do you--> do || 0.9898589253425598
+ the whe-->at || 0.9897855520248413
+ the whe-->at || 0.9897855520248413
+ i would come to know a sound of footsteps-->[EOS] || 0.9897685647010803
+ i am right here the voice said--> under || 0.9897623062133789
+ that and my three volcanoes that come up to my--> kne || 0.9897583723068237
+ and a brilliantly lit express train r-->umb || 0.9897403120994568
+ what should i--> do || 0.9897123575210571
+ men no longer have the time to get to know--> anything || 0.9896847605705261
+ and when the time to leave drew near oh said the fox i will cry-->[EOS] || 0.989662766456604
+ i would come to know a sound of foot-->steps || 0.9896368980407715
+ but as there are not any shops that sell friends men no--> longer || 0.9896363615989685
+ but it happened that the little prince having walked for a long--> time || 0.9896222949028015
+ she would cough and cough and pretend--> to || 0.9895966053009033
+ because it is for her that i killed the caterpillars except two or--> three || 0.9895837306976318
+ but she alone is more important than all--> of || 0.9895833134651184
+ you are responsible--> for || 0.989561140537262
+ men no longer have the time to get to--> know || 0.9895308613777161
+ and then look you see the wheat fields down--> there || 0.9894516468048096
+ it was then--> that || 0.9894511103630066
+

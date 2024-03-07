@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ myself--> i || 0.8968074917793274
+ myself--> the || 0.896807849407196
+ the sand at sunrise is the--> color || 0.9043756723403931
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i d-->rank || 0.9114431142807007
+ myself the little--> prince || 0.9168634414672852
+ why then did i have to have--> this || 0.9176921248435974
+ he never answered questions but when you bl-->ush || 0.9180492162704468
+ this was a merchant who sold pills that had been created to quench th-->irst || 0.9214261174201965
+ my friend the fox he said to me-->[EOS] || 0.9234482645988464
+ he said simply water can be good for the--> heart || 0.924487829208374
+ and i said to myself what--> i || 0.9247981905937195
+ and yet what they are looking for could--> be || 0.9248087406158447
+ you are not--> being || 0.9249728322029114
+ i ho-->isted || 0.925201952457428
+ oh and i had--> been || 0.9257808923721313
+ but he looked at me--> and || 0.9263131618499756
+ so you are also thirst-->y || 0.9270446300506592
+ as the little prince fell asleep--> i || 0.9277929663658142
+ i do not know how to draw anything except bo-->a || 0.9279758930206299
+ and the little--> prince || 0.9280035495758057
+ so i made a p-->enc || 0.9281204342842102
+ i did not want him to t-->ire || 0.9288963079452515
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in--> the || 0.9290996789932251
+ you could take one pill a week and you no--> longer || 0.9291735291481018
+ this water--> was || 0.9293619990348816
+ everything--> has || 0.93018639087677
+ he never cons-->iders || 0.9305016398429871
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave--> it || 0.930681049823761
+ and what do i do with the fifty three minutes-->[EOS] || 0.9306970834732056
+ exper-->ts || 0.9316482543945312
+ a little sunshine is--> all || 0.9316589832305908
+ the men where you live said the little prince grow five thousand roses in a single garden and they do not find what they are--> looking || 0.9318495392799377
+ we have--> w || 0.9319767355918884
+ a g-->ust || 0.9323253631591797
+ he never answered questions but--> when || 0.9324667453765869
+ it is nice to have had a friend even if you are about to--> die || 0.9324697852134705
+ but he did not reply to my--> question || 0.9328225255012512
+ it is nice to have had a friend even if you are about--> to || 0.933162271976471
+ ah--> i || 0.9333105087280273
+ and i looked without saying anything at the fol-->ds || 0.9335992336273193
+ i saw them as if in a dream as my--> th || 0.9337999820709229
+ you have to keep your promise said the little prince softly who had again--> sat || 0.9338049292564392
+ he did not follow my reasoning and he answered--> me || 0.9340898394584656
+ his--> eyes || 0.9341370463371277
+ a gust of wind can put--> them || 0.9341399073600769
+ i knew better--> than || 0.9342430233955383
+ and once again without understanding why i felt a peculiar sense of sorrow one question occurred to me however-->[EOS] || 0.9342564940452576
+ it was born of the walk under the stars of the song of the--> pul || 0.93437659740448
+ i remembered the fox-->[EOS] || 0.9343892335891724
+ everything has been prepared the pulley the--> bucket || 0.9345939755439758
+
+
+## 50 prefixes with the highest comosition scores:
+ i do not know how to draw anything except boa constrictors closed and open-->[EOS] || 0.9784285426139832
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked--> i || 0.976703405380249
+ we were at the eighth day since--> my || 0.9762389659881592
+ my friend the fox he--> said || 0.9756053686141968
+ it was born of the walk under the stars of the song of the pulley of the--> effort || 0.975111722946167
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of my water supply-->[EOS] || 0.9750559329986572
+ i am thirsty for this water said the little prince-->[EOS] || 0.9750491380691528
+ and yet what they are looking for could be found--> in || 0.9750218987464905
+ i replied that--> is || 0.9748156070709229
+ you could take one pill a week and you no longer felt the need to drink anything-->[EOS] || 0.9746249914169312
+ it is the image of a rose that shines in him like the flame--> of || 0.974568784236908
+ i sat down beside him and after a silence he spoke--> again || 0.9745327234268188
+ a little sunshine is all he needs-->[EOS] || 0.9745263457298279
+ and i said to myself what i see here--> is || 0.974484384059906
+ the song of the pulley continued in my ears--> and || 0.9743741750717163
+ of course no one had ever been able to find it or perhaps no--> one || 0.9743216037750244
+ my home was hiding a secret in the depth-->s || 0.9741854667663574
+ the little prince--> bl || 0.9741525650024414
+ the little prince--> bl || 0.9741525053977966
+ the little prince--> s || 0.9741523861885071
+ the little prince--> saw || 0.9741523861885071
+ he laughed took the rope and--> put || 0.9740100502967834
+ i looked in the moonlight at his pale forehead his closed eyes his locks of--> hair || 0.9739657044410706
+ you sit down on--> a || 0.9738721251487732
+ i sat down beside him and after a silence he--> spoke || 0.9738043546676636
+ then after a silence--> he || 0.973699688911438
+ he said to--> me || 0.9736015200614929
+ we have woken up the well and it is singing-->[EOS] || 0.9735774993896484
+ you have to search with the heart-->[EOS] || 0.973517656326294
+ why are you selling those asked the--> little || 0.9735175371170044
+ and the pulley moaned like an old weathervane--> when || 0.9734422564506531
+ he has never been hungry or thirst-->y || 0.9734025001525879
+ i looked in the moonlight at his pale--> fore || 0.9733703136444092
+ and the pulley moaned like an old weathervane when--> there || 0.9733589887619019
+ i took my sketches out of my--> pocket || 0.9733494520187378
+ i looked in the moonlight at his pale forehead his closed eyes his locks of hair that trembled in the wind-->[EOS] || 0.9733299016952515
+ the song of the pulley continued in my ears and--> in || 0.973180890083313
+ when i was a little boy i lived in an old house and legend told that a treasure was--> buried || 0.9730100035667419
+ the little prince saw them and laughed as he said your baobabs--> they || 0.9728937149047852
+ you have to keep your promise said the little prince softly who had again sat down beside--> me || 0.9728899598121643
+ men said the little prince--> stuff || 0.9728624820709229
+ as the little prince--> fell || 0.9728295803070068
+ it was as sweet as some special festival treat-->[EOS] || 0.9728167057037354
+ the well we had reached was not like the other well-->s || 0.9727707505226135
+ i will wait for you here-->[EOS] || 0.9727702140808105
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the radiance of the gift that i received-->[EOS] || 0.9727675318717957
+ but he did not reply--> to || 0.9727215766906738
+ because we will die of--> th || 0.972687840461731
+ when i was a little boy i lived in an old house and legend told that a treasure was buried--> there || 0.9726612567901611
+ myself the little prince--> said || 0.9726359844207764
+

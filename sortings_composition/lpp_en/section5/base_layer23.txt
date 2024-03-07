@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then he sponged his forehead with a handkerch-->ief || 0.8378782272338867
+ your cigaret-->te || 0.8797237277030945
+ in the old days--> it || 0.9483203291893005
+ the businessman opened his mouth but he found nothing to say in response-->[EOS] || 0.9493017792701721
+ the businessman realised--> that || 0.9528405070304871
+ where you--> live || 0.9609410166740417
+ five hundred and one million i have forgotten now-->[EOS] || 0.9627688527107239
+ then they belong to me--> because || 0.963051974773407
+ and since then--> have || 0.9637848734855652
+ for it is possible to be both faithful and lazy--> at || 0.9637898802757263
+ it serves a real purpose--> because || 0.9642627835273743
+ it was the smallest of them all-->[EOS] || 0.9643778204917908
+ orders are orders-->[EOS] || 0.9645625948905945
+ the fifth planet was very strange-->[EOS] || 0.9656461477279663
+ twenty six and five make thirty one-->[EOS] || 0.9657048583030701
+ i was saying then five hundred and one million-->[EOS] || 0.9668632745742798
+ five hundred and one million--> six || 0.9670330286026001
+ five hundred and one million--> i || 0.9670330286026001
+ five hundred and one million--> what || 0.9670332074165344
+ for it is possible to be both faithful and lazy at the same time-->[EOS] || 0.9673887491226196
+ yet he is the only one that does--> not || 0.9674225449562073
+ there is--> no || 0.9675529599189758
+ there is--> nothing || 0.9675529599189758
+ when he arrived--> on || 0.9675895571708679
+ those are the--> orders || 0.9676478505134583
+ those are the--> orders || 0.9676478505134583
+ the third time--> well || 0.9679468274116516
+ i was saying--> then || 0.9680891633033752
+ no time to light it again-->[EOS] || 0.9682611227035522
+ for it--> is || 0.9684304594993591
+ he said--> to || 0.9685870409011841
+ he said--> to || 0.9685870409011841
+ when you find a diam-->ond || 0.9686420559883118
+ that does not do me--> much || 0.9686836004257202
+ he wanted to help--> his || 0.9688814282417297
+ five hundred and one million what repeated the little prince who had never in his life let go of a question once he had asked--> it || 0.96888267993927
+ to buy more stars--> if || 0.9690549969673157
+ twenty two and six make twenty eight-->[EOS] || 0.9694448709487915
+ i own three volcanoes--> that || 0.969467282295227
+ the businessman opened his mouth but he found nothing to say--> in || 0.9695477485656738
+ it helps by--> making || 0.9696956276893616
+ that is the--> tra || 0.9697082042694092
+ this man the--> little || 0.9701146483421326
+ i own three volcanoes that i sweep out every week--> as || 0.9701922535896301
+ but he still had some questions-->[EOS] || 0.9702517986297607
+ phew phew then that makes five hundred and one million--> six || 0.9703065156936646
+ good morning the little prince--> said || 0.9706020951271057
+ he said to himself as he continued on the journey-->[EOS] || 0.9706039428710938
+ every year the planet has turned faster--> and || 0.9708367586135864
+ fifteen and seven make twenty two-->[EOS] || 0.9710114002227783
+
+
+## 50 prefixes with the highest comosition scores:
+ that man is the only one with whom i could have made friends but his planet is really very--> small || 0.9999656081199646
+ that man is the only one with whom i could have made friends but his planet is really--> very || 0.9999343752861023
+ the fourth planet belonged to a businessman-->[EOS] || 0.9998754858970642
+ every year the planet has turned faster and faster and the orders have--> not || 0.9978439211845398
+ i own three volcanoes that i sweep out--> every || 0.9977207183837891
+ he bre-->athed || 0.9969756603240967
+ i had the rest of the day--> to || 0.996653139591217
+ if i owned a flower i could pick my flower and take it--> away || 0.9957140684127808
+ that means that i write the number of my stars on a little--> paper || 0.9955064654350281
+ that man is the only one with whom i could have made friends but his planet is--> really || 0.9952477216720581
+ the fourth planet belonged to a business-->man || 0.994659423828125
+ but he is less absurd than the king than the conceited man the business-->man || 0.9945167899131775
+ when you get an idea first you take out a--> pat || 0.9944602847099304
+ you can walk and the day will last as--> long || 0.9943726062774658
+ then he sponged his forehead with a hand-->ker || 0.9943100810050964
+ then he sponged his forehead with a--> hand || 0.9940491318702698
+ the little prince could not work out the purpose of having a street lamp and a lamplighter somewhere--> out || 0.994008481502533
+ the little prince could not work out the purpose of having a street lamp and a lamplighter somewhere out in the--> sk || 0.9939814805984497
+ at least his work has some--> meaning || 0.993935227394104
+ i would put the lamp out in the morning and in the evening i--> would || 0.9938511252403259
+ the second time was eleven years ago by an attack of r-->he || 0.9936962127685547
+ it is rather poetic but it is of no--> great || 0.9935701489448547
+ the first time was twenty two years ago by some scatterbrain who fell from god knows--> where || 0.9935234785079956
+ five hundred and one million what repeated the little prince who had never in his life let go of a question once he had--> asked || 0.9935081005096436
+ your cigarette has gone--> out || 0.9934989809989929
+ this man was so busy that he did not even raise his head when the little--> prince || 0.9934941530227661
+ the little prince could not work out the purpose of having a street lamp and a lamplighter somewhere out in--> the || 0.9934580326080322
+ he remembered the sunsets which he himself had gone to seek in the past by moving his chair-->[EOS] || 0.9934449791908264
+ what the little prince did not dare admit to himself was that he--> missed || 0.9934268593788147
+ your planet is so small that you can go--> right || 0.9933986663818359
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of all because of the one thousand four hundred and forty sun-->sets || 0.993374228477478
+ if i owned a scarf i could put it around my neck and take it--> away || 0.9933053851127625
+ then he sponged his forehead with a handkerchief--> decor || 0.9932718276977539
+ that means that i write the number of my stars on a little paper and then i lock this paper in a--> dra || 0.9932434558868408
+ the little prince could not work out the purpose of having a street lamp and a lampl-->ighter || 0.9932137727737427
+ five hundred and one million what repeated the little prince who had never in his life let go of a question once--> he || 0.9931830167770386
+ the little prince watched him and felt that he loved this lamplighter who was so--> faithful || 0.9931515455245972
+ this man the little prince said to himself reasons a--> bit || 0.9931436777114868
+ that means that i write the number of my stars on a little paper and--> then || 0.9931305050849915
+ he breathed a--> s || 0.9931131601333618
+ i own three volcanoes that i sweep out every--> week || 0.9930893778800964
+ the second time was eleven years ago by an attack of--> r || 0.9930676817893982
+ i would put the lamp out in the morning and in the evening i would--> light || 0.9930393695831299
+ if i owned a flower i could pick my flower and take--> it || 0.9930353760719299
+ the little prince could not work out the purpose of having a street lamp and a lamplighter somewhere out in the skies on a planet--> without || 0.9930150508880615
+ i have so much work-->[EOS] || 0.9929733872413635
+ this man was so--> busy || 0.9929572939872742
+ when he arrived on the planet he respectfully saluted the l-->am || 0.9929234385490417
+ the little prince watched him and felt that he loved this lampl-->ighter || 0.9928653240203857
+ there was just enough room on it to accommodate a street lamp and a lampl-->ighter || 0.9928281307220459
+

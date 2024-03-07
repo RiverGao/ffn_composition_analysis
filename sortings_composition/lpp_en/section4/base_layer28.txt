@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ for his--> rule || 0.920283317565918
+ to forget--> what || 0.923267126083374
+ to forget--> that || 0.9232671856880188
+ to forget--> replied || 0.9232671856880188
+ of course the--> king || 0.9323712587356567
+ sire--> he || 0.9323891401290894
+ sire--> over || 0.9323891997337341
+ admire--> me || 0.9324992895126343
+ to admire--> means || 0.9348013401031494
+ it is for--> sal || 0.9353847503662109
+ over everything the--> king || 0.9354057908058167
+ oh really said the--> little || 0.9359444975852966
+ after five minutes of this exercise the--> little || 0.9359965920448303
+ ashamed of what inquired the--> little || 0.9363411664962769
+ as the king--> made || 0.9374061822891235
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the--> moment || 0.9384008049964905
+ hum hum that will be about about that will--> be || 0.9390646815299988
+ you said the--> little || 0.9396666884422302
+ over everything the king made a subtle gesture pointing out his planet the--> other || 0.9397364258766174
+ i can not any more said the--> little || 0.9402520656585693
+ this was a very short visit but it plunged the little--> prince || 0.9403901696205139
+ if i ordered a general he would often say if i ordered a general to change himself into--> a || 0.9410859942436218
+ why are--> you || 0.9413886070251465
+ i admire you said the little prince shrugg-->ing || 0.9418833255767822
+ hum hum that will be about about that will be this--> evening || 0.9422763586044312
+ yawn-->s || 0.9426321983337402
+ sire over what do you--> rule || 0.9427561163902283
+ i shall command it but i shall wait according to my science of--> government || 0.9433919787406921
+ after five minutes of this exercise the little--> prince || 0.9434001445770264
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of--> us || 0.9444485306739807
+ there was no--> one || 0.9451003074645996
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.9453697204589844
+ if i ordered a general to fly from one flower to--> another || 0.9453847408294678
+ the next planet--> was || 0.945931613445282
+ may i--> sit || 0.9462470412254333
+ over all that the--> king || 0.9464111328125
+ ashamed of--> drink || 0.9469701647758484
+ ashamed of--> what || 0.9469701647758484
+ for his rule--> was || 0.9472030401229858
+ ah then--> the || 0.9472504258155823
+ sire he--> said || 0.9472796320915222
+ if he--> had || 0.9474533796310425
+ the king was--> sitting || 0.9478910565376282
+ of course the king--> said || 0.947943925857544
+ i admire you said the--> little || 0.948223888874054
+ i shall command it but i shall wait according to my science--> of || 0.9484328031539917
+ minister--> of || 0.9485206604003906
+ minister--> of || 0.9485207200050354
+ you shall have--> your || 0.9487724304199219
+ he found himself in the neighborhood of the asteroids 325 3-->2 || 0.9489497542381287
+
+
+## 50 prefixes with the highest comosition scores:
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he--> sp || 0.9954035878181458
+ i have come on a long journey and i have not sle-->pt || 0.9946689009666443
+ it is to raise in salute when people acc-->laim || 0.9941099286079407
+ the little prince looked around him for a place to--> sit || 0.9939769506454468
+ oh really said the little prince who did not--> understand || 0.9939342737197876
+ he found himself in the neighborhood of the asteroids -->3 || 0.9939155578613281
+ the little prince said to himself as he--> continued || 0.9938664436340332
+ i make you my amb-->assador || 0.993722140789032
+ sire he said to him exc-->use || 0.993707537651062
+ and as he felt a bit sad as he remembered his fors-->aken || 0.9937065243721008
+ the second planet was inhabited by a conce-->ited || 0.9935084581375122
+ ah here comes a visit from an admirer exclaimed the conce-->ited || 0.9934467077255249
+ may i sit down the little prince en-->quired || 0.99333655834198
+ but the conce-->ited || 0.9933291673660278
+ the conce-->ited || 0.9931967854499817
+ the conce-->ited || 0.9931967854499817
+ the conce-->ited || 0.9931967854499817
+ the conce-->ited || 0.9931966662406921
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was tired he yawn-->ed || 0.9931784868240356
+ but you will pardon him on each occasion to con-->serve || 0.9931288957595825
+ because to conceited men all other men are adm-->ir || 0.9930883049964905
+ i admire you said the little prince sh-->ru || 0.9930494427680969
+ to admire means to recognise that i am the most handsome the best dressed the rich-->est || 0.9928679466247559
+ for the king fundamentally ins-->isted || 0.9927784204483032
+ it is contrary to etiquette to yawn in the presence of a--> king || 0.9927490949630737
+ the little prince ya-->wn || 0.9926677942276001
+ hum hum said the--> king || 0.9926254749298096
+ i have come on a long journey and i have not slept-->[EOS] || 0.9925556182861328
+ the little prince looked around him for a place to sit but the planet was--> completely || 0.992493748664856
+ conce-->ited || 0.9923771023750305
+ the king was sitting dressed in purple and ermine on a--> very || 0.9922733902931213
+ i have the right to demand ob-->ed || 0.9922550916671753
+ if he had held it himself he would have been able to watch not forty four but seventy two or even--> a || 0.9922096133232117
+ the king was sitting dressed--> in || 0.9921096563339233
+ but the little prince was aston-->ished || 0.9920651912689209
+ the second planet was inhab-->ited || 0.9920042157173157
+ so he began by visit-->ing || 0.9917803406715393
+ the first one was inhab-->ited || 0.9916895627975464
+ conceited people never--> hear || 0.9915868639945984
+ the next planet was inhab-->ited || 0.9915858507156372
+ because to conceited men all other men--> are || 0.9915288686752319
+ because to conceited men all other men are--> adm || 0.9914942979812622
+ the little prince cla-->pped || 0.9914562106132507
+ if he had held it himself he would have been able to watch not forty four but seventy two or--> even || 0.9913366436958313
+ and the little prince asked himself--> how || 0.9913175106048584
+ exactly--> one || 0.9912750124931335
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a--> hundred || 0.9911388754844666
+ i replied the little prince do not like to condemn anyone to--> death || 0.9910899996757507
+ and the--> little || 0.9910438656806946
+ and the--> little || 0.9910438060760498
+

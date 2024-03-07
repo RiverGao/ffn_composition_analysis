@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ she overwh-->el || 0.9034901261329651
+ i should have seen the tendern-->ess || 0.9420179724693298
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.9461813569068909
+ they are--> na || 0.9491916298866272
+ we must look at them and breat-->he || 0.9511880278587341
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.9536527991294861
+ then one morning exactly at sunr-->ise || 0.9581601023674011
+ on the fifth day again--> thanks || 0.9589796662330627
+ i had put down my tools of what moment was my hammer my bolt or thirst or--> death || 0.959151566028595
+ and if i myself know of a unique flower which grows nowhere but on my--> planet || 0.9611385464668274
+ he also owned--> an || 0.962130606174469
+ on the morning of his--> departure || 0.9622568488121033
+ it is--> time || 0.9635337591171265
+ it is--> so || 0.9635337591171265
+ it is--> my || 0.9635337591171265
+ it is--> t || 0.9635337591171265
+ it is--> very || 0.9635337591171265
+ for millions of years the--> sheep || 0.9649744033813477
+ i will have to endure two or three c-->ater || 0.9656596779823303
+ i had put down my tools of what moment was my hammer my bolt or--> th || 0.9658913016319275
+ if they are--> well || 0.9659720659255981
+ there had always been very--> simple || 0.9660377502441406
+ he asked abruptly without anything leading up to it--> as || 0.9662010073661804
+ and naively she showed her four thorns-->[EOS] || 0.9668068885803223
+ that is--> bad || 0.9669036865234375
+ that is--> of || 0.9669037461280823
+ that is--> why || 0.9669037461280823
+ she did not want to come out all rumpled like the popp-->ies || 0.9669257402420044
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he looks at them-->[EOS] || 0.9670258164405823
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emerge from it-->[EOS] || 0.96721351146698
+ for she did not want him--> to || 0.9673810005187988
+ he also--> owned || 0.9674009680747986
+ i do not want--> it || 0.967444896697998
+ you talk just like--> the || 0.9676593542098999
+ it seems that they are--> very || 0.9676724672317505
+ as for the--> large || 0.9676888585090637
+ the flower coughed but it was not because she--> had || 0.9679079651832581
+ there are not--> any || 0.9680328369140625
+ it is t-->ires || 0.9680361747741699
+ i think that for his--> escape || 0.9680426716804504
+ on the fifth day again thanks to the sheep this secret of the little prince s life was revealed to--> me || 0.9683175683021545
+ in the evening you will put me--> under || 0.9683718681335449
+ volcanic eru-->ptions || 0.9683864712715149
+ for she did not want--> him || 0.968632698059082
+ so the--> little || 0.9686749577522278
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he--> looks || 0.9687389731407166
+ he has never smelled a flower-->[EOS] || 0.9687765836715698
+ on the morning of his departure--> he || 0.9689416289329529
+ and i was born at the same moment as--> the || 0.9689847230911255
+ i should have her judged by her deeds and--> not || 0.968992292881012
+
+
+## 50 prefixes with the highest comosition scores:
+ and as he watered the flower one last--> time || 0.9983213543891907
+ on the fifth day again thanks to the sheep this--> secret || 0.9947501420974731
+ he asked abruptly without anything leading up to it as if it was the result of a long--> silent || 0.9928659200668335
+ you talk just like the grow-->nu || 0.9926258325576782
+ yes--> even || 0.9925244450569153
+ i was ups-->et || 0.9924583435058594
+ i think that for his escape he took advantage--> of || 0.9923238158226013
+ i do apolog-->ize || 0.9922666549682617
+ i was just going to look for it when--> you || 0.9921808242797852
+ if they are well cleaned out vol-->cano || 0.9920950531959534
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without realising what--> he || 0.9920420050621033
+ but this one had sprouted one day from a seed blown--> in || 0.991913378238678
+ but after a moment--> of || 0.9919013381004333
+ if they are well cleaned out volcanoes burn slowly and steadily without--> any || 0.9918745160102844
+ it is so secretive the land--> of || 0.9918351769447327
+ and as he watered the flower one last time and prepared to shelter her under her dome he found himself close--> to || 0.9917523860931396
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one--> stroke || 0.9916644096374512
+ and like that she had soon begun to torment him with her van-->ity || 0.9915797710418701
+ i was upset over the bolt and i said the first thing that came into my--> head || 0.9915573596954346
+ i answered the--> first || 0.991542398929596
+ and it is not a matter of consequence to try to understand why they take so much--> trouble || 0.9915418028831482
+ i had put down my tools of what moment--> was || 0.9915395379066467
+ this business of the cla-->ws || 0.9913852214813232
+ the little prince could not rest-->rain || 0.9913492202758789
+ i will have to endure two or three caterpillars if i wish to become acquainted--> with || 0.9912969470024109
+ and her mysterious adornment had thus--> last || 0.9912598729133606
+ but after a moment of silence he exclaimed with a sort of--> res || 0.9911918044090271
+ if--> a || 0.9911896586418152
+ if--> you || 0.9911896586418152
+ if--> someone || 0.9911894798278809
+ if--> they || 0.9911894798278809
+ i was upset over the bolt and i said the first thing that came--> into || 0.9911830425262451
+ he has never smelled--> a || 0.991176962852478
+ he shook--> his || 0.9911521077156067
+ and as he watered the flower one last time and prepared to shelter her under--> her || 0.991144061088562
+ i should not have--> listened || 0.9910953044891357
+ then one morning exactly at sun-->r || 0.9910882115364075
+ and after having worked with such care and attention to detail she said with a ya-->wn || 0.9910442233085632
+ that made me feel a little--> ash || 0.9910346269607544
+ on the morning of his departure he put his planet--> in || 0.991018533706665
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which--> are || 0.9910041093826294
+ the little prince who witness-->ed || 0.9909915924072266
+ one day for example speaking of her four thorns she told--> the || 0.9909860491752625
+ that made me feel a little ashamed but he went on--> rel || 0.9909480214118958
+ humiliated at having been caught out on a lie so naive she coughed two or three times to imply the little--> prince || 0.9909466505050659
+ and i was born at the same moment--> as || 0.9909257888793945
+ and as he watered the flower one last time and prepared--> to || 0.9909141063690186
+ they would appear one morning in the grass and by evening they would--> have || 0.9908525347709656
+ they would appear one morning in the grass and by--> evening || 0.9908278584480286
+ i was very busy--> trying || 0.9908233880996704
+

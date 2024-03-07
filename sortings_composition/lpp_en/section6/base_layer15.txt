@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.8341214060783386
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.8737210631370544
+ from a mountain as high as this one he said to himself i will be able--> to || 0.8904532194137573
+ i can help you if somed-->ay || 0.8962802290916443
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9245372414588928
+ what does ephem-->eral || 0.952016294002533
+ i have not been entirely honest in telling you about the--> l || 0.95497065782547
+ if the two billion people who inhabit the earth were to stand u-->pr || 0.955263614654541
+ what does that mean ephem-->eral || 0.9553388357162476
+ because flowers are ephem-->eral || 0.9560236930847168
+ my flower is ephem-->eral || 0.9562068581581116
+ but what does ephem-->eral || 0.9562118053436279
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondescript flower belonging to--> no || 0.9562218189239502
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven street-->l || 0.9566477537155151
+ the earth is not--> just || 0.9576554894447327
+ but what does ephemeral mean repeated the little prince who had never in his life let go of a question once he had asked it-->[EOS] || 0.9580914974212646
+ whoever i touch--> i || 0.9581913948059082
+ that is possible so when the moral character of the explorer appears to be in order an inquiry is--> done || 0.9582033157348633
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetl-->amp || 0.9582356810569763
+ because an--> expl || 0.958501935005188
+ and never would they--> make || 0.9590076208114624
+ then those of a-->frica || 0.9593531489372253
+ if for example the discovery in question was of a large mountain one would require that he--> bring || 0.9594355225563049
+ that is to say about two billion grow-->nu || 0.9595584869384766
+ the little prince sat down on the table and panted a little-->[EOS] || 0.9597355127334595
+ and never would they make a--> mistake || 0.9599184393882751
+ where do you--> come || 0.9600768685340881
+ but what does e-->ph || 0.9600973129272461
+ then came the turn of the--> l || 0.9602783918380737
+ good morning he said cour-->te || 0.9604973793029785
+ and if any of their recollections seem interesting to him the geographer orders an inqu-->iry || 0.9608004093170166
+ you can not--> even || 0.9610322713851929
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of--> four || 0.9614565968513489
+ the little prince--> smiled || 0.9616445302963257
+ the little prince--> said || 0.9616445899009705
+ the little prince--> sat || 0.9616445899009705
+ the little prince--> made || 0.9616445899009705
+ the little prince--> was || 0.9616445899009705
+ the little prince--> gaz || 0.9616446495056152
+ the little prince--> crossed || 0.96164470911026
+ the little prince--> having || 0.96164470911026
+ the little prince--> sat || 0.96164470911026
+ the little prince--> clim || 0.9616447687149048
+ to give you an idea of the size of the earth i--> will || 0.9616989493370056
+ and she has only four thorns--> to || 0.9617260098457336
+ they adore numbers and that will please--> them || 0.9618696570396423
+ he had already started to worry that he had got--> the || 0.9620893001556396
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six--> contin || 0.9621691107749939
+ the earth is not just--> any || 0.9622739553451538
+ then those of--> a || 0.9623849987983704
+
+
+## 50 prefixes with the highest comosition scores:
+ they picture themselves as taking up--> a || 0.9924705028533936
+ where are the men asked--> the || 0.9918800592422485
+ where are the men asked--> the || 0.9918800592422485
+ they picture themselves as taking up a--> lot || 0.9916476011276245
+ i feel sorry for you so weak on this earth made of gran-->ite || 0.9905914664268494
+ what is that big book--> said || 0.9902288317680359
+ they are blow-->n || 0.990085780620575
+ ah said--> the || 0.9894440174102783
+ they never become--> out || 0.9894349575042725
+ they picture themselves as taking up a lot of--> space || 0.9893872141838074
+ your planet is very beautiful he--> said || 0.9893523454666138
+ they are blown here--> and || 0.9891879558563232
+ oh where i live said--> the || 0.9890709519386292
+ he had never seen--> such || 0.9890100359916687
+ i--> have || 0.989000678062439
+ i--> can || 0.989000678062439
+ i--> run || 0.989000678062439
+ i--> wonder || 0.989000678062439
+ i--> have || 0.989000678062439
+ i--> would || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> would || 0.9890006184577942
+ i--> would || 0.9890006184577942
+ i--> can || 0.9890006184577942
+ i--> saw || 0.9890006184577942
+ i--> also || 0.9890006184577942
+ i--> understand || 0.9890006184577942
+ i--> solve || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> know || 0.9890004992485046
+ i--> can || 0.9890004992485046
+ i--> feel || 0.9890004992485046
+ i--> have || 0.9890004992485046
+ having set their--> l || 0.9889819622039795
+ what is that big book said--> the || 0.988704264163971
+ that is to--> say || 0.988627552986145
+ because intoxicated men see double so the geographer would record two mountains in a place where there--> was || 0.9886255264282227
+ one waits until the explorer has provided proof--> before || 0.9886242151260376
+ then--> they || 0.988605260848999
+ then--> those || 0.988605260848999
+ then--> those || 0.988605260848999
+ then--> came || 0.988605260848999
+ then--> those || 0.9886052012443542
+ what place would you advise me to visit he--> asked || 0.9885265231132507
+ i solve them all said--> the || 0.9884151220321655
+ good morning he--> said || 0.9883900284767151
+ when one wants to be witty it can happen that one b-->ends || 0.9883700609207153
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long and twenty miles--> wide || 0.9882715344429016
+

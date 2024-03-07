@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.8452879190444946
+ for others who are schol-->ars || 0.8759880065917969
+ he got a bit discou-->rag || 0.8955793976783752
+ sometimes--> i || 0.9528164267539978
+ little fellow--> i || 0.9542853832244873
+ little fellow--> is || 0.9542854428291321
+ let me go on by myself-->[EOS] || 0.9543405771255493
+ and yet--> it || 0.9544602036476135
+ the--> compan || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> water || 0.9551778435707092
+ i will have played a dirty trick on you-->[EOS] || 0.9575292468070984
+ he got away--> without || 0.9575417637825012
+ save me from this sorrow-->[EOS] || 0.9576126337051392
+ look at this landscape carefully--> so || 0.9586920738220215
+ now go away--> he || 0.9591432809829712
+ again--> i || 0.9594640135765076
+ another voice--> must || 0.959730863571167
+ it is not worth it-->[EOS] || 0.9598206877708435
+ i want to come down from here-->[EOS] || 0.9599636197090149
+ it will be as if i would given you instead--> of || 0.9602554440498352
+ it will be as if i would given you--> instead || 0.9606930017471313
+ he remained motionless--> for || 0.9609454870223999
+ i reached the wall just in time--> to || 0.9614482522010803
+ but i have drawn it again--> to || 0.961596667766571
+ at night--> you || 0.9618738889694214
+ he got a bit discouraged but he made one more effort-->[EOS] || 0.9620905518531799
+ for me it was like a spring of fresh water in the desert-->[EOS] || 0.9623302817344666
+ right there--> facing || 0.9624699950218201
+ i held him tight-->ly || 0.9624862670898438
+ i will have played a dirty trick--> on || 0.9625385999679565
+ where i live everything is too small--> for || 0.9626807570457458
+ write to me quickly--> to || 0.9628377556800842
+ and besides--> i || 0.9632468819618225
+ and now of course it has already been six--> years || 0.9632489085197449
+ i will have played--> a || 0.9637140035629272
+ if a child then comes to you if he laughs if--> he || 0.9640488624572754
+ i have never yet told this story-->[EOS] || 0.9641271233558655
+ my star will be for you--> just || 0.9645660519599915
+ it is true that they have no poison left for a second bite-->[EOS] || 0.9645907878875732
+ he laughed again-->[EOS] || 0.9647476077079773
+ but i have drawn it again to show it to you properly-->[EOS] || 0.9647822976112366
+ little--> fellow || 0.9648414254188538
+ little--> fellow || 0.9648414254188538
+ herein lies a great mystery for you--> who || 0.9648605585098267
+ and now of course--> it || 0.9649180173873901
+ i am telling you this it is also because--> of || 0.9650158882141113
+ this to me--> is || 0.9652609825134277
+ you have made a mistake-->[EOS] || 0.9654606580734253
+
+
+## 50 prefixes with the highest comosition scores:
+ i waited a long--> while || 0.9998059272766113
+ i could feel that he was reviving little--> by || 0.999617338180542
+ it is the same landscape as the one on the--> previous || 0.9995547533035278
+ nothing in the universe is the same if somewhere out there a sheep that--> we || 0.9981288313865662
+ i sat down too because i was--> no || 0.9960073828697205
+ i will be there ton-->ight || 0.9956727623939514
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no--> apparent || 0.9956554770469666
+ i then lowered my eyes to the foot of the--> wall || 0.9956193566322327
+ and no grownup will ever understand that this is a matter of--> such || 0.9954432249069214
+ and yet it seemed to me that he was plummeting down into an--> aby || 0.9948683381080627
+ and i love to listen to the stars at--> night || 0.9947022199630737
+ one evening he would have forgotten the glass dome or maybe the sheep got--> out || 0.9944963455200195
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in a-->frica || 0.9943594336509705
+ nothing in the universe is the same if somewhere out--> there || 0.9940921664237976
+ then he said sadly it is a lot further-->[EOS] || 0.994072437286377
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to--> rest || 0.9940352439880371
+ i had loosened the--> golden || 0.9940110445022583
+ when i drew the muzzle for the little prince i forgot to add the--> le || 0.9939788579940796
+ again i felt myself frozen by the sense of something irrepar-->able || 0.9939754009246826
+ and no grownup will ever understand that this is a matter--> of || 0.99397212266922
+ there was nothing but a yellow flash close to his an-->k || 0.9938277006149292
+ when i drew the muzzle for the little prince i forgot to add the leather--> st || 0.9937174916267395
+ other times i tell myself everyone is--> absent || 0.9937084317207336
+ other times i tell myself everyone is absent--> mind || 0.9937059879302979
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in--> a || 0.9937035441398621
+ i had moistened his temples and had him--> drink || 0.993659257888794
+ but he said to me ton-->ight || 0.9935977458953857
+ i mean not entirely but i do know that he got--> back || 0.9935281276702881
+ even as i dug around in my pocket to take out my revolver i made a--> running || 0.993504524230957
+ and if you happen to pass--> by || 0.9934975504875183
+ he got away without making a--> sound || 0.9933834075927734
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a--> f || 0.9933683276176453
+ i was twenty meters from the wall and i still--> saw || 0.9932921528816223
+ he looked at me gravely and put his arms--> around || 0.9932831525802612
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never--> hearing || 0.9932661652565002
+ when i drew the muzzle for the little prince i forgot to add--> the || 0.9932444095611572
+ even as i dug around in my pocket to take out my revolver i made a running--> step || 0.9932093024253845
+ even as i dug around in my pocket to--> take || 0.9932047724723816
+ sometimes i tell myself surely not the little prince shuts his flower under her--> glass || 0.993111252784729
+ sometimes i tell myself surely not the little prince shuts his flower under her glass dome every night and he watches over his--> sheep || 0.9930812120437622
+ other times i tell myself everyone is absent minded at some point and that is--> all || 0.9930267333984375
+ when i drew the muzzle for the little prince i forgot to add the leather st-->rap || 0.993024468421936
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a f-->ount || 0.9930022358894348
+ he remained motionless for an--> instant || 0.992987871170044
+ i was just coming to tell him that against all odds my work had been--> successful || 0.9929475784301758
+ there was next to the well the ruin of an--> old || 0.9928719997406006
+ but at the noise i made the snake let himself--> flow || 0.9928714036941528
+ it will look as if i am dead and that will--> not || 0.9928081631660461
+ one evening he would have forgotten the glass dome or maybe the sheep got out quietly during--> the || 0.9927994012832642
+ this to me is the most beautiful and most sad landscape in--> the || 0.9927852153778076
+

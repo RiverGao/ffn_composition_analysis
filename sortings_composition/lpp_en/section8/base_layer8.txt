@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i am wor-->ried || 0.9017940759658813
+ the song of the pul-->ley || 0.902105987071991
+ and the pul-->ley || 0.9052100777626038
+ the desert--> is || 0.9143409132957458
+ i ho-->isted || 0.9148398637771606
+ why then did i have to have this sense of gr-->ief || 0.917334794998169
+ i remembered the fo-->x || 0.9182612299919128
+ and i looked--> without || 0.9191364645957947
+ i bre-->athed || 0.9203900694847107
+ exper-->ts || 0.9207184314727783
+ your fo-->x || 0.9230106472969055
+ so they rush about and go in circles and he added it is not--> worth || 0.9234023690223694
+ what makes the desert--> beautiful || 0.9239746332168579
+ and yet--> what || 0.9244354367256165
+ it is abs-->urd || 0.9246472120285034
+ the little prince saw them and laughed as he said your ba-->ob || 0.9248552918434143
+ you run the risk of weeping a little if you allow yourself to be t-->amed || 0.9252251982688904
+ it was born of the walk under the stars of the song of the pul-->ley || 0.9252263903617859
+ men said the little prince stuff themselves into express trains but they do--> not || 0.9257062673568726
+ it seemed to me that i--> was || 0.9257774949073792
+ i did not want him to t-->ire || 0.926003098487854
+ he drank-->[EOS] || 0.9268639087677002
+ i took my sketch-->es || 0.9278843402862549
+ you have to search with the--> heart || 0.927924633026123
+ you run the risk of weeping--> a || 0.9280700087547302
+ everything has been prepared the pul-->ley || 0.9293081164360046
+ so they rush about and go in circles and he added it--> is || 0.9293407797813416
+ this was a merchant who sold pills that had been--> created || 0.9296606779098511
+ it is strange i--> said || 0.9297078251838684
+ this was a merchant--> who || 0.9306381940841675
+ your fox his ears they look a bit like horns and they are--> too || 0.9308415055274963
+ this honey color was also making--> me || 0.9316132068634033
+ oh i--> said || 0.931800127029419
+ children--> understand || 0.9319235682487488
+ i am--> wor || 0.9320446252822876
+ i am--> also || 0.9320446848869324
+ i am--> responsible || 0.9320446848869324
+ i am--> th || 0.9320449233055115
+ i am--> glad || 0.9320449233055115
+ i saw them as if in a dream as my--> th || 0.9324818253517151
+ this water was something very different from ordinary nourishment-->[EOS] || 0.9325193166732788
+ i do--> not || 0.9326402544975281
+ this one looked like a village well but there--> was || 0.9326464533805847
+ you save fifty three minutes--> per || 0.932829737663269
+ he said to me you know my descent to earth tomorrow--> will || 0.9329443573951721
+ everything has been prepared the pulley the bucket--> and || 0.9331526756286621
+ you save fifty three--> minutes || 0.9332988262176514
+ this one looked like a village well but there was no village there and i--> thought || 0.9335497617721558
+ and it--> was || 0.9337282776832581
+ it seemed--> to || 0.9339917302131653
+
+
+## 50 prefixes with the highest comosition scores:
+ the sand at sunr-->ise || 0.9878164529800415
+ of course no one had ever been able--> to || 0.9838199019432068
+ and the pulley moaned like an old weathervane--> when || 0.9802684187889099
+ why are you selling those asked the little prince-->[EOS] || 0.9802168011665344
+ can you hear that said the little prince-->[EOS] || 0.979923665523529
+ myself the little prince--> said || 0.9797074198722839
+ it is strange i said to the little prince-->[EOS] || 0.9788069725036621
+ that which is most important is invisible-->[EOS] || 0.9787412881851196
+ i hoisted the bucket slowly to the--> edge || 0.9785400032997131
+ he laughed took the rope and put the pulley--> to || 0.977807879447937
+ i sat down beside him and after a silence he spoke again-->[EOS] || 0.9777268767356873
+ he never answered questions but when you blush--> that || 0.9776361584663391
+ ah i said to the little prince--> these || 0.9775693416595459
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.9775077104568481
+ yes i said to the little prince-->[EOS] || 0.9772964715957642
+ i took my sketches out of my pocket-->[EOS] || 0.9769342541694641
+ i hoisted the bucket slowly to the edge of the well and set it--> down || 0.9768962860107422
+ the desert is beautiful the little prince--> added || 0.9768906831741333
+ good morning said the little prince-->[EOS] || 0.9768164753913879
+ it is absurd to look for a well at random in the immensity of the desert but we started walking anyway-->[EOS] || 0.9768072962760925
+ everything has been prepared the pulley the bucket and--> the || 0.9767441749572754
+ you have to keep your promise said the little prince--> soft || 0.9766426682472229
+ your fox his ears they look a bit like horns--> and || 0.9765576720237732
+ he never considers the danger i said to myself-->[EOS] || 0.9765262603759766
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of my water supply-->[EOS] || 0.9763466119766235
+ and i added hesitantly--> perhaps || 0.97623610496521
+ he never answered questions but when you blush that means--> yes || 0.976213276386261
+ the wells of the sahara are mere holes dug--> in || 0.9761929512023926
+ what makes the desert beautiful said the little prince--> is || 0.9761737585067749
+ i am glad he said that--> you || 0.97613924741745
+ the men where you live said the little prince--> grow || 0.9761224389076233
+ i am thirsty for this water said the little prince-->[EOS] || 0.9760913848876953
+ you have to keep your promise said the little prince softly who had again sat--> down || 0.9760171175003052
+ men said the little prince--> stuff || 0.9759894013404846
+ you were going back to the place where you landed-->[EOS] || 0.9759753346443176
+ everything has been prepared the pulley the--> bucket || 0.9759297370910645
+ i do not know how to draw anything except boa constrict-->ors || 0.97591233253479
+ so i made a pencil sketch of--> a || 0.9758577942848206
+ i hoisted the bucket slowly to--> the || 0.975795328617096
+ and then he laughed again-->[EOS] || 0.9757518172264099
+ he did not follow my reasoning--> and || 0.9756448864936829
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart--> as || 0.9755712151527405
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of--> my || 0.9755295515060425
+ of course no one had ever been able to find it or perhaps no one had even looked--> for || 0.975448489189148
+ the wells of the sahara are mere holes dug in--> the || 0.9754152297973633
+ i was surprised to suddenly--> understand || 0.9753126502037048
+ this one looked like a village well but--> there || 0.9752708077430725
+ the song of the pulley continued in my ears and--> in || 0.9750902652740479
+ and he blushed-->[EOS] || 0.9750392436981201
+ it is absurd to look for a well at random in the immensity of--> the || 0.9749749898910522
+

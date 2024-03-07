@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8812535405158997
+ then one morning exactly at sunr-->ise || 0.8863198161125183
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.8898810148239136
+ i should have seen the tendern-->ess || 0.8976393938064575
+ we must look at them and breat-->he || 0.9010975956916809
+ she overwh-->el || 0.9021629095077515
+ where i--> come || 0.9507423639297485
+ and if i--> myself || 0.9561830163002014
+ the--> flower || 0.9580330848693848
+ the--> cool || 0.9580330848693848
+ the--> flower || 0.9580330848693848
+ the--> little || 0.9580330848693848
+ the--> little || 0.9580330848693848
+ the--> screen || 0.9580330848693848
+ the--> flower || 0.9580330848693848
+ the--> little || 0.9580330848693848
+ the--> th || 0.9580330848693848
+ the--> little || 0.9580332040786743
+ the--> flower || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ mine perfumed my whole planet but i--> did || 0.9582604169845581
+ this business of the--> cla || 0.9611430168151855
+ he also owned--> an || 0.9615821242332458
+ i was very worried because my breakdown was beginning to appear to be very serious--> and || 0.9626550674438477
+ at that moment i--> was || 0.9631320834159851
+ but i--> was || 0.9635469913482666
+ and i--> was || 0.9655078649520874
+ no no i--> do || 0.9657825231552124
+ but all these--> familiar || 0.9659984707832336
+ i had--> put || 0.9663026332855225
+ but the--> flower || 0.9665753245353699
+ but the--> shr || 0.9665753841400146
+ but the--> wind || 0.9665753841400146
+ but the--> animals || 0.9665753841400146
+ i had put down my tools of what moment was my hammer my bolt or thirst or--> death || 0.966611385345459
+ and i was born at--> the || 0.967084527015686
+ as for the large animals i--> am || 0.9671644568443298
+ the little prince also pulled up with a hint of sadness--> the || 0.9674044847488403
+ it is time i think--> for || 0.9674201607704163
+ he owned--> two || 0.9674224853515625
+ if they--> are || 0.9676409363746643
+ he can say my--> flower || 0.9677865505218506
+ and like that she--> had || 0.9686747193336487
+ and you think that--> is || 0.9689099788665771
+ on the fifth day again thanks to the--> sheep || 0.9689526557922363
+ my--> cold || 0.9691293835639954
+ mine perfumed--> my || 0.9692440032958984
+
+
+## 50 prefixes with the highest comosition scores:
+ but this one had sprouted one day from a seed blown in from no one--> knows || 0.996374785900116
+ and after having worked with such care and attention to detail she said with a--> ya || 0.9955019950866699
+ on the morning of his departure he put his planet in perfect--> order || 0.9951512217521667
+ it is very cold where--> you || 0.9951118230819702
+ and if i myself know of a unique flower which grows nowhere--> but || 0.9951015114784241
+ i was not sure--> what || 0.9949485063552856
+ he asked abruptly without anything leading up to it as if it was the--> result || 0.9943802952766418
+ i will draw you a muzzle for--> your || 0.9943656921386719
+ he shook his golden curls in the b-->ree || 0.994126558303833
+ but after a moment of silence he exclaimed with a--> sort || 0.994044840335846
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without realising what--> he || 0.9938707947731018
+ if a sheep eats shrubs then does it eat flowers--> too || 0.9936489462852478
+ the cool night air will do--> me || 0.9935680031776428
+ that made me feel a little--> ash || 0.9935060739517212
+ i was not sure what to--> say || 0.9934865832328796
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one--> stroke || 0.9932910799980164
+ the little prince could not restrain his--> adm || 0.9932789206504822
+ goodbye he said to the flower but she did--> not || 0.9932559132575989
+ i should have her judged by her de-->eds || 0.9931894540786743
+ that made me--> feel || 0.9931804537773132
+ and as he watered the flower--> one || 0.993099570274353
+ that made me feel a little ash-->amed || 0.9930416345596313
+ he had taken seriously words of no importance and had become very--> unh || 0.9929122924804688
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without--> real || 0.992885410785675
+ there was on a star on a--> planet || 0.9928581714630127
+ he had taken seriously words of no--> importance || 0.9928048253059387
+ the flower coughed but it was not because she had--> a || 0.9927394390106201
+ he believed he would never--> return || 0.9927226901054382
+ oh yes she was a very fl-->irt || 0.9926676154136658
+ he looked at me d-->um || 0.9926095008850098
+ he asked abruptly without anything leading up to it as if it was--> the || 0.9925621747970581
+ on the morning of his departure he put his planet in--> perfect || 0.9925487637519836
+ that made me feel a little ashamed but he went--> on || 0.9925267100334167
+ my cold is not--> all || 0.9925219416618347
+ and after having worked with such care and attention to detail she said with a yawn oh i have only just--> w || 0.9925075173377991
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of petals that did not take up any space and did--> not || 0.9924812316894531
+ and after having worked with such care and attention to detail she said with a ya-->wn || 0.9924056529998779
+ i was upset over the bolt and i said the first thing that came--> into || 0.9923667311668396
+ det-->ests || 0.9923539161682129
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had--> watched || 0.9923459887504578
+ they would appear one--> morning || 0.9923346042633057
+ he looked at me dum-->bf || 0.9922709465026855
+ but the shrub soon stopped growing and began to--> produce || 0.9922671318054199
+ and na-->ively || 0.9922520518302917
+ they would appear one morning in the grass and by evening they would have f-->aded || 0.992250382900238
+ he also owned an extinct volcano but as he used to say you never--> know || 0.9922360181808472
+ is it not of more consequence and more important than the sums of a fat re-->df || 0.9921996593475342
+ the little prince guessed easily enough that--> she || 0.992185115814209
+ he asked abruptly without anything leading up to it as if it was the result--> of || 0.992155909538269
+ i do apolog-->ize || 0.992131769657135
+

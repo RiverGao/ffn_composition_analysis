@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the fox seemed very intrigu-->ed || 0.7723699808120728
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.7891451120376587
+ my life is very monoton-->ous || 0.8037688732147217
+ i can go for a walk as far as the viney-->ards || 0.8404382467269897
+ but every day you will be able--> to || 0.9022821187973022
+ they are what make one day different from other days one hour different from other hours-->[EOS] || 0.9415543079376221
+ because of--> the || 0.9577758312225342
+ on earth you see--> all || 0.9579840302467346
+ because it is her that i sheltered behind--> the || 0.9598509073257446
+ but she alone is--> more || 0.9609918594360352
+ because it is her--> that || 0.9617202877998352
+ because it is her--> that || 0.96172034740448
+ because it is her--> that || 0.9617204070091248
+ good morning responded the--> little || 0.9620612859725952
+ these--> are || 0.9623469710350037
+ and then he added--> go || 0.9623594880104065
+ were not--> they || 0.9624626636505127
+ and when--> the || 0.962760865688324
+ i have friends to discover--> and || 0.962956964969635
+ you are nothing yet--> he || 0.9634634852409363
+ you will understand that yours is unique in--> the || 0.9637907147407532
+ it was then that--> the || 0.964013397693634
+ and a--> br || 0.9642090797424316
+ but after some--> thought || 0.9642349481582642
+ what is it that they are looking for-->[EOS] || 0.9647393822669983
+ of course--> an || 0.965321958065033
+ first you will sit down a little way away from--> me || 0.9656124114990234
+ only the--> children || 0.9658394455909729
+ only the--> children || 0.9658395051956177
+ it means--> to || 0.9668223857879639
+ one only sees--> clearly || 0.9672520756721497
+ i never wished you any harm but you wanted me to tame--> you || 0.9674823880195618
+ and he--> went || 0.967721164226532
+ and he--> suddenly || 0.967721164226532
+ it is very bothersome-->[EOS] || 0.9677312970161438
+ i sort travelers in--> pack || 0.9677941799163818
+ on thursdays they dance with the girls of the village--> so || 0.9680505394935608
+ they also--> raise || 0.968062698841095
+ here is--> my || 0.9681096076965332
+ and he suddenly felt very unhappy-->[EOS] || 0.9683104157447815
+ because of the--> color || 0.9683163166046143
+ what does tame--> mean || 0.9685858488082886
+ what does tame--> mean || 0.9685858488082886
+ the fox went silent and--> gaz || 0.9686256051063538
+ his flower had told him that she was the only one of--> her || 0.9688620567321777
+ you will understand that yours is unique--> in || 0.9688627123832703
+ i would feel happier and happier already by--> four || 0.9690679311752319
+ they also raise chickens-->[EOS] || 0.969091534614563
+ to you i will be unique--> in || 0.9691596627235413
+ you are beautiful--> but || 0.9691830277442932
+
+
+## 50 prefixes with the highest comosition scores:
+ i am so unhappy-->[EOS] || 0.9999383091926575
+ my life is very monotonous-->[EOS] || 0.9998270273208618
+ but i do not have much time-->[EOS] || 0.9998083710670471
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all al-->ike || 0.9995700120925903
+ all the chickens look alike and all the men look al-->ike || 0.9995439648628235
+ all the chickens look al-->ike || 0.999356210231781
+ they are what make one day different from other days one hour different--> from || 0.9993066191673279
+ if the hunters danced on just any day all the days would be al-->ike || 0.9989879131317139
+ i would feel happ-->ier || 0.9976670145988464
+ the wheat fields mean nothing to me--> and || 0.9975924491882324
+ all the chickens look alike and all the men look--> al || 0.9970077276229858
+ they are what make one day different--> from || 0.9963812828063965
+ but if you tame me we will need each--> other || 0.9960201978683472
+ it is something that is too often--> forgotten || 0.9959757328033447
+ his flower had told him that she was the only one of her--> kind || 0.9959576725959778
+ i would be jumping about--> and || 0.9959509968757629
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to--> hum || 0.9955160617828369
+ they are luck-->y || 0.9952977299690247
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back--> to || 0.9948723316192627
+ they are also something too often--> forgotten || 0.9946398735046387
+ a second brilliantly lit express thundered by in the opposite--> direction || 0.9945235848426819
+ the wheat fields mean nothing--> to || 0.9943819642066956
+ there is a rite for example among my--> hun || 0.9943090081214905
+ only the children are squashing their noses up against the--> windows || 0.9942452311515808
+ but if you come at just any time i would never know at what time my heart should be ready to--> gre || 0.9941753149032593
+ i sort travelers in packs of a--> thousand || 0.9941215515136719
+ i am looking--> for || 0.9941174983978271
+ i am looking--> for || 0.9941173791885376
+ only the children are squashing their noses up against--> the || 0.9939793348312378
+ i would be jumping about and getting restless-->[EOS] || 0.9938892126083374
+ they buy things ready made in the--> sh || 0.9938648343086243
+ but the fox came back to his--> idea || 0.9938563108444214
+ i would come to know a sound of foot-->steps || 0.9938420057296753
+ no one is ever happy where they are--> said || 0.9938051104545593
+ i can not play with you--> said || 0.9937172532081604
+ only the children are squashing their nos-->es || 0.9937064051628113
+ they are asleep in there or if not they are y-->aw || 0.9936851859092712
+ if you come for example at four o clock in the afternoon from three--> o || 0.9936700463294983
+ because it is for her that i killed the caterpillars except two or three to become--> but || 0.9935914278030396
+ but it happened that the little prince having walked for a long time through the s-->ands || 0.9935832619667053
+ i dispatch the trains that carry them sometimes to the right sometimes--> to || 0.9934141039848328
+ they buy things ready made in the sh-->ops || 0.9933866858482361
+ so the little prince tamed the--> fo || 0.9933813810348511
+ only the children are squashing their noses up--> against || 0.9932811856269836
+ oh but she is not on earth--> said || 0.9932680726051331
+ so the little prince t-->amed || 0.9932501316070557
+ they all looked just--> like || 0.9932461380958557
+ and a brilliantly lit express train r-->umb || 0.9932454228401184
+ what is it that you are looking--> for || 0.993230938911438
+ if you come for example at four--> o || 0.9931895136833191
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.9078651666641235
+ does he collect butterf-->lies || 0.9147154688835144
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.9221788048744202
+ it would suffice to be able--> to || 0.9300252795219421
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.9303640723228455
+ i will try of course to make my portraits as lifeli-->ke || 0.9307328462600708
+ this asteroid has only been seen through a telescope once in 1-->9 || 0.9459547400474548
+ they are--> like || 0.9491916298866272
+ and indeed--> on || 0.9553818106651306
+ the astronomer gave his presentation again in 1-->9 || 0.9556753635406494
+ i do not like to sound like a moralist but the--> danger || 0.9568139910697937
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catastrop-->he || 0.9578467607498169
+ then it elongates and grows timidly at first toward the sun a charming little harml-->ess || 0.9580927491188049
+ it was in this way that--> on || 0.9584269523620605
+ you seemed surprised at first and then you chuckled at yourself and you said i think myself at home still-->[EOS] || 0.9585420489311218
+ it is true is not it that--> sheep || 0.9587395191192627
+ he had then--> given || 0.9587960243225098
+ i have serious reason to believe that the--> planet || 0.959724485874176
+ i knew that apart from the--> large || 0.9610788822174072
+ does--> he || 0.962881863117218
+ but of course those--> of || 0.963329553604126
+ it is--> hard || 0.9635337591171265
+ it is--> true || 0.9635337591171265
+ it is--> to || 0.9635337591171265
+ it is--> a || 0.9635337591171265
+ it is--> a || 0.9635337591171265
+ it is--> sad || 0.9635337591171265
+ it is--> already || 0.9635338187217712
+ the idea of the herd of elephants made the little prince--> laugh || 0.9641115665435791
+ i do not like to sound like a moralist but the danger of the--> ba || 0.9643404483795166
+ i feel so much sadness in recounting these--> mem || 0.9651282429695129
+ you seemed surprised at first and then you chuckled at yourself and you--> said || 0.9651938676834106
+ i would have liked to say once upon a time there was a little prince who lived on a planet not much bigger than himself and who--> needed || 0.9652424454689026
+ they would have to be piled--> up || 0.9657639265060425
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds--> from || 0.9658103585243225
+ i did not understand why it was so important that--> sheep || 0.9661656022071838
+ how many--> brothers || 0.9662708044052124
+ how much does--> he || 0.9665104150772095
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the--> ris || 0.9665487408638
+ that is--> right || 0.9669036865234375
+ the idea of the herd of eleph-->ants || 0.9669473767280579
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on--> an || 0.9673291444778442
+ so that is why i have again--> bought || 0.9676589369773865
+ for i do not want--> my || 0.967755138874054
+ fortunately for the--> reputation || 0.967825174331665
+ does he collect butterflies-->[EOS] || 0.9679707884788513
+ others do--> not || 0.9680199027061462
+ indeed--> when || 0.9683092832565308
+ perhaps he thought i was just like himself--> but || 0.9683202505111694
+ this time again--> it || 0.968331515789032
+
+
+## 50 prefixes with the highest comosition scores:
+ they would have to be piled up on top of each--> other || 0.9998167157173157
+ the astronomer gave his presentation again in 1920 dressed very stylishly and this--> time || 0.9996685981750488
+ they would have to be piled up on top of--> each || 0.9994269013404846
+ but if it is a bad plant one must pull the plant out straight away as soon--> as || 0.9986410737037659
+ they would have to be piled up on top--> of || 0.9978271126747131
+ you must see to it that you regularly pull out the baobabs as soon--> as || 0.9975430965423584
+ not everyone has had a friend and if i forgot him i--> could || 0.9965732097625732
+ not everyone has had a friend and if i forgot him i could become like the grow-->nu || 0.9939228296279907
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small--> that || 0.9931632876396179
+ perhaps i am a bit like the grow-->nu || 0.9930792450904846
+ yes--> it || 0.9925244450569153
+ i knew that apart from the large planets like the earth jupiter mars and venus which have--> been || 0.9923677444458008
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others--> that || 0.992242693901062
+ i would have liked to begin this story in the same way as a fair-->y || 0.9922276735305786
+ you must see to it that you--> regularly || 0.9921843409538269
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody--> had || 0.9921131134033203
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa constrictor closed and open at the age--> of || 0.992099940776825
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty in spotting them--> through || 0.9920109510421753
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from--> the || 0.9919661283493042
+ i also get the--> size || 0.9918550848960876
+ he replied oh come on as if it were obvious and it took me--> a || 0.9918463826179504
+ i would have--> liked || 0.9916808009147644
+ i would have--> liked || 0.9916808009147644
+ a baobab if you get to it too late can never be--> got || 0.991651177406311
+ but he remarked wisely the baobab trees before they grow up start--> off || 0.9916080832481384
+ so that is why i have again bought a box--> of || 0.9915682077407837
+ but if it is a bad plant one--> must || 0.9915599226951599
+ if i have told you these details about the asteroid b 612 and revealed to--> you || 0.9915503859519958
+ i would have liked to say once upon a time--> there || 0.991484522819519
+ he replied oh come on as if it were obvious and it took me a great mental effort to--> understand || 0.9914605617523193
+ if i have told you these details about the asteroid b 612 and revealed to you its number it is because of the grow-->nu || 0.9914582371711731
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty--> in || 0.9914384484291077
+ i knew that apart from the large planets like the earth j-->up || 0.9914101958274841
+ the astronomer gave his presentation again in 1920 dressed very stylishly and this time everybody believed--> him || 0.9913645386695862
+ unfortunately fran-->ce || 0.9913560748100281
+ you must see to it that you regularly pull out the baobabs as soon as they can--> be || 0.9913517236709595
+ it is to warn my friends of the danger they have long been skirting like myself without knowing--> it || 0.99128657579422
+ i knew that apart from the large planets like the earth jup-->iter || 0.9912800788879395
+ if it is a sprig of radish or rose--> bush || 0.9912798404693604
+ children should be forgiving towards the grow-->nu || 0.9912518858909607
+ this asteroid has only--> been || 0.9912510514259338
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great--> difficulty || 0.9912383556365967
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes--> so || 0.991210401058197
+ if--> i || 0.9911896586418152
+ if--> someone || 0.9911896586418152
+ if--> one || 0.9911896586418152
+ if--> it || 0.9911894798278809
+ if--> i || 0.9911894798278809
+ if--> you || 0.9911894798278809
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are--> sometimes || 0.9911718964576721
+

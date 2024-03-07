@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i could feel that he was rev-->iving || 0.9052872657775879
+ i had lo-->os || 0.9120981693267822
+ the water you gave me to drink was like music because of the pul-->ley || 0.914604127407074
+ but at the noise i made the s-->nake || 0.9206951856613159
+ now my sorrow is comforted--> a || 0.9209424257278442
+ and when your sorrow is comforted time heals all wounds you will be--> glad || 0.9213155508041382
+ for others who are sch-->ol || 0.9213166832923889
+ and if you--> happen || 0.9218891263008118
+ and you--> will || 0.9221031665802002
+ my heart skipped a beat but i--> still || 0.9221367239952087
+ and when your sorrow is comforted--> time || 0.9229564666748047
+ if a child then comes to you if he--> laugh || 0.9231517910957336
+ and when your--> sorrow || 0.9232367277145386
+ for some--> who || 0.9234349131584167
+ and when--> your || 0.9237978458404541
+ at night--> you || 0.9238018989562988
+ it is just like five hundred million little b-->ells || 0.9239159822463989
+ sometimes i--> tell || 0.9240381717681885
+ and yet--> it || 0.9244354367256165
+ why are you talking with sn-->akes || 0.9247127771377563
+ and besides i am--> going || 0.9256449937820435
+ but he was wor-->ried || 0.926146924495697
+ i had mo-->ist || 0.9262478947639465
+ my heart--> ski || 0.9265322089195251
+ i was sad--> but || 0.9265953898429871
+ i was sad but i--> told || 0.9267166256904602
+ everyone--> has || 0.927006721496582
+ and sometimes--> you || 0.927017867565155
+ when i drew the--> m || 0.927814245223999
+ do you have good poison-->[EOS] || 0.9278230667114258
+ you will have five hundred million little b-->ells || 0.9290449619293213
+ if you--> love || 0.9291155934333801
+ and besides--> i || 0.9298233985900879
+ for me it--> was || 0.9301263093948364
+ you will want to--> laugh || 0.9304021596908569
+ and if--> you || 0.9304694533348083
+ and he sat down because he--> was || 0.9304863810539246
+ i have never--> yet || 0.9306890964508057
+ other times i--> tell || 0.9308236241340637
+ then he said sadly it is a lot--> further || 0.9309454560279846
+ so think--> of || 0.9310311079025269
+ for me--> it || 0.9316267967224121
+ tonight you know do--> not || 0.9319809079170227
+ but i have drawn--> it || 0.932025134563446
+ i am--> telling || 0.9320446848869324
+ the little prince replied again that is--> right || 0.9322906732559204
+ when you look at the sky at night because i will be living on one of them because i will be la-->ughing || 0.9334613084793091
+ his feet--> h || 0.9337831139564514
+ my heart skipped a beat but--> i || 0.9338776469230652
+ and when your sorrow is comforted time heals all wounds you--> will || 0.9339238405227661
+
+
+## 50 prefixes with the highest comosition scores:
+ he got a bit discou-->rag || 0.9881638288497925
+ he would never have been able--> to || 0.9857916831970215
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.9838932752609253
+ it is here that the little prince--> appeared || 0.9800449013710022
+ another voice must have answered him because--> he || 0.9794237613677979
+ herein lies a great mystery for you who also love the little prince--> just || 0.9790900945663452
+ it will look as if i am--> suffering || 0.9789268374443054
+ it will look as if i am--> dead || 0.9789268374443054
+ for others who are schol-->ars || 0.9787495732307434
+ and sometimes you will open your window just like that for--> fun || 0.9781632423400879
+ even as i dug around in my pocket to take out--> my || 0.9781444072723389
+ and yet it seemed to me that he was plummeting down into an abyss and--> that || 0.9778280854225159
+ one evening he would have forgotten the glass dome or maybe the sheep got out--> quietly || 0.9776120185852051
+ look at this landscape carefully so as to be sure to recognize it if--> one || 0.9773921966552734
+ when i drew the muzzle for the little prince i forgot to add the leather strap to--> it || 0.9772990345954895
+ it is here that the little prince appeared on earth and then disappeared-->[EOS] || 0.9767823815345764
+ nothing in the universe is the same if somewhere out there a sheep that we have never seen has--> has || 0.9766800403594971
+ when i came back from my work the next evening i saw from a distance my little prince--> sitting || 0.9765027165412903
+ then he suddenly became serious again-->[EOS] || 0.9764301776885986
+ if a child then comes to you if--> he || 0.976368248462677
+ he made no answer to my question but--> he || 0.9763522148132324
+ it will look as if i--> am || 0.9760711789131165
+ it will look as if i--> am || 0.9760711193084717
+ i reached the wall just in time to catch my little fellow in my arms who was white as--> snow || 0.9760685563087463
+ right there facing the little prince--> was || 0.9760463237762451
+ everyone has the same stars but they are not the same to everyone-->[EOS] || 0.9759069085121155
+ i had loosened the golden muffler that--> he || 0.9758359789848328
+ i then lowered my eyes to the foot of the wall and i leapt up-->[EOS] || 0.9758138656616211
+ when i drew the muzzle for--> the || 0.9757804274559021
+ when i came back from my work the next evening i saw from a distance--> my || 0.9757433533668518
+ the little prince spoke again after a pause-->[EOS] || 0.9757151007652283
+ when i drew the muzzle for the little prince--> i || 0.9756733775138855
+ he was afraid of course but he laughed softly-->[EOS] || 0.9756305813789368
+ i had moistened his temples and had--> him || 0.9755153059959412
+ he hesitated a bit and--> then || 0.9754993915557861
+ i had loosened the--> golden || 0.9752961993217468
+ even as i dug around in my pocket to take out my--> revol || 0.9751377105712891
+ write to me quickly to--> tell || 0.9750165343284607
+ he laughed again-->[EOS] || 0.9749480485916138
+ he made no answer to my question but he added i am also going back home today-->[EOS] || 0.974783718585968
+ he got a bit discouraged but he made one more effort-->[EOS] || 0.9747502207756042
+ he looked at me gravely and put his arms around--> my || 0.9747292399406433
+ one evening he would have forgotten--> the || 0.9747183322906494
+ the companions who met--> me || 0.9746370315551758
+ and sometimes you will open your window just like that--> for || 0.9746266007423401
+ sometimes i tell myself surely not the little prince--> sh || 0.9746030569076538
+ and he laughed some more-->[EOS] || 0.9744904637336731
+ and then the little bells turn to--> tears || 0.9744703769683838
+ i mean not entirely but i do know that he got back to his planet because at daybreak--> i || 0.9744423031806946
+ i sat down too because i was no longer able to--> stand || 0.9743320345878601
+

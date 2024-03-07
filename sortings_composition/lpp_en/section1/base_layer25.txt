@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.7892253994941711
+ i caught a glimp-->se || 0.7996678948402405
+ so getting impat-->ient || 0.8050286173820496
+ i was discou-->rag || 0.9486714005470276
+ i was discou-->rag || 0.9486714005470276
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9499614238739014
+ and he repeated very slowly as if it was something very serious--> please || 0.9606889486312866
+ and perhaps with--> a || 0.9624414443969727
+ once when--> i || 0.9633506536483765
+ and that is how--> i || 0.9645758867263794
+ because where i am from--> everything || 0.9646923542022705
+ grownups never understand anything by--> themselves || 0.9652389287948608
+ i prefer people to take my misfortunes seriously-->[EOS] || 0.9655808806419373
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming than its model-->[EOS] || 0.9659440517425537
+ it would be a drawing far too complicated--> for || 0.9663114547729492
+ i jump-->ed || 0.9663887023925781
+ grownups never understand anything by themselves and it is tiresome for children--> to || 0.966555118560791
+ and he--> repeated || 0.967721164226532
+ i caught a glimpse into the mystery of his presence and i asked abruptly--> so || 0.9679600596427917
+ i have lived a lot amongst the grownups-->[EOS] || 0.9679726958274841
+ here is--> the || 0.9681096076965332
+ here is--> a || 0.9681096076965332
+ here is--> the || 0.9681096076965332
+ he looked nothing like--> a || 0.9683386087417603
+ for me it was--> a || 0.9693371057510376
+ but he did not--> answer || 0.9694391489028931
+ so when he saw--> my || 0.9696927070617676
+ it was--> the || 0.969708263874054
+ then he added so you also--> come || 0.9697543978691101
+ a boa constrictor is very dangerous and an elephant is very cumbersome-->[EOS] || 0.9700631499290466
+ because where i am from everything--> is || 0.9704924821853638
+ and the little prince broke into a lovely--> pe || 0.9705286622047424
+ the one--> of || 0.9705958366394043
+ and he repeated very slowly--> as || 0.9710405468940735
+ my friend smiled gently and indulgently you can see--> yourself || 0.9716708660125732
+ it showed a--> bo || 0.9717177748680115
+ it showed a--> bo || 0.9717178344726562
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this drawing--> and || 0.9722987413406372
+ when a mystery is too overpowering--> one || 0.9723132848739624
+ remember--> that || 0.9723977446556091
+ absurd as--> it || 0.9724820852279663
+ i have--> seen || 0.972529411315918
+ i have--> lived || 0.9725295305252075
+ i have--> had || 0.9725295901298523
+ it is not a thing-->[EOS] || 0.9725673198699951
+ when--> i || 0.9726216197013855
+ when--> a || 0.9726216197013855
+ it is exactly the way--> i || 0.9728487730026245
+ but it was rejected--> like || 0.9730088114738464
+ so i--> had || 0.9731683135032654
+
+
+## 50 prefixes with the highest comosition scores:
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my--> pocket || 0.999765157699585
+ absurd as it seemed to me--> a || 0.998846709728241
+ and he repeated very slowly as if it was something--> very || 0.9986236095428467
+ it would be a drawing far too complicated for me-->[EOS] || 0.9982881546020508
+ as i had never drawn a sheep i red-->rew || 0.9982075095176697
+ because where i am--> from || 0.9981276392936707
+ whenever i met one of them that seemed a--> bit || 0.9978207349777222
+ my drawing number two looked like--> this || 0.9976129531860352
+ this one is too--> old || 0.9971403479576111
+ so you can imagine my surprise when at daybreak a funny--> little || 0.9968261122703552
+ i flew a little in many places around the world and geography it--> is || 0.9960215091705322
+ i stared at this sudden apparition wide--> e || 0.9958742260932922
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry--> out || 0.9958434700965881
+ i was discouraged--> by || 0.9957520365715027
+ i was discouraged--> in || 0.9957520365715027
+ i talked to them about bridge golf politics and neckties and the grownup was glad to know such a sensible--> man || 0.9956669807434082
+ i jumped to my feet as if i had been struck by light-->ning || 0.995370090007782
+ it is true that you can not have come from far away in that and he drifted into a daydream which lasted a long--> while || 0.995322585105896
+ so when he saw my airplane for the first--> time || 0.9952974915504456
+ i wanted to know if they were really a person of true understanding but they always responded it--> is || 0.9952832460403442
+ i have seen them--> from || 0.9952154159545898
+ it took me a long--> time || 0.9950275421142578
+ so i had to choose another profession--> and || 0.9950262904167175
+ he looked nothing like a child lost in the middle of the desert a thousand miles--> from || 0.9950159192085266
+ so i lived alone without anyone i could really--> talk || 0.9947887659072876
+ i jumped to my feet as if i had been--> struck || 0.9947791695594788
+ for me it was a matter of life or--> death || 0.994627058506012
+ as i had never drawn a sheep i redrew for him one of the only two drawings that i was capable of-->[EOS] || 0.9945884943008423
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a--> sheet || 0.9944360256195068
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for--> them || 0.9943702220916748
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor--> half || 0.994353175163269
+ whenever i met one of them that seemed a bit more clear sighted i--> tried || 0.994269847869873
+ as i had never drawn--> a || 0.9941775798797607
+ you can imagine how my curiosity--> was || 0.9941675662994385
+ you can imagine how my curiosity was--> ar || 0.9941646456718445
+ so i lived alone without anyone i--> could || 0.9941419959068298
+ i have seen them from close--> up || 0.9941241145133972
+ so getting impatient as i was eager to start dismantling my engine i hastily--> sketch || 0.9941089749336243
+ i want a sheep that will live a long--> time || 0.994101881980896
+ so you can imagine my surprise when at daybreak a funny little voice w-->oke || 0.9939941763877869
+ here is the best portrait that later i managed to--> do || 0.9939709901809692
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet of--> paper || 0.9939406514167786
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of--> death || 0.993916928768158
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and--> carry || 0.9938707947731018
+ where are you--> from || 0.9938129782676697
+ i was more isolated than a shipwrecked sailor on a--> ra || 0.9937801957130432
+ for me it was a matter of life--> or || 0.9937536716461182
+ as i had never drawn a sheep--> i || 0.9936800003051758
+ the little prince who asked--> me || 0.9936673045158386
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to--> try || 0.9936665892601013
+

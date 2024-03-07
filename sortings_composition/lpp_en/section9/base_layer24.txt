@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.8446582555770874
+ for others who are schol-->ars || 0.8531554937362671
+ he got a bit discou-->rag || 0.8960241675376892
+ and then--> the || 0.9519505500793457
+ and then--> he || 0.9519505500793457
+ his--> feet || 0.9585416913032532
+ i will also look at the--> stars || 0.959724485874176
+ that is--> my || 0.959789514541626
+ when you look at--> the || 0.9602064490318298
+ he was afraid--> of || 0.9602834582328796
+ just that--> it || 0.9618210792541504
+ i mean not entirely but--> i || 0.9619945883750916
+ and if--> you || 0.96206134557724
+ and yet--> it || 0.9625378251075745
+ for my businessman they--> were || 0.9628419876098633
+ he said to me i am glad that you have found what was wrong--> with || 0.9632064700126648
+ and now of course--> it || 0.9641003608703613
+ i will also look at--> the || 0.9646024107933044
+ and when your--> sorrow || 0.964687168598175
+ at night--> you || 0.9647160172462463
+ and then the--> little || 0.9650261998176575
+ and when--> your || 0.9653632640838623
+ he said to me that which is important--> can || 0.9656499624252319
+ why--> are || 0.9658550024032593
+ sometimes--> i || 0.9658809304237366
+ he said that is--> everything || 0.9669613242149353
+ and no--> grown || 0.9671474099159241
+ and you will see how everything changes-->[EOS] || 0.9671574831008911
+ it will be as if i would given you instead of--> stars || 0.967441976070404
+ herein lies--> a || 0.9674553275108337
+ for me--> it || 0.9676763415336609
+ they--> will || 0.9678623080253601
+ they--> can || 0.9678623676300049
+ it is like that-->[EOS] || 0.9681053757667542
+ at night you will look at the stars-->[EOS] || 0.9681658744812012
+ i mean--> not || 0.9682013392448425
+ other times--> i || 0.9682170152664185
+ if a child then comes to you if--> he || 0.9682387709617615
+ it will be as if i would given you instead--> of || 0.968271017074585
+ what is--> going || 0.968285083770752
+ and you--> will || 0.9683372974395752
+ little fellow is this all a bad dream this business with the snake--> and || 0.968438446521759
+ for others who are scholars they--> are || 0.9684891700744629
+ i will have played a dirty trick on--> you || 0.9686874151229858
+ it is true that--> they || 0.9687196016311646
+ it is the same landscape as the one on the previous page-->[EOS] || 0.968821108341217
+ look at the--> sky || 0.9690282940864563
+ she has four thorns of no use at all to protect herself--> against || 0.9692665338516235
+ where i live--> everything || 0.9693423509597778
+ and she is--> so || 0.9693466424942017
+
+
+## 50 prefixes with the highest comosition scores:
+ and when your sorrow is comforted time heals all w-->ounds || 0.9999288320541382
+ so you will tell them yes the stars always make me laugh and they will think you are cra-->zy || 0.9998317956924438
+ so you will tell them yes the stars always make me laugh and they will think you are--> cra || 0.9993702173233032
+ and if you happen to pass by there i beg you do not hur-->ry || 0.9991369843482971
+ i had loosened the golden muffler that he always--> wore || 0.9987542033195496
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do--> nothing || 0.9978155493736267
+ it is here that the little prince appeared on earth and then--> disappeared || 0.9975374937057495
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to--> rest || 0.9974732995033264
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing--> to || 0.9967373013496399
+ look at this landscape carefully so as to be sure to recognize it if one day you travel--> in || 0.9966644048690796
+ when i came back from my work the next--> evening || 0.9965648651123047
+ and no grown-->up || 0.9965285062789917
+ and besides i am going--> to || 0.9963525533676147
+ and now of course it has already been--> six || 0.9951225519180298
+ so you will tell them yes the stars always make me laugh and they will think you--> are || 0.9950149059295654
+ even as i dug around in my pocket to take out my--> revol || 0.9949039220809937
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent--> hur || 0.9948301911354065
+ look at this landscape carefully so as to be sure to recognize it if one--> day || 0.9947508573532104
+ if a child then comes to you if he laughs if he has golden--> hair || 0.9945608973503113
+ and when your sorrow is comforted time heals all--> w || 0.9945400953292847
+ the water you gave me to drink was like music because of the pulley and the--> ro || 0.9944226145744324
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in a-->frica || 0.9943336248397827
+ i had moistened his temples and had--> him || 0.9941585063934326
+ but at the noise i made the snake let himself flow easily across the sand like--> the || 0.9940816760063171
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never--> hearing || 0.9939743280410767
+ even as i dug around in my--> pocket || 0.9939409494400024
+ even as i dug around in my pocket to--> take || 0.9938850998878479
+ i was twenty meters from the wall and i still saw nothing-->[EOS] || 0.9938493967056274
+ but he said to me tonight it will be a year-->[EOS] || 0.993793249130249
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a--> light || 0.9937788248062134
+ i fro-->ze || 0.9937617778778076
+ the water you gave me to drink was like music because of the pulley and--> the || 0.9937582612037659
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic--> sound || 0.9937332272529602
+ when i came--> back || 0.9936581254005432
+ this to me is the most beautiful and most sad landscape in the--> world || 0.9936419725418091
+ when i drew the muzzle for the little prince i forgot to add the--> le || 0.9935435056686401
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with--> a || 0.9935169816017151
+ there was not even any sound because of the sand-->[EOS] || 0.993338942527771
+ even as i dug around in my pocket to take out my revolver i made a running step--> back || 0.9933187961578369
+ herein lies a great mystery for you who--> also || 0.9932840466499329
+ there was next to the well the ruin of an--> old || 0.9932796359062195
+ i will be much more--> afraid || 0.9932727217674255
+ i was just coming--> to || 0.9932709336280823
+ when i managed to catch him up he was walking along determinedly at a brisk--> pace || 0.9932650327682495
+ i had moist-->ened || 0.9931850433349609
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in africa in the--> desert || 0.9931635856628418
+ but at the noise i made the snake--> let || 0.9931502342224121
+ when i drew the muzzle for the little prince i forgot to add the leather--> st || 0.9931182265281677
+ i will be there ton-->ight || 0.9929831624031067
+ nothing in the universe is the same if somewhere out--> there || 0.9929717183113098
+

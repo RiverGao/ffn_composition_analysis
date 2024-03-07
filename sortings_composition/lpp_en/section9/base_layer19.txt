@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ for others who are schol-->ars || 0.9155305027961731
+ he got a bit discou-->rag || 0.9157298803329468
+ he would never have been able--> to || 0.9218971729278564
+ she has four thorns of no use at all--> to || 0.9519198536872864
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.9543049335479736
+ the little prince replied again--> that || 0.9651357531547546
+ he laughed again-->[EOS] || 0.9654358625411987
+ the little prince spoke again--> after || 0.9656124114990234
+ and now of course--> it || 0.9659229516983032
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be--> like || 0.9659385681152344
+ another voice must have answered him--> because || 0.9662566184997559
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that laughter again-->[EOS] || 0.9663967490196228
+ she has four thorns of no use at all to protect herself--> against || 0.9667347073554993
+ and now--> of || 0.9669585824012756
+ and now--> i || 0.9669585824012756
+ if a child then comes to you if he laughs if he has golden hair if he does not respond when questioned--> you || 0.9670214653015137
+ then he said--> sad || 0.9671812653541565
+ i will have played a dirty trick on--> you || 0.9673270583152771
+ and he laughed again-->[EOS] || 0.967890202999115
+ and he laughed again-->[EOS] || 0.967890202999115
+ he got away without making a sound-->[EOS] || 0.9683895111083984
+ what--> are || 0.9687466025352478
+ what--> are || 0.9687466025352478
+ what--> is || 0.9687466621398926
+ it will be as if i would given you instead of stars lots and lots of little bells--> that || 0.9694482088088989
+ if a child then comes to you if he laughs if he--> has || 0.9696542024612427
+ but i have drawn it--> again || 0.9697365164756775
+ just that it--> will || 0.9698242545127869
+ you will have five hundred million little bells and--> i || 0.9698286056518555
+ what are--> you || 0.9700551629066467
+ what are--> you || 0.9700551629066467
+ i could feel that he was reviving little by little-->[EOS] || 0.9701894521713257
+ it is true that they have no poison left for--> a || 0.9703556895256042
+ it is just like five hundred million little bells-->[EOS] || 0.9703825116157532
+ if a--> child || 0.9705411195755005
+ you will have five hundred million little bells and i will have five hundred million springs--> of || 0.9705473780632019
+ it was not a--> very || 0.9705566167831421
+ but he did not answer--> my || 0.9707257151603699
+ other times--> i || 0.9709817171096802
+ what is going on--> here || 0.9709846377372742
+ and then he too--> was || 0.9710056781768799
+ my heart skipped a beat but i still did not understand-->[EOS] || 0.9710432291030884
+ it may well be the sheep a-->te || 0.9710842370986938
+ you will have five hundred--> million || 0.9711411595344543
+ and sometimes you will open your window just like that--> for || 0.9712396264076233
+ and he laughed some more-->[EOS] || 0.9712708592414856
+ then i--> am || 0.9713173508644104
+ but he said to me tonight it will be--> a || 0.971476137638092
+ everyone has the same stars but they are not the same to everyone-->[EOS] || 0.9715542793273926
+ you just have to wait there for me-->[EOS] || 0.9715662598609924
+
+
+## 50 prefixes with the highest comosition scores:
+ little fellow is this all a bad--> dream || 0.9955347776412964
+ when i came back from my work the next evening i saw from--> a || 0.9951295256614685
+ i was sad but i told--> them || 0.9951131939888
+ she has four thorns of no use at--> all || 0.9946536421775818
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent--> hur || 0.9935793876647949
+ my little fellow i said to--> him || 0.99345463514328
+ it was not a very heavy--> body || 0.9933710694313049
+ he had a serious look as--> if || 0.9933028817176819
+ it will look as--> if || 0.9930315017700195
+ it will look as--> if || 0.9930315017700195
+ and if you happen to pass by there i beg you do--> not || 0.9929683804512024
+ he had a serious look as if lost far--> away || 0.9928870797157288
+ he hesitated a--> bit || 0.9926272630691528
+ when i managed to catch him up he was walking along determinedly at a brisk--> pace || 0.9925305843353271
+ and if you happen to pass by there i beg you do not hurry--> on || 0.9925030469894409
+ all the stars will be wells with a rusty pul-->ley || 0.9924635887145996
+ i was sad but i told them it--> is || 0.9924244284629822
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in--> no || 0.9923989772796631
+ so you will tell them yes the stars always make me--> laugh || 0.9923593401908875
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never--> hearing || 0.9923095703125
+ he remained motionless for--> an || 0.9921272993087769
+ i will also look--> at || 0.9920808672904968
+ i have your sheep and i have the box--> for || 0.9920241832733154
+ for others they are nothing--> but || 0.9920209646224976
+ so you will love to look--> at || 0.9920145273208618
+ i reached the wall just--> in || 0.9919996857643127
+ and then the little bells turn--> to || 0.9919509291648865
+ wait--> a || 0.9919458627700806
+ how did you--> know || 0.9919269680976868
+ and then he too was silent because he was cry-->ing || 0.9918510913848877
+ do you have good poison-->[EOS] || 0.9918140769004822
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that laughter--> again || 0.991780161857605
+ other times i tell myself everyone is absent minded at some point and that is--> all || 0.9917106628417969
+ he remained motionless for an--> instant || 0.9916278123855591
+ if a child then comes to you if he laughs if he has golden--> hair || 0.9916066527366638
+ i mean not entirely but i do know that he got back--> to || 0.9915863871574402
+ and if you happen to pass by there i beg you do not hur-->ry || 0.9915797710418701
+ if--> you || 0.9915677309036255
+ if--> a || 0.9915677309036255
+ i reached the wall just in--> time || 0.9915626645088196
+ i felt very clearly that something--> extraordinary || 0.9915552139282227
+ i held him tightly in my--> arms || 0.9915436506271362
+ even as i dug around in my pocket to take out my revolver i made a--> running || 0.9915323853492737
+ other times i tell myself everyone is absent minded at some point and that is all it--> takes || 0.9915053248405457
+ he had a serious look as if lost--> far || 0.991482675075531
+ look at this landscape carefully so as to be sure to recognize it if one day you--> travel || 0.9914810657501221
+ it is too heavy-->[EOS] || 0.9914606809616089
+ i sat down too because i--> was || 0.991459310054779
+ it will look as if i am dead and that will not be--> true || 0.9914115071296692
+ when you look at the sky at night because i will be living on one of--> them || 0.9914036393165588
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he said to me you know my--> descent || 0.9470086097717285
+ the well we had reached was not like the other wells of the sah-->ara || 0.9476701021194458
+ come back tom-->orrow || 0.9489880800247192
+ my dear fellow our situation has nothing to do with the fo-->x || 0.9492666125297546
+ your fox--> his || 0.9493935704231262
+ oh--> and || 0.9517454504966736
+ oh--> it || 0.9517454504966736
+ oh--> i || 0.9517455697059631
+ it was born of the--> walk || 0.9531636834144592
+ my friend the fo-->x || 0.9533570408821106
+ the men where you live said the little prince grow five thousand--> ros || 0.9534116387367249
+ the well--> we || 0.9536037445068359
+ the well-->s || 0.9536038637161255
+ ah i said to the little prince these mem-->ories || 0.9542076587677002
+ we were at the eighth--> day || 0.9545267820358276
+ the little prince s words dan-->ced || 0.9546166658401489
+ ah i said to the little prince these--> mem || 0.9550084471702576
+ you have to keep your promise said the little prince softly who--> had || 0.9565290808677673
+ the men where you live said the little prince grow five thousand roses in a--> single || 0.9572998881340027
+ then--> after || 0.9573841691017151
+ i have always loved the--> desert || 0.9581304788589478
+ i remembered the fo-->x || 0.9584383368492126
+ whether the house the--> stars || 0.9589375853538513
+ myself the--> little || 0.9593008160591125
+ myself the little prince said to himself if i--> had || 0.9595940709114075
+ the song of--> the || 0.9608463048934937
+ this--> water || 0.9611913561820984
+ this--> h || 0.9611913561820984
+ this--> was || 0.9611914753913879
+ this--> one || 0.9611914753913879
+ he said to me you know my descent to earth tom-->orrow || 0.961232602596283
+ the men where you live said the little prince grow five thousand roses in a single garden and they do not find--> what || 0.9618780612945557
+ i hoisted the bucket slowly to the edge of the--> well || 0.9624754786491394
+ the little prince saw them and laughed as he said your baobabs they look a bit like cab-->b || 0.9626515507698059
+ this water was something very different from ordinary nour-->ishment || 0.9629939794540405
+ come--> back || 0.9632334113121033
+ of--> course || 0.9632534980773926
+ so i made a pencil sketch of a muzz-->le || 0.9633691310882568
+ he has never been hungry or th-->irst || 0.9637645483016968
+ it was born of the walk under the stars of the--> song || 0.9640442132949829
+ it--> is || 0.9644879102706909
+ it--> was || 0.9644879102706909
+ it--> was || 0.9644879102706909
+ it--> even || 0.9644879102706909
+ it--> seemed || 0.9644879102706909
+ it--> is || 0.9644879102706909
+ it--> is || 0.9644879698753357
+ it--> is || 0.9644879698753357
+ it--> was || 0.9644880294799805
+ it--> is || 0.9644880294799805
+
+
+## 50 prefixes with the highest comosition scores:
+ and once again without understanding why i felt a peculiar sense of sorrow one question occurred to me--> however || 0.9987442493438721
+ of course no one had ever been able to find it or perhaps no one had even looked--> for || 0.9983571767807007
+ it is the image of a rose that shines in him like the flame of a lamp even when he is sleeping-->[EOS] || 0.9982492327690125
+ you hear nothing and yet something radiates forth--> in || 0.9982163906097412
+ i did not understand his answer but i said nothing-->[EOS] || 0.9982143044471741
+ it seemed to me that i was carrying a very fragile treasure-->[EOS] || 0.9981852769851685
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of my water supply-->[EOS] || 0.9980852603912354
+ so they rush about and go in circles and he added it is not worth it-->[EOS] || 0.9979693293571472
+ of course no one had ever been able to find it or perhaps no one had even looked for it-->[EOS] || 0.9979187250137329
+ and yet what they are looking--> for || 0.997818112373352
+ as the little prince fell asleep i took him in my arms--> and || 0.9977068901062012
+ when we had walked for hours in silence night fell and the stars began to come out-->[EOS] || 0.9976993203163147
+ and i knew then what he had been looking--> for || 0.9976707100868225
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the radiance of the gift that i received-->[EOS] || 0.9976119995117188
+ this water was something very different--> from || 0.9975746273994446
+ as his slightly parted lips gave way to a half smile--> i || 0.9975736141204834
+ you run the risk of weeping a little if you allow yourself to be tamed-->[EOS] || 0.9974882006645203
+ when i was a little boy i lived in an old house and legend told that a treasure was buried--> there || 0.9974793195724487
+ when we had walked for hours in silence night fell--> and || 0.9974734783172607
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart--> as || 0.997473418712616
+ your fox his ears they look a bit like horns and they are too long-->[EOS] || 0.9974632263183594
+ this one looked like a village well but there was no village there and i thought i was dreaming-->[EOS] || 0.9974251985549927
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving--> about || 0.9974126219749451
+ i did not want him to tire himself out-->[EOS] || 0.9974123239517212
+ but it cast an enchantment--> over || 0.9973471760749817
+ i have nothing left to drink and i too would be happy if i could walk slowly towards a spring of fresh water-->[EOS] || 0.9972544312477112
+ it is a big time saver--> said || 0.9972368478775024
+ i did not understand his answer--> but || 0.9972200393676758
+ and i knew then what he had been looking for-->[EOS] || 0.997192919254303
+ you could take one pill a week and you no longer felt the need to drink anything-->[EOS] || 0.99714595079422
+ the well we had reached was not like the other wells--> of || 0.9971250891685486
+ when i was a little boy i lived in an old house and legend told that a treasure was buried there-->[EOS] || 0.9971216320991516
+ and what do i do with the fifty three minutes-->[EOS] || 0.9971084594726562
+ you have plans that i do not know about-->[EOS] || 0.9970957636833191
+ you hear nothing and yet something radiates forth in the silence-->[EOS] || 0.9970638751983643
+ and once again without understanding why i felt a peculiar sense of sorrow--> one || 0.9970347881317139
+ myself i am glad to have had a fox as a friend-->[EOS] || 0.997016191482544
+ when we had walked for--> hours || 0.9970078468322754
+ of course no one had ever been able to find it or perhaps no one--> had || 0.9969971179962158
+ i did not want him to tire himself--> out || 0.996930718421936
+ so it was not by chance that the morning i first met you a week ago-->[EOS] || 0.9968801736831665
+ i am glad he said that--> you || 0.9968500733375549
+ you hear nothing and yet something radiates--> forth || 0.9968245029449463
+ you are not being fair--> my || 0.996776282787323
+ whether the house the stars or the desert what gives them their beauty is something invisible-->[EOS] || 0.9967637658119202
+ he never answered questions but when you blush that means yes-->[EOS] || 0.9967581629753113
+ the song of the pulley continued in my ears and in the still trembling water i could see the sunlight shimmer-->[EOS] || 0.9967148303985596
+ and i added hesitantly perhaps because of the anni-->versary || 0.9967147707939148
+ so it was not by chance that the morning i first met you--> a || 0.996686577796936
+ when we had walked for hours in silence--> night || 0.9966800212860107
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.8658480048179626
+ i can help you if somed-->ay || 0.8920352458953857
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.8932095170021057
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.8936148881912231
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9155476093292236
+ i wonder he said if the--> stars || 0.9318236708641052
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondes-->cript || 0.9405637979507446
+ whether volcanoes are ext-->inct || 0.942333996295929
+ he is--> a || 0.9434908628463745
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the ext-->inct || 0.945612907409668
+ seven million five hundred thousand heavy drink-->ers || 0.9476271867752075
+ but what does ephemeral mean repeated the little prince who had never--> in || 0.9476588368415833
+ she--> was || 0.9491809010505676
+ what does e-->ph || 0.9498566389083862
+ is--> my || 0.9514972567558289
+ are there o-->ce || 0.951575756072998
+ to give you an idea of the size of the earth i will tell you that before--> the || 0.9520159959793091
+ i have not been entirely honest in telling you about the lamplighters-->[EOS] || 0.9523381590843201
+ oh where i--> live || 0.9524955153465271
+ good morning good morning good morning--> answered || 0.9529045820236206
+ but ext-->inct || 0.9529304504394531
+ next came the turn of the l-->am || 0.95326167345047
+ if for--> example || 0.9533414840698242
+ therefore you should--> advise || 0.9535999298095703
+ the geographer--> is || 0.9540114998817444
+ the geographer--> suddenly || 0.9540115594863892
+ but what does e-->ph || 0.9540495872497559
+ then those of south america-->[EOS] || 0.9542700052261353
+ because into-->xic || 0.9543488025665283
+ oh where--> i || 0.9549493193626404
+ next came the turn of the lamplighters of china and siberia--> to || 0.9549517631530762
+ they repeat--> whatever || 0.9551774263381958
+ the earth is--> large || 0.9557886719703674
+ the earth is--> not || 0.9557886719703674
+ we write about eternal--> things || 0.9559752345085144
+ on what--> planet || 0.9560102224349976
+ he does not leave his desk but he receives the expl-->or || 0.9561493992805481
+ there is no one in the deserts-->[EOS] || 0.9561999440193176
+ so the--> sevent || 0.9564458131790161
+ they are blown here and there by the wind-->[EOS] || 0.9565343260765076
+ is my flower at risk of im-->min || 0.9567443132400513
+ the earth is large--> said || 0.9568405747413635
+ next came the turn of the lamplighters--> of || 0.9569017887115479
+ three hundred and eleven--> million || 0.9569231271743774
+ that is possible so when the moral character--> of || 0.9569867253303528
+ i know someone said the--> little || 0.957207202911377
+ if the two billion people who inhabit the--> earth || 0.9572292566299438
+ the grownups--> of || 0.9572800993919373
+ the movements of this army were regulated--> like || 0.9572898149490356
+ then came the turn of the lamplighters--> of || 0.9573003053665161
+
+
+## 50 prefixes with the highest comosition scores:
+ goodbye said--> the || 0.9889392852783203
+ goodbye said--> the || 0.9889391660690308
+ because--> flowers || 0.9886616468429565
+ because--> an || 0.988661527633667
+ because--> into || 0.988661527633667
+ they think themselves--> as || 0.9882413744926453
+ he is a scholar--> who || 0.9882134199142456
+ good morning said--> the || 0.9879706501960754
+ good morning said--> the || 0.9879706501960754
+ good evening said--> the || 0.9879493117332458
+ good evening said--> the || 0.9879492521286011
+ the earth is large said--> the || 0.987857460975647
+ the little prince crossed the--> desert || 0.9876675009727478
+ she was always the first to--> speak || 0.9876270294189453
+ i have been having some trouble with a flower said--> the || 0.9874278903007507
+ from a mountain as high as this one he--> said || 0.9873475432395935
+ but what does ephemeral mean--> repeated || 0.9871249198913574
+ ah said--> the || 0.9870594143867493
+ we do not record flowers said--> the || 0.9869191646575928
+ ah said the--> s || 0.986842155456543
+ it means which--> is || 0.9867799282073975
+ one waits--> until || 0.9867306351661682
+ whoever i touch i send him back to the earth from which he--> came || 0.9865402579307556
+ geography books said--> the || 0.986384928226471
+ if the two billion people who inhabit the earth were--> to || 0.9863840937614441
+ one never knows said--> the || 0.9863573908805847
+ because intoxicated men see double so the geographer would record two mountains in a place where there--> was || 0.9862654805183411
+ it is beautiful said--> the || 0.9861462116241455
+ the earth is not just any old planet-->[EOS] || 0.9860634207725525
+ and i have left her--> all || 0.986056387424469
+ the planet earth replied--> the || 0.985918402671814
+ to give you an idea of the size of the earth i will tell--> you || 0.9858905076980591
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a foot-->st || 0.9858882427215576
+ you are a funny animal he said finally--> as || 0.9857901334762573
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary--> to || 0.9857879877090454
+ i can help you--> if || 0.9856841564178467
+ what does ephemeral mean-->[EOS] || 0.9856656789779663
+ the only mountains he had ever known were the three volcano-->es || 0.9856631755828857
+ and they were silent-->[EOS] || 0.9856626987457275
+ and they were silent-->[EOS] || 0.9856626987457275
+ the little prince crossed--> the || 0.9856508374214172
+ the earth is not just any--> old || 0.9856340885162354
+ having set their--> l || 0.9855835437774658
+ having set their lamps al-->ight || 0.985582709312439
+ i can carry you further than a ship said--> the || 0.9855781197547913
+ and if any of their recollections seem interesting to him the geographer orders an inqu-->iry || 0.9855772256851196
+ men take up very little space on the earth-->[EOS] || 0.9855211973190308
+ to give you an idea of the size of the earth i will tell you--> that || 0.9855070114135742
+ because intoxicated men see double--> so || 0.9854267835617065
+ i also have a flower-->[EOS] || 0.9854100942611694
+

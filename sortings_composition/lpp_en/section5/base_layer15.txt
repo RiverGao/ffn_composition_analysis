@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then he sponged his forehead with a handkerch-->ief || 0.8473348021507263
+ your cigaret-->te || 0.8894900679588318
+ when he puts out his lamp he sends the flower or the--> star || 0.939125657081604
+ when you find a diam-->ond || 0.950412392616272
+ the little prince could not work out the purpose of having a street lamp and a--> l || 0.9523186087608337
+ and what--> do || 0.9526405334472656
+ and what--> do || 0.9526405334472656
+ and what--> do || 0.9526406526565552
+ i have no time to dayd-->ream || 0.9545266032218933
+ and what do you--> do || 0.9548042416572571
+ and what do you--> do || 0.9548042416572571
+ and what do you--> do || 0.9548043608665466
+ when he puts out his lamp he sends the flower or the star--> to || 0.9554204940795898
+ you only have to walk along rather--> slowly || 0.9562305212020874
+ millions of those little--> objects || 0.9579205513000488
+ if i owned a scarf i could put--> it || 0.9603219628334045
+ that man said the little prince to himself as he--> continued || 0.961090087890625
+ on matters of consequence the little prince had ideas which were very different from those of the--> grow || 0.961426317691803
+ the businessman raised his head-->[EOS] || 0.9615894556045532
+ the little prince--> went || 0.9616445302963257
+ the little prince--> watched || 0.96164470911026
+ the little prince--> could || 0.96164470911026
+ the little prince--> was || 0.9616447687149048
+ when you discover an--> island || 0.9616844654083252
+ that means that i write the number of my stars on a little paper and then i lock this paper in a dra-->wer || 0.9618720412254333
+ five hundred and one million what repeated the little prince who had never--> in || 0.9621086120605469
+ millions of those little objects--> that || 0.9623009562492371
+ when you find a--> diam || 0.9628469347953796
+ it is of some use to my vol-->cano || 0.9630220532417297
+ this man the little prince--> said || 0.9634390473365784
+ but you can not pick the--> stars || 0.9635581970214844
+ no no the little golden things that make lazy men dayd-->ream || 0.9635706543922424
+ you know i--> know || 0.9640145897865295
+ this man the little--> prince || 0.9644495248794556
+ your planet is so small that--> you || 0.964526355266571
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of all because of the one thousand four hundred and forty--> sun || 0.9646411538124084
+ and the little prince went--> away || 0.9652506709098816
+ there was just--> enough || 0.9658035039901733
+ you only have to walk along rather slowly to always stay in the sun when you want to--> rest || 0.9658458828926086
+ as for me i am a man--> of || 0.9658616781234741
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by--> the || 0.9658663868904114
+ you can walk and the day will--> last || 0.9659638404846191
+ phew phew then that makes five hundred and one million six hundred twenty two thousand seven hundred and thirty one-->[EOS] || 0.9659871459007263
+ i always--> want || 0.9660180807113647
+ i always want to said the lamplighter-->[EOS] || 0.9660754203796387
+ you can--> walk || 0.9661809206008911
+ there was--> just || 0.9662966728210449
+ this man the little prince said to himself reasons a--> bit || 0.966305673122406
+ the grow-->nu || 0.9664053320884705
+ the first time was twenty two years ago by some scatterbra-->in || 0.9664179086685181
+
+
+## 50 prefixes with the highest comosition scores:
+ and i own the stars because no one before me ever thought of ow-->ning || 0.9904423356056213
+ the businessman opened his mouth but he found--> nothing || 0.9898537397384644
+ but why have you just lit--> it || 0.9894512891769409
+ and he lit--> his || 0.9893198013305664
+ and he lit--> it || 0.9893196821212769
+ that man is the only one with whom i could have made friends but--> his || 0.9890829920768738
+ the grownups are certainly altogether--> extraordinary || 0.9890700578689575
+ he bre-->athed || 0.9890338182449341
+ then he sponged his forehead with a handkerchief decor-->ated || 0.9890269637107849
+ i--> own || 0.989000678062439
+ i--> would || 0.989000678062439
+ i--> had || 0.989000678062439
+ i--> admin || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> was || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> no || 0.9890006184577942
+ i--> count || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> myself || 0.9890006184577942
+ i--> always || 0.9890006184577942
+ i--> am || 0.9890004992485046
+ i--> own || 0.9890004992485046
+ at least--> his || 0.9889760613441467
+ and how does ow-->ning || 0.9889691472053528
+ phew phew then that makes--> five || 0.9887488484382629
+ then--> he || 0.988605260848999
+ then--> they || 0.9886052012443542
+ i always want to said--> the || 0.9885548949241638
+ no no the little golden things that make lazy men day-->d || 0.9885483384132385
+ i had the rest of--> the || 0.9884849190711975
+ i do not amuse--> myself || 0.9884657263755798
+ why--> have || 0.9881992340087891
+ there is nothing to understand said--> the || 0.9880337715148926
+ no time to--> light || 0.9880328178405762
+ it is of--> some || 0.988032341003418
+ he breathed--> a || 0.9879779815673828
+ to buy more stars if someone discovers--> some || 0.9878944158554077
+ he said to himself nevertheless it may--> well || 0.9878823757171631
+ if i owned a scarf i could put it around my neck and take it away--> with || 0.9878415465354919
+ there is nothing to understand said the lam-->pl || 0.9877626895904541
+ the second time--> was || 0.9876949191093445
+

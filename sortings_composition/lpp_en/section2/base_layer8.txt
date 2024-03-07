@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i tried but i--> could || 0.9170843362808228
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has--> great || 0.9222483038902283
+ sometimes there--> is || 0.9261688590049744
+ perhaps he thought i was just like himself but i unfortunately do not--> know || 0.9272979497909546
+ the soil--> of || 0.9273965954780579
+ i knew that apart from the large planets like the--> earth || 0.9277524352073669
+ when i drew the--> ba || 0.927814245223999
+ fortunately for the reputation of asteroid b 612 a turk-->ish || 0.9278786182403564
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on his people on--> pain || 0.9282029271125793
+ i learned--> this || 0.9286327362060547
+ if one--> day || 0.9286405444145203
+ unfortunately fran-->ce || 0.9287533164024353
+ if you--> said || 0.9291155934333801
+ perhaps he thought i was just like himself but i unfortunately do--> not || 0.9296360015869141
+ one day i--> saw || 0.9296898245811462
+ if it is a spr-->ig || 0.9302889704704285
+ others do not look like their subjects-->[EOS] || 0.9304109811782837
+ and one--> day || 0.9304494857788086
+ and if--> the || 0.9304694533348083
+ when you talk to them about--> a || 0.9313756823539734
+ it did--> not || 0.9314240217208862
+ but if you were to say the planet he came from is--> the || 0.9314613342285156
+ and indeed on the planet of the little--> prince || 0.9317859411239624
+ oh i--> am || 0.931800127029419
+ children--> should || 0.9319236278533936
+ perhaps i am--> a || 0.9319422841072083
+ i am--> also || 0.9320446848869324
+ i do--> not || 0.9326402544975281
+ the day you saw it forty four times were--> you || 0.9329143166542053
+ if someone--> wants || 0.9330379962921143
+ the day--> you || 0.9331530928611755
+ it is hard to take up drawing again at my age when i--> have || 0.9332889318466187
+ and if the planet is--> too || 0.9337356090545654
+ not everyone has had a friend and if i forgot him i--> could || 0.9343960881233215
+ perhaps i am a bit like the grow-->nu || 0.9346904754638672
+ he replied oh come on as if it were obvious and it took me a great mental effort to understand this problem on my--> own || 0.9348108172416687
+ you seemed surprised at--> first || 0.9354798793792725
+ i did not understand why it was so important that sheep--> eat || 0.9355018138885498
+ i will make mistakes on certain important points too but you will have to forgive me that my friend never--> gave || 0.9355108737945557
+ what games--> does || 0.935905396938324
+ i thus learned a second very important thing that his home--> planet || 0.9363491535186768
+ when you talk to them about a friend they--> never || 0.9371360540390015
+ but he remarked wisely the ba-->ob || 0.937286376953125
+ i also get--> the || 0.9373726844787598
+ not everyone has had a friend and if i forgot him i could become like the--> grow || 0.9375076293945312
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a--> cat || 0.937781572341919
+ i knew that apart from the large plan-->ets || 0.9378308057785034
+ do not bl-->ame || 0.9379940629005432
+ the less-->on || 0.938187301158905
+ unfortunately france is much too far away but on your tiny planet all you needed was--> to || 0.9384343028068542
+
+
+## 50 prefixes with the highest comosition scores:
+ it would suffice to be able--> to || 0.9859555959701538
+ does he collect butterf-->lies || 0.9854586720466614
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good--> se || 0.9846516251564026
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.9843647480010986
+ this asteroid has only been seen through a telescope once in 1-->9 || 0.9838069081306458
+ i will try of course to make my portraits as lifeli-->ke || 0.9830098748207092
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.9827413558959961
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.9811278581619263
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good--> plants || 0.9802683591842651
+ i will make mistakes on certain important points too but you will have to forgive--> me || 0.978842556476593
+ here the little prince--> is || 0.9787086844444275
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody had believed him--> because || 0.9780982136726379
+ i pointed out to the little prince--> that || 0.9773364663124084
+ and a little later you added you know--> you || 0.9773133397102356
+ this asteroid has only been seen through a telescope once--> in || 0.9772862195968628
+ i have serious reason to believe that the planet from where the little prince--> came || 0.9771434664726257
+ i did not understand why it was so important that sheep eat shrubs but the little prince--> added || 0.9770734310150146
+ the lesson which i pass on by this means was--> worth || 0.9770503640174866
+ this time again it was thanks to the sheep because the little prince asked me abruptly--> as || 0.977005660533905
+ i am also not sure about the color of his outfit so i fumble along somehow as--> best || 0.9769942760467529
+ if you said to the grownups i saw a beautiful red brick house with--> ger || 0.9768640398979187
+ this asteroid has only been seen--> through || 0.9768235683441162
+ the astronomer gave his presentation again in 1-->9 || 0.9767112135887146
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on his people on pain of death to dress themselves in the european fashion-->[EOS] || 0.976681113243103
+ i have serious reason to believe that the planet from where the little prince came is the asteroid--> b || 0.9765509963035583
+ the idea of the herd of elephants made the little prince--> laugh || 0.9764767289161682
+ for those who understand life it--> would || 0.9762943387031555
+ the information came slowly--> as || 0.9762778878211975
+ now there were some terrible seeds on the planet of the little prince-->[EOS] || 0.9760945439338684
+ but he remarked wisely--> the || 0.9760770201683044
+ he replied oh come on as if it were obvious--> and || 0.9760496020317078
+ you seemed surprised at first and then you chuckled at yourself--> and || 0.9760459661483765
+ if it is a sprig of radish or rose bush you can let it grow as it likes-->[EOS] || 0.9760348200798035
+ oh little prince--> i || 0.9759857058525085
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able to picture this house in their--> minds || 0.9758420586585999
+ i would have liked to begin this story in the same way as a fairy tale-->[EOS] || 0.9758026599884033
+ and if the planet is too small and if there are too many baobabs they shatter it to--> pieces || 0.9757882356643677
+ how many brothers does he have-->[EOS] || 0.9757715463638306
+ if it is a sprig of radish or rose bush--> you || 0.9757694602012634
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad--> se || 0.9757497906684875
+ not everyone has had a friend and if i forgot him i could become like--> the || 0.9755995273590088
+ i thus learned a second very important thing that his home planet was barely bigger than--> a || 0.9755117893218994
+ it is hard to take up drawing again--> at || 0.9753860235214233
+ perhaps he thought i was just like--> himself || 0.9753820300102234
+ and based on what the little prince--> told || 0.9753199219703674
+ i am also not sure about the color of his outfit so i fumble along somehow as best i can-->[EOS] || 0.9753122925758362
+ he replied oh come on as if it were obvious and it took me a great mental effort to--> understand || 0.9752846360206604
+ this asteroid has only been seen through--> a || 0.9752278923988342
+ and a little later you added you know you love the sunset when--> you || 0.9751993417739868
+ i pointed out to the little prince that baobabs were not shrubs but trees--> as || 0.9751787781715393
+

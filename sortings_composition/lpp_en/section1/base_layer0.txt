@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i was discouraged by the failure of--> my || 0.5004494190216064
+ then taking my sheep out of his pocket he sank himself into the contemplation of--> his || 0.502845048904419
+ so i would never speak to them of--> bo || 0.5062669515609741
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to--> try || 0.5141912698745728
+ where is this where i live of--> yours || 0.5171710848808289
+ the grownups advised me to--> leave || 0.5174951553344727
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to--> draw || 0.5210692882537842
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to--> ge || 0.5210914611816406
+ that is right and if you are good i will give you a rope to--> tie || 0.5296462178230286
+ when i finally managed to speak i said what are--> you || 0.5304268002510071
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to--> apply || 0.531173050403595
+ then he added so you also come from--> the || 0.534990668296814
+ i jumped to my feet as if i had been struck by--> light || 0.5384041666984558
+ it said in the book boa constrictors swallow their prey whole without chewing then they are--> not || 0.5407478213310242
+ so i had to choose another profession and i learned to fly airplanes-->[EOS] || 0.541606605052948
+ and i was astounded to--> hear || 0.5440413951873779
+ he looked carefully then said no this one is--> already || 0.5473650097846985
+ grownups never understand anything by themselves and it is--> t || 0.5488910675048828
+ after a reflective silence he answered what is good about the box you have given is that at--> night || 0.5523411631584167
+ the first night i went to sleep on the sand a thousand miles from any human habitation-->[EOS] || 0.553152859210968
+ i showed my masterpiece to the grownups--> and || 0.5569028854370117
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and--> to || 0.5588030219078064
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and--> they || 0.5602794885635376
+ and i was astounded to hear the little fellow respond no no i do not want an elephant--> inside || 0.5639432072639465
+ it showed a boa constrictor swallowing--> a || 0.5641474723815918
+ where i live everything is--> so || 0.5702388286590576
+ where i live everything is--> very || 0.5702388286590576
+ it took me a long time to find out where--> he || 0.5705605745315552
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa--> con || 0.5726130604743958
+ thus i abandoned at the age of six a magnificent career as--> a || 0.5743429660797119
+ i jumped to my feet as if i had been struck by lightning-->[EOS] || 0.5747269988059998
+ i was discouraged in my career as a painter by the grownups at the age of six and--> i || 0.5748850107192993
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored pencil to make my first--> drawing || 0.5752421021461487
+ it is true that you can not have come from far away in that and he drifted into a daydream which lasted a long while-->[EOS] || 0.5786895155906677
+ they answered me why would--> anyone || 0.5826088786125183
+ i could recognize at first glance ch-->ina || 0.583255410194397
+ once when i was six years old i saw a magnificent--> picture || 0.5844152569770813
+ and the little prince broke into a lovely--> pe || 0.5845831632614136
+ it would be a drawing far too complicated for me-->[EOS] || 0.5900863409042358
+ but if you do not tie him up he will--> w || 0.5914880037307739
+ the grownups advised me to leave aside drawings of boa constrictors--> open || 0.5918033719062805
+ and the little prince broke into a lovely peal of laughter which irritated--> me || 0.5922611355781555
+ where do you think he would--> go || 0.5923153162002563
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming than its--> model || 0.5926997065544128
+ he leaned--> his || 0.5936052203178406
+ and perhaps with a hint of sadness he added straight ahead you can--> not || 0.5944758057594299
+ absurd as it seemed to me--> a || 0.594596266746521
+ i jumped to my feet as if--> i || 0.596003532409668
+ and i was astounded to hear the little fellow respond no no i do not want an elephant inside a boa constrict-->or || 0.5961941480636597
+ something had broken in my engine and as i--> had || 0.5974211692810059
+
+
+## 50 prefixes with the highest comosition scores:
+ thus i abandoned at the--> age || 0.8525822758674622
+ and the--> little || 0.8441055417060852
+ it is exactly the--> way || 0.8264745473861694
+ the first night i went to sleep on the--> sand || 0.819679856300354
+ here is the--> best || 0.807345986366272
+ here is the--> box || 0.8073456883430481
+ i talked to them about bridge golf politics and neckties and the--> grown || 0.8071013689041138
+ so i thought a lot about the--> advent || 0.8035444021224976
+ this--> one || 0.8032251000404358
+ this--> is || 0.8032251000404358
+ he leaned his head towards the--> drawing || 0.8029705882072449
+ whenever i met one of them that seemed a bit more clear sighted i tried the--> experiment || 0.8011562824249268
+ it is a ram-->[EOS] || 0.8008100986480713
+ the grow-->nu || 0.7996131777763367
+ the offer seemed to shock the--> little || 0.799292266368866
+ so--> i || 0.7992669343948364
+ so--> once || 0.7992666959762573
+ so--> when || 0.7992652654647827
+ so--> getting || 0.7992650866508484
+ so--> you || 0.7992650866508484
+ so--> i || 0.7992650866508484
+ so--> i || 0.7992650866508484
+ so--> i || 0.7992650866508484
+ so--> i || 0.7992640733718872
+ but he--> did || 0.79802405834198
+ i caught a glimpse into the--> mystery || 0.7979242205619812
+ so when he saw my airplane for the--> first || 0.7978171110153198
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for them again and--> again || 0.796786367893219
+ then taking my sheep out of his pocket he sank himself into the--> cont || 0.796103298664093
+ he asked me--> what || 0.7953805923461914
+ i was more isolated than a shipw-->reck || 0.7952293157577515
+ i rub-->bed || 0.7949453592300415
+ my--> drawing || 0.7938674688339233
+ my--> drawing || 0.7938674688339233
+ my--> friend || 0.7938661575317383
+ my--> friend || 0.7938659191131592
+ he looked nothing like a child lost in the middle--> of || 0.7929803133010864
+ this is not--> a || 0.7924985885620117
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the--> little || 0.7911947965621948
+ the little prince who asked--> me || 0.7909190654754639
+ it is my air-->plane || 0.7906105518341064
+ the one of the--> closed || 0.7905102372169495
+ i had hardly enough water to drink for a--> week || 0.7904959917068481
+ he looked nothing like a child lost in the--> middle || 0.7904012203216553
+ but it was rejected like the previous--> ones || 0.7888206243515015
+ the one--> of || 0.7886751890182495
+ you can imagine how my curiosity was aroused by this small disclosure about the--> other || 0.7880842089653015
+ then he added so--> you || 0.7868224382400513
+ and that is how i met the--> little || 0.7864171862602234
+ you can--> imagine || 0.7862085103988647
+

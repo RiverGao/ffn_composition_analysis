@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ from time to--> time || 0.8718371987342834
+ i admire you said the little prince shrugg-->ing || 0.8941648006439209
+ if he had held it himself he would have been able--> to || 0.8977788686752319
+ he should be able--> for || 0.9144204258918762
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.9263882040977478
+ if you succeed--> in || 0.9477205872535706
+ over all that the king--> answered || 0.9541805982589722
+ if you ordered your people--> to || 0.9544038772583008
+ over everything--> said || 0.9551860690116882
+ over everything--> the || 0.9551860690116882
+ of course the king--> said || 0.9565525650978088
+ do you really admire me--> a || 0.9568773508071899
+ to them--> all || 0.9574181437492371
+ for the--> king || 0.9574483036994934
+ he found himself in the neighborhood--> of || 0.9576115012168884
+ approach so that i may see you better said the king who was very proud to finally be king over somebody-->[EOS] || 0.957673192024231
+ to forget what asked--> the || 0.9577885270118713
+ if you ordered your people to go and throw themselves into the sea--> they || 0.9577998518943787
+ approach so that i may see you better--> said || 0.9578990340232849
+ he said to the king-->[EOS] || 0.958472728729248
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two hundred sunsets on the same day--> without || 0.9587513208389282
+ ashamed of drinking concluded--> the || 0.9587641954421997
+ i admire you said the--> little || 0.9600048065185547
+ minister of of--> justice || 0.9608928561210632
+ after five minutes of this exercise the little prince grew tired of the monotony of the game-->[EOS] || 0.9609545469284058
+ it is much more difficult to judge oneself than to judge someone else-->[EOS] || 0.9610857367515564
+ to forget what asked the little prince who already felt sorry--> for || 0.9611339569091797
+ ashamed of what inquired--> the || 0.9611956477165222
+ to admire means--> to || 0.9613242745399475
+ authority--> is || 0.9613950848579407
+ exactly one must ask of each--> person || 0.9617061614990234
+ admire--> me || 0.961802065372467
+ come now yawn again-->[EOS] || 0.9618223309516907
+ order the--> sun || 0.9619648456573486
+ approach so that i may see you better said--> the || 0.9620067477226257
+ of course--> the || 0.9621674418449402
+ but you will--> p || 0.9621890187263489
+ for his rule was not only absolute it was also universal-->[EOS] || 0.9622897505760193
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two hundred sunsets--> on || 0.9623588919639587
+ he found himself in the neighborhood of the asteroids 325 326-->  || 0.9628651738166809
+ over everything said the king--> with || 0.9630692005157471
+ you said the little prince--> firm || 0.963442325592041
+ unfortunately nobody ever passes by this way-->[EOS] || 0.9634806513786316
+ sire he said--> to || 0.9635797142982483
+ and--> you || 0.9637896418571472
+ and--> now || 0.9637896418571472
+ and--> what || 0.9637896418571472
+ and--> the || 0.963789701461792
+ and--> as || 0.963789701461792
+ and--> the || 0.9637897610664368
+
+
+## 50 prefixes with the highest comosition scores:
+ that fright-->ens || 0.9991009831428528
+ he had a magnific-->ent || 0.9985499978065491
+ i have the right to demand obedience because--> my || 0.9985474348068237
+ to admire means to recognise that i am the most handsome the best dressed the--> rich || 0.9984430074691772
+ and now i think--> i || 0.99836665391922
+ if i ordered a general to fly from one flower to another--> like || 0.9981335997581482
+ he did not tolerate disob-->ed || 0.9978866577148438
+ but i can judge myself anywhere-->[EOS] || 0.9976653456687927
+ ah here comes a subject--> exclaimed || 0.9975435137748718
+ over everything the king made a subtle gesture pointing out his planet the other plan-->ets || 0.9972231984138489
+ to admire means to recognise that i am the most handsome the best dressed the richest and the--> most || 0.9967166185379028
+ this was a very short visit but--> it || 0.9965608716011047
+ if i ordered a general to fly from--> one || 0.9965248703956604
+ approach so that i may see you better said the king who was very--> proud || 0.9964431524276733
+ if i ordered a general to fly from one flower to another like a but-->ter || 0.9958012104034424
+ over everything said the king with a magnific-->ent || 0.9954319596290588
+ i can not stop myself replied the little prince thoroughly embar-->rass || 0.995128870010376
+ he was regretting his lost sunset and then he was already getting a little b-->ored || 0.9950932860374451
+ he found himself in the neighborhood of the astero-->ids || 0.9950050711631775
+ but you will pardon him on each occasion to con-->serve || 0.9948102235794067
+ if he had held it himself he would have been able to watch not forty four but seventy two or even--> a || 0.9946290254592896
+ he sputtered a bit and seemed vex-->ed || 0.9946228265762329
+ i can not stop myself replied the little prince thoroughly embarrass-->ed || 0.9945627450942993
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he sp-->otted || 0.9944466948509216
+ oh but i have already looked said the little prince who leant--> over || 0.994359016418457
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnific-->ent || 0.9943551421165466
+ from time to time you will condemn him to death thus his life will depend--> on || 0.9943488836288452
+ the king was sitting dressed in purple and ermine on a very simple yet--> maj || 0.9943417906761169
+ but the little prince having readied himself to leave had no wish to grieve--> the || 0.9943329095840454
+ i do not toler-->ate || 0.9941681623458862
+ i have come on a long journey and i have--> not || 0.9941022992134094
+ to admire means to recognise that i am the most handsome the best dressed the richest and--> the || 0.9940970540046692
+ it seems to me that conditions are fav-->ou || 0.9940907955169678
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did not obey me it would not be--> the || 0.9940862655639648
+ do you really adm-->ire || 0.9940545558929443
+ hum hum replied the king who consulted a bulky al-->man || 0.9939785599708557
+ and the little prince asked himself how could he recognise me when he has never seen--> me || 0.9939583539962769
+ if your majesty wishes to be promptly obeyed he should be able to give--> me || 0.9939534664154053
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most intellig-->ent || 0.9939410090446472
+ i can not stop--> myself || 0.9939371347427368
+ the king was sitting dressed in purple and ermine on a very--> simple || 0.9937437176704407
+ from time to time you will condemn him to death thus his life will depend on your--> justice || 0.9937318563461304
+ this was a very short visit but it--> pl || 0.9937123656272888
+ i shall command it but i shall wait according--> to || 0.9936557412147522
+ i order you to sit down replied the king who majest-->ically || 0.9936482310295105
+ the little prince yawned-->[EOS] || 0.9936310648918152
+ the little prince said to himself as he--> continued || 0.9936196804046631
+ the conceited man raised his hat in a mod-->est || 0.9936091303825378
+ he sputtered a bit and seemed v-->ex || 0.9936060309410095
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a--> hundred || 0.9936042428016663
+

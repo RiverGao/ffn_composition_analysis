@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the well we had reached was not like the other wells of--> the || 0.4935069680213928
+ why then did i have to have this sense of--> gr || 0.5057740807533264
+ and i said to myself what i see here is--> only || 0.5203190445899963
+ and once again without understanding why i felt a peculiar sense of sorrow one question occurred to--> me || 0.5207710266113281
+ we were at the eighth day since my accident in the desert and i had listened to--> the || 0.5273365378379822
+ a gust of--> wind || 0.5273401141166687
+ so they rush about and go in circles and he added it is--> not || 0.5285510420799255
+ we were at the eighth day since my accident in the desert and--> i || 0.536433756351471
+ men said the little prince stuff themselves into express trains but they do not know what they are--> looking || 0.5412473082542419
+ men said the little prince stuff themselves into express trains but they do not know what they are looking for-->[EOS] || 0.5483307242393494
+ it is the image of a rose that shines in--> him || 0.5541914701461792
+ i knew better--> than || 0.5542678833007812
+ of course no one had ever been able to find it or--> perhaps || 0.5554309487342834
+ your fox his ears they look a bit like horns and they are--> too || 0.5567299723625183
+ you have to--> search || 0.5622357130050659
+ you have to--> keep || 0.5622363686561584
+ you could take one pill a week and--> you || 0.5627752542495728
+ as the little prince fell as-->leep || 0.5667818188667297
+ and the pulley moaned like an--> old || 0.5697375535964966
+ what makes the desert beautiful said the little prince is that--> somewhere || 0.5729061365127563
+ what makes the desert beautiful said the little prince is--> that || 0.5745527148246765
+ he said to me you know my descent to earth tomorrow will--> be || 0.5791918635368347
+ that which is most important is--> invisible || 0.5800684094429016
+ so i made a pencil sketch of a--> m || 0.5847654938697815
+ it is absurd to look for a well at random in the immensity--> of || 0.584969699382782
+ he said to me you know my descent to earth tomorrow will be its--> anni || 0.5866916179656982
+ what makes the desert beautiful said the little--> prince || 0.5885294675827026
+ it is the image of a rose that shines in him like the flame of a lamp even when he is--> sleep || 0.5892294049263
+ myself i am glad to have had a fox as--> a || 0.5896711349487305
+ a little sunshine--> is || 0.5898494124412537
+ you were out walking like that all alone a--> thousand || 0.5904189944267273
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave it--> to || 0.591609537601471
+ it even seemed to me that there was nothing more fragile--> on || 0.5936853885650635
+ it is the image of a rose that shines in him like the flame of a lamp even when--> he || 0.5940870642662048
+ but it cast an enchantment over--> that || 0.594144344329834
+ so they rush about and go in circles and he added it is not--> worth || 0.5948464870452881
+ you hear nothing and yet something radiates--> forth || 0.594952404499054
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of my--> water || 0.59861159324646
+ my dear fellow our situation has--> nothing || 0.6007114052772522
+ so it was--> not || 0.6017272472381592
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave it to--> him || 0.6024618148803711
+ it was born of the walk under the stars of the song of the pulley of the effort of my--> arms || 0.6037614345550537
+ i looked in the moonlight at his pale forehead his closed eyes his--> lo || 0.6039627194404602
+ when i was a little boy i lived in an old house and legend told that a treasure--> was || 0.6046739816665649
+ the stars are beautiful because--> of || 0.6047914028167725
+ my dear fellow--> our || 0.6054682731628418
+ but it cast an--> en || 0.6057014465332031
+ you were out walking like that all alone a thousand miles from any inhabited--> region || 0.6061956882476807
+ that which is--> most || 0.6063922643661499
+ my home was hiding a--> secret || 0.6069887280464172
+
+
+## 50 prefixes with the highest comosition scores:
+ and the--> pul || 0.8441055417060852
+ and the--> little || 0.8441053032875061
+ and i looked without saying anything at the--> fol || 0.8437560200691223
+ you hear nothing and yet something radiates forth in the--> silence || 0.837483286857605
+ when i was a little boy the--> lights || 0.833817183971405
+ men said the--> little || 0.8259538412094116
+ i hoisted the--> bucket || 0.820300281047821
+ the sand at sunrise is the--> color || 0.8192915320396423
+ i had drunk the--> water || 0.8181959986686707
+ the desert is beautiful the--> little || 0.8158478736877441
+ it is the--> image || 0.8154154419898987
+ i raised the--> bucket || 0.815269410610199
+ good morning said the--> little || 0.8148338794708252
+ good morning said the--> merchant || 0.8148333430290222
+ it was good for the--> heart || 0.8145086765289307
+ everything has been prepared the--> pul || 0.8138259053230286
+ what makes the desert beautiful said the--> little || 0.8111928105354309
+ and continuing to walk i found the--> well || 0.8108764886856079
+ i remembered the--> fo || 0.8094205260276794
+ and what do i do with the--> fifty || 0.8093412518501282
+ let us look for a--> well || 0.8079931139945984
+ and it--> was || 0.8064641356468201
+ this--> water || 0.8032257556915283
+ this--> h || 0.8032257556915283
+ this--> was || 0.8032256960868835
+ this--> one || 0.8032256960868835
+ you are not--> being || 0.8030160069465637
+ everything has been prepared the pulley the--> bucket || 0.8028462529182434
+ the stars--> are || 0.8026215434074402
+ he said simply water can be good for the--> heart || 0.8016481995582581
+ you were going back to the--> place || 0.8005825877189636
+ when we had walked for hours in silence night fell and the--> stars || 0.8001736998558044
+ he laughed took the--> ro || 0.7999200820922852
+ so--> you || 0.7992652654647827
+ so--> it || 0.7992650866508484
+ so--> i || 0.7992650866508484
+ so--> they || 0.7992650866508484
+ but he--> respond || 0.7980241179466248
+ but he--> did || 0.7980241179466248
+ but he--> did || 0.79802405834198
+ but he--> looked || 0.7980239391326904
+ it is abs-->urd || 0.7977645993232727
+ the little prince s words danced--> in || 0.796675980091095
+ and the little prince added but the--> eyes || 0.7965034246444702
+ it was born of the--> walk || 0.7964244484901428
+ why are you selling those asked the--> little || 0.7958962917327881
+ this one looked like a village well but there was no village there and--> i || 0.7957637310028076
+ you have to search with the--> heart || 0.7945746183395386
+ it is absurd to look for a--> well || 0.794468104839325
+ my--> home || 0.7938661575317383
+

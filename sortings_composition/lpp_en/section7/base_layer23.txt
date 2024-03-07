@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the fox seemed very intrigu-->ed || 0.8415487408638
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8532460927963257
+ my life is very monoton-->ous || 0.8674082159996033
+ i can go for a walk as far as the viney-->ards || 0.8746434450149536
+ but every day you will be able--> to || 0.8969401717185974
+ to you--> i || 0.9534269571304321
+ to you--> i || 0.9534271359443665
+ because of--> the || 0.9601444005966187
+ then come back to say goodbye to me--> and || 0.9629139304161072
+ they buy things ready made--> in || 0.9634332656860352
+ they waste their time with a rag doll and it becomes very important to them-->[EOS] || 0.9641057848930359
+ and he suddenly felt very unhappy-->[EOS] || 0.9648023247718811
+ you are responsible for your rose-->[EOS] || 0.9649852514266968
+ and when the time to leave drew near--> oh || 0.9655591249465942
+ but after some thought he added--> what || 0.9657366275787354
+ and then he added--> go || 0.9661452174186707
+ i am responsible for my rose--> repeated || 0.9662258625030518
+ so all this has done you no good at all-->[EOS] || 0.9663328528404236
+ if you--> want || 0.9663344025611877
+ if you--> come || 0.9663345217704773
+ we must--> observe || 0.9663747549057007
+ it means to establish--> b || 0.9665606617927551
+ goodbye--> said || 0.9666233062744141
+ goodbye--> he || 0.9666234254837036
+ they are asleep in--> there || 0.9672771692276001
+ there is--> a || 0.9675529599189758
+ there is--> a || 0.9675529599189758
+ the wheat which is golden will remind me of you--> and || 0.9676803350448608
+ one could not die--> for || 0.9677695631980896
+ then he said--> to || 0.9678664207458496
+ of course an ordinary passer by would think that my rose--> looked || 0.9683629274368286
+ the wheat fields mean nothing to me and--> that || 0.9683757424354553
+ but the--> fo || 0.9691018462181091
+ you will understand that--> yours || 0.9691426753997803
+ and then--> he || 0.9693372845649719
+ and then--> look || 0.9693372845649719
+ good morning responded the little prince politely--> who || 0.9693897366523743
+ and if someone takes it away from them--> they || 0.9696208834648132
+ what do you do here the--> little || 0.9699357151985168
+ because it is her that i listened to grumble or boast--> or || 0.9700143933296204
+ you become forever responsible--> for || 0.9700486063957214
+ that is interesting-->[EOS] || 0.9701476097106934
+ i am responsible for my rose repeated the little prince--> so || 0.9702785015106201
+ to me--> you || 0.9702987670898438
+ to me--> you || 0.9702988266944885
+ the fox went silent--> and || 0.9704739451408386
+ then come back--> to || 0.9706245064735413
+ if the hunters danced on just any day--> all || 0.9710230827331543
+ on earth you--> see || 0.971290647983551
+ and the roses were very embarrassed-->[EOS] || 0.9713813066482544
+
+
+## 50 prefixes with the highest comosition scores:
+ men no longer have the--> time || 0.998259425163269
+ they buy things ready made in--> the || 0.9971559643745422
+ because it is her that i listened to grumble or bo-->ast || 0.9970176815986633
+ i never wished you any harm but you wanted me--> to || 0.9966007471084595
+ to me you are still only a little boy just like a hundred thousand other little--> boys || 0.9953054785728455
+ so i get a--> bit || 0.9950340390205383
+ but it happened that the little prince having walked for a--> long || 0.9948827624320984
+ that and my three volcanoes that come--> up || 0.9943985342979431
+ not even the locomotive engineer knows that said the switch-->man || 0.994336724281311
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to--> nur || 0.9942896962165833
+ and a brilliantly lit express train r-->umb || 0.9941650629043579
+ you are nothing--> yet || 0.9940923452377319
+ then he said to himself i thought i was rich with a flower that was one of a kind and all i have is a common--> rose || 0.9940122961997986
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got--> near || 0.9938640594482422
+ i would be jumping about and--> getting || 0.9935848712921143
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my bur-->row || 0.993534505367279
+ and a brilliantly lit express train rumbling like--> th || 0.9934605956077576
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to--> pret || 0.993383526802063
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to--> hum || 0.9933833479881287
+ to me you are still only a little--> boy || 0.9933263063430786
+ i am so unh-->appy || 0.9932722449302673
+ because it is for her that i killed the caterpillars except two or three to become--> but || 0.9932050704956055
+ then come back to say goodbye to me and i will make--> you || 0.9931853413581848
+ you become forever responsible for that which you have t-->amed || 0.9931293725967407
+ it would have been better--> to || 0.9931292533874512
+ all the chickens look al-->ike || 0.993114173412323
+ men no longer have the time to get--> to || 0.9931010603904724
+ and the roses were very--> embar || 0.9930934309959412
+ the wheat which is--> golden || 0.9930920004844666
+ all the chickens look alike and all the men look--> al || 0.9930741786956787
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all alike in one single--> garden || 0.9930579662322998
+ they are asleep in there or if not they are y-->aw || 0.9930543303489685
+ please t-->ame || 0.9930500388145447
+ they are as-->leep || 0.993023693561554
+ they are asleep in there or if not they are--> y || 0.9929915070533752
+ so i get a bit bored-->[EOS] || 0.9929792284965515
+ so i get a bit b-->ored || 0.9929633736610413
+ so i get a bit--> b || 0.9929181337356567
+ because it is her that i listened to grumble or boast or even--> sometimes || 0.9928901195526123
+ i never wished you--> any || 0.9927993416786194
+ i will watch you out of the corner of my eye and you will not say--> anything || 0.9927990436553955
+ and then look you see the wheat fields down--> there || 0.9927831292152405
+ i have friends to discover and many things to--> understand || 0.9927425980567932
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all al-->ike || 0.9926998615264893
+ and a brilliantly lit express train rumbling--> like || 0.9926546812057495
+ that does not make me a very--> great || 0.9926371574401855
+ i am right here the voice said under the apple--> tree || 0.99263596534729
+ all the chickens look--> al || 0.9926275610923767
+ and a brilliantly lit express train rumbling like thunder shook the switch-->man || 0.9926261305809021
+ but if you come at just any time i would never know at what time my heart should be--> ready || 0.9926246404647827
+

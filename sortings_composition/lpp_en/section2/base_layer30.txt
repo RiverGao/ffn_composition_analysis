@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ oh little prince i came to understand gradually in this way your sad--> life || 0.935330867767334
+ you might be wondering why is it that in this book there are not any other drawings as impressive as the drawing of the ba-->ob || 0.9436501264572144
+ he might call it for example astero-->id || 0.9444472193717957
+ some--> draw || 0.9460515975952148
+ i do not like to sound like a moralist but the danger of the ba-->ob || 0.9464393258094788
+ when i drew the ba-->ob || 0.9478302597999573
+ but if you were to say the planet he came from is the astero-->id || 0.9493477940559387
+ do--> not || 0.9496995210647583
+ when i drew the baob-->abs || 0.9501819610595703
+ but se-->eds || 0.9502730369567871
+ sometimes there is no harm in postponing one s work but in the case of ba-->ob || 0.9508644342422485
+ i say children beware of ba-->ob || 0.9512282013893127
+ for i do not want my--> book || 0.9513807892799377
+ oh--> i || 0.9517455697059631
+ oh--> little || 0.9517455697059631
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.9530463814735413
+ this asteroid has only been seen through a telescope once in 1909 by a tur-->k || 0.9540668725967407
+ so if you were to say to them the proof that the--> little || 0.9548109173774719
+ fortun-->ately || 0.9548788070678711
+ it is to warn my friends of the danger they have long been sk-->ir || 0.9549604058265686
+ he might call it for example asteroid 325-->[EOS] || 0.9552969336509705
+ for--> those || 0.9553498029708862
+ for--> i || 0.9553498029708862
+ for--> a || 0.9553498029708862
+ then--> it || 0.9573841691017151
+ if i have told you these details about the asteroid b 612 and revealed to you its number it is because of the--> grow || 0.9575973749160767
+ does he collect butterf-->lies || 0.9577583074569702
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa con-->str || 0.9578556418418884
+ after--> gro || 0.9581924676895142
+ there were the--> se || 0.9588454365730286
+ fortunately for the reputation of asteroid b-->  || 0.959122359752655
+ i have serious--> reason || 0.9591498970985413
+ he had neglected three little bush-->es || 0.9592389464378357
+ i would have liked to say once upon a time there was a little prince who lived on a planet not much bigger than--> himself || 0.9602530598640442
+ fortunately for the--> reputation || 0.9611013531684875
+ this--> astero || 0.9611914753913879
+ this--> time || 0.9611914753913879
+ a baob-->ab || 0.9615214467048645
+ now there were some--> terrible || 0.9616028666496277
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him a--> whole || 0.961660623550415
+ then it elongates and grows timidly at first toward the sun a charming little har-->ml || 0.9621984958648682
+ so if you were to say to them the proof that the little prince existed is that he was char-->ming || 0.9623079895973206
+ sometimes--> there || 0.9627233147621155
+ he might call it for example asteroid 3-->2 || 0.9633612036705017
+ it is to warn my friends of the--> danger || 0.9637258648872375
+ every--> day || 0.9639479517936707
+ it--> is || 0.9644878506660461
+ it--> takes || 0.9644879102706909
+ it--> is || 0.9644879102706909
+ it--> is || 0.9644879102706909
+
+
+## 50 prefixes with the highest comosition scores:
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are so large that for once i am breaking my normal reserve-->[EOS] || 0.9989461302757263
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a few steps--> and || 0.9987947344779968
+ when i drew the baobabs i was spurred on by a sense of urgency-->[EOS] || 0.9987567663192749
+ it is to warn my friends of the danger they--> have || 0.9984884858131409
+ i will make mistakes on certain important points too but you will have to forgive me that my friend never gave explanations-->[EOS] || 0.9984644651412964
+ the astronomer gave his presentation again in 1920 dressed very stylishly and this time everybody believed him-->[EOS] || 0.9982540011405945
+ i am also not sure about the color of his outfit so i fumble along somehow as best i can-->[EOS] || 0.9982438087463379
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa constrictor closed and open at the age of--> six || 0.9982094168663025
+ i will try of course to make my portraits as lifelike as possible but i am not quite sure i will succeed-->[EOS] || 0.9982050061225891
+ it would suffice to be able to go to france in one minute to be able to see a sunset-->[EOS] || 0.998188316822052
+ i am also not sure about the color of his outfit--> so || 0.998123049736023
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty in spotting them--> through || 0.9980785250663757
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from the rose bushes to which they look very similar--> when || 0.9980358481407166
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair--> a || 0.9979933500289917
+ if it is a sprig of radish or rose bush you can let it grow as it likes-->[EOS] || 0.9979441165924072
+ and if the planet is too small and if there are too many baobabs they shatter it to pieces-->[EOS] || 0.9979285597801208
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood--> and || 0.9978970289230347
+ this asteroid has only been seen through a telescope--> once || 0.9978721737861633
+ i will try of course to make my portraits as lifelike as possible--> but || 0.9978582859039307
+ i will make mistakes on certain important points--> too || 0.9978268146514893
+ so that is why i have again bought a box of paints and some pencils-->[EOS] || 0.9978264570236206
+ when i drew the baobabs i was spurred--> on || 0.9978243112564087
+ you might be wondering why is it that in this book there are not any other drawings--> as || 0.9978188872337341
+ unfortunately france is much too far away--> but || 0.9978050589561462
+ if i have told you these details about the asteroid b 61-->2 || 0.997793972492218
+ i am also not sure about the color of his outfit so i fumble along somehow--> as || 0.9977519512176514
+ he replied oh come on as if it were obvious and it took me a great mental effort to understand this problem on my own without any help-->[EOS] || 0.9977173209190369
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a few steps and you watched the twilight falling whenever you liked-->[EOS] || 0.99771648645401
+ and if the planet is too small--> and || 0.9977050423622131
+ but he remarked wisely the baobab trees before they grow up start off small-->[EOS] || 0.9976656436920166
+ the astronomer gave his presentation again in 1920 dressed very stylishly--> and || 0.9976579546928406
+ but if it is a bad plant one must pull the plant out straight away--> as || 0.9976480603218079
+ i learned this new detail on the fourth day in the morning when you said to me--> i || 0.9976122975349426
+ i will make mistakes on certain important points too but you will have to forgive me--> that || 0.9975966215133667
+ if i try to describe him here it is so as not to forget him-->[EOS] || 0.997569739818573
+ i will try of course to make my portraits as lifelike--> as || 0.9975607395172119
+ i have serious reason to believe that the planet from where the little prince came is the asteroid b 61-->2 || 0.997557520866394
+ i feel so much sadness in recounting these memories-->[EOS] || 0.9975143074989319
+ i did not understand why it was so important that sheep eat shrubs--> but || 0.9974570870399475
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody had believed him--> because || 0.9974004626274109
+ if it is a sprig of radish or rose bush you can let it grow--> as || 0.9973909258842468
+ i thus learned a second very important thing--> that || 0.9973766803741455
+ but if it is a bad plant one must pull the plant out--> straight || 0.9973710179328918
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are so large--> that || 0.9973490238189697
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from the rose bushes--> to || 0.9973207116127014
+ if one day they travel he said to me it could come in useful-->[EOS] || 0.9973167777061462
+ the lesson which i pass on--> by || 0.9973071217536926
+ i also get the size a bit wrong-->[EOS] || 0.9972959160804749
+ and if the planet is too small and if there are too many baobabs they shatter it--> to || 0.99729323387146
+ they would have to be piled up on top of each other-->[EOS] || 0.9972330927848816
+

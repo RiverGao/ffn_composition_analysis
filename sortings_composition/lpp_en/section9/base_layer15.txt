@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.8516592383384705
+ he got a bit discou-->rag || 0.9011683464050293
+ for others who are schol-->ars || 0.9075747132301331
+ if a child then comes to you if he laughs if he has golden hair if he does not respond when questioned--> you || 0.951981246471405
+ little fellow i--> said || 0.9530676603317261
+ if you love--> a || 0.9556933641433716
+ i am telling you this it is also because of the snake-->[EOS] || 0.9575033187866211
+ even as i d-->ug || 0.9596335887908936
+ how did you--> know || 0.9599446654319763
+ one evening he--> would || 0.9601791501045227
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fount-->ain || 0.9602205157279968
+ i have your sheep and i have the box for the sheep--> and || 0.9610303640365601
+ i will have played a dirty trick on you-->[EOS] || 0.9610595107078552
+ the little prince--> spoke || 0.9616447687149048
+ the little prince--> replied || 0.9616447687149048
+ it is the same landscape as the one on the previous--> page || 0.9616937637329102
+ right there facing the little prince was one of those yellow sn-->akes || 0.9617844820022583
+ it is here that the--> little || 0.9623767137527466
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear--> the || 0.9626894593238831
+ it is true that they have no poison left for--> a || 0.9627159833908081
+ i was sad but i--> told || 0.9628528952598572
+ there was nothing but a yellow--> flash || 0.9629505276679993
+ he said to me i am glad that you have found what was wrong with your engine-->[EOS] || 0.9629612565040588
+ right there facing the little prince was one of those--> yellow || 0.9630904793739319
+ he made no answer to my question but he--> added || 0.9634641408920288
+ all the stars--> will || 0.9636505842208862
+ all the stars--> are || 0.9636507034301758
+ all the stars--> will || 0.9636507034301758
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.9636643528938293
+ when i drew the muzzle for the little prince--> i || 0.9638148546218872
+ herein lies a great mystery for you who also love--> the || 0.9640498757362366
+ he looked at me gravely and put his--> arms || 0.9641190767288208
+ but something--> re || 0.9641725420951843
+ it will be as if i would given you--> instead || 0.9642512798309326
+ if you love a flower that is on--> a || 0.9644143581390381
+ again i felt myself fro-->zen || 0.9645158052444458
+ if a child--> then || 0.9645386338233948
+ and i love to--> listen || 0.964553952217102
+ he said you know my flower i am responsible for--> her || 0.964611828327179
+ he made no answer to my question but--> he || 0.9647278785705566
+ so you will tell them--> yes || 0.9649377465248108
+ and no grownup will ever--> understand || 0.9649818539619446
+ i was just coming to tell him that against all odds my work had--> been || 0.9649931192398071
+ i then lowered my eyes to the--> foot || 0.9650896191596985
+ look at this landscape carefully so as to be sure to recognize--> it || 0.9651159048080444
+ you will have five hundred million little bells and i will--> have || 0.9651923179626465
+ all the stars will pour--> out || 0.9651926159858704
+ he would never--> have || 0.965220034122467
+ he hesitated a bit and then stood back--> up || 0.9652666449546814
+ if a child then comes to you if he laughs if he has golden hair if--> he || 0.9652727246284485
+
+
+## 50 prefixes with the highest comosition scores:
+ other times i tell myself everyone is absent--> mind || 0.991134762763977
+ when you look at the sky at night because i will be living on one of them because i will be la-->ughing || 0.9902785420417786
+ it is here--> that || 0.9902472496032715
+ and she is so na-->ive || 0.9899016618728638
+ save me--> from || 0.9897595643997192
+ look at this landscape carefully so as--> to || 0.9892926216125488
+ i was just coming to tell him that against all--> odd || 0.9890688061714172
+ and your friends will be very surprised to see you la-->ughing || 0.989068329334259
+ and he took me by--> the || 0.9890195727348328
+ i--> have || 0.989000678062439
+ i--> reached || 0.989000678062439
+ i--> then || 0.989000678062439
+ i--> was || 0.989000678062439
+ i--> felt || 0.989000678062439
+ i--> mean || 0.989000678062439
+ i--> continued || 0.9890006184577942
+ i--> was || 0.9890006184577942
+ i--> still || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> want || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> sat || 0.9890006184577942
+ i--> waited || 0.9890006184577942
+ i--> held || 0.9890006184577942
+ i--> could || 0.9890006184577942
+ i--> could || 0.9890006184577942
+ i--> felt || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> had || 0.9890006184577942
+ i--> can || 0.9890006184577942
+ i--> know || 0.9890004992485046
+ i--> said || 0.9890004992485046
+ i--> know || 0.9890004992485046
+ i--> fro || 0.9890004992485046
+ i--> had || 0.9890004992485046
+ i--> know || 0.9890004992485046
+ i--> said || 0.9890004992485046
+ i--> said || 0.9890004992485046
+ i--> said || 0.9890004992485046
+ i--> am || 0.9890004992485046
+ i--> was || 0.9890004992485046
+ it is like with the water-->[EOS] || 0.9888230562210083
+ and if you happen to pass--> by || 0.9888032078742981
+ the compan-->ions || 0.9887334704399109
+ then--> he || 0.988605260848999
+

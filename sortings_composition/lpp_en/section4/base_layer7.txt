@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ it is to raise--> in || 0.903836190700531
+ but you will pardon him on each occasion to con-->serve || 0.9081762433052063
+ it is for saluting-->[EOS] || 0.912490725517273
+ we do not--> know || 0.9197386503219604
+ this is more fun than the visit to the--> king || 0.9205315709114075
+ so he began by visiting them--> to || 0.9216525554656982
+ but there--> is || 0.923927366733551
+ exactly one must ask of each person that which they can--> give || 0.9252718091011047
+ the king hast-->ily || 0.9253554344177246
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up--> his || 0.9269614219665527
+ i order you to sit down replied the king who majestically gathered in a fold of his er-->mine || 0.9270791411399841
+ the first one was--> inhab || 0.9272251129150391
+ authority is based above all on--> reason || 0.9273565411567688
+ if he had held--> it || 0.927786111831665
+ authority is based--> above || 0.9279600977897644
+ and the little--> prince || 0.9280034899711609
+ and the little--> prince || 0.9280036091804504
+ and the little--> prince || 0.9280038475990295
+ conceited people never hear anything but--> pra || 0.9281855225563049
+ if your maj-->esty || 0.9282544851303101
+ i have no space for a carriage and it tires me to--> walk || 0.929003894329071
+ he did not know that for--> k || 0.9293968677520752
+ but the little prince was astonished the--> planet || 0.9298095703125
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most intelligent man on the--> planet || 0.9299598336219788
+ i have the right to demand obedience because my orders are--> reasonable || 0.9304371476173401
+ it seems to me that conditions are favou-->rable || 0.9305077195167542
+ if he had held it himself he would--> have || 0.9306209683418274
+ the next--> planet || 0.9307121634483337
+ but the little--> prince || 0.9307261109352112
+ but the little--> prince || 0.9307264685630798
+ if your majesty wishes to be promptly obeyed he should be able to give--> me || 0.9315497279167175
+ he was an absolute monarch but because--> he || 0.9315757155418396
+ if i ordered--> a || 0.9315919280052185
+ if i ordered--> a || 0.9315919280052185
+ then my sun-->set || 0.9318137764930725
+ after five minutes of--> this || 0.9321553111076355
+ if he had held it himself he would have been able to watch not forty--> four || 0.9322056174278259
+ i have come on--> a || 0.9323315620422363
+ of course the--> king || 0.9324451088905334
+ ashamed of what inquired the--> little || 0.9324811100959778
+ for the king fundamentally insisted that his authority be--> respect || 0.9325003027915955
+ the king--> was || 0.9330011010169983
+ the king--> answered || 0.9330012798309326
+ the king--> hast || 0.9330012798309326
+ the king--> said || 0.9330013394355774
+ the king--> went || 0.9330013394355774
+ if i ordered a general he would often say if i ordered a general to change--> himself || 0.933157742023468
+ ah--> here || 0.9333105087280273
+ ah--> here || 0.9333105087280273
+ ah--> then || 0.9333105683326721
+
+
+## 50 prefixes with the highest comosition scores:
+ the conceited man raised his hat in a modest salute-->[EOS] || 0.9776046276092529
+ as the king made no answer--> the || 0.9771944880485535
+ the little prince looked around him for a place to sit--> but || 0.9762912392616272
+ approach so that i may see you better said the king who was very proud--> to || 0.976123034954071
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird--> and || 0.9759974479675293
+ hum hum that will be about about that will be this evening about--> twenty || 0.9757799506187439
+ the king said to--> him || 0.9757792353630066
+ he found himself in the neighborhood of the asteroids 325-->  || 0.9757654666900635
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and a number of full--> bott || 0.9757422208786011
+ it is contrary to etiquette to yawn in the presence--> of || 0.9755976796150208
+ do it for me-->[EOS] || 0.9754424691200256
+ approach so that i may see you--> better || 0.9750943183898926
+ ah here comes a subject exclaimed the--> king || 0.9748319983482361
+ but the conceited man did not hear him-->[EOS] || 0.974588930606842
+ do not go said the--> king || 0.9745485186576843
+ yes said the little prince-->[EOS] || 0.9744591116905212
+ do that for me-->[EOS] || 0.9744430184364319
+ the conceited--> man || 0.9743920564651489
+ the conceited--> man || 0.9743918776512146
+ the conceited--> man || 0.9743918776512146
+ the conceited--> man || 0.9743918776512146
+ to admire means to--> recogn || 0.974252462387085
+ the little prince--> said || 0.9741525053977966
+ the little prince--> ya || 0.9741525053977966
+ the little prince--> asked || 0.9741523861885071
+ the little prince--> looked || 0.9741523861885071
+ the little prince--> said || 0.9741523861885071
+ the little prince--> cla || 0.9741523861885071
+ hum hum replied the king who consulted a bulky almanac-->[EOS] || 0.9741138219833374
+ he said to the drinker who he found sitting--> in || 0.9740806818008423
+ ah then the king said i order you to--> ya || 0.9740281105041504
+ he said to--> the || 0.9736015200614929
+ he said to--> the || 0.9736014008522034
+ he said to--> himself || 0.9736011028289795
+ he said to--> himself || 0.9736011028289795
+ it is much more difficult to judge oneself than to judge someone else-->[EOS] || 0.9735428094863892
+ ah here comes a visit from an admirer--> exclaimed || 0.9734106063842773
+ it is contrary to etiqu-->ette || 0.9733795523643494
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us--> would || 0.9732614159584045
+ sire he said to him excuse my asking you--> a || 0.9731919765472412
+ when will that be in-->quired || 0.9730913043022156
+ over everything the king made a subtle gesture pointing out his planet the other planets--> and || 0.9730599522590637
+ if he had held it himself he would have been able--> to || 0.9730448722839355
+ the little prince said to himself and he began again to clap his hands one--> against || 0.9730080366134644
+ i have no space for a carriage and it tires me to walk-->[EOS] || 0.9730014801025391
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of--> us || 0.972942054271698
+ but you will pardon him on--> each || 0.9728061556816101
+ the conceited man raised his hat in--> a || 0.9727994203567505
+ ah here comes a subject exclaimed the king when--> he || 0.9727751016616821
+ do not go said the king who was very proud--> of || 0.9727742671966553
+

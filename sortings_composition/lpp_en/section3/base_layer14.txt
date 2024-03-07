@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8518128395080566
+ i should have seen the tendern-->ess || 0.8562486171722412
+ we must look at them and breat-->he || 0.8909189105033875
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.8964624404907227
+ then one morning exactly at sunr-->ise || 0.8964961767196655
+ she overwh-->el || 0.9041398763656616
+ i should--> have || 0.940226674079895
+ i should--> have || 0.940226674079895
+ i should--> never || 0.9402267336845398
+ i should--> not || 0.9402267336845398
+ it seems that--> they || 0.9424772262573242
+ he is--> a || 0.9434909224510193
+ if a sheep e-->ats || 0.9441626071929932
+ you should never--> listen || 0.9465692043304443
+ i was upset over the b-->olt || 0.9466478824615479
+ he also owned an ext-->inct || 0.9469780325889587
+ a what-->[EOS] || 0.9473932385444641
+ the little prince who witnessed the--> appearance || 0.9481003284454346
+ she--> was || 0.9491809010505676
+ she--> over || 0.9491809010505676
+ she--> did || 0.9491809010505676
+ she--> would || 0.9491809010505676
+ she--> arranged || 0.9491809606552124
+ she--> dressed || 0.9491810202598572
+ she--> said || 0.9491810202598572
+ she--> added || 0.9491810202598572
+ she--> had || 0.9491810202598572
+ she--> could || 0.9491810202598572
+ he has never--> loved || 0.9495723843574524
+ he has never--> sm || 0.9495725035667419
+ he has never--> looked || 0.9495725035667419
+ he has never--> done || 0.9495726823806763
+ and if i myself know of a unique flower which grows nowhere but on--> my || 0.9509508013725281
+ is--> that || 0.9514971375465393
+ is--> it || 0.9514972567558289
+ is--> the || 0.9514972567558289
+ and after having worked with such care and attention to detail she said with a yawn oh i--> have || 0.9518862962722778
+ for millions of years the sheep have--> e || 0.9528319835662842
+ as--> for || 0.9529838562011719
+ on the fifth day again thanks to the sheep this secret of the--> little || 0.9532309770584106
+ he asked ab-->rupt || 0.9533178210258484
+ she did not--> want || 0.953363299369812
+ he stood there all bewildered the d-->ome || 0.953601598739624
+ i think--> that || 0.9539684057235718
+ matters--> of || 0.9543461799621582
+ he watched me hammer in hand and my fingers black with grease--> lean || 0.9543667435646057
+ he shook his golden--> curl || 0.9544647336006165
+ safe in her green chamber she chose her colors carefully-->[EOS] || 0.9548814296722412
+ a sheep e-->ats || 0.9552959203720093
+ i said the flower that you love is not in--> danger || 0.9553209543228149
+
+
+## 50 prefixes with the highest comosition scores:
+ it is tires-->ome || 0.9885735511779785
+ the little prince also pulled--> up || 0.9884930849075317
+ you would not happen to--> have || 0.9884543418884277
+ i should have her--> jud || 0.9884093999862671
+ he has never done anything but sums and all day--> long || 0.9883415102958679
+ i was upset over the bolt and i said--> the || 0.9882753491401672
+ he did not understand this quiet--> sweet || 0.9882466793060303
+ they think themselves--> fright || 0.9882413744926453
+ there was on a star on a planet--> my || 0.9880098700523376
+ and after having worked with such care and attention to detail she said--> with || 0.9876433610916138
+ then one morning exactly at sunrise she suddenly showed herself-->[EOS] || 0.987517774105072
+ i will draw you a--> ra || 0.9873400330543518
+ i will draw you a--> m || 0.9873400330543518
+ safe in her green chamber she chose her colors--> carefully || 0.9871688485145569
+ the flower replied sweet-->ly || 0.9870311617851257
+ she arranged her--> pet || 0.9869484305381775
+ and you actually believe--> that || 0.9869449734687805
+ he carefully swe-->pt || 0.9869349002838135
+ i will draw you--> a || 0.9865191578865051
+ i will draw you--> a || 0.9865191578865051
+ and it is not a matter of consequence to try to understand why they take so--> much || 0.9864566922187805
+ volcanic eruptions are like fires in a chim-->ney || 0.9864394068717957
+ he shook his golden curl-->s || 0.9863914251327515
+ but she interrupted herself-->[EOS] || 0.986377477645874
+ but she interrupted--> herself || 0.9862508773803711
+ i was very busy trying to unscrew a bolt in my engine that had--> got || 0.986201286315918
+ you would not happen to have--> a || 0.9861665964126587
+ is that not--> important || 0.9861481189727783
+ he asked abruptly without anything leading up to it as if it was the result of a long silent--> med || 0.9861172437667847
+ he watched me hammer--> in || 0.9860977530479431
+ i was very wor-->ried || 0.9859771132469177
+ this business of the claws which annoyed me so much should only have filled my heart--> with || 0.9859698414802551
+ i am busy with matters--> of || 0.9859523177146912
+ am i not-->[EOS] || 0.9859364032745361
+ if someone loves a flower of which--> just || 0.9858899116516113
+ is the war between the flowers and sheep not--> important || 0.9858400821685791
+ the little prince interrupted--> my || 0.9856125116348267
+ at that moment i was thinking to myself if this bolt will not budge i will knock it--> out || 0.9855809211730957
+ he watched me hammer in hand and my fingers black with grease leaning--> on || 0.9855515956878662
+ i did not know the answer-->[EOS] || 0.985524594783783
+ even flowers--> that || 0.9855206608772278
+ flowers have been growing--> th || 0.9855006337165833
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without realising what he is--> done || 0.9854758381843567
+ but after a moment of silence--> he || 0.9854713678359985
+ he also owned an extinct volcano but as he used to--> say || 0.9854475259780884
+ but all these familiar tasks seemed on that morning--> very || 0.9854190349578857
+ the little prince could not restrain--> his || 0.9853455424308777
+ on our earth we are obviously much too small to clean--> out || 0.9853343963623047
+ then one morning exactly--> at || 0.9852825403213501
+ on the morning of his departure he put his planet in perfect--> order || 0.9852814674377441
+

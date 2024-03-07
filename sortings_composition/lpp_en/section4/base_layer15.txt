@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he should be able--> for || 0.8574892282485962
+ i admire you said the little prince shrugg-->ing || 0.8739173412322998
+ from time to--> time || 0.8892892599105835
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.8925601840019226
+ if he had held it himself he would have been able--> to || 0.8996124267578125
+ and what--> should || 0.9526405334472656
+ do not go said the king who was very proud--> of || 0.952687680721283
+ the little prince said to himself and he began again to clap--> his || 0.953437089920044
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did not obey me--> it || 0.9539991021156311
+ from time to time you will condemn him to death thus his--> life || 0.9544287323951721
+ approach so that i may see you better said the king who was very proud--> to || 0.954886257648468
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received--> which || 0.9552455544471741
+ sire over what do you--> rule || 0.9562431573867798
+ the second planet was inhabited by a conceited man-->[EOS] || 0.9566364884376526
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the--> general || 0.9572872519493103
+ but the conceited man did not hear him-->[EOS] || 0.9574635028839111
+ do you really--> adm || 0.9594151377677917
+ because to conceited men all other men--> are || 0.959475576877594
+ then my sunset the little prince reminded him who never forgot a--> question || 0.9599334001541138
+ then you shall judge--> yourself || 0.9599575996398926
+ sire he said to him exc-->use || 0.96021968126297
+ the little prince said to himself as he--> continued || 0.9603721499443054
+ if you ordered your people to go and throw--> themselves || 0.9605986475944519
+ sire over what do you rule-->[EOS] || 0.9606109261512756
+ because to conceited men all other--> men || 0.960767924785614
+ ah here comes a subject exclaimed--> the || 0.9607996940612793
+ over what could this king really--> rule || 0.9611408710479736
+ he was an absolute monarch but because he--> was || 0.9613003730773926
+ the little prince--> asked || 0.9616445302963257
+ the little prince--> ya || 0.9616445899009705
+ the little prince--> said || 0.9616446495056152
+ the little prince--> cla || 0.9616446495056152
+ the little prince--> said || 0.96164470911026
+ the little prince--> looked || 0.96164470911026
+ to admire means to recognise that i am the most handsome the best dressed the richest and--> the || 0.9617121815681458
+ if you succeed in judging yourself rightly then you are truly wise-->[EOS] || 0.9618393182754517
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if--> the || 0.962253987789154
+ the king hastily--> called || 0.9622570276260376
+ to forget that i am ashamed confessed the drinker lowering his head-->[EOS] || 0.9624530076980591
+ do you really admire me a lot-->[EOS] || 0.9624598026275635
+ the conceited man raised his--> hat || 0.9624799489974976
+ oh really said the little prince who did not--> understand || 0.962615430355072
+ and as he felt a bit sad as he remembered his forsaken little planet--> he || 0.9628685712814331
+ then my sunset the little prince reminded him who never--> forgot || 0.963144838809967
+ ah here comes a visit from an admirer exclaimed the conceited man--> from || 0.9632189869880676
+ i shall command it but i shall wait according to my science of government until conditions--> are || 0.9633040428161621
+ minister of of justice-->[EOS] || 0.9634559750556946
+ sire over what--> do || 0.9637235403060913
+ oh but i have already looked said the little prince--> who || 0.963994026184082
+ because to conceited men--> all || 0.9640151858329773
+
+
+## 50 prefixes with the highest comosition scores:
+ for the king fundament-->ally || 0.9897428750991821
+ if i ordered a general to fly from one flower to another like a but-->ter || 0.9895322918891907
+ but there is nobody here--> to || 0.9894819855690002
+ oh really said--> the || 0.9893646240234375
+ ash-->amed || 0.9890406727790833
+ ash-->amed || 0.9890404939651489
+ i--> shall || 0.989000678062439
+ i--> order || 0.989000678062439
+ i--> adm || 0.989000678062439
+ i--> can || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> hear || 0.9890006184577942
+ i--> would || 0.9890006184577942
+ i--> make || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> replied || 0.9890004992485046
+ i--> have || 0.9890004992485046
+ i--> have || 0.9890004992485046
+ i--> am || 0.9890004992485046
+ i--> have || 0.9890004992485046
+ i--> order || 0.9890004992485046
+ i--> can || 0.9890004992485046
+ to them all men--> are || 0.988895833492279
+ then--> my || 0.988605260848999
+ then--> you || 0.988605260848999
+ do you really adm-->ire || 0.9884662628173828
+ but there is nobody--> here || 0.9884031414985657
+ to adm-->ire || 0.9883802533149719
+ the first one--> was || 0.9883138537406921
+ there was no one there--> either || 0.9883005619049072
+ i order you to sit down replied the king who majestically gathered in a fold of his ermine mantle-->[EOS] || 0.9882540702819824
+ why--> are || 0.9881992340087891
+ i have not seen anyone--> y || 0.9881283640861511
+ i have no space--> for || 0.9880774021148682
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up his courage to ask the king a--> favour || 0.9880324006080627
+ if you succeed in judging yourself rightly then--> you || 0.9880033731460571
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was tired he ya-->wn || 0.9879408478736877
+ may i--> sit || 0.9879282116889954
+ because to conce-->ited || 0.9878409504890442
+ good morning said--> the || 0.9878305196762085
+ the little prince looked around him for a place to sit but--> the || 0.9877904653549194
+ it is much more difficult to judge oneself than to judge someone--> else || 0.9876950979232788
+ it is contrary to etiquette to ya-->wn || 0.9876489043235779
+

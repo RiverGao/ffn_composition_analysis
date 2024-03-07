@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then one morning exactly at sunr-->ise || 0.9261854290962219
+ he watched me hammer in--> hand || 0.9282759428024292
+ but if the--> sheep || 0.9311872720718384
+ even flowers--> that || 0.9338039755821228
+ if they--> are || 0.937228262424469
+ she arranged--> her || 0.938085675239563
+ and like that she--> had || 0.9386026263237
+ they reassure--> themselves || 0.9395822882652283
+ but all--> these || 0.9408477544784546
+ but she--> interrupted || 0.9425529837608337
+ a what-->[EOS] || 0.9440307021141052
+ and if i--> myself || 0.944180428981781
+ that made--> me || 0.9449454545974731
+ he owned--> two || 0.9451174139976501
+ night--> had || 0.9455336332321167
+ on the fifth day again thanks to the--> sheep || 0.9455826878547668
+ and i--> was || 0.9455834031105042
+ i should have seen the tendern-->ess || 0.9459291696548462
+ i will have to endure--> two || 0.9460259079933167
+ so the little prince--> despite || 0.9462345242500305
+ is the war between the flowers and sheep not--> important || 0.9463581442832947
+ but the animals-->[EOS] || 0.9464477896690369
+ and you think that is not--> important || 0.9468363523483276
+ he also--> owned || 0.9469715356826782
+ if they are well clean-->ed || 0.9470868110656738
+ on the fifth day again thanks to the sheep--> this || 0.9476191997528076
+ for millions of years the sheep--> have || 0.9476200342178345
+ what are the--> th || 0.9476351737976074
+ what are the--> th || 0.9476351737976074
+ he carefully swept out his--> active || 0.9477299451828003
+ but how moving--> she || 0.9477691054344177
+ there had always been very simple flowers on the planet of the little prince decorated with a single row--> of || 0.9480452537536621
+ we must look at them and breat-->he || 0.9484424591064453
+ let the--> d || 0.9485583305358887
+ it is so secretive the--> land || 0.9488106966018677
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.9488433599472046
+ and it--> is || 0.9492841362953186
+ one day for example speaking of her--> four || 0.9494228959083557
+ is--> that || 0.9494426250457764
+ is--> it || 0.9494426846504211
+ is--> the || 0.9494427442550659
+ safe in her--> green || 0.949562668800354
+ flowers have thorn-->s || 0.9496541619300842
+ he had--> taken || 0.9500603079795837
+ if they are well--> clean || 0.9501881003379822
+ the little prince who witnessed the appearance of a huge bud felt--> that || 0.950732946395874
+ yes even--> flowers || 0.9507656097412109
+ volcanic--> er || 0.9509527683258057
+ on our earth we are--> obviously || 0.9510281085968018
+ as for the large--> animals || 0.9513406157493591
+
+
+## 50 prefixes with the highest comosition scores:
+ no no i do not believe it at--> all || 0.9999563097953796
+ and if i myself know of a unique flower which grows now-->here || 0.9999499917030334
+ as for the large animals i am not at--> all || 0.9998549222946167
+ and if i myself know of a unique flower which grows--> now || 0.9997204542160034
+ the little prince was now--> white || 0.9996505379676819
+ but the shrub soon stopped growing and began to--> produce || 0.999113917350769
+ she overwhel-->med || 0.9988284111022949
+ the thorns are of no use at--> all || 0.9985916018486023
+ he asked abrupt-->ly || 0.9976404309272766
+ but this one had sprouted one day from a seed blow-->n || 0.9955573081970215
+ he looked at me d-->um || 0.9951195120811462
+ even flowers that have th-->orn || 0.995082676410675
+ i was just going--> to || 0.9948310852050781
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him--> happy || 0.9946113228797913
+ yes even flowers that have th-->orn || 0.9945041537284851
+ flowers have th-->orn || 0.994303822517395
+ i should have seen the tenderness behind her contriv-->ances || 0.9941991567611694
+ if they are well cleaned out volcanoes burn slowly and steadily without any eru-->ptions || 0.9941702485084534
+ one day for example speaking of her four thorns she told the little prince let them come the tigers with their cla-->ws || 0.9941573739051819
+ on our earth we are obviously much too small to clean out our vol-->cano || 0.9941126704216003
+ but after a moment--> of || 0.9939412474632263
+ i think that for his escape he took advantage of a migration of a f-->lock || 0.9938753843307495
+ if someone loves a flower of which just one specimen--> exists || 0.9938700199127197
+ that made me feel a little ash-->amed || 0.9937758445739746
+ she would only want to appear in the full rad-->iance || 0.9932456612586975
+ but this one had sprouted one day from a seed blown in from--> no || 0.9932235479354858
+ i said the flower that you--> love || 0.9930963516235352
+ i felt very awk-->ward || 0.9930501580238342
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it--> is || 0.9930327534675598
+ in the evening you will put me under a glass d-->ome || 0.9929578900337219
+ this business of the claws which annoyed me so much should only have filled my heart with tend-->ern || 0.9929161071777344
+ the little prince also pulled up with a hint of sadness the last little shoots of the ba-->ob || 0.9927499294281006
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had--> watched || 0.9927299618721008
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he--> looks || 0.9927254915237427
+ and as he watered the--> flower || 0.9927114248275757
+ one day for example speaking of her four thorns she told the little prince let them come the tig-->ers || 0.992687463760376
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of pet-->als || 0.9926285743713379
+ we must look at them and breathe their fragr-->ance || 0.9926097393035889
+ he has never sm-->elled || 0.9925981760025024
+ if someone loves a flower of which just one spec-->imen || 0.9925172328948975
+ you are--> so || 0.9925150871276855
+ volcanic eru-->ptions || 0.9924776554107666
+ they think themselves frightful with their th-->orn || 0.9924405813217163
+ i will have to endure two or three caterp-->ill || 0.9924272894859314
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the ext-->inct || 0.9924190044403076
+ the little prince guessed easily enough that she was not very mod-->est || 0.9924036860466003
+ if someone loves a flower of which just one specimen exists amongst the--> millions || 0.9923872947692871
+ and naively she showed her four th-->orn || 0.9923717379570007
+ then one morning exactly--> at || 0.9923499226570129
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he looks--> at || 0.9923426508903503
+

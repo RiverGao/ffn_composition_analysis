@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the astronomer gave his presentation again in 1-->9 || 0.877248227596283
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catastrop-->he || 0.8784973621368408
+ this asteroid has only been seen through a telescope once in 1-->9 || 0.8848335146903992
+ then it elongates and grows timidly at first toward the sun a charming little harml-->ess || 0.8905808925628662
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.890849769115448
+ it would suffice to be able--> to || 0.8921329975128174
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.8988945484161377
+ i will try of course to make my portraits as lifeli-->ke || 0.9034822583198547
+ does he collect butterf-->lies || 0.9053829312324524
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.9230587482452393
+ if i have told you these details about the--> astero || 0.9434284567832947
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are--> so || 0.9434474110603333
+ i knew that apart from the--> large || 0.9434844255447388
+ and indeed--> on || 0.9435620307922363
+ for a long time your--> only || 0.9438831210136414
+ when you talk to them about--> a || 0.9439771771430969
+ i do not like to sound like a moralist but the--> danger || 0.9440330862998962
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on his--> people || 0.9443216323852539
+ every day i would learn something about his--> planet || 0.9443308115005493
+ he had neglected three--> little || 0.9443639516830444
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody had believed him because--> of || 0.9447723627090454
+ there were the--> se || 0.9447733163833618
+ it would suffice to be able to go to france in one minute to be able--> to || 0.944778323173523
+ but if you were to say the planet he--> came || 0.9448187351226807
+ indeed--> when || 0.9449050426483154
+ i am also not sure about the--> color || 0.9452416300773621
+ this time again it was thanks to the sheep because the--> little || 0.945337176322937
+ but if you were to say the planet he came from is the asteroid b 612 they would be convinced and leave you in peace and--> spare || 0.9453378319740295
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it that i have worked so hard on this--> drawing || 0.9453598856925964
+ it was in this way that on the third day i came to know of the tragedy of the--> ba || 0.9454044699668884
+ i have serious reason to believe that the--> planet || 0.945611834526062
+ you might be wondering why is it that in this book there are not any other drawings as impressive as the drawing of the ba-->ob || 0.9456151127815247
+ unfortunately france--> is || 0.945747971534729
+ not everyone has had a friend and if i forgot him i could become like the--> grow || 0.9457647204399109
+ they are--> like || 0.9457682967185974
+ but of course those--> of || 0.945821225643158
+ others--> do || 0.9458556175231934
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from--> good || 0.946013867855072
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an--> astero || 0.9460458159446716
+ but if it is--> a || 0.9460508227348328
+ the lesson which i pass on by this--> means || 0.9460557699203491
+ wait until the--> sun || 0.9460591673851013
+ unfortunately--> fran || 0.9463075995445251
+ fortunately for the reputation of asteroid b-->  || 0.9463189244270325
+ some--> draw || 0.9463316202163696
+ you might be wondering why is it that in this book there are--> not || 0.9463985562324524
+ but if you were to say the--> planet || 0.9464506506919861
+ it is true is not it that--> sheep || 0.9465266466140747
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able to picture this--> house || 0.9465500116348267
+ the astronomer gave his--> presentation || 0.9465630650520325
+
+
+## 50 prefixes with the highest comosition scores:
+ i did not understand why it was so--> important || 0.9651919603347778
+ i used to know a planet inhabited--> by || 0.9639814496040344
+ you seemed surprised at first and then you chuckled--> at || 0.9635406732559204
+ when i drew the baobabs i was spurred--> on || 0.9635081887245178
+ so that is why i have again bought a box of paints and some penc-->ils || 0.963445782661438
+ if you said to the grownups i saw a beautiful red brick house with geraniums--> by || 0.9632245898246765
+ unfortunately france is much too--> far || 0.9631841778755188
+ grownu-->ps || 0.9628072381019592
+ grownu-->ps || 0.9628072381019592
+ i would have liked to say once upon a time there was a little prince who lived on a planet not much bigger--> than || 0.9626477360725403
+ it is to warn my friends of the danger they have long been skirting--> like || 0.9625609517097473
+ the information came slowly as his thoughts wandered-->[EOS] || 0.9623158574104309
+ how many brothers does--> he || 0.9623087048530579
+ i will try of course to make my portraits as lifelike as possible but i am not quite--> sure || 0.9621842503547668
+ i do not like to sound like a--> moral || 0.9619812965393066
+ there were the seeds--> of || 0.9618427753448486
+ i thus learned a second very important thing that his home planet--> was || 0.9617894887924194
+ it is hard to take up drawing again at my age when i have only--> ever || 0.9616944193840027
+ i also get the size a bit--> wrong || 0.9616466164588928
+ the idea of the herd of eleph-->ants || 0.9615793228149414
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are so large that for once i am breaking my normal--> reserve || 0.9615733027458191
+ not everyone has had a friend and if i forgot him i could become like the grownu-->ps || 0.9615550637245178
+ then it elongates--> and || 0.9615544676780701
+ i will try of course to make my portraits as lifelike--> as || 0.961436927318573
+ the astronomer gave his presentation again in 1920 dressed very sty-->lish || 0.9614241719245911
+ they sleep secretly deep in the earth until on a whim--> one || 0.961389422416687
+ you might be wondering--> why || 0.9612017273902893
+ that is right but why do you want the sheep to eat the little baob-->abs || 0.9611647129058838
+ if you said to the grownups i saw a beautiful red brick--> house || 0.9611369371414185
+ i also get the size a bit wrong-->[EOS] || 0.9611126780509949
+ i have serious reason to believe that the planet from where--> the || 0.9610744118690491
+ sometimes there is no harm in postpon-->ing || 0.9610595107078552
+ i knew that apart from the large planets like the earth jup-->iter || 0.961046576499939
+ i have serious reason to believe that the planet from where the little prince came is the asteroid--> b || 0.9610370993614197
+ after grooming oneself in the morning the planet must be carefully groomed-->[EOS] || 0.9610363245010376
+ unfortunately france is much too far away--> but || 0.9610025882720947
+ i feel so--> much || 0.9609646797180176
+ perhaps he thought i was just like--> himself || 0.9609271287918091
+ not everyone has had a friend and if i forgot--> him || 0.9609224796295166
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it that i have worked so hard--> on || 0.9609101414680481
+ you might be wondering why is it that in this book there are not any other drawings as impressive as the drawing of the baob-->abs || 0.9608749151229858
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him a whole herd of elephants--> the || 0.9607610106468201
+ perhaps he thought i was just--> like || 0.9607539176940918
+ i will try of course to make my portra-->its || 0.9607484340667725
+ the soil of the planet was infested--> with || 0.9607222676277161
+ grownups are like--> that || 0.9607106447219849
+ i would have liked to begin this story in the same way as a fairy tale-->[EOS] || 0.9606537222862244
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catast-->rop || 0.9606406092643738
+ i would have liked to begin this story in the same way--> as || 0.9605972170829773
+ this asteroid has only been seen through a telescope once in 1909 by a turkish--> astronom || 0.9605920910835266
+

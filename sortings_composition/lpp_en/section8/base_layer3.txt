@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ your fox his ears they look a bit like horns and--> they || 0.7796773910522461
+ we were at the eighth day since my accident in the desert and--> i || 0.791668176651001
+ everything has been prepared the pulley the bucket and--> the || 0.7916738986968994
+ i do not know how to draw anything except boa constrictors closed and--> open || 0.7991026043891907
+ i have nothing left to drink and--> i || 0.8076697587966919
+ he laughed took the rope and--> put || 0.8148337602615356
+ the song of the pulley continued in my ears and--> in || 0.8151453733444214
+ and yet what they are looking for could be found in a single rose or--> in || 0.816238522529602
+ and the little prince added but the--> eyes || 0.8167441487312317
+ and i knew then what he--> had || 0.8232236504554749
+ it is absurd to look for a well at random in the immensity of the desert but--> we || 0.8237096667289734
+ he did not follow my reasoning and--> he || 0.8239173889160156
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as--> i || 0.8261560797691345
+ and i added hesitantly perhaps because of the--> anni || 0.8266884684562683
+ and yet what they are looking for could be found in--> a || 0.8269028663635254
+ we were at the eighth day since my accident in the desert and i had listened to the--> story || 0.8273653388023376
+ it is absurd to look for a well at random in the immensity of the desert but we--> started || 0.828972339630127
+ i was surprised to suddenly understand this mysterious radiation of the--> s || 0.8292101621627808
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is his--> dev || 0.8301094174385071
+ so they rush about and go in circles and he added it--> is || 0.8321850299835205
+ your fox his ears they look a bit like horns and they--> are || 0.8328707814216614
+ the song of the pulley continued in my ears and in the still trembling water i could see the--> sun || 0.8336164355278015
+ the little prince saw them and laughed as--> he || 0.834237813949585
+ a gust of wind can put them--> out || 0.8348654508590698
+ as the little prince fell asleep i took him in my arms and--> set || 0.8350591659545898
+ what makes the desert beautiful said the little prince is that somewhere it--> h || 0.835150420665741
+ we have woken up the well and it--> is || 0.8362583518028259
+ this one looked like a village well but there--> was || 0.8365973830223083
+ when i was a little boy the lights of the christmas tree the music of the mid-->night || 0.8371720314025879
+ i sat down beside him and after a silence he--> spoke || 0.8374841809272766
+ men said the little prince stuff themselves into express trains but they--> do || 0.8377239108085632
+ they--> do || 0.838226854801178
+ and yet what they--> are || 0.8396570682525635
+ the sand at sunrise is--> the || 0.8412560224533081
+ so they rush about and go in circles and--> he || 0.841280460357666
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the--> rad || 0.8416250944137573
+ we were--> at || 0.8416993021965027
+ what makes the desert beautiful said the little prince is--> that || 0.8423245549201965
+ but he looked--> at || 0.8423313498497009
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is his devotion to a--> flower || 0.8424843549728394
+ i did not want him--> to || 0.8427971005439758
+ the song of the pulley continued in my ears and in the--> still || 0.8436640501022339
+ because--> we || 0.8439950942993164
+ your fox his ears they look a bit like horns and they are--> too || 0.844719648361206
+ whether--> the || 0.8454679250717163
+ but he--> did || 0.8457769751548767
+ but he--> looked || 0.8457769751548767
+ but he--> did || 0.8457773327827454
+ but he--> respond || 0.8457773327827454
+ the men where you live said the little prince grow five thousand roses in a single garden and they--> do || 0.8464761972427368
+
+
+## 50 prefixes with the highest comosition scores:
+ one has to--> look || 0.9616341590881348
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness--> in || 0.9608569145202637
+ it is a big time saver--> said || 0.9587915539741516
+ the song of the pulley--> continued || 0.9587463736534119
+ and the pulley--> mo || 0.9574964046478271
+ you run the risk of weeping--> a || 0.9562690258026123
+ everything has been prepared the pulley--> the || 0.9561234712600708
+ good morning--> said || 0.955646812915802
+ good morning--> said || 0.955646276473999
+ this was a merchant who sold pills that had been created to quench--> th || 0.9547973871231079
+ this was a merchant who sold pills that had been created to quen-->ch || 0.9541582465171814
+ i do not know how to--> draw || 0.9535861611366272
+ he laughed took the rope and put the pulley--> to || 0.9522960782051086
+ and the pulley moaned like an old weathervane--> when || 0.9517832398414612
+ it was born of the walk under the stars of the song of the pulley--> of || 0.9516057968139648
+ the sand at sunrise--> is || 0.9515078067779541
+ you run the risk of weeping a little if you allow yourself--> to || 0.9514031410217285
+ the sand at sunr-->ise || 0.9505245685577393
+ it is absurd to--> look || 0.9504510760307312
+ when i was a little boy--> the || 0.9502763748168945
+ when i was a little boy--> i || 0.9502763748168945
+ why are you selling those asked the little prince-->[EOS] || 0.9501638412475586
+ when i was a little boy the lights of the christmas tree--> the || 0.9497262239456177
+ you have to--> search || 0.9496814608573914
+ you have to--> keep || 0.9496810436248779
+ you were out walking--> like || 0.9496793150901794
+ it is strange i said to the little prince-->[EOS] || 0.9496266841888428
+ i am thirsty for this water said the little prince-->[EOS] || 0.9491415023803711
+ and continuing to--> walk || 0.9486368298530579
+ ah i said to the little prince--> these || 0.9483791589736938
+ can you hear that said the little prince-->[EOS] || 0.9480087757110596
+ he has never been hungry or thirst-->y || 0.9476634860038757
+ good morning said the little prince-->[EOS] || 0.9474461078643799
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping--> prince || 0.9473365545272827
+ as his slightly parted lips gave way--> to || 0.9472449421882629
+ the little prince saw them and laughed as he said your baob-->abs || 0.9472250938415527
+ this one looked like a village well but there was no village there and i thought i was dreaming-->[EOS] || 0.9469237327575684
+ let me--> do || 0.946916401386261
+ the men where you live said the little prince--> grow || 0.9468837976455688
+ i looked in the moonlight at his pale forehead his closed eyes his locks of hair that trembled--> in || 0.9468327760696411
+ you are not being fair my little fellow-->[EOS] || 0.9466041326522827
+ men said the little prince--> stuff || 0.9465871453285217
+ when we had walked for hours in silence night fell and the stars began to--> come || 0.9462783932685852
+ you could take one pill--> a || 0.9462698101997375
+ and he blushed-->[EOS] || 0.9460083842277527
+ i am thirsty--> for || 0.9459153413772583
+ it is absurd--> to || 0.9458904266357422
+ what makes the desert beautiful said the little prince--> is || 0.9458823800086975
+ this was a merchant who sold pills that had been created to quench thirst-->[EOS] || 0.9458736181259155
+ you have to keep your promise said the little prince--> soft || 0.9457942843437195
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ from time to--> time || 0.9139628410339355
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.9217250347137451
+ he should be able--> for || 0.9238917827606201
+ if he had held it himself he would have been able--> to || 0.9368723034858704
+ i admire you said the little prince shrugg-->ing || 0.9465959072113037
+ for his--> rule || 0.9568638205528259
+ i hear him at night-->[EOS] || 0.9597894549369812
+ hum hum replied the king then i i order you sometimes to yawn and sometimes--> to || 0.9600526690483093
+ if he had held it himself--> he || 0.9625510573387146
+ it is--> an || 0.9635337591171265
+ it is--> contrary || 0.9635337591171265
+ it is--> to || 0.9635337591171265
+ it is--> for || 0.9635337591171265
+ it is--> much || 0.9635338187217712
+ over everything--> the || 0.9635375738143921
+ over everything--> said || 0.9635375738143921
+ admire me just the same-->[EOS] || 0.9648424386978149
+ if i ordered a general to fly from one flower to another like a butterfly or--> to || 0.9649040102958679
+ he should be able for example--> to || 0.9649699330329895
+ ashamed of drinking concluded the drinker--> who || 0.9658637046813965
+ it seems to me that--> conditions || 0.9662644863128662
+ and the little prince asked himself how could he recognise me when he has never seen me--> before || 0.966616690158844
+ ashamed of drinking concluded the drinker who then--> shut || 0.9666722416877747
+ that is--> the || 0.9669036865234375
+ and now--> i || 0.9672889113426208
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change--> himself || 0.9673943519592285
+ the conceited man raised his hat in a modest--> sal || 0.9676350951194763
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and a number of--> full || 0.9680107831954956
+ to admire--> means || 0.968102216720581
+ i replied the little prince do not like to condemn anyone to--> death || 0.968137800693512
+ if he had held it himself he would have been able to watch not forty four but seventy two or even--> a || 0.968284010887146
+ approach so that i may see you--> better || 0.9683383703231812
+ he said to himself as he continued on his journey-->[EOS] || 0.9684006571769714
+ but you will p-->ardon || 0.968557596206665
+ for the king fundamentally insisted that his--> authority || 0.9687031507492065
+ come now yawn again-->[EOS] || 0.9688296318054199
+ unfortunately--> nobody || 0.9689212441444397
+ the first one was inhabited by a--> king || 0.9690046906471252
+ over all that the--> king || 0.9691166281700134
+ that--> is || 0.9693774580955505
+ that--> fright || 0.9693775773048401
+ i order you to ask me a question hastened--> to || 0.9694386720657349
+ of course the--> king || 0.9695271253585815
+ the king was sitting--> dressed || 0.9695296287536621
+ ashamed of drinking concluded the drinker who then shut himself--> away || 0.969624936580658
+ you have--> a || 0.9697340130805969
+ oh really said the little prince who--> did || 0.9698771834373474
+ i am very--> old || 0.9700890183448792
+ and as he felt a bit sad as he remembered his forsaken little planet he--> pl || 0.9703800082206726
+ he said to himself as he continued on--> his || 0.9704338908195496
+
+
+## 50 prefixes with the highest comosition scores:
+ the king--> hast || 0.9928784370422363
+ the king--> was || 0.9928784370422363
+ the king--> answered || 0.9928784370422363
+ the king--> said || 0.9928784370422363
+ the king--> went || 0.9928784370422363
+ yes--> said || 0.9925244450569153
+ it is contrary to etiquette to ya-->wn || 0.9922955632209778
+ to them all men are--> subjects || 0.9922571778297424
+ hum hum replied the king then i i order you sometimes to ya-->wn || 0.9921557307243347
+ i have come on a long--> journey || 0.9918991923332214
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was tired he ya-->wn || 0.9917172193527222
+ over what could this king--> really || 0.9917163848876953
+ this is more fun than the visit to the king-->[EOS] || 0.9917007684707642
+ the conceited man raised his hat in--> a || 0.991538941860199
+ he should be able for example to order me to leave within--> a || 0.9914813041687012
+ if i ordered a general--> to || 0.9914805889129639
+ if i ordered a general--> he || 0.9914805889129639
+ for the king--> fund || 0.99146568775177
+ i am fairly certain that somewhere on my planet--> there || 0.9914302229881287
+ from time to time you will condemn him to death thus his life will depend--> on || 0.9913274645805359
+ yawns to me are objects--> of || 0.9912949800491333
+ this was a very short--> visit || 0.9912433624267578
+ but you are the only man on--> the || 0.991229236125946
+ it is an order-->[EOS] || 0.991206169128418
+ if--> you || 0.9911896586418152
+ if--> you || 0.9911894798278809
+ if--> i || 0.9911894798278809
+ if--> i || 0.9911894798278809
+ if--> he || 0.9911894798278809
+ if--> your || 0.9911894798278809
+ and what should i do he asked to make--> the || 0.9911507368087769
+ the second planet--> was || 0.991124153137207
+ if your majesty wishes to be promptly obeyed he should be--> able || 0.9910930395126343
+ i order you to sit down replied the king who majestically gathered in a fold of--> his || 0.991054892539978
+ of course the king--> said || 0.9910255670547485
+ as the king--> made || 0.9910135269165039
+ sire he said to him excuse my asking--> you || 0.9908703565597534
+ do you really admire me a lot-->[EOS] || 0.9908437132835388
+ that fright-->ens || 0.9907601475715637
+ from time--> to || 0.990755558013916
+ i can not stop myself replied the little prince thoroughly--> embar || 0.9907012581825256
+ it is much more--> difficult || 0.990618884563446
+ order the sun to--> set || 0.9905490875244141
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up his courage to ask the king a--> favour || 0.9905349016189575
+ for his rule--> was || 0.9905123114585876
+ do it--> for || 0.9904916286468506
+ i do not tolerate insub-->ord || 0.9904734492301941
+ sire he said to him excuse my asking you a--> question || 0.9904727935791016
+ after five minutes of this exercise the little prince grew tired--> of || 0.9904493689537048
+ i have no space for a carriage and it tires--> me || 0.9904474020004272
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ safe--> in || 0.9308017492294312
+ there are not any tig-->ers || 0.9392185211181641
+ she overwh-->el || 0.941912829875946
+ volcanic--> er || 0.9454888105392456
+ safe in her green chamber she chose her--> colors || 0.9456084966659546
+ oh--> yes || 0.9517454504966736
+ oh-->[EOS] || 0.9517455697059631
+ even--> flowers || 0.9522032737731934
+ is it not of more--> consequence || 0.9523938298225403
+ they would appear one morning in the--> grass || 0.9524884223937988
+ and naively she showed her four th-->orn || 0.9534021615982056
+ goodbye he--> said || 0.9534435868263245
+ goodbye he--> said || 0.9534436464309692
+ she would only want to appear in the full rad-->iance || 0.9534492492675781
+ for--> millions || 0.9553498029708862
+ for--> she || 0.9553498029708862
+ one day for example speaking of her four--> th || 0.9556849002838135
+ the little prince also pulled up with a hint of sadness the last little shoots of the ba-->ob || 0.9558257460594177
+ they think themselves frightful with their th-->orn || 0.9560511708259583
+ there was on a star on a planet my--> planet || 0.9560734629631042
+ and like that she had soon begun to torment him with her van-->ity || 0.9566711783409119
+ he watched me hammer in hand--> and || 0.956972062587738
+ then--> one || 0.9573841691017151
+ then--> she || 0.9573841691017151
+ then--> she || 0.9573841691017151
+ flowers have th-->orn || 0.9581455588340759
+ even flowers that have th-->orn || 0.9582499265670776
+ for millions of years the sheep--> have || 0.9589163661003113
+ i do not fear tig-->ers || 0.9595593214035034
+ i do not fear tigers but i detest draft-->s || 0.9596507549285889
+ what are the th-->orn || 0.9597874879837036
+ what are the th-->orn || 0.9597874879837036
+ if they are well cleaned out vol-->cano || 0.960241436958313
+ the little prince object-->ed || 0.9602588415145874
+ det-->ests || 0.9603413343429565
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the ext-->inct || 0.9603750705718994
+ you should never listen to the--> flowers || 0.9605218172073364
+ and naively she showed her four--> th || 0.9608104228973389
+ this--> business || 0.9611914753913879
+ he is a m-->ush || 0.9613131880760193
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy--> when || 0.9613298773765564
+ the little prince who witnessed the appearance of a huge bud felt that a mirac-->ul || 0.961763322353363
+ goodbye--> he || 0.9619758129119873
+ goodbye--> he || 0.9619759321212769
+ the little prince who witnessed the appearance of a huge--> bud || 0.9624324440956116
+ you conf-->use || 0.9625066518783569
+ he stood there all--> bew || 0.9625244140625
+ and t-->ig || 0.9627957344055176
+ the little prince also pulled up with a hint of sadness the last little sho-->ots || 0.9628148078918457
+ he had taken seriously words of no importance and had become very unh-->appy || 0.9628195762634277
+
+
+## 50 prefixes with the highest comosition scores:
+ i was very busy trying to uns-->cre || 0.9999633431434631
+ we must look at them and breathe their fragr-->ance || 0.9987924098968506
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with a hammer-->[EOS] || 0.9987715482711792
+ but this one had sprouted one day from a seed blown in from--> no || 0.9986231327056885
+ this business of the claws which anno-->yed || 0.998324453830719
+ he had taken seriously words of no importance and had become very unhappy-->[EOS] || 0.9982817769050598
+ he asked abruptly without anything leading up to it as if it was the result of a long silent meditation--> on || 0.9981687068939209
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water--> left || 0.9981265068054199
+ and after having worked with such care and attention--> to || 0.9981160163879395
+ on our earth we are obviously much too small to clean out our volcanoes-->[EOS] || 0.9979898929595947
+ i was upset over the bolt and i said the first thing that came into my head-->[EOS] || 0.9979770183563232
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without realising what he is done-->[EOS] || 0.997975766658783
+ and after having worked with such care and attention to detail--> she || 0.9979643225669861
+ oh yes she was a very flirtatious creature-->[EOS] || 0.9979246854782104
+ if they are well cleaned out volcanoes burn slowly and steadily without any eruptions-->[EOS] || 0.9979073405265808
+ if they are well cleaned out volcanoes burn slowly--> and || 0.9979063868522644
+ i answered the first thing that came to my mind-->[EOS] || 0.9978989958763123
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke--> just || 0.9978904128074646
+ but if the sheep eats the flower for him it is as if suddenly all the stars have gone out-->[EOS] || 0.9978556632995605
+ at that moment i was thinking to myself--> if || 0.9977611899375916
+ and after having worked with such care and attention to detail she said with a yawn oh i have only just woken up-->[EOS] || 0.9977540969848633
+ but after a moment of silence he exclaimed with a sort of resent-->ment || 0.9977332949638367
+ if they are well cleaned out volcanoes burn slowly and steadily--> without || 0.9977126121520996
+ you mix everything up-->[EOS] || 0.9976925253868103
+ it seems that they are very beautiful and otherwise who else will come to visit me-->[EOS] || 0.9976834654808044
+ on the fifth day again thanks to the sheep this secret of the little prince s life was revealed--> to || 0.9976776838302612
+ that is bad luck--> for || 0.9976493716239929
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning--> without || 0.9976043701171875
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the extinct volcano too-->[EOS] || 0.9975576400756836
+ it is very cold where you live-->[EOS] || 0.9975302219390869
+ they reassure themselves as best they can-->[EOS] || 0.997478187084198
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy--> in || 0.9974501729011536
+ at that moment i was thinking to myself if this bolt will not budge--> i || 0.997428297996521
+ i was not sure what to say-->[EOS] || 0.9973351955413818
+ they would appear one morning in the grass and by evening they would have faded--> away || 0.9973335862159729
+ and it is not a matter of consequence to try to understand why they take so much trouble--> to || 0.9973181486129761
+ i learned very quickly to know this flower better-->[EOS] || 0.997291624546051
+ and after having worked with such care and attention to detail she said with a yawn--> oh || 0.9972904920578003
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of petals--> that || 0.9972724914550781
+ they would appear one morning in the grass and by evening they would have faded away-->[EOS] || 0.9972561597824097
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emerge from it-->[EOS] || 0.9972482323646545
+ i am busy with matters of consequence-->[EOS] || 0.9972097873687744
+ there was on a star on a planet my planet earth a little prince to be comforted-->[EOS] || 0.9972047209739685
+ i was very worried because my breakdown was beginning to appear to be very serious--> and || 0.9971848726272583
+ i think that for his escape he took advantage of a migration of a flock of wild birds-->[EOS] || 0.997184157371521
+ i was very busy trying to unscrew a bolt in my engine that had got stuck-->[EOS] || 0.997171938419342
+ if they are well cleaned--> out || 0.9970436096191406
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of petals that did not take up any space--> and || 0.9970396161079407
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water left that i had to fear the worst-->[EOS] || 0.9970386624336243
+ on our earth we are obviously much too small--> to || 0.9970378279685974
+

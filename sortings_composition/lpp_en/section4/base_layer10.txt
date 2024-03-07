@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he did not tolerate disob-->ed || 0.9176040291786194
+ over everything the king made a subt-->le || 0.9216976761817932
+ because to conceited men all other men are adm-->ir || 0.9287715554237366
+ then my sunset the little prince reminded--> him || 0.9336752891540527
+ do it for--> me || 0.9337745904922485
+ i have the right to demand ob-->ed || 0.9340884685516357
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most intellig-->ent || 0.9343195557594299
+ for the king fundamentally insisted that his--> authority || 0.9344314336776733
+ i shall command it but i shall wait according to my--> science || 0.9345187544822693
+ it seems to me that conditions are fav-->ou || 0.935178816318512
+ as the king made no answer the little prince hesitated at first then with a s-->igh || 0.9353029131889343
+ hum hum replied the king who consulted a bul-->ky || 0.9365835189819336
+ then my sunset the little prince remind-->ed || 0.936745822429657
+ the grownups are certainly very--> odd || 0.9371910691261292
+ the grownups are certainly very--> very || 0.9371912479400635
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most--> intellig || 0.9372214078903198
+ it seems to me that--> conditions || 0.9374480843544006
+ to forget that i am ashamed confessed the drinker lower-->ing || 0.9382479190826416
+ hum hum that will be about about that--> will || 0.9383549094200134
+ it seems to me that conditions are favou-->rable || 0.9383662343025208
+ hum hum that will be about about that will be--> this || 0.9392557740211487
+ then my sunset the little--> prince || 0.9394853711128235
+ such power filled the little prince with wonder-->[EOS] || 0.9406229257583618
+ if you succeed in--> jud || 0.9411267042160034
+ if you ordered your people to go and throw themselves--> into || 0.9412165284156799
+ over everything the king made a subtle gesture pointing out his planet the other--> plan || 0.9413336515426636
+ it is to raise in salute when people--> acc || 0.9413744807243347
+ i admire you said the little prince shru-->gg || 0.9414082765579224
+ and as he felt a bit--> sad || 0.9418020844459534
+ unfortunately nobody ever passes by this--> way || 0.9418641924858093
+ hum hum replied the king who consult-->ed || 0.9419550895690918
+ when will that be inquired--> the || 0.9419928789138794
+ the conceited man raised--> his || 0.9422019124031067
+ it seems to me that conditions--> are || 0.9422143697738647
+ then my sunset the little prince reminded him who never forgot a--> question || 0.9424796104431152
+ after five minutes of this exercise the little prince grew tired of the--> monot || 0.9429725408554077
+ he did not tolerate disobedience-->[EOS] || 0.9430015683174133
+ as the king made no answer the little prince hesitated at first then with a sigh took--> his || 0.9431278705596924
+ order the sun to--> set || 0.943382740020752
+ we do not know--> that || 0.9434085488319397
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine--> ro || 0.9434601068496704
+ it is to raise in salute when people acc-->laim || 0.9437452554702759
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was tired he yawned-->[EOS] || 0.9438961148262024
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up--> his || 0.9439547061920166
+ the monarch said to him i--> forb || 0.9442343711853027
+ do not go-->[EOS] || 0.9442844986915588
+ do not go--> said || 0.9442845582962036
+ i will set off-->[EOS] || 0.9443946480751038
+ i shall--> command || 0.9444106221199036
+ i will make you a--> minister || 0.9444801807403564
+
+
+## 50 prefixes with the highest comosition scores:
+ the little prince said to himself as--> he || 0.9792385697364807
+ because to conceited men all other men--> are || 0.9788133502006531
+ it is much more difficult to judge oneself than to judge someone--> else || 0.9787962436676025
+ if you ordered your people to go and throw--> themselves || 0.9785268306732178
+ as the king made no answer the little prince hesitated at first then--> with || 0.9777264595031738
+ i have the right to demand obedience because my--> orders || 0.9776694178581238
+ if he had held it himself he would have been able to watch not forty four but seventy--> two || 0.977648138999939
+ come now yawn again-->[EOS] || 0.9775499105453491
+ exactly one--> must || 0.9774327874183655
+ conceited people never hear anything but praise-->[EOS] || 0.9773718118667603
+ that is the most difficult thing of--> all || 0.9773585796356201
+ the little prince clapped his hands one against the other-->[EOS] || 0.9772449135780334
+ conceited people never hear anything but--> pra || 0.9771450161933899
+ and the little prince asked himself how could he recognise me when he has never seen--> me || 0.9770148992538452
+ it is much more difficult to judge oneself than to--> judge || 0.9769353270530701
+ order the sun to set-->[EOS] || 0.9768563508987427
+ i order you to ask me a question--> hast || 0.9764577150344849
+ sire he said to him excuse my asking you a question-->[EOS] || 0.9763957858085632
+ and the little prince asked himself how could he recognise me when--> he || 0.9763119220733643
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing--> and || 0.9762778282165527
+ it is to raise in salute when people acclaim me-->[EOS] || 0.9762677550315857
+ i have not yet made a complete tour of--> my || 0.9762528538703918
+ i am drinking--> replied || 0.976113498210907
+ over what could--> this || 0.9760810732841492
+ he did not know that for--> k || 0.9760777950286865
+ ah here comes a visit from an admirer exclaimed the conceited man--> from || 0.9760770201683044
+ because to conceited men all other men are--> adm || 0.976009726524353
+ the little prince said to himself and he began again to clap his hands one against the other-->[EOS] || 0.9759708642959595
+ to forget that i am ashamed confessed the drinker lowering his head-->[EOS] || 0.9759646654129028
+ it is much more difficult to judge oneself than to judge someone else-->[EOS] || 0.975963294506073
+ then my sunset the little prince reminded him who never forgot a question once he had asked it-->[EOS] || 0.9758045673370361
+ and the little prince asked himself how could he recognise me when he has never seen me before-->[EOS] || 0.9757367968559265
+ for his rule was not only absolute it was also universal-->[EOS] || 0.9756789803504944
+ i do not tolerate insubord-->ination || 0.9755531549453735
+ ah here comes a visit from an admirer exclaimed the conceited--> man || 0.9755143523216248
+ the next planet was--> inhab || 0.975513756275177
+ he said to the drinker who he found sitting in silence in front of a number of empty--> bott || 0.9753856062889099
+ but the little prince having readied himself to leave had no wish to grieve the--> old || 0.975292980670929
+ if your majesty wishes to be--> prompt || 0.9752928018569946
+ but you will pardon--> him || 0.9752733111381531
+ yawns to me are objects--> of || 0.975178062915802
+ it is contrary to etiquette to yawn in the presence--> of || 0.9751764535903931
+ i can not any more said the little prince blushing-->[EOS] || 0.9751163721084595
+ for the king fundamentally insisted--> that || 0.9750844836235046
+ i have nothing more to do here-->[EOS] || 0.975083589553833
+ i order you to sit down replied the king who majestically gathered in a fold of his ermine mantle-->[EOS] || 0.9750781059265137
+ i am fairly certain that somewhere on my--> planet || 0.9750381708145142
+ the little prince looked around him for a place to sit but the planet--> was || 0.9750120639801025
+ what are you--> doing || 0.9749926924705505
+ i do not tolerate--> in || 0.9749759435653687
+

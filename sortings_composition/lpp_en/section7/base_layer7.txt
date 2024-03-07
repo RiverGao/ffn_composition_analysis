@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if the hunters danced on just--> any || 0.909450113773346
+ because it is her that i listened to grumble or bo-->ast || 0.9155510663986206
+ but as there are not any sh-->ops || 0.9194222688674927
+ if the hun-->ters || 0.9200471639633179
+ but your hair is the--> color || 0.9209778904914856
+ they waste their--> time || 0.9213415384292603
+ that and my three volcanoes that come up--> to || 0.9214302897453308
+ and the roses--> were || 0.9218866229057312
+ you are not--> from || 0.9249727725982666
+ you are not--> like || 0.9249728322029114
+ that and my three--> vol || 0.9253332614898682
+ i never wished you any harm but you wanted me to tame--> you || 0.9255101680755615
+ but your hair is--> the || 0.9263680577278137
+ but after--> some || 0.9263756275177002
+ i am responsible for my rose repeated the little prince so as--> to || 0.9268315434455872
+ good morning said the roses-->[EOS] || 0.9271678924560547
+ it has done me good--> said || 0.9271829128265381
+ a second brilliantly lit express--> th || 0.9275463819503784
+ and he suddenly--> felt || 0.9276298880577087
+ and then he added--> go || 0.9282599687576294
+ they also raise--> ch || 0.928282618522644
+ we are roses the roses--> said || 0.9286158084869385
+ all the chickens look alike and all the men--> look || 0.9297071695327759
+ we are roses-->[EOS] || 0.9298214316368103
+ we are roses-->[EOS] || 0.9298214316368103
+ we are roses-->[EOS] || 0.9298214316368103
+ we are roses--> the || 0.9298215508460999
+ his flower had told him that she was the only one of her kind in the--> universe || 0.9305517673492432
+ these are not the same--> ones || 0.9305903315544128
+ the next--> day || 0.9307119846343994
+ but your hair is the color of gold so it will be wonderful when you have tamed me-->[EOS] || 0.9307458996772766
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all alike in one single garden-->[EOS] || 0.9308640360832214
+ come and play with me proposed the little--> prince || 0.931107223033905
+ a third brilliantly lit express--> th || 0.9312325716018677
+ but your hair is the color of gold so it will be wonderful when you have--> t || 0.9313578605651855
+ they are not--> ch || 0.9314481616020203
+ wheat is of no--> use || 0.9314643144607544
+ you have to be--> very || 0.9314945936203003
+ you are like my fox used to be-->[EOS] || 0.9317637085914612
+ who are you asked--> the || 0.9318730235099792
+ it is the time--> that || 0.9320775270462036
+ it is the time--> you || 0.9320775270462036
+ you are not like my rose at all-->[EOS] || 0.9323521852493286
+ but she alone is more--> important || 0.9323787093162537
+ but she alone is more important than all of you because--> it || 0.9326276779174805
+ they are asleep--> in || 0.9330174922943115
+ but she alone is more important than--> all || 0.93305504322052
+ and then look you--> see || 0.9332504272460938
+ they are asleep in there or if not they are y-->aw || 0.9339203834533691
+ who are you he asked them st-->unn || 0.9339458346366882
+
+
+## 50 prefixes with the highest comosition scores:
+ one only sees clearly--> with || 0.9783896207809448
+ she would cough and cough and pretend to die to avoid being laughed--> at || 0.9778651595115662
+ a second brilliantly lit express thundered by in the opposite direction-->[EOS] || 0.9769842028617859
+ only the children are squashing their noses up against--> the || 0.9759443402290344
+ they buy things ready made--> in || 0.9754936695098877
+ unlike any other other footsteps send me hurrying back underground--> yours || 0.9754104018211365
+ i would be jumping about and getting restless-->[EOS] || 0.9751889109611511
+ i sort travelers in packs of--> a || 0.9751160740852356
+ not even the locomotive engineer--> knows || 0.9747874736785889
+ only the children are--> squ || 0.9746402502059937
+ only the children are squashing their noses--> up || 0.9745591282844543
+ you have to be very patient replied the--> fo || 0.9745263457298279
+ then he said to--> himself || 0.9744970202445984
+ if the hunters danced on just any day--> all || 0.9744191765785217
+ first you will sit down a little way away from me like this--> in || 0.9743948578834534
+ oh but she is not on earth said the--> little || 0.9743906259536743
+ what do you do here the little prince asked-->[EOS] || 0.9743750095367432
+ and when the time to leave drew near--> oh || 0.9743438959121704
+ so the little prince--> t || 0.9743395447731018
+ his flower had told him that she was the only one--> of || 0.9742476344108582
+ but if you come at just any time i would never know at what time my heart should be ready--> to || 0.9742235541343689
+ because it is for her that i killed the caterpillars--> except || 0.9741818308830261
+ then he said to himself i thought--> i || 0.9741714596748352
+ the men have forgotten this truth said the--> fo || 0.97416090965271
+ the little prince--> gaz || 0.9741525650024414
+ the little prince--> went || 0.9741523861885071
+ first you will sit down a little way away from me like this in--> the || 0.9738890528678894
+ a second brilliantly lit express thundered--> by || 0.9735445380210876
+ i have friends to discover and--> many || 0.9734790921211243
+ i will watch you out of the--> corner || 0.9734435081481934
+ of course an ordinary passer by would think that my rose looked just like--> you || 0.9734376668930054
+ she would cough and cough and--> pret || 0.9733977913856506
+ i will watch you out of the corner of my--> eye || 0.9733824133872986
+ and when the time to leave drew near oh said the fox i will--> cry || 0.9733768105506897
+ i would feel happier and happier already by four o clock-->[EOS] || 0.9733468890190125
+ they are lucky said the switchman-->[EOS] || 0.9733301401138306
+ that does not make--> me || 0.9732549786567688
+ on thursdays they dance with the girls--> of || 0.9732043743133545
+ no said the little prince-->[EOS] || 0.9731160402297974
+ only the children are squashing their--> nos || 0.9730163812637329
+ because it is for her that--> i || 0.9729059338569641
+ the men have forgotten this truth said the fox but--> you || 0.9728161692619324
+ come and play with me proposed the little prince-->[EOS] || 0.9727367758750916
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to--> life || 0.9727052450180054
+ are there hunters on that planet-->[EOS] || 0.9726850390434265
+ were not they happy--> where || 0.972668468952179
+ what is essential is invisible to the eye repeated the little prince so--> as || 0.972661554813385
+ a third brilliantly lit express thundered--> by || 0.9726420640945435
+ she would be very upset he said to himself if--> she || 0.9725896120071411
+ she would cough and cough and pretend to die to avoid being laughed at and i would--> have || 0.9725745320320129
+

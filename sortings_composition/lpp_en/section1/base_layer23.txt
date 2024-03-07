@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i caught a glimp-->se || 0.8525029420852661
+ so getting impat-->ient || 0.8769143223762512
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.8802692890167236
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9507949948310852
+ for me--> it || 0.9596953392028809
+ i was discouraged by the failure of my drawing number one and of my drawing number two-->[EOS] || 0.9606302380561829
+ i caught a glimpse into the mystery of--> his || 0.9620784521102905
+ it took me a long time to find out where he came from-->[EOS] || 0.9629541039466858
+ then he added--> so || 0.9634825587272644
+ it is true--> that || 0.9640313386917114
+ so you--> can || 0.9641134142875671
+ it said--> in || 0.964766263961792
+ it said--> please || 0.9647663235664368
+ absurd as it seemed to me--> a || 0.9649451971054077
+ when a mystery is too overpower-->ing || 0.9652702808380127
+ this one--> is || 0.9656296968460083
+ it is true that you--> can || 0.9664381146430969
+ i talked to them about bridge golf politics--> and || 0.9667680859565735
+ when a mystery is too overpowering--> one || 0.9668941497802734
+ here is the best portrait that later i managed to do of him--> but || 0.9671239852905273
+ i was discou-->rag || 0.9672064185142517
+ i was discou-->rag || 0.9672064185142517
+ i wanted to know if they were really a person of true understanding but--> they || 0.9672430753707886
+ and perhaps--> with || 0.9673547744750977
+ i have had during my life--> a || 0.9677440524101257
+ then he added so you--> also || 0.9679075479507446
+ it said please draw me a sheep-->[EOS] || 0.9679177403450012
+ because where i am from--> everything || 0.9682683944702148
+ he asked me--> what || 0.9684205651283264
+ i prefer people--> to || 0.9685204029083252
+ where i live--> everything || 0.9685823321342468
+ where i live--> everything || 0.9685823321342468
+ that is right and--> if || 0.9686098098754883
+ absurd as it seemed--> to || 0.9686905741691589
+ here is the best portrait that later--> i || 0.9687647819519043
+ because where i am--> from || 0.9689077734947205
+ it took me a long time to find out--> where || 0.9691334366798401
+ the grownups advised--> me || 0.9691407680511475
+ i have had during my life a lot of contact with many persons of consequence-->[EOS] || 0.9693832397460938
+ whenever i met one of them--> that || 0.9694713354110718
+ the grownups advised me--> to || 0.9695800542831421
+ the one of--> the || 0.969740629196167
+ as i had never drawn a sheep i redrew for him--> one || 0.9700433015823364
+ that is right and if you--> are || 0.9701533913612366
+ i was discouraged by the failure of my drawing number one--> and || 0.9702414274215698
+ what planet are you from-->[EOS] || 0.9706094264984131
+ he looked carefully then said--> no || 0.970662534236908
+ here is the best portrait that later i managed to do--> of || 0.9709235429763794
+ i took a good look around me--> and || 0.9710140824317932
+ and he repeated very slowly as if it was something very serious please draw me a sheep-->[EOS] || 0.9714294672012329
+
+
+## 50 prefixes with the highest comosition scores:
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out--> all || 0.9999685287475586
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all--> alone || 0.9999362230300903
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone the difficult rep-->airs || 0.999866783618927
+ i flew a little in many places around the world and geography it is true has served me--> well || 0.9998651146888733
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone the--> difficult || 0.9998616576194763
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone the difficult--> rep || 0.9991408586502075
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone--> the || 0.99873286485672
+ after a reflective silence he answered what is good about the box you have--> given || 0.9985336065292358
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this drawing and i snapped this-->[EOS] || 0.9976768493652344
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and--> carry || 0.9974753260612488
+ so getting impatient as i was eager to--> start || 0.9971029162406921
+ the little prince who asked me many questions never seemed to hear my--> own || 0.9963663220405579
+ i was more isolated than a shipwrecked sailor on a raft in the middle of the--> ocean || 0.996050238609314
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried to find--> out || 0.99588942527771
+ i flew a--> little || 0.9958826303482056
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet of paper and a--> pen || 0.9958149790763855
+ i was more isolated than a shipwrecked sailor on a raft in the--> middle || 0.9957316517829895
+ it took me a--> long || 0.9956344366073608
+ so i had to choose another profession and i learned to fly--> air || 0.9950709342956543
+ i was more isolated than a shipwrecked sailor on a raft in the middle of--> the || 0.9950186014175415
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry--> out || 0.9947155714035034
+ he looked nothing like a child lost in the middle of the desert a--> thousand || 0.9946061372756958
+ you can imagine how my curiosity was--> ar || 0.9945849180221558
+ absurd as it seemed to me a thousand miles from any human--> habit || 0.994581401348114
+ it is true that you can not have come from far--> away || 0.9945626854896545
+ but then--> i || 0.9945022463798523
+ as i had never drawn a sheep i redrew for him one of the only two drawings that i was capable of-->[EOS] || 0.9944359064102173
+ then taking my--> sheep || 0.9943594932556152
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a--> sheet || 0.9943578839302063
+ here is the best portrait that later i managed to do of him but my drawing of course is much less--> char || 0.9943087697029114
+ here is the best portrait that later i managed to do of him but my drawing of course is much--> less || 0.9942649602890015
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to geography history arithmetic and--> grammar || 0.9942154884338379
+ then he cried what you fell from the--> sky || 0.9941824674606323
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to--> move || 0.9941707849502563
+ so you can imagine my surprise when at daybreak a funny little voice w-->oke || 0.9941182136535645
+ so i lived alone without anyone i could--> really || 0.9940248727798462
+ i want a sheep that will live a--> long || 0.9939137697219849
+ grownups never understand anything by themselves and it is tiresome for children to always--> explain || 0.9938598275184631
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number one that i--> have || 0.99382483959198
+ so i thought--> a || 0.9938214421272278
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried to--> find || 0.9938076138496399
+ i caught a g-->limp || 0.9938006401062012
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to--> try || 0.9937878251075745
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored p-->enc || 0.9937866926193237
+ i jumped to my feet as if i had been--> struck || 0.993779718875885
+ i had hardly enough water to--> drink || 0.9937635660171509
+ it has not much improved my--> opinion || 0.9937301278114319
+ do you think this sheep needs--> a || 0.9937155246734619
+ the first night i went to sleep on the sand a thousand miles from any human--> habit || 0.9936638474464417
+ it said in the book boa constrictors swallow their prey whole without chewing then they are--> not || 0.9936205744743347
+

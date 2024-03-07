@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the--> rad || 0.7018814086914062
+ the well we had reached was not like the--> other || 0.7081086039543152
+ the song of the pulley continued in my ears and in the still trembling water i could see the--> sun || 0.7161452174186707
+ so it was not by chance that the--> morning || 0.7230687141418457
+ i have always loved the--> desert || 0.7232158780097961
+ it is strange i said to the--> little || 0.7331456542015076
+ you hear nothing and yet something radiates forth in the--> silence || 0.7333807349205017
+ it was born of the walk under the stars of the song of the pulley of the effort of my--> arms || 0.7381011843681335
+ he said simply water can be good for the--> heart || 0.7396740317344666
+ we were at the eighth day since my accident in the desert and i had listened to the story of the--> merchant || 0.7470960021018982
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the radiance of the--> gift || 0.7507681250572205
+ it was good for the--> heart || 0.7531260848045349
+ and the pulley moaned like an old weathervane when--> there || 0.7584046721458435
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is his--> dev || 0.7587913870811462
+ the men where you live said the little prince grow five thousand roses in a single garden and--> they || 0.7605323791503906
+ i do not know how to draw anything except boa constrictors closed and--> open || 0.7621118426322937
+ so i made a pencil sketch of a muzzle and i felt a p-->ang || 0.7653586864471436
+ i do not know how to draw anything except boa constrictors closed and open-->[EOS] || 0.7669858336448669
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave it to him-->[EOS] || 0.7690784931182861
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would walk very slowly toward a spring--> of || 0.7708612084388733
+ you have to search with the--> heart || 0.7710150480270386
+ as his slightly parted lips gave way to a--> half || 0.7712798118591309
+ it was born of the walk under the stars of the song of the pulley of the effort--> of || 0.7725521326065063
+ it is the image of a rose that shines in him like the--> fl || 0.7737151980400085
+ can you hear that said the--> little || 0.775292158126831
+ so it was not by chance that the morning i first met you a week--> ago || 0.7758815288543701
+ oh i said to him-->[EOS] || 0.7768188118934631
+ it is absurd to look for a well at random in the immensity of the--> desert || 0.7771010398864746
+ you must go back to your--> engine || 0.777884304523468
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as--> i || 0.7779255509376526
+ this honey color was--> also || 0.7782858610153198
+ i remembered the--> fo || 0.7812526822090149
+ the song--> of || 0.7826191186904907
+ it is absurd to look for a well at random in the immensity of the desert but we--> started || 0.7828969955444336
+ and i looked without saying anything at the fol-->ds || 0.7830705046653748
+ everything has been prepared the--> pul || 0.784058153629303
+ when i was a little boy the lights of the christmas tree the music of the--> mid || 0.7841782569885254
+ and what do i do with the--> fifty || 0.7851446866989136
+ men said the little prince stuff themselves into express trains but they do not--> know || 0.7851597666740417
+ and the pulley moaned like an--> old || 0.7854058146476746
+ and i added hesitantly perhaps because of the--> anni || 0.7861265540122986
+ and continuing to walk i found the--> well || 0.7865694761276245
+ the sand at sunrise is the color of h-->oney || 0.786792516708374
+ i looked in the moonlight at his pale forehead his closed eyes his locks of hair that trembled in the--> wind || 0.7877926230430603
+ we have woken up the--> well || 0.7878356575965881
+ my dear fellow our situation has nothing to do with the--> fo || 0.7888373732566833
+ you must go back to your engine-->[EOS] || 0.7890143394470215
+ and then he--> laughed || 0.7890471816062927
+ and i said to myself what--> i || 0.7894387245178223
+ it is the image of a rose that shines in--> him || 0.7895410060882568
+
+
+## 50 prefixes with the highest comosition scores:
+ and the pulley--> mo || 0.9597987532615662
+ i do not know how to draw anything except boa--> con || 0.9580342769622803
+ you know a muzzle--> for || 0.9567429423332214
+ everything has been prepared the pulley--> the || 0.9553335905075073
+ the song of the pulley--> continued || 0.9544203877449036
+ it was born of the walk under the stars of the song of the pulley--> of || 0.9508326053619385
+ the wells of the sahara--> are || 0.9492402672767639
+ the well we had reached was not like the other wells of the sahara-->[EOS] || 0.948743462562561
+ so i made a pencil sketch of a muzzle and i felt a pang--> in || 0.9453806281089783
+ and i came to think of him as even more fragile-->[EOS] || 0.9451345801353455
+ he laughed took the rope and put the pulley--> to || 0.9442060589790344
+ as the little prince fell asleep i took him in my arms and set out--> walking || 0.9439830780029297
+ it even seemed to me that there was nothing more fragile--> on || 0.9429289102554321
+ it was as sweet as--> some || 0.9414865374565125
+ the sand at sunr-->ise || 0.9391548037528992
+ what makes--> the || 0.9384635090827942
+ and i added hesitantly perhaps because of--> the || 0.9380912184715271
+ the stars are beautiful because of--> a || 0.9363064169883728
+ this was a merchant who sold pills that had been created to quench--> th || 0.9358563423156738
+ the little prince saw them and laughed as he said your baob-->abs || 0.9356141090393066
+ a gust--> of || 0.935603141784668
+ it is nice to have--> had || 0.9354051351547241
+ and what do--> i || 0.9350386261940002
+ you run the risk of weeping a little if you allow yourself--> to || 0.9348844289779663
+ good morning--> said || 0.9345124363899231
+ good morning--> said || 0.9345115423202515
+ the song of--> the || 0.9340262413024902
+ the sand at sunrise--> is || 0.9328891038894653
+ you run the risk of weeping a little if you allow yourself to be tamed-->[EOS] || 0.9326147437095642
+ oh and i had been so proud of my baob-->abs || 0.9325772523880005
+ this water was something very different from--> ordinary || 0.9320430159568787
+ and what do i do with--> the || 0.931842565536499
+ so i made a pencil sketch of a muzzle--> and || 0.9316136837005615
+ his eyes closed-->[EOS] || 0.9310205578804016
+ the little prince saw them and laughed as he said your baobabs they look a bit like cabbages-->[EOS] || 0.9309189319610596
+ so i made a pencil--> sketch || 0.9307827353477478
+ let me do it--> i || 0.9307795763015747
+ my dear--> fellow || 0.930752158164978
+ when we had walked for hours in silence night fell and the stars began to--> come || 0.9302436709403992
+ it seemed to me that i was carrying a very fragile--> tre || 0.9300702214241028
+ my dear fellow our situation has nothing to do with--> the || 0.9299182891845703
+ the little prince saw them and laughed as he said your baobabs they look a bit like cabb-->ages || 0.929763913154602
+ you sit down--> on || 0.9297335743904114
+ you are not being fair my little--> fellow || 0.9294809103012085
+ i hoisted--> the || 0.9292194843292236
+ you could take one pill a week and you no longer felt the need--> to || 0.92897629737854
+ it is nice to have had a friend even if you are about--> to || 0.9289661049842834
+ you were out--> walking || 0.9288952946662903
+ i took my sketches out--> of || 0.9284911155700684
+ your fox--> his || 0.9277377128601074
+

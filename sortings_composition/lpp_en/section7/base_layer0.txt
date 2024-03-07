@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then he said to himself i thought i was rich with a flower that was one of--> a || 0.46180328726768494
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to--> the || 0.48721936345100403
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to--> life || 0.5122793316841125
+ because it is for her that i killed the caterpillars except two or three to--> become || 0.5176434516906738
+ if you come for example at four o clock in the afternoon from three o clock i would start to--> feel || 0.5238494873046875
+ wheat is of--> no || 0.524927020072937
+ first you will sit down a little way away from--> me || 0.5322254300117493
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to--> hum || 0.5343945622444153
+ if you come for example at four o clock in--> the || 0.5386009216308594
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is unique in--> the || 0.5403391718864441
+ the wheat fields mean nothing to me and that is--> sad || 0.545852541923523
+ the wheat which is golden will remind me of you and i will love the sound of the wind blowing through the wheat-->[EOS] || 0.548011302947998
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is--> unique || 0.5483582615852356
+ then he said to himself i thought i was rich with a flower that was one of a kind and--> all || 0.5486150979995728
+ only the children are squashing their noses up against--> the || 0.5547330379486084
+ i can go for a walk as--> far || 0.5577887296676636
+ a second brilliantly lit express thundered--> by || 0.5610677599906921
+ you have to--> be || 0.56223464012146
+ i am responsible for my rose repeated the little prince so as--> to || 0.5662773251533508
+ it is the time that i have wasted on my rose said the little prince so as--> to || 0.5666295886039734
+ oh but she is not on--> earth || 0.5671167969703674
+ a second brilliantly lit express--> th || 0.5674380660057068
+ because it is for--> her || 0.5708562731742859
+ who are you he asked them stunned-->[EOS] || 0.5724606513977051
+ you are nothing yet he told--> them || 0.5750879645347595
+ of course an ordinary passer by would think that my--> rose || 0.5825235247612
+ what is essential is invisible to the eye repeated the little prince so as--> to || 0.5832070708274841
+ there is a rite for example among--> my || 0.5833021998405457
+ but it happened that the little prince having walked for a long time through the sands--> rocks || 0.587411642074585
+ were not they happy where they were-->[EOS] || 0.5878836512565613
+ i am beginning to understand--> said || 0.5884972810745239
+ and when the time to leave drew near oh said the fox i--> will || 0.5887218117713928
+ because it is for her that i killed the caterpillars except two or three to become butterflies-->[EOS] || 0.5899120569229126
+ the wheat which is golden will remind me of you and i will love the sound of the wind blowing--> through || 0.5929550528526306
+ he was only a fox just like a hundred thousand others but i have made him my--> friend || 0.5969961285591125
+ on thursdays they dance with the girls of the village so thursday is--> a || 0.5975339412689209
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her--> back || 0.6003405451774597
+ that and my three volcanoes--> that || 0.6015279293060303
+ but it happened that the little prince having walked for a long time through--> the || 0.6017741560935974
+ but if you come at just any time i would never know at what time my heart should be ready to greet you-->[EOS] || 0.6022883653640747
+ the fox went silent and gazed at--> the || 0.6031314730644226
+ the men have forgotten this truth said the fox but you must not forget it-->[EOS] || 0.6038495898246765
+ his flower had told him that she was--> the || 0.6043127775192261
+ then he said to himself i thought i was rich with a flower--> that || 0.6043913960456848
+ the men have forgotten this--> truth || 0.6050225496292114
+ and a brilliantly lit express train rumbling--> like || 0.6052042841911316
+ you are like my fox used to be-->[EOS] || 0.6055157780647278
+ but if you tame me it would bring some sunlight into my--> life || 0.6066956520080566
+ who are you asked the little--> prince || 0.6122063994407654
+ so all this has done you no good at--> all || 0.6124989986419678
+
+
+## 50 prefixes with the highest comosition scores:
+ men no longer have the--> time || 0.8508626222610474
+ and when the--> time || 0.8458811640739441
+ nothing is perfect sighed the--> fo || 0.8455256223678589
+ and the--> ros || 0.8441053032875061
+ if the--> hun || 0.8415644764900208
+ it is something that is too often forgotten said the--> fo || 0.8407394289970398
+ good morning responded the--> little || 0.8278390169143677
+ one only understands the--> things || 0.8272485136985779
+ men said the--> fo || 0.8259547352790833
+ one only sees clearly with the--> heart || 0.8234245777130127
+ so the little prince tamed the--> fo || 0.8205957412719727
+ no--> one || 0.817356526851654
+ no--> said || 0.8173563480377197
+ no-->[EOS] || 0.817356288433075
+ no-->[EOS] || 0.817356288433075
+ no--> one || 0.8173562288284302
+ if the hunters danced on just any day all the--> days || 0.8173424005508423
+ it was a garden--> covered || 0.817041277885437
+ that does--> not || 0.8156649470329285
+ it is the--> time || 0.8154154419898987
+ it is the--> time || 0.8154154419898987
+ all--> the || 0.815301239490509
+ i am right here the voice said under the--> apple || 0.8152480721473694
+ what should i do asked the--> little || 0.8152350783348083
+ good morning said the--> ros || 0.8148338794708252
+ good morning said the--> little || 0.8148338794708252
+ good morning said the--> railway || 0.8148338794708252
+ good morning said the--> fo || 0.8148338794708252
+ one only understands the things that one tames--> said || 0.8129327297210693
+ you have to be very patient replied the--> fo || 0.8124710321426392
+ they buy things ready made in the--> sh || 0.8118807077407837
+ but you are going to cry said the--> little || 0.8111239075660706
+ i am right here the--> voice || 0.8107597827911377
+ a second brilliantly lit express thundered by in the--> opposite || 0.810278594493866
+ i can go for a walk as far as the--> v || 0.8099336624145508
+ i dispatch the trains that carry them sometimes to the right sometimes to the--> left || 0.8087419271469116
+ who are you asked the--> little || 0.8065913915634155
+ you will understand that yours is unique in the--> entire || 0.8061860799789429
+ on thursdays they dance with the--> girls || 0.8050535917282104
+ words are a source of misunder-->stand || 0.8046286702156067
+ we must observe the--> r || 0.8042299151420593
+ not even the locomotive engineer knows that said the--> switch || 0.804220974445343
+ there is a--> flower || 0.8036285042762756
+ there is a--> r || 0.8036280870437622
+ it is possible said the--> fo || 0.8034746050834656
+ oh said the--> little || 0.8033182621002197
+ you are not--> like || 0.8030160069465637
+ you are not--> from || 0.8030118346214294
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the--> time || 0.8022852540016174
+ are they back already asked the--> little || 0.8017629981040955
+

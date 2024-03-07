@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i caught a glimp-->se || 0.8638853430747986
+ so getting impat-->ient || 0.8725326657295227
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.8794862627983093
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.8867954611778259
+ i was discou-->rag || 0.8968612551689148
+ i was discou-->rag || 0.8968612551689148
+ where is this where--> i || 0.9397778511047363
+ a bo-->a || 0.9402264356613159
+ once when--> i || 0.9412521719932556
+ so i thought a lot about the adventures of the--> j || 0.9420680403709412
+ so i would never speak to them of boa constrictors nor of primeval forests nor of the--> stars || 0.9421609044075012
+ he looked nothing like a child lost in the middle of the desert--> a || 0.9430344104766846
+ the one of the closed bo-->a || 0.9431346654891968
+ because where--> i || 0.9432775974273682
+ he is--> fallen || 0.9434910416603088
+ that is right and if--> you || 0.9440487623214722
+ the first night i went to sleep on the--> sand || 0.9444363117218018
+ i showed my master-->pie || 0.9450689554214478
+ but i was very surprised to see the--> face || 0.945438802242279
+ i wanted to know if--> they || 0.9459928870201111
+ i jumped to my feet as if i had been struck by light-->ning || 0.9461570978164673
+ the one of the--> closed || 0.9466225504875183
+ i caught a glimpse into the mystery of his presence and i asked ab-->rupt || 0.9467973113059998
+ it is true that--> you || 0.9470162987709045
+ i was discouraged in my career as a painter by the grownups at the--> age || 0.9487087726593018
+ so i lived alone without anyone i could really talk to until a breakdown in the sahara--> desert || 0.9488916397094727
+ he looked carefully--> then || 0.9490910172462463
+ and i was astounded to hear the--> little || 0.949367344379425
+ so once--> again || 0.9505029916763306
+ so i--> lived || 0.9506719708442688
+ so i--> had || 0.9506719708442688
+ so i--> drew || 0.9506719708442688
+ so i--> would || 0.9506719708442688
+ so i--> thought || 0.9506719708442688
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to--> apply || 0.9509679675102234
+ so i thought a lot about the--> advent || 0.9513707756996155
+ after a reflective silence he answered what is good about the box you have given is that at--> night || 0.9520484209060669
+ i have had during my life a lot of contact with--> many || 0.9527749419212341
+ as--> i || 0.9529839754104614
+ so when he saw my airplane for the--> first || 0.9529961943626404
+ absurd as it seemed to me a thousand miles from any human habitation and--> in || 0.9531628489494324
+ i stared at this sudden appar-->ition || 0.9532430171966553
+ so i thought a lot about the adventures of--> the || 0.9533308148384094
+ so you can imagine my surprise when at--> day || 0.9538877010345459
+ i flew a little in many places around--> the || 0.954333484172821
+ remember that i was a thousand miles from any inhabited region and--> yet || 0.9544655680656433
+ then the little prince said gravely that does--> not || 0.9549851417541504
+ i showed my--> master || 0.9550381302833557
+ and i was astounded to--> hear || 0.9553537964820862
+ yes i said mod-->est || 0.9555031657218933
+
+
+## 50 prefixes with the highest comosition scores:
+ he leaned--> his || 0.9901760816574097
+ and he repeated very slowly as if it was something very serious please draw--> me || 0.9889345169067383
+ i caught a--> g || 0.9887682795524597
+ because--> where || 0.988661527633667
+ and he repeated very slowly as if it was something very serious please draw me--> a || 0.9885955452919006
+ draw me--> a || 0.9883745312690735
+ draw me--> a || 0.9883745312690735
+ draw me--> a || 0.9883745312690735
+ as i had never drawn a sheep i redrew for him one of the only two draw-->ings || 0.9880622029304504
+ as i had never drawn--> a || 0.9880191683769226
+ i wanted to know if they were really a person of true understanding but they always responded it is a hat-->[EOS] || 0.9879875779151917
+ i will not draw--> my || 0.98798006772995
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw--> anything || 0.9879654049873352
+ and he repeated very slowly--> as || 0.9879545569419861
+ it is exactly the way i wanted-->[EOS] || 0.9876534938812256
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out--> of || 0.9875678420066833
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored pencil to make my first drawing--> my || 0.9875678420066833
+ then taking my sheep out of his pocket he sank himself--> into || 0.9872804880142212
+ it said please draw--> me || 0.9868354797363281
+ here is the best portrait that later i managed to do of him but my drawing--> of || 0.9867432713508606
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied--> myself || 0.9866235852241516
+ and i was proud--> to || 0.98661208152771
+ draw--> me || 0.9862620830535889
+ draw--> me || 0.9862620830535889
+ draw--> me || 0.9862620830535889
+ so i drew-->[EOS] || 0.9862194061279297
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost--> nor || 0.9862160086631775
+ but i was very surprised to see the face--> of || 0.9861974716186523
+ where i live everything--> is || 0.9861862659454346
+ where i live everything--> is || 0.9861862659454346
+ he asked me what is that thing--> there || 0.9861481189727783
+ then taking my sheep out--> of || 0.9860950112342834
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet--> of || 0.9860610961914062
+ i had hardly enough water to drink for a week-->[EOS] || 0.9860606789588928
+ it would be a drawing--> far || 0.9859719276428223
+ so i would never speak to them of boa constrictors nor of prime-->val || 0.9858543872833252
+ here is a copy of the drawing-->[EOS] || 0.9857465624809265
+ they answered me why--> would || 0.9856980443000793
+ the grownups advised me to leave--> aside || 0.9856795072555542
+ after a reflective silence he answered what is good about the box you have given is that at night he can use it as a house-->[EOS] || 0.9856732487678528
+ i took a--> good || 0.9856500029563904
+ they always need to have things--> explained || 0.9856469631195068
+ it took me a long time--> to || 0.9856452345848083
+ here is--> the || 0.9856263399124146
+ here is--> a || 0.9856263399124146
+ here is--> the || 0.985626220703125
+ so getting impatient as i was eager to start dismantling my engine i hastily sketch-->ed || 0.9856216907501221
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried to find out--> more || 0.9855610728263855
+ where i live everything is--> so || 0.9855155348777771
+ where i live everything is--> very || 0.9855155348777771
+

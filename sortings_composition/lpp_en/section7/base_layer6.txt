@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ they are what make one day different from other days one hour different from other hours-->[EOS] || 0.897235095500946
+ but she alone is more important than all of you because it is--> her || 0.904920756816864
+ but the fo-->x || 0.9107959866523743
+ of course an--> ordinary || 0.9112144708633423
+ to me you are still only a little--> boy || 0.9117951393127441
+ i would come--> to || 0.9122998714447021
+ i would come--> to || 0.9122998714447021
+ but if you come at just any time i would never know at what time my--> heart || 0.9125778079032898
+ they are asleep in there or if not they are y-->aw || 0.9127495884895325
+ then he said to himself i thought i was rich with a flower that was one of a--> kind || 0.9128468632698059
+ there is a rite for example among my--> hun || 0.9140563607215881
+ and then look you see the wheat--> fields || 0.9147435426712036
+ but she alone is more important than all of you because it--> is || 0.9150340557098389
+ i can go--> for || 0.9161693453788757
+ what is a r-->ite || 0.9163073301315308
+ that does not make me a very great prince and--> lying || 0.9163095951080322
+ his flower had told him that she was the--> only || 0.9169014692306519
+ and then look you see the--> whe || 0.9172815084457397
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy--> as || 0.9178773164749146
+ men no--> longer || 0.9179383516311646
+ come--> and || 0.9180470108985901
+ they buy things ready made in the sh-->ops || 0.918310284614563
+ are they back already asked the little--> prince || 0.9188693165779114
+ no one has t-->amed || 0.9193663597106934
+ no one has tamed you--> and || 0.9194983839988708
+ but you are going--> to || 0.9201875925064087
+ i know--> said || 0.9205843210220337
+ i know--> said || 0.9205843210220337
+ unlike any other other footsteps send me--> hur || 0.9209953546524048
+ wheat--> is || 0.9210710525512695
+ so--> the || 0.9211009740829468
+ so--> all || 0.9211009740829468
+ so--> i || 0.9211012721061707
+ and he went back to the fo-->x || 0.9211244583129883
+ all--> the || 0.9214850664138794
+ i will--> watch || 0.9216095209121704
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is unique in the--> entire || 0.9220161437988281
+ you are not--> from || 0.92208331823349
+ you are not--> like || 0.9220834374427795
+ but she alone is more important than all of you because it is her that i water-->ed || 0.9222434759140015
+ then--> come || 0.9224601984024048
+ then--> he || 0.9224601984024048
+ one only understands the things that one tames said the--> fo || 0.9224949479103088
+ the wheat which is golden will remind me of you and i will love the sound of the wind blowing through--> the || 0.9225673079490662
+ they waste their time with a rag doll and it becomes very important to--> them || 0.9228125214576721
+ i would be jumping about and getting--> rest || 0.922981321811676
+ to you i will be unique in the--> entire || 0.9233367443084717
+ and he suddenly felt very unh-->appy || 0.9233615398406982
+ i can go for a walk as--> far || 0.9236285090446472
+ he was only a fox just like a hundred thousand others but i have made--> him || 0.9236473441123962
+
+
+## 50 prefixes with the highest comosition scores:
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my burrow--> like || 0.9772095680236816
+ i sort travelers in packs--> of || 0.9729464054107666
+ not even the locomotive engineer knows that said the switch-->man || 0.9725521206855774
+ you are not from here said--> the || 0.971365213394165
+ because it is her that i sheltered behind the screen-->[EOS] || 0.9711506962776184
+ so all this has done you no good--> at || 0.9708515405654907
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is unique in the entire--> world || 0.9707733392715454
+ only the children are squashing their noses up against the windows-->[EOS] || 0.9706975221633911
+ because it is for her that i killed the caterpillars except two or three to become butter-->f || 0.9706512689590454
+ and a brilliantly lit express train rumbling like thunder--> shook || 0.9706128835678101
+ it is the time that i have wasted--> on || 0.9705749154090881
+ it is the time you have wasted on--> your || 0.9703479409217834
+ and a brilliantly lit express train rumbling--> like || 0.9702772498130798
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to--> the || 0.9702622890472412
+ because it is her that i listened to--> gr || 0.970234215259552
+ not even the locomotive engineer knows that said the switchman-->[EOS] || 0.9701510667800903
+ because it is for her that i killed the caterpill-->ars || 0.9699360132217407
+ one only sees clearly with--> the || 0.9698991179466248
+ were not they happy where--> they || 0.9698957800865173
+ come and play--> with || 0.969866931438446
+ only the children are squashing their noses--> up || 0.9698486328125
+ they really are in a hurry said the little prince-->[EOS] || 0.9697942137718201
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the dwellings of men-->[EOS] || 0.9696682095527649
+ i am right here the voice said--> under || 0.9696207642555237
+ but your hair is the color--> of || 0.969599187374115
+ she would cough and cough and pretend to die to avoid being laughed at--> and || 0.9694852828979492
+ oh said the little--> prince || 0.9693440794944763
+ she would cough and cough and pretend to--> die || 0.9693288803100586
+ it is the time you--> have || 0.9692712426185608
+ then come back to say goodbye to me and i will make you a present--> of || 0.9691473245620728
+ it would have been better to come back at the same time of--> day || 0.9691279530525208
+ good morning responded the little prince politely--> who || 0.968930721282959
+ it is the time you have wasted--> on || 0.9688072800636292
+ and a brilliantly lit express train rumbling like thunder shook the switchman--> s || 0.9687667489051819
+ his flower had told him that she was the only one of her kind in the universe and here were--> five || 0.9686646461486816
+ to me you will be unique in the entire--> world || 0.9686236381530762
+ i will watch you out of the corner of my eye--> and || 0.9686105847358704
+ his flower had told him that she--> was || 0.9685521125793457
+ it would have been better to come back at the same time--> of || 0.9684200882911682
+ but if you come at just any time i would never know at what time my heart should be ready to greet you-->[EOS] || 0.968389630317688
+ the little prince--> gaz || 0.9683730602264404
+ the little prince--> went || 0.9683729410171509
+ you will understand that yours is unique in--> the || 0.9683395028114319
+ it is the time that i have wasted on--> my || 0.9683340191841125
+ he was only a fox just like a hundred thousand others--> but || 0.9682704210281372
+ i dispatch the trains that carry them sometimes to the right sometimes to--> the || 0.9682134389877319
+ because it is her that i sheltered behind--> the || 0.9681808948516846
+ so the little prince tamed--> the || 0.9681761860847473
+ and when the time to leave drew near oh said the fox--> i || 0.9681399464607239
+ because it is for her that i--> killed || 0.9680310487747192
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ your cigaret-->te || 0.8863037824630737
+ then he sponged his forehead with a handkerch-->ief || 0.9314859509468079
+ so what then--> said || 0.9483991861343384
+ you own the stars-->[EOS] || 0.9484623670578003
+ certainly-->[EOS] || 0.9508007168769836
+ i no longer have a moment s rest-->[EOS] || 0.9541797041893005
+ this man the--> little || 0.9559727311134338
+ and what do you do with these stars-->[EOS] || 0.95607590675354
+ for it is possible to be both faithful and lazy at the same time-->[EOS] || 0.9565135836601257
+ flies-->[EOS] || 0.9565697312355042
+ but why have you just--> lit || 0.9567418694496155
+ and what do you do with five hundred million stars-->[EOS] || 0.9568607211112976
+ once every minute i light the lamp and put it out again-->[EOS] || 0.9570701122283936
+ where you live--> a || 0.9575944542884827
+ where you live a day only last-->s || 0.9587003588676453
+ two--> and || 0.960261881351471
+ that man said the little prince--> to || 0.960505485534668
+ yes that is true said--> the || 0.9606875777244568
+ perhaps it is--> because || 0.9607870578765869
+ to buy more stars--> if || 0.9607968330383301
+ it is not fun-->ny || 0.9607995748519897
+ no time to light it--> again || 0.9609383940696716
+ perhaps--> it || 0.9620027542114258
+ no no the little golden things that make--> lazy || 0.962315559387207
+ the businessman real-->ised || 0.9624009728431702
+ he remembered the sunsets--> which || 0.9626529812812805
+ when he puts out his lamp--> he || 0.9628030061721802
+ i do not understand said the little prince-->[EOS] || 0.9629575610160828
+ i am precise-->[EOS] || 0.9630483388900757
+ but he is--> less || 0.9630622267723083
+ and what do you do--> with || 0.963172435760498
+ and what do you do--> with || 0.963172435760498
+ and what do you do--> with || 0.9631724953651428
+ bees-->[EOS] || 0.963315486907959
+ and--> how || 0.9637896418571472
+ and--> what || 0.9637896418571472
+ and--> i || 0.963789701461792
+ and--> what || 0.9637897610664368
+ and--> he || 0.9637898206710815
+ and--> he || 0.9637898206710815
+ and--> he || 0.9637898206710815
+ and--> what || 0.9637898206710815
+ and--> he || 0.9637898206710815
+ and--> since || 0.9637898206710815
+ and--> how || 0.9637898206710815
+ and--> the || 0.9637898206710815
+ good morning the little--> prince || 0.9638502597808838
+ it serves a real--> purpose || 0.9638725519180298
+ for it--> is || 0.9639489650726318
+ but he is less absurd than the king than the conceited man--> the || 0.9641915559768677
+
+
+## 50 prefixes with the highest comosition scores:
+ for it is possible to be both faithful and lazy at the--> same || 0.9998981952667236
+ he made the most dread-->ful || 0.9998326301574707
+ during the fifty four years that i have lived on this planet--> i || 0.9995328783988953
+ it is of some use to my volcanoes and it is of--> some || 0.999439537525177
+ that means that i write the number of my stars on a little paper and then--> i || 0.9992230534553528
+ that man is the only one with whom i could have made friends but--> his || 0.999042272567749
+ and i own the stars because no one before me ever--> thought || 0.9982725977897644
+ at least his work has some meaning-->[EOS] || 0.9982507824897766
+ i own three volcanoes that i sweep out every week as--> i || 0.9980723261833191
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer and that is all--> that || 0.9980586171150208
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer and that is all that--> is || 0.9977959394454956
+ this man was so--> busy || 0.9977569580078125
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer and--> that || 0.9975228905677795
+ i do not have time to st-->roll || 0.9974336624145508
+ if i owned a scarf--> i || 0.9974321126937866
+ i own three volcanoes that i swe-->ep || 0.9955959320068359
+ then they belong to me because i thought of it--> first || 0.9948011636734009
+ perhaps it is because he thinks of--> something || 0.994650661945343
+ and i own the stars because no one before me--> ever || 0.9945700168609619
+ the second time was eleven years ago by an attack of r-->he || 0.9944780468940735
+ there was just enough room on it to accommod-->ate || 0.9942842721939087
+ every year the planet has turned faster and faster and the orders have--> not || 0.9942759871482849
+ the businessman retorted gr-->ump || 0.9942601323127747
+ those are the orders replied the lampl-->ighter || 0.9942272305488586
+ those are the orders replied the lampl-->ighter || 0.9942272305488586
+ if i owned a scarf i could put it--> around || 0.9941750168800354
+ i own three volcanoes that i sweep out every--> week || 0.9941399097442627
+ every year the planet has turned faster and faster and the orders have not--> changed || 0.9941302537918091
+ that does not do me much good said the lampl-->ighter || 0.9940580725669861
+ yet he is the only one that--> does || 0.9940409660339355
+ when he arrived on the planet he respectfully saluted the lampl-->ighter || 0.993975043296814
+ that means that i write the number of my stars on a little paper and--> then || 0.9939103722572327
+ i own three volcanoes that i sweep out every week as i also sweep out the one that--> is || 0.9938393831253052
+ phew phew then that makes five hundred and--> one || 0.9937974214553833
+ your planet is so small that you can go right--> round || 0.9937906265258789
+ if i owned a scarf i could put it around my neck and--> take || 0.9936968088150024
+ if i owned a flower i could pick my flower and take it--> away || 0.9936071038246155
+ then he sponged his forehead with a--> hand || 0.9935640096664429
+ the businessman ret-->orted || 0.9935541152954102
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer and that--> is || 0.9935373663902283
+ if i owned a flower i could pick my flower and take--> it || 0.9935236573219299
+ no no the little things that sh-->ine || 0.9935067892074585
+ then he sponged his forehead with a handkerchief decor-->ated || 0.9934976696968079
+ it is not funny at all said the lampl-->ighter || 0.9934810996055603
+ i own three volcanoes that--> i || 0.9934738278388977
+ there is nothing to understand said the lampl-->ighter || 0.9934705495834351
+ that is bad luck said the lampl-->ighter || 0.9934635162353516
+ your cig-->aret || 0.9934557676315308
+ what the little prince did not dare admit to himself was that he missed--> this || 0.9934499859809875
+ i own three volcanoes that i sweep out every week as i also swe-->ep || 0.9934490919113159
+

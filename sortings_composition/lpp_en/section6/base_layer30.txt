@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ next--> came || 0.9152205586433411
+ i can help you if somed-->ay || 0.925755500793457
+ first--> came || 0.9354885816574097
+ the little prince gaz-->ed || 0.9385001063346863
+ good evening said the little prince courte-->ously || 0.9405589699745178
+ they think themselves as important as the ba-->ob || 0.9437326788902283
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9458350539207458
+ it is not for the geographer to count the towns the--> rivers || 0.9497806429862976
+ it means which is at risk of imminent disapp-->earance || 0.9503146409988403
+ i would not know said the ge-->ograph || 0.9515613913536072
+ i would not know said the ge-->ograph || 0.9515613913536072
+ oh--> look || 0.9517454504966736
+ oh--> where || 0.9517455697059631
+ oh-->[EOS] || 0.9517455697059631
+ oh--> so || 0.9517455697059631
+ where are the men--> asked || 0.9541800618171692
+ where are the men--> asked || 0.9541800618171692
+ from--> a || 0.9542285799980164
+ it is not for the geographer to count the towns the rivers the mountains the seas the o-->ce || 0.9544953107833862
+ i know someone said the little--> prince || 0.9546025991439819
+ the little prince sat down on the--> table || 0.9556369781494141
+ are--> there || 0.955882728099823
+ three hundred--> and || 0.9560380578041077
+ and the little prince went away thinking of--> his || 0.9566566348075867
+ i have not been entirely honest in telling you about the lampl-->igh || 0.9568873047828674
+ then--> they || 0.9573841691017151
+ then--> came || 0.9573841691017151
+ then--> those || 0.9573841691017151
+ then--> those || 0.9573841691017151
+ then--> those || 0.9573841691017151
+ but i am more powerful than the--> finger || 0.9579139947891235
+ well said the ge-->ograph || 0.9582659006118774
+ if for--> example || 0.9586811661720276
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9589933753013611
+ one never knows said the ge-->ograph || 0.9591482281684875
+ we write about et-->ernal || 0.959429919719696
+ but what does ephemeral mean repeated the little prince who had never in his life--> let || 0.959942638874054
+ i have not been entirely honest in telling you about the lampligh-->ters || 0.9606019258499146
+ they ad-->ore || 0.9606911540031433
+ the little prince sat down on a--> stone || 0.9607909321784973
+ this--> is || 0.9611913561820984
+ and if any of their recollections seem interesting to him the geographer orders an inqu-->iry || 0.9616491198539734
+ goodbye--> said || 0.9619758129119873
+ goodbye--> said || 0.9619759321212769
+ but i am not an expl-->orer || 0.9620388150215149
+ he is a scholar who knows the location of the se-->as || 0.9629666209220886
+ of--> course || 0.9632534980773926
+ next came the turn of the lampl-->igh || 0.9635323882102966
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the--> ext || 0.964348316192627
+ the little prince gazed at him for--> a || 0.9644542336463928
+
+
+## 50 prefixes with the highest comosition scores:
+ to give you an idea--> of || 0.9986507296562195
+ i run the risk of giving a fasle idea--> of || 0.9984567165374756
+ when one wants to be witty it can happen that one bends the truth a little-->[EOS] || 0.9983394145965576
+ when one wants to be witty it can happen that one bends the truth--> a || 0.9979955554008484
+ only the lamplighter of the single lamp of the north pole and his colle-->ague || 0.9978908896446228
+ you go to see--> it || 0.9978160858154297
+ that is possible so when the moral character of the explorer appears to be in order an inquiry is done--> into || 0.9977325201034546
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a footstool-->[EOS] || 0.9977177381515503
+ i can help you if someday you become too homesick--> for || 0.9977158904075623
+ that was his first moment of regret--> but || 0.9976938366889954
+ all humanity could be piled up on the smallest pacific--> is || 0.9976702928543091
+ it is very rare that an ocean empties itself--> of || 0.9976000189781189
+ and the geographer having opened his big register sharpened his pencil-->[EOS] || 0.9975647330284119
+ it is right there--> above || 0.9975430965423584
+ that was his first moment of regret but he took heart once again-->[EOS] || 0.9974989891052246
+ because intoxicated men see double so the geographer would record two mountains in a place where there was only one-->[EOS] || 0.9974881410598755
+ the movements of this army were regulated--> like || 0.9974597692489624
+ whether volcanoes are extinct or active is of no consequence--> to || 0.9974083304405212
+ he asks them questions and he writes down their re-->collections || 0.9973714351654053
+ it is very rare that a mountain changes position-->[EOS] || 0.997367799282074
+ i saw them years ago-->[EOS] || 0.9973639249801636
+ no that would be too complicated-->[EOS] || 0.9973520040512085
+ they repeat whatever you say--> to || 0.9973448514938354
+ they picture themselves as taking up a lot of space-->[EOS] || 0.9973180890083313
+ he asks them questions--> and || 0.9972041845321655
+ seen from a distance it made a wonderful spectacle-->[EOS] || 0.9971674084663391
+ then they too would disappear--> into || 0.9971487522125244
+ and i have left her all alone--> on || 0.9971402287483215
+ he had already travelled so far-->[EOS] || 0.997130811214447
+ if for example the discovery in question was of a large mountain one would require that he bring back large stones from it-->[EOS] || 0.9970194101333618
+ but it is so far away-->[EOS] || 0.9969762563705444
+ that is to say about two billion grownups-->[EOS] || 0.9969349503517151
+ and if any of their recollections seem interesting to him the geographer orders an inquiry--> into || 0.9969204068183899
+ they are blown here and--> there || 0.996891438961029
+ he asks them questions and he writes down their recollections-->[EOS] || 0.9968081116676331
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetlamp lighters-->[EOS] || 0.9967877864837646
+ your planet is very beautiful--> he || 0.9967762231826782
+ it is right there above us-->[EOS] || 0.9967607259750366
+ the movements of this army were regulated like those of an opera ballet-->[EOS] || 0.9967588186264038
+ it is also lonely amongst men the snake said-->[EOS] || 0.9967542290687561
+ we write about eternal things-->[EOS] || 0.9967159032821655
+ but you never know where to find them-->[EOS] || 0.9967140555381775
+ i have three volcanoes two active volcanoes and--> one || 0.9966574311256409
+ i have three volcanoes two active volcanoes--> and || 0.9966410994529724
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all at--> once || 0.9965351819992065
+ they never become out dated-->[EOS] || 0.9965341687202454
+ because intoxicated men see double so the geographer would record two mountains in a place where there was--> only || 0.9965112805366516
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long and twenty miles wide-->[EOS] || 0.996492862701416
+ i have not been entirely honest--> in || 0.9964682459831238
+ because an explorer who told lies would cause havoc to geography books so would an explorer--> who || 0.9964613318443298
+

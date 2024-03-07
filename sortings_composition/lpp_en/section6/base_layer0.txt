@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ geography books said the geographer of all books are the most concerned with matters of--> consequence || 0.4824526906013489
+ i run the risk of giving a fasle idea of our planet to--> those || 0.5160041451454163
+ whether volcanoes are extinct or active is of no consequence to--> us || 0.516944944858551
+ whoever i touch i send him back to the earth from which--> he || 0.5490005016326904
+ and if any of their recollections seem interesting to him the geographer orders an inquiry--> into || 0.5600362420082092
+ one waits until the explorer has provided proof before--> recording || 0.5648415088653564
+ because intoxicated men see double so the geographer would record two mountains in a place where--> there || 0.5652231574058533
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leisure-->[EOS] || 0.5685965418815613
+ i run the risk of giving a fasle idea of our planet to those who do not know--> it || 0.571872353553772
+ oh so there is--> no || 0.573369562625885
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting--> they || 0.5750786066055298
+ i would not know said--> the || 0.5778008699417114
+ i would not know said--> the || 0.5778008699417114
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondescript flower belonging to--> no || 0.5815234184265137
+ they think themselves as important as the baobabs-->[EOS] || 0.5833231210708618
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like--> for || 0.5858616232872009
+ it is very rare that an ocean empties--> itself || 0.5858749151229858
+ he had already travelled--> so || 0.5864525437355042
+ you are a funny animal he said finally as thin as--> a || 0.5865043997764587
+ and she has only four thorns to defend herself against--> the || 0.586801290512085
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable--> army || 0.5873883962631226
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they--> would || 0.5876038074493408
+ it is not for the geographer to count the towns the rivers the mountains the seas the oce-->ans || 0.5895889401435852
+ from a mountain as high as this one he said to himself i will be able to--> see || 0.5902400016784668
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over--> the || 0.5917078256607056
+ i have three volcanoes two active volcanoes--> and || 0.5937391519546509
+ geography books said--> the || 0.5940134525299072
+ i know someone said the little prince who--> would || 0.5950812697410583
+ it is not for the geographer to count the towns the rivers the mountains the seas--> the || 0.5953551530838013
+ i have three volcanoes--> two || 0.59669429063797
+ they picture themselves as--> taking || 0.5971118807792664
+ from a mountain as high as this one he said to himself i--> will || 0.5974622964859009
+ next came the turn of the lamplighters of china and siberia to enter into--> the || 0.5976619720458984
+ but what does ephemeral mean repeated the little prince who--> had || 0.5986132621765137
+ that is possible so when the moral character of the explorer appears to be in order an inquiry--> is || 0.6001383662223816
+ when one wants to be w-->itt || 0.6002229452133179
+ then those of north america-->[EOS] || 0.6003878116607666
+ all humanity could be piled up on the smallest pacific is-->let || 0.6016342639923096
+ the little prince crossed the desert and met only with one flower a flower with three petals a--> n || 0.6035827398300171
+ one waits until--> the || 0.6038104891777039
+ and the geographer having opened his--> big || 0.6038636565208435
+ if for example the discovery in question was of a large mountain one would require that--> he || 0.6040300726890564
+ the only mountains he had ever known were the three volcanoes that came up to his--> kne || 0.6041197776794434
+ if for example the discovery in question was of a large mountain one would require that he bring back large stones from it-->[EOS] || 0.604383111000061
+ but extinct volcanoes--> can || 0.6044865846633911
+ i am all alone--> he || 0.6048557162284851
+ i am all alone--> all || 0.6048586368560791
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of--> the || 0.6054874062538147
+ first came the turn of the lam-->pl || 0.6055479049682617
+ seven thousand geographers-->[EOS] || 0.6060032248497009
+
+
+## 50 prefixes with the highest comosition scores:
+ and the--> ge || 0.8441055417060852
+ and the--> little || 0.8441053032875061
+ if the--> two || 0.8415644764900208
+ one never knows said the--> ge || 0.8412628769874573
+ that is true the--> ge || 0.8282028436660767
+ i understand very well said the--> little || 0.8261321187019348
+ the little prince sat down on the--> table || 0.8217204809188843
+ he wrapped himself around the--> little || 0.8181716203689575
+ i know someone said the--> little || 0.8179622292518616
+ it is also lonely amongst men the--> s || 0.8177273273468018
+ therefore you should advise them to do the math-->[EOS] || 0.8176463842391968
+ no--> that || 0.8173564076423645
+ then came the--> turn || 0.8172469139099121
+ the only mountains--> he || 0.8165281414985657
+ the only mountains he had ever known were the three vol-->cano || 0.8161711096763611
+ it is the--> pre || 0.8154142498970032
+ all--> human || 0.815301239490509
+ good morning said the--> little || 0.8148338794708252
+ good morning said the--> flower || 0.8148333430290222
+ the old--> gentleman || 0.8124728798866272
+ the earth is large said the--> s || 0.81215900182724
+ i wonder he said if the--> stars || 0.8117803931236267
+ geography books said the--> ge || 0.8096405863761902
+ it is not for the geographer to count the towns the rivers the mountains--> the || 0.8093950748443604
+ but i am more powerful than the--> finger || 0.8091586828231812
+ who are you said the--> little || 0.8084919452667236
+ when one wants to be witty it can happen that one bends the--> truth || 0.8074344396591187
+ next came the--> turn || 0.8069528341293335
+ ah said the--> s || 0.8056177496910095
+ i can carry you further than a ship said the--> s || 0.8054783344268799
+ what is that big book said the--> little || 0.8051526546478271
+ this--> is || 0.8032251000404358
+ you are not--> very || 0.803016722202301
+ that is very interesting said the--> little || 0.8023497462272644
+ men take up very little space on the--> earth || 0.8013252019882202
+ i have been having some trouble with a flower said the--> little || 0.800972044467926
+ nine--> hundred || 0.799639105796814
+ the grow-->nu || 0.7996148467063904
+ if for example the--> discovery || 0.7994277477264404
+ so--> the || 0.7992666959762573
+ the thing that matters to us is the--> mountain || 0.7992519736289978
+ but he--> saw || 0.7980239391326904
+ i understand very--> well || 0.7972919344902039
+ if the two billion people who inhabit the--> earth || 0.7972177863121033
+ he is a scholar who knows the location of the seas the rivers the--> towns || 0.7972176671028137
+ from--> a || 0.7961041927337646
+ they are blown here and--> there || 0.7955573201179504
+ good evening said the--> s || 0.7954732179641724
+ good evening said the--> little || 0.795472264289856
+ why is that asked the--> little || 0.7948215007781982
+

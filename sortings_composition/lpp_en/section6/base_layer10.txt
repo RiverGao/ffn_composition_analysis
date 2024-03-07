@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondes-->cript || 0.8914499282836914
+ it is all dry and all j-->ag || 0.917366087436676
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9182560443878174
+ one waits until the explorer has provided proof before recording them in in-->k || 0.9275322556495667
+ and if any of--> their || 0.9286131262779236
+ you are an expl-->orer || 0.9287465810775757
+ all humanity could be piled up on the smallest pac-->ific || 0.9291962385177612
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9315450191497803
+ it is all dry and all jagged and all--> bar || 0.9321281909942627
+ is my flower at--> risk || 0.9325845241546631
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a footst-->ool || 0.9344323873519897
+ oh so there is no one on earth-->[EOS] || 0.9362872242927551
+ when one wants--> to || 0.9375115036964417
+ she was always the first to speak-->[EOS] || 0.9380230903625488
+ when one wants to be witty it can happen that one--> b || 0.9397226572036743
+ i would not know that either said the ge-->ograph || 0.9401867389678955
+ i have three vol-->cano || 0.9407054781913757
+ it is all dry and all jagged and all bar-->ren || 0.9409976601600647
+ you must describe your--> planet || 0.9411870241165161
+ it was inhabited by an old gentleman who wrote enorm-->ous || 0.941226065158844
+ it means which is at risk of im-->min || 0.9413005113601685
+ and the geographer having opened his big register sharpened his penc-->il || 0.941386878490448
+ it is not for the geographer to count the towns the rivers the mountains the seas the oceans--> and || 0.9414464235305786
+ and towns and rivers and desert-->s || 0.9414892792701721
+ but what does ephemeral mean repeated the--> little || 0.9414920210838318
+ then came the turn of the lamplighters of russ-->ia || 0.9417611956596375
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the ext-->inct || 0.9418783783912659
+ next came the turn of the lam-->pl || 0.9423184990882874
+ on what planet have i come--> down || 0.9423846006393433
+ it has one hundred and eleven--> k || 0.9424216747283936
+ because an explorer who told lies would cause havoc to ge-->ography || 0.9424470663070679
+ you trust--> me || 0.9424725770950317
+ seven thousand ge-->ograph || 0.9425090551376343
+ it is all dry and all jagged and all barren and the--> people || 0.9425390362739563
+ oh so there is no--> one || 0.9426557421684265
+ it is not for the geographer to count the towns the rivers the mountains the seas the oceans and the desert-->s || 0.9426873922348022
+ but one requires the explorer to provide proof-->[EOS] || 0.9427369832992554
+ good morning good morning good morning answered the echo-->[EOS] || 0.9427397847175598
+ and towns and--> rivers || 0.9428645372390747
+ good morning he said courte-->ously || 0.942972719669342
+ having set their l-->amps || 0.9430217146873474
+ he cried out when he caught sight--> of || 0.9430831074714661
+ but he saw--> nothing || 0.9432045221328735
+ what is a--> ge || 0.9434937238693237
+ when one wants to be w-->itt || 0.9436100125312805
+ i run the risk of giving a fas-->le || 0.9436948299407959
+ she was always the first to--> speak || 0.9437459111213684
+ whether volcanoes are extinct or active is of no consequence to us said the geograph-->er || 0.9439564943313599
+ the only mountains--> he || 0.9440625905990601
+ and if any of their recollections seem interesting to him the ge-->ograph || 0.9440801739692688
+
+
+## 50 prefixes with the highest comosition scores:
+ and if any of their recollections seem interesting to him the geographer orders an inquiry--> into || 0.9803128242492676
+ i have three volcanoes two active volcanoes and one extinct--> one || 0.9792302250862122
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long and twenty miles wide-->[EOS] || 0.9791936874389648
+ i can help you if someday you become too--> homes || 0.978983998298645
+ one never knows--> said || 0.9786463379859924
+ from a mountain as high as this one--> he || 0.9783415198326111
+ that was his first moment of regret but he took heart once again-->[EOS] || 0.9783228635787964
+ and if any of their recollections seem interesting to him--> the || 0.9783098697662354
+ where are the men asked the--> little || 0.9781522154808044
+ where are the men asked the--> little || 0.9781522154808044
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all--> at || 0.9780279397964478
+ the geographer is too important--> to || 0.9780156016349792
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of--> le || 0.9779505133628845
+ the little prince crossed the desert and met only with one flower a flower--> with || 0.9778185486793518
+ and the geographer having opened--> his || 0.9777348041534424
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity--> it || 0.9775218367576599
+ it is not for the geographer to count the towns the rivers--> the || 0.9774208068847656
+ i wonder he said if the stars are lit so that each of us can--> one || 0.9772830605506897
+ and if any of their recollections seem interesting to him the geographer orders an inquiry into--> that || 0.9766508936882019
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of--> four || 0.9765362739562988
+ whether volcanoes are extinct or active is of no consequence to us said--> the || 0.9765273928642273
+ i would not know that either said--> the || 0.9764809608459473
+ i am a geographer said the old--> gentleman || 0.976469099521637
+ and if any of their recollections seem interesting to him the geographer orders--> an || 0.9764312505722046
+ whether volcanoes are extinct or active is--> of || 0.976344108581543
+ and if any of their recollections seem interesting to him the geographer orders an--> inqu || 0.9762746691703796
+ it is very rare that a mountain changes position-->[EOS] || 0.9762048125267029
+ only the lamplighter of the single lamp--> of || 0.9761672019958496
+ because into-->xic || 0.9761608839035034
+ then came the turn of--> the || 0.9761598706245422
+ but what does ephemeral mean repeated the little prince who had never in his life let go of a question once he had asked--> it || 0.976123571395874
+ it is also lonely amongst men the snake said-->[EOS] || 0.976098358631134
+ you can not even travel-->[EOS] || 0.9760976433753967
+ that is possible so when the moral character of the explorer appears to be in order an inquiry is done into--> his || 0.9760252237319946
+ they repeat whatever you say--> to || 0.9760178327560425
+ because an explorer who told lies would cause havoc to geography books so would an expl-->orer || 0.976017415523529
+ it is not for the geographer--> to || 0.9759423732757568
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span--> of || 0.9759381413459778
+ that was his first moment--> of || 0.9758820533752441
+ first came the turn of the lamplighters of new zealand and australia-->[EOS] || 0.9758756756782532
+ i run the risk of giving a fasle idea of our planet to those who do not--> know || 0.9758704304695129
+ i can help you if someday you become--> too || 0.9758356213569641
+ it is beautiful said--> the || 0.9757259488105774
+ the flower had once seen--> a || 0.975721001625061
+ and if any of their recollections seem interesting to him the geographer orders an inquiry into that--> expl || 0.9757124781608582
+ the movements of this army were regulated--> like || 0.9756687879562378
+ they repeat whatever you say to--> them || 0.9756644368171692
+ having set--> their || 0.9756369590759277
+ that is possible so when the moral character of the explorer appears to be in order an inquiry is done--> into || 0.9756292104721069
+ and never would they make a mistake in their order of--> entry || 0.9756011962890625
+

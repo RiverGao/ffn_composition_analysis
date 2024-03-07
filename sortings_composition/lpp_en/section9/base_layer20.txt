@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ for others who are schol-->ars || 0.844481348991394
+ he would never have been able--> to || 0.8914251327514648
+ he got a bit discou-->rag || 0.9117421507835388
+ where i--> live || 0.9507424831390381
+ the--> little || 0.9580330848693848
+ the--> little || 0.9580330848693848
+ the--> water || 0.9580332040786743
+ the--> compan || 0.9580332040786743
+ ah little fellow--> dear || 0.961965024471283
+ then i--> am || 0.9625403881072998
+ sometimes--> i || 0.9634499549865723
+ but i--> have || 0.9635469913482666
+ if a child then comes to you if he laughs if--> he || 0.9650285243988037
+ when you--> look || 0.9653527140617371
+ i continued my walk toward--> the || 0.9654815196990967
+ and i--> love || 0.9655078649520874
+ and i--> heard || 0.9655078649520874
+ i will also look at--> the || 0.9659507870674133
+ i was just coming to tell him that against all odds--> my || 0.9659994840621948
+ i will have played a dirty trick on you-->[EOS] || 0.9660282731056213
+ there was next to the--> well || 0.9660460352897644
+ all the--> stars || 0.9660854935646057
+ all the--> stars || 0.9660854935646057
+ all the--> stars || 0.9660854935646057
+ i had--> lo || 0.9663025736808777
+ i had--> mo || 0.9663025736808777
+ and besides i--> am || 0.9663034081459045
+ little fellow is this all a bad dream--> this || 0.9666706919670105
+ i was just coming to tell him that against all odds my--> work || 0.9669158458709717
+ for some who--> are || 0.9670722484588623
+ i will also look at the--> stars || 0.9675584435462952
+ i had loosened the golden m-->uff || 0.9676040410995483
+ and he smiled sadly-->[EOS] || 0.967822253704071
+ but i have drawn it again to show it to you properly-->[EOS] || 0.9680687189102173
+ all the stars will pour out fresh water for me to drink-->[EOS] || 0.9690559506416321
+ my--> little || 0.9691293835639954
+ my--> heart || 0.9691293835639954
+ my--> star || 0.9691293835639954
+ my--> star || 0.9691293835639954
+ that night i--> did || 0.9692496061325073
+ if you--> love || 0.9693194627761841
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are laughing-->[EOS] || 0.969321608543396
+ but i have drawn it again to--> show || 0.9695560336112976
+ another voice must have answered him because he replied yes yes it is the right day but--> this || 0.969881534576416
+ i continued my walk toward the--> wall || 0.969926118850708
+ then i am happy and all the--> stars || 0.9700366854667664
+ the water you gave me to drink was like music because--> of || 0.9701799154281616
+ i was sad but i told them it is because i am tired-->[EOS] || 0.9702078700065613
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones--> with || 0.9703333973884583
+ again i--> felt || 0.9705439209938049
+
+
+## 50 prefixes with the highest comosition scores:
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never--> hearing || 0.9956576824188232
+ he fell as--> g || 0.9948921203613281
+ i felt his heart beat like the heart of a dying bird when shot with--> a || 0.9948242902755737
+ i felt his heart beat like the heart of a dying bird when shot with a--> rif || 0.9947787523269653
+ when i drew the muzzle for the little prince i forgot to add the--> le || 0.9942992329597473
+ when i came back from my work the next evening i saw from a--> distance || 0.9942662715911865
+ i felt his heart beat like the--> heart || 0.9941213130950928
+ even as i dug around in my pocket to--> take || 0.9939820170402527
+ and she is so na-->ive || 0.993419885635376
+ for me it was like a spring of fresh--> water || 0.9934188723564148
+ i waited a long while-->[EOS] || 0.9932864904403687
+ i felt very clearly that something extraordinary was--> happening || 0.993279755115509
+ i mean not entirely but i do know that he got back to his planet because at daybreak i did--> not || 0.9932075142860413
+ when i managed to catch him up he was walking along determinedly at a brisk--> pace || 0.9931846261024475
+ there is nothing sad--> about || 0.9930331707000732
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to rest-->rain || 0.9930035471916199
+ so you will tell them yes the stars always make me laugh and they will think you are cra-->zy || 0.992956280708313
+ for me it was like a spring of fresh water in the--> desert || 0.9929221272468567
+ when i drew the muzzle for the--> little || 0.9928345680236816
+ when i came back from my work the--> next || 0.9928004145622253
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped--> between || 0.9927961230278015
+ and your friends will be very surprised to see you la-->ughing || 0.992795467376709
+ i felt his heart beat like the heart of a dying bird when shot with a rifle-->[EOS] || 0.9927356243133545
+ my heart skipped a--> beat || 0.9926939606666565
+ and if you happen to pass by there i beg you do--> not || 0.992662787437439
+ his feet hanging down-->[EOS] || 0.9925796389579773
+ ask your-->selves || 0.9925767779350281
+ he had a serious look--> as || 0.9925763010978699
+ his feet h-->anging || 0.9925761222839355
+ and sometimes you will open your window just--> like || 0.9925621151924133
+ i reached the wall just in time to catch my--> little || 0.9925141930580139
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic--> sound || 0.9924623370170593
+ i felt his heart beat like the heart of a dying bird when shot--> with || 0.9924373030662537
+ for me it was like a spring of fresh water in--> the || 0.9923485517501831
+ even as i dug around in my pocket to take out my revolver i made a running--> step || 0.992296040058136
+ when i managed to catch him up he was walking along determinedly at--> a || 0.9922808408737183
+ it will look as if i am dead and that will not--> be || 0.9922375082969666
+ for my businessman they were wealth-->[EOS] || 0.9922369122505188
+ when i managed to catch him up he was walking along determinedly at a br-->isk || 0.9921972155570984
+ even as i dug around in my pocket to take out my--> revol || 0.9921969175338745
+ right there facing the little prince was one of those yellow sn-->akes || 0.9921791553497314
+ he fell as gently as--> a || 0.9921261668205261
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that laugh-->ter || 0.9921143651008606
+ other times i tell myself everyone is absent minded at some point and that is--> all || 0.9920276403427124
+ i was twenty meters from the wall and i still saw nothing-->[EOS] || 0.9919956922531128
+ there was next to the well the ru-->in || 0.9919643402099609
+ when i drew the muzzle for the little prince i forgot to add the leather st-->rap || 0.9919236898422241
+ he looked at me grav-->ely || 0.9919184446334839
+ he got a bit disc-->ou || 0.9918941259384155
+ i was--> just || 0.991890013217926
+

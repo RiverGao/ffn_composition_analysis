@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9047041535377502
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9157646894454956
+ i can help you if somed-->ay || 0.9243108630180359
+ and towns and rivers and--> desert || 0.9399512410163879
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.9446958899497986
+ they are--> blow || 0.9491916298866272
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.950030505657196
+ i wonder he said if the--> stars || 0.9513387084007263
+ that is to say--> about || 0.9516048431396484
+ and she--> has || 0.9548934102058411
+ they adore--> numbers || 0.9554163813591003
+ but it is--> so || 0.9590327143669128
+ it is also--> lon || 0.9597904682159424
+ that is true the--> ge || 0.9611048102378845
+ i know someone said the--> little || 0.9633367657661438
+ it is--> beautiful || 0.9635337591171265
+ it is--> also || 0.9635337591171265
+ it is--> very || 0.9635337591171265
+ it is--> not || 0.9635337591171265
+ it is--> all || 0.9635337591171265
+ it is--> not || 0.9635337591171265
+ it is--> the || 0.9635337591171265
+ it is--> a || 0.9635337591171265
+ it is--> right || 0.9635337591171265
+ it is--> very || 0.9635338187217712
+ and if any of their recollections seem interesting to him--> the || 0.963995635509491
+ but do--> not || 0.9647330641746521
+ it has one hundred and eleven kings not forgetting of course the--> negro || 0.9659685492515564
+ therefore--> you || 0.9659870862960815
+ the little prince crossed the desert and met only with one flower a flower with three petals a--> n || 0.9662904739379883
+ i would not know that--> either || 0.9666670560836792
+ that is--> possible || 0.9669036865234375
+ that is--> true || 0.9669036865234375
+ that is--> very || 0.9669036865234375
+ that is--> to || 0.9669037461280823
+ the little prince crossed the desert and met only with one flower a flower with three--> pet || 0.9669901728630066
+ seen--> from || 0.9676805138587952
+ i can help you--> if || 0.9678119421005249
+ and never would they make a mistake--> in || 0.9678400754928589
+ one waits until the--> expl || 0.9679856300354004
+ nine hundred thousand businessmen-->[EOS] || 0.968330442905426
+ that is to say about--> two || 0.968404233455658
+ first came the turn--> of || 0.9685150384902954
+ oh where i live--> said || 0.9685912728309631
+ so the--> sevent || 0.9686749577522278
+ it is a bit lonely in the desert-->[EOS] || 0.9687402248382568
+ it is not for the--> ge || 0.968751847743988
+ i wonder he said if the stars are lit so that each of us can one day find his own again-->[EOS] || 0.9687953591346741
+ it is all dry and all jagged and all barren and the--> people || 0.9688326716423035
+ then came the--> turn || 0.9689160585403442
+
+
+## 50 prefixes with the highest comosition scores:
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles--> long || 0.9931359887123108
+ that was his first moment--> of || 0.9926976561546326
+ and the geographer having opened his big register sharpened his penc-->il || 0.9924258589744568
+ the movements--> of || 0.9921601414680481
+ the little prince sat down on a stone and raised--> his || 0.9921236038208008
+ the flower had once seen a car-->avan || 0.9920758008956909
+ and she has only--> four || 0.9919828772544861
+ when one wants to be witty it can happen that one bends--> the || 0.9918871521949768
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a foot-->st || 0.9918251633644104
+ the recitals of explorers are first recorded in penc-->il || 0.991580605506897
+ why is that asked--> the || 0.9915101528167725
+ if for example the discovery in question was of a large mountain one--> would || 0.9914260506629944
+ but i am more powerful than the finger of a king said the s-->nake || 0.9913471937179565
+ whether volcanoes are extinct or active is of no--> consequence || 0.9913126230239868
+ if--> the || 0.9911894798278809
+ if--> for || 0.9911894798278809
+ i have three vol-->cano || 0.9911677837371826
+ whether vol-->cano || 0.9911198019981384
+ from a--> mountain || 0.9911009669303894
+ that was his first moment of regret but he took heart once--> again || 0.9910898208618164
+ because an explorer who told lies would cause havoc to geography books so would an explorer who drank too--> much || 0.9910815954208374
+ and he glanced around at the planet--> of || 0.9910501837730408
+ i run the risk of giving--> a || 0.9910301566123962
+ it is very rare that a mountain--> changes || 0.9909970760345459
+ oh so there is no one on--> earth || 0.9909810423851013
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used--> the || 0.9909418225288391
+ because intoxicated men see double so the geographer would record two mountains in a--> place || 0.9909386038780212
+ the only mountains he had ever known were the three volcanoes that came up--> to || 0.9909230470657349
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all--> at || 0.9909058809280396
+ it was inhabited by an old gentleman who wrote enormous--> books || 0.99079829454422
+ because intoxicated men see double so the ge-->ograph || 0.9907757043838501
+ they lack roots-->[EOS] || 0.9907622337341309
+ the planet earth replied the geograph-->er || 0.9907052516937256
+ then came the turn of the lamplighters of russia and the ind-->ies || 0.9906347990036011
+ the flower had once--> seen || 0.9906342029571533
+ whoever i touch i send him back to the earth--> from || 0.9906293749809265
+ because intoxicated men see double so the geographer would record two mountains in a place where there--> was || 0.9906162023544312
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army--> of || 0.9906143546104431
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public--> square || 0.9906091094017029
+ because an explorer who told lies would cause havoc to geography books--> so || 0.9906046986579895
+ they are blown here and there--> by || 0.9906011819839478
+ and the geograph-->er || 0.9905965328216553
+ and never would they make--> a || 0.9905964136123657
+ i am a ge-->ograph || 0.9905743598937988
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it--> was || 0.9905729293823242
+ the sixth planet--> was || 0.9905725717544556
+ that is to say about two billion grow-->nu || 0.9905346632003784
+ all humanity could be piled up--> on || 0.9905214309692383
+ we do not record flowers said the geograph-->er || 0.990511953830719
+ it means which is at risk of im-->min || 0.9905089735984802
+

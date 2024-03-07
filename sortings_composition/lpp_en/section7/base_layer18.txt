@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i can go for a walk as far as the viney-->ards || 0.9164029955863953
+ but every day you will be able--> to || 0.9210752248764038
+ my life is very monoton-->ous || 0.9460857510566711
+ the fox seemed very intrigu-->ed || 0.9488885998725891
+ they are--> not || 0.9491916298866272
+ they are--> as || 0.9491916298866272
+ they are--> also || 0.9491916298866272
+ they are--> luck || 0.9491916298866272
+ they are--> what || 0.9491916298866272
+ they are also--> something || 0.9512201547622681
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.9528768062591553
+ oh but she is--> not || 0.9537504315376282
+ they really are--> in || 0.955302357673645
+ because it is her that--> i || 0.9569319486618042
+ because it is her that--> i || 0.9569320678710938
+ because it is her that--> i || 0.9569320678710938
+ i am not tamed-->[EOS] || 0.9573307633399963
+ the men have--> forgotten || 0.9605178236961365
+ he was only a fox just like a hundred thousand others but i have made him my friend--> and || 0.9608609080314636
+ are they back already--> asked || 0.9615468978881836
+ there is a rite for example--> among || 0.9615565538406372
+ of course an ordinary passer by would think that my--> rose || 0.9619259238243103
+ because it is for her that--> i || 0.9626413583755493
+ they are what make one day different from other--> days || 0.9626816511154175
+ unlike any other--> other || 0.9627583622932434
+ because it is for her--> that || 0.9628420472145081
+ because it is--> her || 0.963068425655365
+ because it is--> for || 0.963068425655365
+ because it is--> her || 0.963068425655365
+ because it is--> her || 0.9630686640739441
+ there is a r-->ite || 0.9632611274719238
+ it is--> possible || 0.9635337591171265
+ it is--> very || 0.9635337591171265
+ it is--> very || 0.9635337591171265
+ it is--> their || 0.9635337591171265
+ it is--> an || 0.9635337591171265
+ it is--> the || 0.9635337591171265
+ it is--> the || 0.9635337591171265
+ it is--> something || 0.9635337591171265
+ it is--> your || 0.9635337591171265
+ one could not die for you-->[EOS] || 0.963700532913208
+ if you come for example at--> four || 0.96372389793396
+ i hunt chick-->ens || 0.9637835025787354
+ because it is her that i put under the glass dome-->[EOS] || 0.9648544192314148
+ the wheat which is golden will remind me of you and i will love the sound of the wind blowing through the--> whe || 0.9654508233070374
+ i am right here the voice said under the apple tree-->[EOS] || 0.9655331969261169
+ if the hunters danced on just any day all the--> days || 0.9661365747451782
+ not even the--> locomot || 0.9664458632469177
+ but she alone is more important than all of you because it is her--> that || 0.9667963981628418
+ that is--> right || 0.9669036865234375
+
+
+## 50 prefixes with the highest comosition scores:
+ but if you tame me we will need each--> other || 0.9964101314544678
+ and when the time to leave drew--> near || 0.9930341243743896
+ you are like my fox--> used || 0.9929133653640747
+ i would come to know a sound of foot-->steps || 0.9929130673408508
+ she would be very ups-->et || 0.9929100871086121
+ his flower had told him that she was the only one of her kind in the universe and here--> were || 0.9928328394889832
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really--> would || 0.9926220774650574
+ yes-->[EOS] || 0.9925245642662048
+ a third brilliantly lit express thundered--> by || 0.9924324750900269
+ a third brilliantly lit express thundered by-->[EOS] || 0.9923344254493713
+ a second brilliantly lit express thundered--> by || 0.9920691847801208
+ that and my three vol-->cano || 0.9918365478515625
+ a second brilliantly lit express thundered by--> in || 0.9918258786201477
+ i am a fox--> the || 0.9917615652084351
+ what is it--> that || 0.9917590022087097
+ what is it--> that || 0.9917590022087097
+ i would feel--> happ || 0.9915498495101929
+ and a brilliantly lit express train rumbling--> like || 0.9914586544036865
+ the fox went silent and gaz-->ed || 0.9914165735244751
+ of course an ordinary passer--> by || 0.9914120435714722
+ unlike any other other foot-->steps || 0.9913918972015381
+ she would cough and cough and pretend to die to avoid being laughed--> at || 0.9912018775939941
+ if--> you || 0.9911894798278809
+ if--> you || 0.9911894798278809
+ if--> the || 0.9911894798278809
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all--> al || 0.991152286529541
+ and a brilliantly lit express train rumbling like thunder shook--> the || 0.9910888671875
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all alike in one--> single || 0.9910836219787598
+ i would feel happier and happier already by--> four || 0.9910751581192017
+ then he said to himself i thought i was rich with a flower that was one of a kind and all i have is a common--> rose || 0.9910634756088257
+ but the fox--> came || 0.99104243516922
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to--> life || 0.9908372759819031
+ one could not--> die || 0.9908015131950378
+ men no longer have the time to get to know--> anything || 0.9907625913619995
+ to you i am only a fox--> just || 0.9907021522521973
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back--> to || 0.9906997680664062
+ a second brilliantly lit express--> th || 0.990654468536377
+ they all looked just--> like || 0.9906362295150757
+ but if you come at just any time i would never know at what time my heart--> should || 0.9905925393104553
+ that does not make me a very great prince and lying--> in || 0.9905924201011658
+ to me you are still only a little boy just--> like || 0.9905487895011902
+ you are nothing yet he told--> them || 0.9905434250831604
+ a second brilliantly lit express thundered by in--> the || 0.9905413389205933
+ they really are in a hur-->ry || 0.9905264973640442
+ men said the fox--> they || 0.9905139207839966
+ but she alone is more important than all of you because it--> is || 0.9905080795288086
+ they are also something too often forgotten said the fox-->[EOS] || 0.9904910922050476
+ it is possible said the fox-->[EOS] || 0.9904685616493225
+ and a brilliantly lit express train rumbling like--> th || 0.9904581904411316
+ he was only a fox just--> like || 0.9904558658599854
+

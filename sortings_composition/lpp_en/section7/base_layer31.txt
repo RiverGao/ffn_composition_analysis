@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ my life is very monoton-->ous || 0.9578968286514282
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all--> roads || 0.9636385440826416
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to--> the || 0.9689331650733948
+ the fox seemed very intrigu-->ed || 0.9690902233123779
+ but it happened that the little prince having walked for a long time through the--> s || 0.9709614515304565
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the dwellings of--> men || 0.9711020588874817
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the--> dwell || 0.9731128811836243
+ the little prince gaz-->ed || 0.9731425046920776
+ it is the time you have wasted on your--> rose || 0.9736701250076294
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads--> lead || 0.9738971590995789
+ but if you tame me we will need--> each || 0.9742575287818909
+ but it happened that the little prince having walked for a long--> time || 0.9745484590530396
+ i hunt--> ch || 0.9746519923210144
+ i can go for a walk as far as the viney-->ards || 0.974659264087677
+ but if you tame me we will need each--> other || 0.9749166369438171
+ one only sees clearly with--> the || 0.9751379489898682
+ so the little prince tamed the--> fo || 0.9753918051719666
+ it is possible said--> the || 0.9758400321006775
+ the little prince went away to see the--> ros || 0.97601717710495
+ it has done me good said--> the || 0.9760454893112183
+ what is a rite asked--> the || 0.9761376976966858
+ so the little prince tamed--> the || 0.9761627912521362
+ they really are in a hurry said--> the || 0.9761708974838257
+ only the children know what they are after said--> the || 0.9763782620429993
+ but it happened that the little prince having walked for a long time through the sands rocks and--> snow || 0.9767284989356995
+ the little prince gazed at--> them || 0.9770681262016296
+ it is your fault said--> the || 0.9770713448524475
+ one only sees clearly with the--> heart || 0.9772340655326843
+ what is essential is invisible to--> the || 0.9773377180099487
+ what is essential is invisible to--> the || 0.9773378372192383
+ what do you do here the little prince asked-->[EOS] || 0.9778072237968445
+ what is essential is invisible to the eye repeated the little--> prince || 0.9780865907669067
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a--> road || 0.9782904386520386
+ but if you tame me it would bring some sun-->light || 0.9783909916877747
+ it is the time that i have wasted on my--> rose || 0.9784066081047058
+ goodbye said--> the || 0.9784441590309143
+ what is essential is invisible to the--> eye || 0.9787392616271973
+ what is essential is invisible to the--> eye || 0.9787392616271973
+ the men have forgotten this truth said the fox--> but || 0.9791181683540344
+ good morning said the railway--> switch || 0.9792647957801819
+ one could not die for--> you || 0.9793221950531006
+ good--> morning || 0.979396641254425
+ good--> morning || 0.979396641254425
+ good--> morning || 0.979396641254425
+ good-->bye || 0.9793967008590698
+ good--> morning || 0.9793967008590698
+ good--> morning || 0.9793967008590698
+ good-->bye || 0.9793967008590698
+ good--> morning || 0.9793967008590698
+ good--> morning || 0.9793967008590698
+
+
+## 50 prefixes with the highest comosition scores:
+ and then he added go and see--> the || 0.9999487996101379
+ but as there are not--> any || 0.9999409317970276
+ they are asleep in there or if--> not || 0.9999215006828308
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if--> i || 0.999916672706604
+ his flower had told him that--> she || 0.9999090433120728
+ that and my three volcanoes that come up--> to || 0.9999080300331116
+ these are not the same--> ones || 0.9999070763587952
+ and a brilliantly lit express train rumbling--> like || 0.9999030232429504
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because--> if || 0.9999005794525146
+ there is a rite for example--> among || 0.9998882412910461
+ one only understands--> the || 0.9998844265937805
+ that and my three volcanoes--> that || 0.9998809695243835
+ you are nothing yet he told--> them || 0.9998782277107239
+ i am looking for--> friends || 0.9998696446418762
+ i am looking for--> men || 0.9998696446418762
+ his flower had told him that she was the only one of her kind in the universe and here were--> five || 0.9998645782470703
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got--> near || 0.9998584985733032
+ it was then that--> the || 0.9998529553413391
+ one only sees--> clearly || 0.9998420476913452
+ and the roses were very embar-->rass || 0.9998376369476318
+ because it is for her that i killed--> the || 0.9998347759246826
+ and a brilliantly lit express train rumb-->ling || 0.9998289346694946
+ it is something--> that || 0.9998076558113098
+ it means--> to || 0.9998060464859009
+ i would come to know a sound of foot-->steps || 0.9998050332069397
+ but your hair is the color of gold so it will be wonderful--> when || 0.9997992515563965
+ not even the locomotive engineer--> knows || 0.9997974038124084
+ of course an ordinary passer by would think that--> my || 0.999794065952301
+ they waste their time with a rag doll--> and || 0.9997897744178772
+ you are not like--> my || 0.9997870922088623
+ no one has tamed you and you have not t-->amed || 0.9997692704200745
+ i am so unh-->appy || 0.9997640252113342
+ and then look you see the wheat fields down there-->[EOS] || 0.9997621178627014
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my burrow--> like || 0.9997612833976746
+ i would feel happier and happ-->ier || 0.9997605085372925
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow--> herself || 0.999755859375
+ i am a fox the fo-->x || 0.9997557401657104
+ that and my three volcanoes that come up to my kne-->es || 0.9997555613517761
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my bur-->row || 0.9997503161430359
+ you become forever responsible for that which you have t-->amed || 0.9997493624687195
+ we must observe--> the || 0.9997415542602539
+ the fox went silent and gazed--> at || 0.9997408390045166
+ wheat is of no use to me-->[EOS] || 0.9997385144233704
+ but she alone is more important--> than || 0.9997311234474182
+ the wheat fields mean nothing--> to || 0.9997268915176392
+ are they chasing after the first travelers asked--> the || 0.9997251629829407
+ i sort travelers in--> pack || 0.9997223019599915
+ you will understand that--> yours || 0.9997191429138184
+ they are asleep in there or if not they are yaw-->ning || 0.9997168183326721
+ to me you will be unique in the entire world-->[EOS] || 0.9997099041938782
+

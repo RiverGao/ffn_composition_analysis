@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ for others who are schol-->ars || 0.8794437050819397
+ he would never have been able--> to || 0.8815306425094604
+ he got a bit discou-->rag || 0.8823032379150391
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.8994119167327881
+ i am telling you this it--> is || 0.9432829022407532
+ for others they are nothing but little lights-->[EOS] || 0.9451900124549866
+ i am telling you this it is--> also || 0.9453670978546143
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light met-->all || 0.9461795687675476
+ it is true that--> they || 0.9470164179801941
+ she has--> four || 0.947162389755249
+ she--> has || 0.9491809010505676
+ it will look as if i am suffering-->[EOS] || 0.9505798816680908
+ so i--> wonder || 0.9506719708442688
+ i have your sheep and i have the--> box || 0.9509693384170532
+ and i heard him say do not--> you || 0.9511020183563232
+ i could feel that he was rev-->iving || 0.9516887068748474
+ this to me is the most beautiful and most sad landscape in the--> world || 0.952329695224762
+ he got--> a || 0.952522873878479
+ he got--> away || 0.952522873878479
+ the water you gave me to drink was like music because of the pulley and--> the || 0.952737033367157
+ i mean not entirely but i do know that--> he || 0.9528933167457581
+ and your friends will be very surprised to see you la-->ughing || 0.9529781937599182
+ when i drew the muzzle for the little prince i forgot to add the leather st-->rap || 0.9531422853469849
+ it may well be--> the || 0.953734815120697
+ there was not--> even || 0.9540591239929199
+ how did--> you || 0.95423823595047
+ but he said to me tonight it will--> be || 0.9544047713279724
+ i froze-->[EOS] || 0.9544070363044739
+ i will be there ton-->ight || 0.9547654986381531
+ i will be much more afraid this evening-->[EOS] || 0.9548342227935791
+ ask yourselves has the--> sheep || 0.9552849531173706
+ another voice must have answered him because he replied yes yes it is the--> right || 0.955677330493927
+ again--> i || 0.955718457698822
+ look at this landscape carefully so as to be sure to--> recognize || 0.9557557106018066
+ you will have five hundred million little bells and i will--> have || 0.9557659029960632
+ my star will be for--> you || 0.9558805823326111
+ nothing in the universe is the--> same || 0.9562724828720093
+ again i--> felt || 0.9563570618629456
+ so you will tell them yes the--> stars || 0.9564430117607117
+ if you love a flower that is on a--> star || 0.956446647644043
+ i will be much more--> afraid || 0.956525981426239
+ he made no answer to my question but he added i--> am || 0.9567887783050537
+ when i drew the muzzle for the little prince--> i || 0.9570057392120361
+ you understand it is--> too || 0.9570342898368835
+ when i came back from my work the--> next || 0.9570714235305786
+ and you will see how--> everything || 0.9571776986122131
+ he hes-->itated || 0.9572041034698486
+ he said to me i am glad that--> you || 0.957225501537323
+ even as i dug around in my pocket to take out my revolver i made a running--> step || 0.957243800163269
+ all the stars--> will || 0.9573610424995422
+
+
+## 50 prefixes with the highest comosition scores:
+ but at the noise i made the snake let himself--> flow || 0.9904118776321411
+ and he took me by the hand--> but || 0.9894746541976929
+ sometimes i tell myself--> surely || 0.9892029762268066
+ i felt his heart--> beat || 0.9890883564949036
+ he had a serious look as if lost--> far || 0.9889084696769714
+ when you look at the sky at night because i will be living on one of them because--> i || 0.988063633441925
+ other times i tell myself--> everyone || 0.9879371523857117
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones--> with || 0.9878351092338562
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metall-->ic || 0.9872773289680481
+ i felt his heart beat--> like || 0.9872468113899231
+ there was next--> to || 0.9870408177375793
+ but he was wor-->ried || 0.9870317578315735
+ all the stars will be wells with a rust-->y || 0.9867973923683167
+ when you look at the sky at night because--> i || 0.9866685271263123
+ when you--> look || 0.9864735007286072
+ when you look at the sky at night because i will be living on one of them because i will be laughing--> on || 0.9864203333854675
+ then this is not the--> exact || 0.9863263964653015
+ there was next to the well the ruin of an old stone--> wall || 0.98626309633255
+ he said to me only oh--> you || 0.9862453937530518
+ where i live everything--> is || 0.9861862659454346
+ she has four thorns of no use at all to protect herself--> against || 0.9861317873001099
+ when i drew the muzzle for the little prince i forgot to add the leather--> st || 0.9860660433769226
+ there was nothing but a yellow flash close to his an-->k || 0.9860410094261169
+ so you will tell them yes the stars always make me laugh and they will think--> you || 0.9859445095062256
+ he made no answer to--> my || 0.9857791662216187
+ again i felt myself--> fro || 0.9857691526412964
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing that--> laugh || 0.9857590794563293
+ one evening he would have forgotten the glass dome or maybe the sheep got out quietly during the night-->[EOS] || 0.9856839179992676
+ ah little fellow dear little fellow i love to hear that--> laugh || 0.985654354095459
+ here is--> the || 0.9856263399124146
+ i want to come down--> from || 0.9856136441230774
+ for others who are sch-->ol || 0.9855906963348389
+ but i have drawn--> it || 0.9855589270591736
+ you just--> have || 0.9855399131774902
+ where i live everything is--> too || 0.9855155348777771
+ what are you trying to--> say || 0.9855101704597473
+ what are you trying to--> say || 0.9855101704597473
+ and then he too was silent because--> he || 0.9854936003684998
+ but he did not answer--> my || 0.9854366183280945
+ there was nothing but a yellow--> flash || 0.985429048538208
+ it will be as if i would--> given || 0.9853200316429138
+ herein lies a great mystery for you who also love--> the || 0.985286295413971
+ and he sat down because--> he || 0.9852600693702698
+ i reached the wall just in time to catch my little fellow in my arms who--> was || 0.9852153062820435
+ when i--> drew || 0.9851792454719543
+ when i--> managed || 0.9851792454719543
+ when i--> came || 0.9851792454719543
+ nothing in the universe is the same if somewhere out--> there || 0.9851531982421875
+ i felt his heart beat like the heart of a dying bird when shot with--> a || 0.9850918054580688
+ and then he too was silent--> because || 0.9850820302963257
+

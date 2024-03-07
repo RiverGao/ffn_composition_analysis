@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.9065845012664795
+ this asteroid has only been seen through a telescope once in 1-->9 || 0.9156010150909424
+ the astronomer gave his presentation again in 1-->9 || 0.9172394871711731
+ it would suffice to be able--> to || 0.9192714095115662
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.9268307089805603
+ this time again--> it || 0.9276010394096375
+ then it elongates and grows timidly at first toward the sun a charming little harml-->ess || 0.9285957217216492
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.9350467920303345
+ and indeed--> on || 0.9361617565155029
+ does he collect butterf-->lies || 0.9369471073150635
+ i will try of course to make my portraits as lifeli-->ke || 0.9371468424797058
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catastrop-->he || 0.9376494288444519
+ the answer is simple-->[EOS] || 0.9481855034828186
+ sometimes--> there || 0.9504787921905518
+ they never ask you how does his--> voice || 0.9506058096885681
+ for a long time--> your || 0.9527216553688049
+ and if the--> planet || 0.9531583189964294
+ for a long time your--> only || 0.9540838599205017
+ how many brothers does he have-->[EOS] || 0.9541806578636169
+ children should be forgiving towards the grownups-->[EOS] || 0.9544048309326172
+ it is a matter of discipline-->[EOS] || 0.9544865489006042
+ perhaps--> he || 0.9545438289642334
+ perhaps--> i || 0.9545438885688782
+ some--> draw || 0.9551551938056946
+ he might call it for example--> astero || 0.9554165005683899
+ and one day--> he || 0.9557552933692932
+ it is true--> is || 0.9557791352272034
+ but if you were to say the--> planet || 0.9559111595153809
+ what games does he like best-->[EOS] || 0.9561170339584351
+ there were--> the || 0.9564731121063232
+ but the--> little || 0.9570703506469727
+ yes it is true-->[EOS] || 0.9575830698013306
+ there were the--> se || 0.9578232765197754
+ but of course--> those || 0.957947850227356
+ if you said--> to || 0.9580152630805969
+ that--> is || 0.9589071869850159
+ let us go and see a sunset now-->[EOS] || 0.9589999318122864
+ but we have to--> wait || 0.9591012001037598
+ fortunately--> for || 0.9597207903862
+ when--> i || 0.959721028804779
+ when--> you || 0.959721028804779
+ when--> an || 0.959721028804779
+ that is right but why do you want the sheep--> to || 0.9597350358963013
+ you must see--> to || 0.9597761034965515
+ they sleep secretly deep in the earth--> until || 0.9598557353019714
+ it is hard to take up drawing again at my age--> when || 0.9599495530128479
+ this time--> again || 0.9601272344589233
+ i will make mistakes on certain important points--> too || 0.9603818655014038
+ he might call it--> for || 0.9604875445365906
+ and indeed on--> the || 0.9605213403701782
+
+
+## 50 prefixes with the highest comosition scores:
+ you seemed surprised at first and then you ch-->uck || 0.9996981024742126
+ i am also not sure about the color of his out-->fit || 0.9996230602264404
+ you seemed surprised at first and then you chuck-->led || 0.9993529915809631
+ wait until the sun goes--> down || 0.9990138411521912
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody had believed him because of his out-->fit || 0.9989446401596069
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a few--> steps || 0.9986236095428467
+ not everyone has had a friend and if i forgot--> him || 0.998372495174408
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a--> few || 0.9969635009765625
+ it is hard to take up drawing again at my--> age || 0.9969213008880615
+ the idea of the herd of eleph-->ants || 0.9968111515045166
+ for i do not want my book to be read light-->ly || 0.9966998100280762
+ but he remarked wis-->ely || 0.996238648891449
+ he replied oh come on as if it were obvious and it took me a--> great || 0.9960522651672363
+ i will try of course to make my portraits as lifelike as possible but i am not quite sure i will--> succeed || 0.9959831237792969
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on his people on pain of death to dress themselves in the europe-->an || 0.9959599375724792
+ they sleep secretly deep in the earth until on a whim one of them--> dec || 0.9957582950592041
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks run by anyone who might get lost on an asteroid are--> so || 0.9955865740776062
+ i do not like to sound like a moralist but the danger of the baobabs is so little understood and the risks--> run || 0.9953955411911011
+ it is already been six years since my friend left--> with || 0.9951409697532654
+ after grooming ones-->elf || 0.9950460195541382
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there--> are || 0.9947484135627747
+ the information came slowly as his thoughts w-->ander || 0.9947460293769836
+ i feel so much sadness in rec-->ount || 0.9947280883789062
+ indeed when it is noon in the united states the sun everybody knows is setting over--> fran || 0.9945974946022034
+ not everyone has had a friend and if--> i || 0.9945915341377258
+ it is already been six years since my friend--> left || 0.9944537281990051
+ it is to warn my friends of the danger they--> have || 0.9944466948509216
+ i am also not sure about the color of his outfit so i fumble along somehow as best i--> can || 0.9943641424179077
+ i knew that apart from the large planets like the earth jupiter mars and venus which have been given names there are hundreds of others that are sometimes so small that one has great difficulty in spotting them through the--> teles || 0.9943459033966064
+ after grooming oneself in the morning the planet must be carefully gro-->omed || 0.9943108558654785
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it that i have worked so--> hard || 0.9943041205406189
+ but if it is a bad plant one must pull the plant out straight--> away || 0.9943000078201294
+ you must see to it that you regularly pull out the baobabs as soon as they can be told apart from the rose bushes to which they look very--> similar || 0.9942860007286072
+ i will try of course to make my portraits as lifelike as possible but i am--> not || 0.99422687292099
+ i will try of course to make my portraits as lifelike as possible but i am not quite sure--> i || 0.9942060112953186
+ i will try of course to make my portraits as lifelike as possible but i am not quite--> sure || 0.994200587272644
+ it is a very b-->oring || 0.9941425919532776
+ it was in this way that on the third day i came to--> know || 0.9940716028213501
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the--> windows || 0.9940256476402283
+ i used to know a planet inhab-->ited || 0.9940172433853149
+ perhaps i am a bit like--> the || 0.9940138459205627
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody had--> believed || 0.994012713432312
+ i would have liked to say once upon a time there was a little prince who lived on a planet--> not || 0.9939439296722412
+ i knew that apart from the large planets like the earth jupiter mars and venus--> which || 0.9939106702804565
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catast-->rop || 0.9938992261886597
+ i did not understand why it was so important that sheep eat shrubs but the little prince added then it follows they also--> eat || 0.993870735168457
+ if i try to describe him here it is so as not to--> forget || 0.9938661456108093
+ if you said to the grownups i saw a beautiful red brick house with geraniums--> by || 0.9938305020332336
+ i learned this new detail on the fourth day in the morning when--> you || 0.9938062429428101
+ you might be wondering why is it that in this book there are not any other draw-->ings || 0.9938026070594788
+

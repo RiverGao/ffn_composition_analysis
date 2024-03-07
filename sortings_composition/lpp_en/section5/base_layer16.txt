@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ your cigaret-->te || 0.8983070850372314
+ then he sponged his forehead with a handkerch-->ief || 0.8992170095443726
+ as for me i am a man of consequence-->[EOS] || 0.9500980973243713
+ if i owned a scarf i could put it around my neck--> and || 0.9508029222488403
+ once every minute i light the lamp and put it out--> again || 0.9551806449890137
+ i am a man of consequence-->[EOS] || 0.9554238319396973
+ i am a man of consequence-->[EOS] || 0.9554238319396973
+ i am a man of consequence-->[EOS] || 0.9554238319396973
+ then he sponged his forehead with--> a || 0.9562901258468628
+ it is difficult but i am a man of consequence-->[EOS] || 0.9573109745979309
+ then he sponged his forehead with a handkerchief--> decor || 0.9578816890716553
+ the fourth planet belonged to a--> business || 0.9602069854736328
+ the first time was twenty two years ago by some scatterbrain who fell from god knows where-->[EOS] || 0.9602305293083191
+ that is bad luck said the--> little || 0.9603131413459778
+ that is bad luck said the--> l || 0.9603132605552673
+ those are the orders replied the lamplighter-->[EOS] || 0.9610437154769897
+ those are the orders replied the lamplighter-->[EOS] || 0.9610437154769897
+ that i--> put || 0.9622490406036377
+ that does not do me much good said the lamplighter-->[EOS] || 0.9623978734016418
+ then he sponged his forehead with a--> hand || 0.9625670909881592
+ that man is the only--> one || 0.9626019597053528
+ i would put the lamp out in the morning and in the--> evening || 0.9626718759536743
+ yet he is the only one that--> does || 0.9627681970596313
+ then they--> belong || 0.9629104733467102
+ there is nothing to understand said the lamplighter-->[EOS] || 0.9633499979972839
+ it serves a--> real || 0.9633856415748596
+ that man said the little prince to himself as he continued further on his journey that man would be des-->pis || 0.9635474681854248
+ then he sponged--> his || 0.9639643430709839
+ that is bad luck said the lamplighter-->[EOS] || 0.9640339016914368
+ but he is less absurd than the king than the conceited man--> the || 0.9641273021697998
+ once every minute i light the lamp and put it out again-->[EOS] || 0.9648084044456482
+ if i owned a scarf i could put it around my neck and take it away with me-->[EOS] || 0.964924156665802
+ then he sponged his forehead--> with || 0.9649505615234375
+ there was just enough room on it to accommodate a street lamp and a l-->am || 0.9650901556015015
+ and i own the stars--> because || 0.9651349782943726
+ yet he is the only--> one || 0.9651492834091187
+ the second time was eleven years ago by--> an || 0.9653260707855225
+ that is bad luck said the l-->am || 0.9653930068016052
+ and how does being--> rich || 0.9658794403076172
+ that does not do me much good--> said || 0.966224193572998
+ your planet is so small that you can go right round it in three--> str || 0.9662386775016785
+ this man--> the || 0.9663267731666565
+ this man--> was || 0.9663267731666565
+ but i have already seen--> a || 0.9664477109909058
+ i would put the lamp out in the morning and in--> the || 0.9666744470596313
+ twenty six and five make thirty one-->[EOS] || 0.9667012691497803
+ it was the smallest of them all-->[EOS] || 0.9669032692909241
+ this man was so busy--> that || 0.9670364260673523
+ phew phew then that makes five hundred and one million six hundred twenty two thousand--> seven || 0.9671390652656555
+ if i owned a flower i could pick my flower and take it away with me-->[EOS] || 0.967176079750061
+
+
+## 50 prefixes with the highest comosition scores:
+ those are the orders replied--> the || 0.9916313290596008
+ those are the orders replied--> the || 0.9916313290596008
+ that is bad--> luck || 0.9910067915916443
+ that is bad--> luck || 0.9910067915916443
+ the orders have not changed said--> the || 0.9906914234161377
+ that does not do me much--> good || 0.9906601309776306
+ there is--> no || 0.9904426336288452
+ there is--> nothing || 0.9904426336288452
+ that man is the only one with whom i could--> have || 0.9903596043586731
+ i was--> saying || 0.9900817275047302
+ the first time was twenty two years ago by some scatterbrain who fell from--> god || 0.9898689985275269
+ and since then have the orders changed-->[EOS] || 0.9898101091384888
+ five hundred and one million what repeated the little prince who had never in his life let--> go || 0.9897735118865967
+ i own three volcanoes that i swe-->ep || 0.9897092580795288
+ he said to himself never-->theless || 0.98967045545578
+ the businessman realised that there was no hope of being left--> in || 0.9896643757820129
+ five hundred and one million what repeated the little prince who had never in his life let go--> of || 0.9896584749221802
+ he made the most dread-->ful || 0.9894941449165344
+ he remembered the sunsets which he himself had gone to--> seek || 0.9894842505455017
+ where you live a day only--> last || 0.9894706010818481
+ there was--> just || 0.989430844783783
+ when you get an idea first you take out a patent it--> is || 0.9893472194671631
+ no but i can put--> them || 0.9892979860305786
+ the businessman raised his head-->[EOS] || 0.9892939925193787
+ you only have to walk along rather slowly to--> always || 0.9892871379852295
+ there was just enough room on it to accommodate a street lamp and a lam-->pl || 0.9892711043357849
+ that does not do me much good said--> the || 0.9892634749412537
+ that means that i write the number of my stars on a little paper and then i lock this paper in a drawer and that is all that is--> enough || 0.9891515970230103
+ he said to himself as he continued--> on || 0.9890750050544739
+ i have a terrible profession-->[EOS] || 0.9890480041503906
+ if i owned a scarf i could--> put || 0.9890275001525879
+ if i owned a flower i could--> pick || 0.9890016913414001
+ on matters of consequence the little prince had ideas which were--> very || 0.9889703392982483
+ it is not fun-->ny || 0.9889671206474304
+ phew phew then that--> makes || 0.988908588886261
+ he said to himself nevertheless it may well be that--> this || 0.9889007806777954
+ every year the planet--> has || 0.9888843297958374
+ five and--> seven || 0.9888821244239807
+ if i owned a scarf i could put it--> around || 0.9888448119163513
+ it is rather poetic but it is of no--> great || 0.9888317584991455
+ i had the rest--> of || 0.988806426525116
+ when he lights his--> lamp || 0.9888057112693787
+ every year the planet has turned faster and faster and the orders--> have || 0.988793671131134
+ once every minute i light the--> lamp || 0.9887840747833252
+ he remembered the sunsets which he himself had gone to seek--> in || 0.9887745976448059
+ five hundred and one million what repeated the little prince who had never in--> his || 0.9887460470199585
+ the businessman opened his mouth but he--> found || 0.9887247085571289
+ i count them and recount them said--> the || 0.9887112379074097
+ the little prince could not work out the purpose--> of || 0.9886626601219177
+ the little prince could not work out the purpose of having a street lamp and a lam-->pl || 0.9886577129364014
+

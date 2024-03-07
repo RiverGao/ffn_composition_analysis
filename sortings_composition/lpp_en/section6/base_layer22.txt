@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.8147010207176208
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.8719192147254944
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9004855155944824
+ i can help you if somed-->ay || 0.9007682204246521
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9109855890274048
+ of course-->[EOS] || 0.9500471353530884
+ that is possible--> so || 0.9503676891326904
+ onto earth in africa--> the || 0.9510557055473328
+ first came the turn of the lamplighters of new zealand--> and || 0.9534912705421448
+ next came the turn of the lamplighters of china and siberia--> to || 0.9544961452484131
+ first came the turn of the lamplighters of new zealand and australia-->[EOS] || 0.9551722407341003
+ the--> little || 0.9551777243614197
+ the--> earth || 0.9551777243614197
+ the--> rec || 0.9551777243614197
+ the--> ge || 0.9551777243614197
+ the--> planet || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> earth || 0.9551777243614197
+ the--> movements || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> old || 0.9551777243614197
+the--> sixth || 0.9551778435707092
+ the--> ge || 0.9551778435707092
+ the--> flower || 0.9551778435707092
+ the--> only || 0.9551778435707092
+ the--> grow || 0.9551778435707092
+ the--> thing || 0.9551778435707092
+ the--> little || 0.9551778435707092
+ the--> little || 0.9551778435707092
+ you must describe--> your || 0.9564741253852844
+ it is also lonely--> amongst || 0.9590169191360474
+ but you are a geographer-->[EOS] || 0.9601673483848572
+ seen from a distance--> it || 0.9602278470993042
+ then those--> of || 0.9604227542877197
+ then those--> of || 0.9604227542877197
+ then those--> of || 0.9604227542877197
+ it is a bit lonely in the desert-->[EOS] || 0.9612631797790527
+ onto earth--> in || 0.9612679481506348
+ i feel sorry for you--> so || 0.961887776851654
+ and i have left her all alone--> on || 0.9620516300201416
+ i saw--> them || 0.9622227549552917
+ three--> hundred || 0.9631016850471497
+ i wonder he said if the stars are lit so that each of us can one day find his own again-->[EOS] || 0.96360844373703
+ nine--> hundred || 0.9639323949813843
+ the little prince climbed a high mountain-->[EOS] || 0.9639723896980286
+
+
+## 50 prefixes with the highest comosition scores:
+ it has one hundred and eleven kings not forgetting of--> course || 0.999930202960968
+ the sixth planet was ten times larger--> than || 0.999879777431488
+ because intoxicated men see double so the geographer would record two mountains in a place where there was only--> one || 0.9996343851089478
+ seen from a distance it--> made || 0.9994744658470154
+ because intoxicated men see double so the geographer would record two mountains in a place where there was--> only || 0.9985565543174744
+ because intoxicated men see double so the geographer would record two mountains in a place where there--> was || 0.9978758096694946
+ the recitals of explorers are--> first || 0.9968657493591309
+ i would--> not || 0.9964091777801514
+ i would--> not || 0.9964091777801514
+ i would--> not || 0.9964091777801514
+ the little prince gazed at him for a long--> time || 0.995517373085022
+ they adore numbers and that will please them-->[EOS] || 0.995214581489563
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all at--> once || 0.994782567024231
+ but i am more powerful--> than || 0.9944146871566772
+ the only mountains he had ever known were the three volcanoes that came up--> to || 0.9942541122436523
+ the movements of this army were regulated like those of an--> opera || 0.9941582679748535
+ it was inhabited by an--> old || 0.9941152930259705
+ and i have left her all alone on my--> planet || 0.9940465688705444
+ the only mountains he had--> ever || 0.994031548500061
+ is my flower at risk of imminent--> disapp || 0.9938915371894836
+ the little prince was disappoint-->ed || 0.9938222169876099
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetlamp--> l || 0.9938036799430847
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven street-->l || 0.9937448501586914
+ and never would they make a mistake in their order of entry on--> stage || 0.9936742782592773
+ but why do you always speak in r-->idd || 0.9936590194702148
+ and if any of their recollections--> seem || 0.9936532974243164
+ i can help you if someday you become--> too || 0.9936239719390869
+ they picture themselves as taking up a--> lot || 0.9935886859893799
+ that is possible so when the moral character of the explorer appears to be in order an inquiry is--> done || 0.9935519099235535
+ if for example the discovery in question--> was || 0.9935330152511597
+ and the geographer having opened his big register sharpened his p-->enc || 0.9935243129730225
+ to give you an idea of the size of the earth i will tell you that before the in-->vention || 0.993375301361084
+ is my flower at risk of im-->min || 0.9933629035949707
+ he wrapped himself around the little prince s an-->k || 0.9933550357818604
+ the movements of this army were--> reg || 0.9933380484580994
+ i have three volcanoes two active volcanoes and one ext-->inct || 0.9932162761688232
+ it means which is at risk of im-->min || 0.9931222796440125
+ he had already started to worry that he had got the wrong planet when a--> moon || 0.9931043386459351
+ the sixth planet was ten times larger than--> the || 0.9930135607719421
+ the little prince crossed the desert and met only with one flower a--> flower || 0.9930104613304138
+ the little prince sat down on the table and p-->anted || 0.992933452129364
+ they picture themselves as taking up a lot of--> space || 0.9929267764091492
+ because an explorer who told lies would cause havoc to geography books so would an--> expl || 0.9929190874099731
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a--> ver || 0.9929185509681702
+ the little prince having arrived on--> earth || 0.9929080009460449
+ whoever i touch i send--> him || 0.9929023385047913
+ and the geographer having opened his big register sharpened his--> p || 0.9928891658782959
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over--> the || 0.9928858280181885
+ the sixth planet was ten times larger than the--> last || 0.9928850531578064
+ because an explorer who told lies would cause havoc to geography books so would an explorer who drank too much-->[EOS] || 0.9928712248802185
+

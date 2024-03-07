@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ there is a rite for--> example || 0.5795608162879944
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as--> the || 0.6152240633964539
+ the wheat which is golden will remind me of you and i will love the sound of--> the || 0.61708664894104
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow herself to--> die || 0.6174617409706116
+ then come back to say goodbye to--> me || 0.6435823440551758
+ they are what make one day different from--> other || 0.6470285058021545
+ then he said to himself i thought i was rich with a flower that was one of a kind and--> all || 0.6505514979362488
+ i would come to know a sound of--> foot || 0.6522870659828186
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is--> unique || 0.6547670364379883
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the dwellings of--> men || 0.6583641171455383
+ because it is her that i listened to grumble or boast or--> even || 0.6588351130485535
+ to you i will be unique in--> the || 0.673586368560791
+ the men have forgotten this truth said the fox but you must not forget it-->[EOS] || 0.6748780608177185
+ i would feel happier and happier already by--> four || 0.6767157912254333
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life--> to || 0.6772322058677673
+ you will understand that yours is--> unique || 0.6779106855392456
+ they are what make one day different from other days one hour different from--> other || 0.6784152388572693
+ his flower had told him that she was the only one of her kind in the universe and--> here || 0.6799639463424683
+ it would have been better to come back at the same time of day said--> the || 0.6801425814628601
+ because it is her that i listened to grumble or--> bo || 0.680342972278595
+ i would be jumping about and--> getting || 0.6803964376449585
+ then come back to say goodbye to me and--> i || 0.6809738874435425
+ then he said to himself i thought i was rich with a flower that was one of a--> kind || 0.6825932860374451
+ one which is--> perhaps || 0.6828131675720215
+ it means to establish b-->onds || 0.6833729147911072
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is unique in the entire world-->[EOS] || 0.6835013628005981
+ and if someone takes it away from--> them || 0.685977041721344
+ i have friends to discover and--> many || 0.6863651275634766
+ because it is for--> her || 0.6871544122695923
+ he was only a fox just--> like || 0.6875269412994385
+ if the hunters danced on just any day all the days would be alike and i had--> never || 0.6879443526268005
+ and a brilliantly lit express train rumbling like thunder shook the switchman s--> cabin || 0.6879910230636597
+ first you will sit down a little way away from--> me || 0.6883454322814941
+ they waste their time with a rag doll and it becomes very important to--> them || 0.6887048482894897
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to--> hum || 0.6897238492965698
+ but it happened that the little prince having walked for a long time through the sands rocks and--> snow || 0.6903514266014099
+ if you come for--> example || 0.690812349319458
+ and i do not need you and--> you || 0.6910589933395386
+ that does not make me a very great prince and lying in--> the || 0.6911857724189758
+ but she alone is more important than all of you because it is her that i watered-->[EOS] || 0.69134920835495
+ he was only a fox just like a hundred thousand others but--> i || 0.6918026208877563
+ i will watch you out of the corner of my eye and you--> will || 0.6918208599090576
+ no one has tamed you and you--> have || 0.6930803060531616
+ they waste their time with a rag doll and--> it || 0.6931610703468323
+ i would come to learn the price of--> happiness || 0.6934594511985779
+ and i do not need you and you--> do || 0.6936764717102051
+ the fox went silent and gazed at the little prince for--> a || 0.6938425302505493
+ then he said to himself i thought i was rich with a flower that was one of--> a || 0.6939018964767456
+ the wheat fields mean nothing to me and--> that || 0.6943003535270691
+ you become forever responsible for that which you--> have || 0.6956826448440552
+
+
+## 50 prefixes with the highest comosition scores:
+ it was then that the fox--> appeared || 0.9240339994430542
+ i know said the fox-->[EOS] || 0.9217815399169922
+ i know said the fox-->[EOS] || 0.9217815399169922
+ they are not chasing--> after || 0.9195154905319214
+ i can not play with you said the fox-->[EOS] || 0.9194283485412598
+ are they chasing--> after || 0.9180632829666138
+ that is right said the fox-->[EOS] || 0.9179949164390564
+ men said the fox--> they || 0.9155020117759705
+ all the chickens--> look || 0.9148164391517639
+ but the fox--> came || 0.9139423966407776
+ because it is her that i listened to grumble or boast--> or || 0.91343092918396
+ so the little prince tamed the fox-->[EOS] || 0.910532534122467
+ i am a fox--> the || 0.9090381264686584
+ so i get a bit bored-->[EOS] || 0.9084172248840332
+ to you i am only a fox--> just || 0.9079562425613403
+ i hunt chickens-->[EOS] || 0.9075309634208679
+ goodbye said the fox-->[EOS] || 0.9059658646583557
+ it means to establish bonds-->[EOS] || 0.9038756489753723
+ i dispatch--> the || 0.9037656784057617
+ the fox--> seemed || 0.9021767973899841
+ the fox--> went || 0.9021748900413513
+ he was only a fox--> just || 0.8990710973739624
+ and chickens-->[EOS] || 0.8989478945732117
+ first--> you || 0.8984575867652893
+ she would cough and cough and pretend--> to || 0.8971673250198364
+ are you looking for chickens-->[EOS] || 0.895309567451477
+ only the children are squash-->ing || 0.8947387337684631
+ but it happened that the little prince having walked for a long time through the sands rocks and snow--> at || 0.8932633399963379
+ one only understands the things that one tames said the fox-->[EOS] || 0.8924731016159058
+ you are like my fox--> used || 0.8921792507171631
+ she would cough--> and || 0.8920670747756958
+ nothing is perfect sighed the fox-->[EOS] || 0.8917517066001892
+ who are you asked the little--> prince || 0.8917100429534912
+ she would be very upset--> he || 0.891341507434845
+ it has done me good said the fox-->[EOS] || 0.8910767436027527
+ are there hunters--> on || 0.8906601071357727
+ men hunt--> me || 0.8898594975471497
+ if the hunters--> dan || 0.8895930051803589
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend--> to || 0.8892161250114441
+ men said the fox they have guns and they hunt-->[EOS] || 0.8891259431838989
+ if the hunters danced on just any day all the days would be alike--> and || 0.8889769315719604
+ the wheat which is golden will remind--> me || 0.8888052105903625
+ and he went back to the fox-->[EOS] || 0.888390064239502
+ because of the color of the whe-->at || 0.8879258632659912
+ to establish bonds-->[EOS] || 0.8878828287124634
+ and a brilliantly lit express train rumbling like thunder--> shook || 0.8877871036529541
+ i hunt--> ch || 0.887676477432251
+ it would have been better to come back at the same time of day said the fox-->[EOS] || 0.8873229622840881
+ good morning said the fox-->[EOS] || 0.8868383169174194
+ a third brilliantly lit express thunder-->ed || 0.8863551020622253
+

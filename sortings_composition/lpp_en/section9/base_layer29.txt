@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.8874210119247437
+ his--> feet || 0.929283082485199
+ for others who are schol-->ars || 0.9298160076141357
+ i have your--> sheep || 0.9348691701889038
+ and now of--> course || 0.9364331364631653
+ sometimes--> i || 0.9367550611495972
+ wait--> a || 0.9380386471748352
+ for--> others || 0.9381788969039917
+ for--> me || 0.9381788969039917
+ for--> some || 0.9381788969039917
+ for--> my || 0.9381788969039917
+ for--> others || 0.9381788969039917
+ look at this--> landscape || 0.9395219683647156
+ but he did not--> answer || 0.9401654601097107
+ then--> this || 0.9406996965408325
+ then--> he || 0.9406998157501221
+ then--> he || 0.9406998157501221
+ then--> i || 0.9406998157501221
+ he got a bit discou-->rag || 0.941064178943634
+ it is like with--> the || 0.9411659836769104
+ it is like with--> the || 0.9411659836769104
+ so you will tell them yes the--> stars || 0.9420095682144165
+ even--> as || 0.9426239132881165
+ another--> voice || 0.9427033066749573
+ you will have five hundred--> million || 0.9430775046348572
+ and--> he || 0.9440470933914185
+ and--> he || 0.9440470933914185
+ and--> if || 0.9440470933914185
+ and--> he || 0.9440470933914185
+ and--> when || 0.9440470933914185
+ and--> she || 0.9440470933914185
+ and--> your || 0.9440470933914185
+ and--> yet || 0.9440470933914185
+ and--> he || 0.9440470933914185
+ and--> he || 0.9440470933914185
+ and--> i || 0.9440471529960632
+ and--> she || 0.9440471529960632
+ and--> now || 0.9440471529960632
+ and--> then || 0.9440471529960632
+ and--> then || 0.9440471529960632
+ and--> sometimes || 0.9440471529960632
+ and--> now || 0.9440471529960632
+ and--> you || 0.9440471529960632
+ and--> besides || 0.9440471529960632
+ and--> i || 0.9440471529960632
+ and--> no || 0.944047212600708
+ and--> he || 0.9440472722053528
+ right--> there || 0.9441847205162048
+ you will have five--> hundred || 0.9458742737770081
+ it is just like five hundred million--> little || 0.946116030216217
+
+
+## 50 prefixes with the highest comosition scores:
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a f-->ount || 0.9970704913139343
+ i was twenty--> meters || 0.9960103631019592
+ even as i d-->ug || 0.9951742887496948
+ even as i dug around in my pocket to take out my revolver i made a running step back-->[EOS] || 0.9948010444641113
+ i had loosened the golden m-->uff || 0.9945583939552307
+ right there facing the little prince was one of those yellow sn-->akes || 0.9941888451576233
+ and yet it seemed to me that he was pl-->um || 0.994085967540741
+ and when your sorrow is comforted time heals all w-->ounds || 0.9936031103134155
+ and when your sorrow is comforted--> time || 0.9935700297355652
+ for some who are travelers the stars are gu-->ides || 0.9932398796081543
+ when i managed to catch him up he was walking along determinedly at a br-->isk || 0.993138313293457
+ and when your sorrow is comforted time heals all wounds you will be glad to--> have || 0.992881715297699
+ sometimes i tell myself surely not the little prince shuts his flower under her glass d-->ome || 0.9927324056625366
+ one evening he would have forgotten the glass d-->ome || 0.9925653338432312
+ and you will see how everything changes-->[EOS] || 0.9920035004615784
+ it is true that they have no poison left for a second b-->ite || 0.9919559955596924
+ and you will see how everything--> changes || 0.9915609955787659
+ it will be as if i would given you instead of stars lots and lots of little b-->ells || 0.9915391206741333
+ he remained motionless for an instant-->[EOS] || 0.9913932681083679
+ i felt his heart beat like the heart of a dying bird when shot with a rif-->le || 0.9913142919540405
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars--> are || 0.9912225604057312
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the--> stars || 0.9911831021308899
+ when you look at the sky at night because i will be living on--> one || 0.9911312460899353
+ if you love a flower that is on a star it is--> sweet || 0.9911301732063293
+ he fell as g-->ently || 0.9910317063331604
+ i then lowered my eyes--> to || 0.990953803062439
+ another voice must have answered him--> because || 0.9909295439720154
+ and when your sorrow is comforted time heals all wounds you will be--> glad || 0.9908384084701538
+ for some who are travelers the stars are guides-->[EOS] || 0.9904617071151733
+ there was next to the well the ru-->in || 0.9903708696365356
+ another voice must have answered him because he replied yes yes it is the right day but this is--> not || 0.9901925921440125
+ all the stars will be wells with a rusty pul-->ley || 0.9898785948753357
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light--> met || 0.9898719191551208
+ when i came back from my work the next evening i saw from a distance my little prince sitting on top of--> it || 0.9898674488067627
+ another voice must have answered--> him || 0.9898585677146912
+ but something reassured him-->[EOS] || 0.9897853136062622
+ again i felt myself frozen by the sense of something irrepar-->able || 0.9897458553314209
+ there was nothing but a yellow flash close to his ank-->le || 0.9897276163101196
+ again i felt myself fro-->zen || 0.9896026253700256
+ i have your sheep and i have the box for the sheep and i have the m-->uzz || 0.9893386960029602
+ i can not carry this body with me-->[EOS] || 0.9892948865890503
+ right there--> facing || 0.9891662001609802
+ and when your sorrow is comforted time heals all wounds you--> will || 0.9890012741088867
+ i then lowered my eyes to the foot of the wall and i le-->apt || 0.9889100790023804
+ and if you happen to pass by there i beg you do not hurry--> on || 0.9888195395469666
+ he must not b-->ite || 0.9887158870697021
+ he would never have been able to fasten it to--> the || 0.988643229007721
+ you have made a mistake-->[EOS] || 0.9885614514350891
+ the water you gave me to drink was like music because of the pulley and the ro-->pe || 0.9885469675064087
+ the little prince replied again--> that || 0.988404393196106
+

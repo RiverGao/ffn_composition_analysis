@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ but it happened that the--> little || 0.9171205163002014
+ his--> flower || 0.9211189150810242
+ i can go for a walk as far as the viney-->ards || 0.9229707717895508
+ because of the--> color || 0.9294185042381287
+ all the--> ch || 0.9345253109931946
+ i dispatch--> the || 0.937468409538269
+ are they chasing after the--> first || 0.9375112056732178
+ are--> they || 0.9383281469345093
+ are--> you || 0.9383281469345093
+ are--> there || 0.9383281469345093
+ are--> they || 0.9383281469345093
+ because it is for--> her || 0.9389484524726868
+ the fox seemed very intrigu-->ed || 0.9397754669189453
+ one only understands the--> things || 0.9398013353347778
+ no one has tamed--> you || 0.940322995185852
+ men said the fox--> they || 0.9403437376022339
+ i am responsible for my rose--> repeated || 0.9409520626068115
+ these are not--> the || 0.9415837526321411
+ are they back already asked the--> little || 0.9415985941886902
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.9417203664779663
+ what is essential is invisible to the eye repeated the little prince so as to remember-->[EOS] || 0.9420772790908813
+ we are ros-->es || 0.9424113035202026
+ we are ros-->es || 0.9424113631248474
+ we are ros-->es || 0.9424113631248474
+ we are ros-->es || 0.9424113631248474
+ but she--> alone || 0.942552924156189
+ only the children are squash-->ing || 0.9428054690361023
+ of course an ordinary passer by would think that my--> rose || 0.9431961178779602
+ you are not--> from || 0.9436678290367126
+ you are not--> like || 0.9436678290367126
+ the fox went silent and gazed at the--> little || 0.9441303610801697
+ my life is very monoton-->ous || 0.9454180002212524
+ and he--> suddenly || 0.9454838633537292
+ and he--> went || 0.9454839825630188
+ and i--> do || 0.9455833435058594
+ so the little prince--> t || 0.9462345242500305
+ i am looking for men said the--> little || 0.9469318985939026
+ are they chasing after--> the || 0.9469414353370667
+ men hunt--> me || 0.9473404288291931
+ they are not chasing--> after || 0.9476244449615479
+ to me you--> are || 0.9478527307510376
+ to me you--> will || 0.9478528499603271
+ the next day the little--> prince || 0.948168933391571
+ we must observe--> the || 0.948336124420166
+ are they back already asked--> the || 0.9489719271659851
+ but every day you will be able to sit a little--> closer || 0.9489822387695312
+ a second--> br || 0.9493011236190796
+ they are not chasing after--> anything || 0.9493727087974548
+ on earth--> you || 0.9493914842605591
+ unlike--> any || 0.9496325850486755
+
+
+## 50 prefixes with the highest comosition scores:
+ so all this has done you no good at--> all || 0.9999406337738037
+ you are not like my rose at--> all || 0.9999106526374817
+ then come back to say good-->bye || 0.9998528957366943
+ she would cough and cough and pret-->end || 0.9998093843460083
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pret-->end || 0.9998043775558472
+ and when the time to leave drew--> near || 0.9994078874588013
+ a third brilliantly lit express thundered--> by || 0.9987851977348328
+ they are not chasing after anything at--> all || 0.9983527064323425
+ a second brilliantly lit express thundered--> by || 0.9978839755058289
+ and a brilliantly lit express train rumbling--> like || 0.9956276416778564
+ i am so unh-->appy || 0.9955195784568787
+ and a brilliantly lit express train r-->umb || 0.9949408769607544
+ and he suddenly felt very unh-->appy || 0.994596540927887
+ because it is for her that i killed the c-->ater || 0.9944453239440918
+ and a brilliantly lit express train rumbling like th-->under || 0.9942318797111511
+ but if you tame me it would bring some sunlight into my--> life || 0.9942135810852051
+ but if you tame me we will need--> each || 0.9939519762992859
+ but if you tame me it would--> bring || 0.9938586950302124
+ i am right here the--> voice || 0.993831217288971
+ it is the time you have wasted on your rose that makes your rose so--> important || 0.9938111305236816
+ it is the time you have wasted on your rose that makes your--> rose || 0.9938104152679443
+ i hunt ch-->ick || 0.9938046932220459
+ and a br-->illi || 0.9936608672142029
+ the fox seemed very intr-->igu || 0.993629515171051
+ of course an ordinary passer by would think that my rose looked just--> like || 0.9936183094978333
+ but if you tame me it would bring some sun-->light || 0.9933531284332275
+ it is the time you have wasted on your--> rose || 0.9933172464370728
+ of course an ordinary passer by would think that my rose looked just like--> you || 0.9930815100669861
+ i will watch you out of the corner of my--> eye || 0.9930786490440369
+ no one has tamed you and you have not t-->amed || 0.9930155277252197
+ the men have forgotten this truth said the fo-->x || 0.9929854273796082
+ it is the time you have wasted on your rose that makes your rose so important-->[EOS] || 0.9929768443107605
+ please t-->ame || 0.9929549694061279
+ a third br-->illi || 0.9929198026657104
+ and a brilliantly lit express train rumb-->ling || 0.9928227066993713
+ but it happened that the little prince having walked for a--> long || 0.9927980899810791
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead--> to || 0.9926751852035522
+ you are--> not || 0.9925150871276855
+ you are--> beautiful || 0.9925150871276855
+ you are--> nothing || 0.9925150871276855
+ you are--> like || 0.9925150871276855
+ you are--> not || 0.9925150871276855
+ you are--> very || 0.9925150871276855
+ you are--> responsible || 0.9925150871276855
+ it has done me good said the fo-->x || 0.9925105571746826
+ it is the time that i have wasted on my--> rose || 0.992489218711853
+ it is the time you have wasted on--> your || 0.992402970790863
+ to you i am only a fox just like a hundred thousand other fo-->xes || 0.9923610091209412
+ what is essential is--> invisible || 0.9923017621040344
+ what is essential is--> invisible || 0.9923016428947449
+

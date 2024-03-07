@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i am all alone all alone--> all || 0.9064474701881409
+ seen--> from || 0.9087372422218323
+ you have not--> even || 0.9096041321754456
+ and the ge-->ograph || 0.9100071787834167
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of le-->is || 0.9106355309486389
+ i have not been entirely honest in telling you about the l-->am || 0.911911129951477
+ the little prince sat down on the table and panted a little-->[EOS] || 0.913074254989624
+ then those of north--> amer || 0.913395881652832
+ what is that big book said the--> little || 0.9139178991317749
+ there is no one in the--> desert || 0.9146167635917664
+ he is a scholar--> who || 0.9149259328842163
+ geography--> books || 0.9150752425193787
+ first came the turn of the lamplighters of new ze-->aland || 0.9156063795089722
+ we do--> not || 0.9159761667251587
+ that really is at--> last || 0.9163801670074463
+ you can not even travel-->[EOS] || 0.9165546894073486
+ one waits until the explorer has provided proof before recording them in in-->k || 0.9166532158851624
+ but ext-->inct || 0.9170904755592346
+ well--> said || 0.9175704121589661
+ next came the turn of the lamplighters of china--> and || 0.9184353947639465
+ that is possible so when the moral character of the explorer appears to be in--> order || 0.9187360405921936
+ where are the men--> asked || 0.9189297556877136
+ where are the men--> asked || 0.9189297556877136
+ seven thousand ge-->ograph || 0.9189465045928955
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used--> the || 0.9190403819084167
+ they are blow-->n || 0.9198542833328247
+ i wonder he said if the--> stars || 0.919989287853241
+ i am a ge-->ograph || 0.9199894070625305
+ then came the turn of the lamplighters of russia and the ind-->ies || 0.9200365543365479
+ i know--> someone || 0.9205846190452576
+ and if any of their recollections seem interesting--> to || 0.9207261800765991
+ well said the ge-->ograph || 0.9208494424819946
+ what does that mean--> e || 0.9209943413734436
+ onto--> earth || 0.9210068583488464
+ and he glanced around at the planet of the ge-->ograph || 0.9210773706436157
+ so--> the || 0.921100914478302
+ it is not for the geographer to count the towns the rivers the mountains the seas the o-->ce || 0.9214112162590027
+ geography books said the ge-->ograph || 0.921458899974823
+ all--> human || 0.9214850664138794
+ geography books said the geographer of all books are the most concerned with matters of consequence-->[EOS] || 0.9216105937957764
+ it makes things very difficult--> for || 0.9216874241828918
+ i can help you if--> som || 0.9217495918273926
+ but it is so--> far || 0.921808660030365
+ you go to--> see || 0.9219316244125366
+ you are not--> very || 0.9220830798149109
+ you have not even got--> any || 0.9222750663757324
+ then--> they || 0.9224598407745361
+ then--> those || 0.92246013879776
+ then--> those || 0.92246013879776
+ then--> those || 0.92246013879776
+
+
+## 50 prefixes with the highest comosition scores:
+ the only mountains he had ever known were the three volcano-->es || 0.9750522375106812
+ all humanity could be piled up on the smallest pacific islet-->[EOS] || 0.9743072390556335
+ if the two billion people who inhabit the earth were to stand upright and squash together--> a || 0.9742243885993958
+ they are blown here and there by the wind-->[EOS] || 0.9733840823173523
+ whoever i touch--> i || 0.9728904366493225
+ if for example the discovery in question was of a large mountain one would require that he bring back large stones--> from || 0.9728217720985413
+ no that would--> be || 0.9712451696395874
+ the little prince crossed the desert--> and || 0.971122145652771
+ what has brought you here-->[EOS] || 0.9710830450057983
+ from a mountain as high as this one he said to himself i will be able to see--> the || 0.971036434173584
+ i wonder he said if the stars are lit so that each of us can one day find his own again-->[EOS] || 0.9710071682929993
+ only the lamplighter of the single lamp of the north pole and his colleague--> at || 0.9706035256385803
+ it is very rare that a mountain changes position-->[EOS] || 0.970585286617279
+ it is very rare that an ocean empties itself of its water-->[EOS] || 0.97054523229599
+ what has brought you--> here || 0.9705115556716919
+ it is also lonely amongst men the snake said-->[EOS] || 0.9704992175102234
+ whether volcanoes are extinct--> or || 0.97048020362854
+ i have not been entirely honest in--> telling || 0.970457911491394
+ the little prince said to himself-->[EOS] || 0.9703958630561829
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct--> vol || 0.9700083136558533
+ that is possible so when the moral character of the explorer appears to be in order an inquiry is done into his discovery-->[EOS] || 0.9698619246482849
+ and i have left her all alone--> on || 0.9698408842086792
+ the little prince sat down on a stone and raised his eyes toward the sky-->[EOS] || 0.9698097705841064
+ if the two billion people who inhabit--> the || 0.9696562886238098
+ from a mountain as high as this one he said to himself--> i || 0.969489574432373
+ but why do you always speak in riddles-->[EOS] || 0.9691398739814758
+ so the seventh planet--> was || 0.9689988493919373
+ the movements of this army were regulated--> like || 0.9689689874649048
+ and if any of their recollections seem interesting to him the geographer--> orders || 0.9688246250152588
+ that is true the geographer said-->[EOS] || 0.968797504901886
+ the little prince crossed the desert and met only with--> one || 0.9687792062759399
+ whether volcanoes are extinct or active is of no consequence--> to || 0.9687365293502808
+ from a mountain as high--> as || 0.968700647354126
+ it is not for the geographer to count--> the || 0.9686455130577087
+ and the geographer having opened his big--> register || 0.9686272740364075
+ i solve them all said--> the || 0.9686012864112854
+ he had already started to worry that he had got the wrong planet when a moon colored coil--> stir || 0.9685762524604797
+ the old gentleman said to him-->[EOS] || 0.9685704708099365
+ because an explorer who told lies would cause havoc to geography books so would an expl-->orer || 0.9685693979263306
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south--> pole || 0.9684537649154663
+ i have not been entirely honest--> in || 0.9684129953384399
+ the little prince--> said || 0.9683730602264404
+ the little prince--> crossed || 0.9683730602264404
+ the little prince--> was || 0.9683730602264404
+ the little prince--> smiled || 0.9683730602264404
+ the little prince--> made || 0.9683730602264404
+ the little prince--> having || 0.9683729410171509
+ the little prince--> sat || 0.9683729410171509
+ the little prince--> sat || 0.9683729410171509
+ the little prince--> clim || 0.9683729410171509
+

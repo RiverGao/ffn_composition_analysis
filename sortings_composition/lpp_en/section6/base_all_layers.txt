@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.888514518737793
+ from a mountain as high as this one he said to himself i will be able--> to || 0.8979837894439697
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.9016602635383606
+ i can help you if somed-->ay || 0.9062601327896118
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9150592088699341
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondes-->cript || 0.9421660304069519
+ it has one hundred and eleven kings not forgetting of course the--> negro || 0.9432629346847534
+ he is--> a || 0.943477213382721
+ then came the turn of the lamplighters of russia and--> the || 0.9438801407814026
+ i wonder he said if the--> stars || 0.9439816474914551
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they--> would || 0.9444416165351868
+ that was his first moment of regret but he--> took || 0.944655179977417
+ but what does ephemeral mean repeated the little prince who had never in his life let go of a question once he had asked it-->[EOS] || 0.9446618556976318
+ and they were--> silent || 0.9446824789047241
+ and they were--> silent || 0.9446824789047241
+ i run the risk of giving a fasle idea of our planet to--> those || 0.944963812828064
+ if for example the discovery in question was of a large mountain one would require that he--> bring || 0.9450228810310364
+ one waits until the--> expl || 0.9450706243515015
+ if the two billion people who inhabit the earth were to stand upright and squash together a--> little || 0.9453036189079285
+ but extinct volcanoes can--> w || 0.9453550577163696
+ but it is--> so || 0.9453758001327515
+ that is possible so when the moral character of the explorer appears to be in order an inquiry is--> done || 0.9454370141029358
+ if for example the discovery in--> question || 0.9455072283744812
+ therefore--> you || 0.945611298084259
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a--> ver || 0.9456426501274109
+ then they--> too || 0.9456451535224915
+ he does not leave his desk but he receives the--> expl || 0.9457207322120667
+ i run the risk of giving a fasle idea of our--> planet || 0.9457314610481262
+ but do not waste your time on this ch-->ore || 0.9457328915596008
+ they think themselves as important as the--> ba || 0.9457542896270752
+ they are--> blow || 0.9457681775093079
+ and she has only four thorns to defend herself against the--> world || 0.9458256363868713
+ that is to say--> about || 0.9459058046340942
+ geography books said the geographer of all books are--> the || 0.945961594581604
+ geography books said the geographer of all books are the most concerned with matters of--> consequence || 0.9459760189056396
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting--> they || 0.9460321664810181
+ the little prince crossed the desert and met only with one flower a flower with three--> pet || 0.9463923573493958
+ she was--> always || 0.9464303851127625
+ then those of a-->frica || 0.9464459419250488
+ and the little prince went away thinking of his--> flower || 0.9465090036392212
+ it is not--> for || 0.9465715885162354
+ it is not--> very || 0.9465716481208801
+ it is also--> lon || 0.9466273784637451
+ and if any of their re-->collections || 0.9467089176177979
+ i have not been entirely honest in telling you about the--> l || 0.9467511177062988
+ whether--> vol || 0.94691401720047
+ you must describe--> your || 0.9469327330589294
+ if for example the discovery in question was of a large mountain one would require that--> he || 0.9469754099845886
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the--> six || 0.9470215439796448
+ the movements of this--> army || 0.9470294117927551
+
+
+## 50 prefixes with the highest comosition scores:
+ then came the turn of the lampl-->igh || 0.9649595022201538
+ the recitals--> of || 0.9644522666931152
+ and the geographer having opened his big register sharpened his penc-->il || 0.9644196629524231
+ the recitals of explorers are first recorded in pencil-->[EOS] || 0.9643491506576538
+ and the geographer having opened his big register sharpened his pencil-->[EOS] || 0.9636608958244324
+ the little prince sat down on the table and panted--> a || 0.9636600017547607
+ it means which is at risk of immin-->ent || 0.9636030197143555
+ it is very rare that an ocean empt-->ies || 0.9635043740272522
+ if the two billion people who inhabit--> the || 0.9633612036705017
+ the little prince crossed the desert and met only with one flower a flower with three petals--> a || 0.9632734060287476
+ next came the turn of the lampl-->igh || 0.9632611274719238
+ because flowers are ephem-->eral || 0.9628527164459229
+ he had already started to worry that he had got the wrong--> planet || 0.9626559019088745
+ the geographer is too important to go strolling--> about || 0.9626073837280273
+ from--> a || 0.9625057578086853
+ first came the turn of the lampl-->igh || 0.9624876379966736
+ no that would be too--> complicated || 0.9624063372612
+ but why do you always speak in ridd-->les || 0.9623121619224548
+ when one wants to be witty it can happen that one bends the truth a little-->[EOS] || 0.9623037576675415
+ is my flower at risk of imminent--> disapp || 0.9621878266334534
+ the movements of this army were regulated like those of an opera ballet-->[EOS] || 0.9621796607971191
+ the recitals of explorers are first recorded in penc-->il || 0.9621211290359497
+ good morning he said courteously-->[EOS] || 0.9620954990386963
+ only the lampl-->ighter || 0.9620265364646912
+ i have not been entirely--> honest || 0.9618683457374573
+ it has one hundred and eleven kings not forgetting--> of || 0.9617380499839783
+ the little prince said to himself-->[EOS] || 0.9617283344268799
+ the only mountains he had ever--> known || 0.9616866111755371
+ is my flower at risk of immin-->ent || 0.961669385433197
+ it has one hundred and--> eleven || 0.9616659283638
+ the movements of this army were regulated--> like || 0.9616338610649109
+ one waits until the explorer has provided proof--> before || 0.9615450501441956
+ next came the turn of the lampligh-->ters || 0.9615106582641602
+ the sixth planet was ten times--> larger || 0.9615007042884827
+ all humanity could be piled--> up || 0.9614948630332947
+ but extinct volcanoes can wake--> up || 0.9613904356956482
+ all humanity could be piled up--> on || 0.9612448215484619
+ the little prince crossed the desert and met only with one flower a flower with three pet-->als || 0.9611496925354004
+ i run the risk of giving a fasle--> idea || 0.9610897898674011
+ the little prince sat down on the table--> and || 0.9610790610313416
+ if the two billion people who inhabit the earth were to stand upright--> and || 0.9610709547996521
+ that was his first moment of regret but he took heart--> once || 0.9610518217086792
+ he had already started to worry that he had got the wrong planet when a moon colored coil stirred in the sand-->[EOS] || 0.9610466957092285
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty--> two || 0.9610227346420288
+ having set their lamps alight--> they || 0.9609652757644653
+ the grownu-->ps || 0.9609540104866028
+ and i have left her all alone--> on || 0.960950493812561
+ what does ephemeral mean-->[EOS] || 0.9609049558639526
+ i can help you if someday--> you || 0.9608870148658752
+ the only mountains he had ever known were the three volcanoes that came up--> to || 0.9608759880065918
+

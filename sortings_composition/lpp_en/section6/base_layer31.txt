@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ on what planet have i come down on asked--> the || 0.9692875742912292
+ and the little prince went away thinking of his--> flower || 0.9695683121681213
+ the little prince sat down on a stone and raised his eyes toward the--> sky || 0.9703395962715149
+ and she has only four thorns to defend herself against the--> world || 0.970613420009613
+ the little prince having arrived on earth was very surprised not to see anyone-->[EOS] || 0.9729050397872925
+ the little prince gaz-->ed || 0.9731425046920776
+ but what does eph-->em || 0.9738500118255615
+ the little prince gazed at him for a long--> time || 0.9739274382591248
+ what is that big book said--> the || 0.97398841381073
+ and the little prince went away thinking of--> his || 0.9741804003715515
+ you go to see--> it || 0.9749363660812378
+ the little prince said to--> himself || 0.9758720993995667
+ i would not know said--> the || 0.9760292768478394
+ i would not know said--> the || 0.9760292768478394
+ i can carry you further than a ship said--> the || 0.9760565161705017
+ but what does ephemeral mean repeated the little prince who had never in his--> life || 0.9761711955070496
+ the little prince sat down on a stone and raised his--> eyes || 0.9762206673622131
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondescript flower belonging to no--> one || 0.9764200448989868
+ he wrapped himself around the little prince s--> an || 0.9768630862236023
+ i can carry you further than a ship--> said || 0.9770669341087341
+ the little prince gazed at--> him || 0.9770681262016296
+ the little prince climbed a--> high || 0.9771135449409485
+ seen--> from || 0.9771749377250671
+ only the lam-->pl || 0.9772032499313354
+ what is a geograph-->er || 0.9775479435920715
+ one never knows said--> the || 0.977700412273407
+ i can carry you--> further || 0.9777369499206543
+ the little prince crossed the desert and met only--> with || 0.978000819683075
+ the little prince crossed the desert and met only with one flower a--> flower || 0.978324830532074
+ goodbye said--> the || 0.9784441590309143
+ goodbye said--> the || 0.9784442782402039
+ my flower is eph-->em || 0.9784761667251587
+ the little prince sat down on--> a || 0.978522777557373
+ the little prince sat down on--> the || 0.9785229563713074
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9789198637008667
+ i solve them all said--> the || 0.9790688157081604
+ good--> morning || 0.979396641254425
+ good--> evening || 0.979396641254425
+ good--> morning || 0.9793967008590698
+ good--> morning || 0.9793967008590698
+ good-->bye || 0.9793967008590698
+ good--> morning || 0.9793967008590698
+ good--> evening || 0.9793967008590698
+ good-->bye || 0.9793967008590698
+ the little prince crossed the desert and met only with one flower a flower with three--> pet || 0.9796237349510193
+ the little prince crossed the desert and met only with one--> flower || 0.9800686836242676
+ but what does ephemeral mean repeated the little prince who had never in his life let go of--> a || 0.9801285266876221
+ they are blown here and there by the--> wind || 0.9801852703094482
+ the little prince crossed the desert and met only with one flower a flower with--> three || 0.9806285500526428
+ good evening said--> the || 0.980703592300415
+
+
+## 50 prefixes with the highest comosition scores:
+ next came--> the || 0.9999562501907349
+ i have three volcanoes two active vol-->cano || 0.9999374151229858
+ but one--> requires || 0.9999332427978516
+ if the two billion people who inhab-->it || 0.9999217987060547
+ then came--> the || 0.9999178647994995
+ only the lamplighter of the single lamp of the north pole and his colle-->ague || 0.9999054074287415
+ only the lamplighter of the single lamp of the north pole and his colleague--> at || 0.9999020099639893
+ one waits until the expl-->orer || 0.9998885989189148
+ i also have--> a || 0.999883234500885
+ one waits until the explorer has provided proof before recording--> them || 0.9998831152915955
+ but one requires the expl-->orer || 0.9998763203620911
+ that is possible so when the moral character of the explorer appears to be in order an inqu-->iry || 0.9998751282691956
+ but extinct vol-->cano || 0.9998729825019836
+ seen from a distance it made a wonderful spect-->acle || 0.999871551990509
+ it has one hundred and eleven kings not forgetting of course--> the || 0.9998713731765747
+ it is right there above--> us || 0.9998596906661987
+ having set their lamps alight they would go--> off || 0.9998533725738525
+ he does not leave his desk but he receives the explorers-->[EOS] || 0.9998524785041809
+ then they too would disappear--> into || 0.9998522400856018
+ that is possible so when the moral character of the explorer appears--> to || 0.9998418092727661
+ that is possible so when the moral character of the expl-->orer || 0.9998397827148438
+ and he glanced around at the planet of the geographer-->[EOS] || 0.9998283982276917
+ it has one hundred and eleven kings not forgetting of course the negro kings--> amongst || 0.999823272228241
+ then those of north amer-->ica || 0.9998196363449097
+ because flowers are ephem-->eral || 0.9998167753219604
+ he had already started to worry that he had got the wrong planet when a moon colored coil stirred--> in || 0.9998164176940918
+ they think themselves as important--> as || 0.9998142719268799
+ because intoxicated men see double so the geographer would record--> two || 0.9998086094856262
+ it has one hundred and eleven kings not forgetting of course the negro kings amongst them-->[EOS] || 0.9998069405555725
+ it means--> which || 0.9998061060905457
+ then those of south amer-->ica || 0.9998036623001099
+ you are not very powerful-->[EOS] || 0.999798059463501
+ the flower had once seen a caravan passing-->[EOS] || 0.9997975826263428
+ but you are a geographer-->[EOS] || 0.9997890591621399
+ i solve them--> all || 0.9997879862785339
+ it means which is at risk of immin-->ent || 0.9997832179069519
+ it is not very interesting-->[EOS] || 0.9997768402099609
+ the thing that matters--> to || 0.9997734427452087
+ because an explorer who told lies would cause havoc to geography books so would an expl-->orer || 0.9997716546058655
+ it means which--> is || 0.9997678995132446
+ and the geographer having opened his big register sharpened his penc-->il || 0.9997614026069641
+ i know someone said the little prince who would make a bad expl-->orer || 0.999758780002594
+ it is very rare that an ocean empties--> itself || 0.9997581839561462
+ he had never seen such a maj-->estic || 0.9997579455375671
+ it is very rare that an ocean empties itself--> of || 0.9997556209564209
+ it was magnific-->ent || 0.9997532963752747
+ it was inhab-->ited || 0.999747633934021
+ there is no one--> in || 0.9997425675392151
+ i have three volcanoes two active volcanoes and one ext-->inct || 0.99974125623703
+ whether volcanoes are extinct or active is of no consequence to us said the ge-->ograph || 0.9997407793998718
+

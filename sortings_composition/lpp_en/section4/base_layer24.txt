@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i admire you said the little prince shrugg-->ing || 0.7754052877426147
+ he should be able--> for || 0.8546321988105774
+ from time to--> time || 0.856757402420044
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.8737863302230835
+ if he had held it himself he would have been able--> to || 0.8742889165878296
+ unfortunately--> nobody || 0.9513386487960815
+ after five minutes of this exercise--> the || 0.9588382244110107
+ for the king fundamentally insisted that--> his || 0.9596471786499023
+ that is--> the || 0.9597896337509155
+ of course--> the || 0.9615173935890198
+ ah then the--> king || 0.9617281556129456
+ as the--> king || 0.9621152877807617
+ it seems to me that--> conditions || 0.9626451730728149
+ over all that the--> king || 0.9635037183761597
+ but the--> little || 0.9641320109367371
+ but the--> conce || 0.9641320109367371
+ but the--> little || 0.9641320705413818
+ from time to time you will condemn him to death--> thus || 0.9645975232124329
+ because--> to || 0.9646419286727905
+ and as--> he || 0.9656150341033936
+ if he--> had || 0.9656848907470703
+ but the little prince having readied--> himself || 0.9657289981842041
+ why--> are || 0.9658550024032593
+ after five minutes of this--> exercise || 0.9659000039100647
+ if your--> maj || 0.966040313243866
+ he was an absolute monarch but because he was good at heart--> he || 0.9660730957984924
+ it is to raise in salute--> when || 0.966312825679779
+ then my--> sun || 0.967139720916748
+ over all--> that || 0.967416524887085
+ over all--> that || 0.9674165844917297
+ over what--> could || 0.9678311347961426
+ they--> obey || 0.9678621888160706
+ ah then--> the || 0.9679377675056458
+ and what--> should || 0.9680061340332031
+ and you--> will || 0.9683372974395752
+ but you are--> the || 0.9683512449264526
+ he was regretting his lost--> sun || 0.9687952995300293
+ to forget what asked the--> little || 0.9688818454742432
+ hum hum replied the king then i i order you sometimes--> to || 0.9689215421676636
+ you said--> the || 0.9693875312805176
+ he was--> reg || 0.969405472278595
+ he was--> an || 0.969405472278595
+ i would like to see--> a || 0.9695122241973877
+ to them--> all || 0.9695736765861511
+ he did not tolerate disobedience-->[EOS] || 0.9695890545845032
+ from time to time--> you || 0.9695934653282166
+ he sputtered a bit--> and || 0.9697705507278442
+ he should--> be || 0.9698746800422668
+ minister--> of || 0.9702339768409729
+ minister--> of || 0.9702339768409729
+
+
+## 50 prefixes with the highest comosition scores:
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up--> his || 0.9998797178268433
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did--> not || 0.9998039603233337
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up his--> courage || 0.9990488886833191
+ if you ordered your people to go and throw themselves into the sea they would rise up in--> revolution || 0.998540997505188
+ but there is nobody here--> to || 0.9972755312919617
+ it is much more difficult to judge oneself than to--> judge || 0.9954105019569397
+ it is much more difficult to judge oneself than to judge someone--> else || 0.9953453540802002
+ if i ordered a general to fly from--> one || 0.9951086044311523
+ to admire means to recognise that i am the most handsome the best dressed the--> rich || 0.9947959184646606
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and--> if || 0.9947077035903931
+ the monarch said to him i forbid you to do--> so || 0.9946234226226807
+ i replied the little prince do not like to condem-->n || 0.9946082234382629
+ to admire means to recognise that i am the most hand-->some || 0.994544506072998
+ from time to time you will condem-->n || 0.9945418834686279
+ to admire means to recognise that i am the most handsome the best dressed the richest and the--> most || 0.9944859743118286
+ he said to the drinker who he found sitting in silence in front of a number of empty--> bott || 0.9944325089454651
+ and as he felt a bit sad as he remembered his forsaken little planet he pluck-->ed || 0.9943626523017883
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained--> standing || 0.9943485856056213
+ he should be able for example to order me to leave within a--> minute || 0.9943400025367737
+ but you will pardon him on each occasion to con-->serve || 0.9943240880966187
+ he said to himself as he continued on his--> journey || 0.9943145513534546
+ he said to the drinker who he found sitting in silence in front of a number of--> empty || 0.994290292263031
+ he was regretting his lost sunset and then he was already getting a--> little || 0.9941884279251099
+ ah here comes a subject exclaimed the king when he caught--> sight || 0.9941796064376831
+ the first one was inhab-->ited || 0.9939301013946533
+ hum hum replied the king then i i order you sometimes to yawn and sometimes to-->[EOS] || 0.9938967823982239
+ sire he said to him excuse my asking you a--> question || 0.9937226176261902
+ if he had held it himself he would have been able to watch not forty four but seventy--> two || 0.9937086701393127
+ hum hum replied the king who consulted a bulky--> al || 0.993702232837677
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he--> sp || 0.993689775466919
+ for the king fundamentally insisted that his authority--> be || 0.9936869144439697
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most intelligent man on the--> planet || 0.9936787486076355
+ and now i think i will go--> on || 0.9936312437057495
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he sp-->otted || 0.9936254024505615
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did not obey me it would not be the general s--> fault || 0.9935563206672668
+ i am fairly certain that somewhere on my--> planet || 0.9935466647148132
+ he should be able for example to order me to leave within--> a || 0.9935134053230286
+ he said to the drinker who he found sitting in silence in front of a--> number || 0.9933724999427795
+ but the little prince having readied himself to leave had no wish to grieve the--> old || 0.9932597875595093
+ ah here comes a subject exclaimed the king when he--> caught || 0.9932579398155212
+ to forget that i am ashamed conf-->essed || 0.9932528138160706
+ if your majesty wishes to be promptly obeyed he should be able to give me a--> reasonable || 0.9932451844215393
+ it is much more difficult to judge oneself than to judge--> someone || 0.9931981563568115
+ the conceited man again raised his hat in a--> sal || 0.9931678175926208
+ the second planet was inhabited by a conceited--> man || 0.9931557178497314
+ he was an absolute monarch but because he was good at heart he gave--> reasonable || 0.9931455254554749
+ this was a very short visit but it plunged the little prince into a--> deep || 0.993142306804657
+ he did not tolerate disob-->ed || 0.9930514693260193
+ oh but i have already looked said the little prince who leant over to give one more glance at the--> other || 0.9930316805839539
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us would be in the--> wrong || 0.9929951429367065
+

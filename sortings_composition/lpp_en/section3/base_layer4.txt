@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ that made me feel a little ashamed but he went--> on || 0.8767362833023071
+ one day for example speaking of her four thorns she told the little prince let them come the t-->ig || 0.8794825673103333
+ at that moment i was thinking to myself if this b-->olt || 0.8810231685638428
+ and the little prince completely abashed having gone to look for a spr-->ink || 0.883685290813446
+ a what-->[EOS] || 0.8845223188400269
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water left that i had--> to || 0.8856471180915833
+ they think themselves frightful with their th-->orn || 0.8858970403671265
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of petals that did not take up any space and--> did || 0.8860140442848206
+ the th-->orn || 0.886630117893219
+ if someone loves a flower of which just one specimen exists amongst the millions and--> millions || 0.8882172703742981
+ i was very worried because my breakdown was beginning to appear to be very--> serious || 0.8888900876045227
+ is the war--> between || 0.8891157507896423
+ they would appear one morning in the grass and by evening they would have f-->aded || 0.8891478776931763
+ he also owned an extinct volcano but as he used--> to || 0.889741837978363
+ i think that for his escape he took advantage of a migration of a f-->lock || 0.8903586268424988
+ it seems that they--> are || 0.8909878730773926
+ she had--> come || 0.8915009498596191
+ volcanic eruptions are--> like || 0.8917931914329529
+ what are the th-->orn || 0.8921289443969727
+ what are the th-->orn || 0.8921289443969727
+ but after a moment of silence he--> exclaimed || 0.8933047652244568
+ i think that for his escape he took--> advantage || 0.8934880495071411
+ she would--> only || 0.8940209746360779
+ goodbye he--> said || 0.8942418098449707
+ goodbye he--> said || 0.8942419290542603
+ i should have seen the tendern-->ess || 0.894396960735321
+ there was on a star on a planet my--> planet || 0.8945105075836182
+ humiliated at having been caught out on a lie so naive she coughed two or three times to imply the little prince was in the--> wrong || 0.8947513699531555
+ he was--> surprised || 0.8947668075561523
+ he was--> really || 0.8947668671607971
+ there had always been very simple flowers on the--> planet || 0.8964051008224487
+ and the little prince completely abashed having gone to--> look || 0.8969061374664307
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8969730734825134
+ he can--> say || 0.8973100185394287
+ i was upset over the b-->olt || 0.8974063396453857
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of petals that--> did || 0.8982120752334595
+ he watched me hammer in hand and my fingers black with grease leaning--> on || 0.89865642786026
+ but this one had sprouted one day from a seed blown in from no one knows where and the--> little || 0.899506688117981
+ and as he watered the flower one last time and prepared to shelter her under her dome he--> found || 0.8997136950492859
+ he did not understand--> this || 0.9002711176872253
+ i should have her judged by her deeds and--> not || 0.9002925753593445
+ i had put down my tools of what moment was my hammer my bolt or--> th || 0.9011130332946777
+ they would appear one morning in the--> grass || 0.9013929963111877
+ he watched me hammer in hand and--> my || 0.9015197157859802
+ i was very busy--> trying || 0.9017864465713501
+ she could not have known anything of other--> world || 0.9018234014511108
+ the little prince also pulled up with a hint of sadness the last--> little || 0.9025172591209412
+ that is why they cause us no end--> of || 0.9025638699531555
+ the flower coughed but it was not because she had a--> cold || 0.9027130007743835
+ if they are well cleaned out--> vol || 0.9028183221817017
+
+
+## 50 prefixes with the highest comosition scores:
+ they reassure themselves as best they--> can || 0.9690552353858948
+ the flower coughed--> but || 0.9677479267120361
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns--> which || 0.9667392373085022
+ as for the large animals i am not at all afraid of--> anything || 0.9664493799209595
+ but you have been just as foolish--> as || 0.9663329720497131
+ remarked the little prince-->[EOS] || 0.9661674499511719
+ as for the large animals i am not at all afraid--> of || 0.9660264253616333
+ she did not want to come out all rumpled--> like || 0.9659144282341003
+ even flowers that have thorns-->[EOS] || 0.9658055901527405
+ you talk just like the grownu-->ps || 0.9655814170837402
+ they would appear one morning in--> the || 0.9655617475509644
+ the little prince could not restrain his admiration-->[EOS] || 0.9655380845069885
+ i will draw you a--> m || 0.9649395942687988
+ i will draw you a--> ra || 0.9649395942687988
+ the little prince--> was || 0.9645273089408875
+ the little prince--> could || 0.9645273089408875
+ the little prince--> object || 0.9645271897315979
+ the little prince--> interrupted || 0.9645270705223083
+ the little prince--> who || 0.9645270109176636
+ the little prince--> also || 0.9645270109176636
+ the little prince--> never || 0.9645269513130188
+ the little prince--> guess || 0.9645269513130188
+ and after having worked with such care and attention to detail she said with a yawn--> oh || 0.964112401008606
+ i was upset over the bolt and i said the first thing that came into my head-->[EOS] || 0.9641020894050598
+ he shook his golden curls--> in || 0.9640271067619324
+ at that moment i was thinking to myself--> if || 0.9638915061950684
+ we must look at them and breathe their fragrance-->[EOS] || 0.9638510346412659
+ please forgive--> me || 0.9634568691253662
+ i had put down my--> tools || 0.9632952213287354
+ i do not fear--> t || 0.9630602598190308
+ and you actually believe--> that || 0.9629335403442383
+ i have--> my || 0.9629176259040833
+ he watched me hammer in hand and my fingers black with--> gre || 0.9628890156745911
+ he shook his golden curl-->s || 0.9624794125556946
+ i ask your forgiveness-->[EOS] || 0.9624342918395996
+ he looked at me dumbf-->ounded || 0.962302565574646
+ i will have to endure two or three caterpill-->ars || 0.96225905418396
+ i was not sure what to say-->[EOS] || 0.9622078537940979
+ and her mysterious adornment had thus lasted--> for || 0.9620672464370728
+ i had put down my tools of what moment was my--> ham || 0.962029218673706
+ i have my--> cla || 0.9619609713554382
+ i was just going to look--> for || 0.9619207382202148
+ he watched me hammer in hand and my fingers black with grease leaning on an object that would have seemed--> to || 0.9618792533874512
+ he watched me hammer in hand and my fingers black with grease--> lean || 0.961858868598938
+ he watched me--> ham || 0.9618079662322998
+ it is very cold where you live-->[EOS] || 0.9617420434951782
+ i was very busy trying to unscrew a bolt in my engine that had got stuck-->[EOS] || 0.9617124795913696
+ i made--> no || 0.9616780877113342
+ i should never have run--> away || 0.9616432189941406
+ flowers have been growing--> th || 0.9616104364395142
+

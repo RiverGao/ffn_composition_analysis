@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.8857845664024353
+ for others who are schol-->ars || 0.9504039287567139
+ so you will love to look at--> all || 0.9510873556137085
+ he got a bit discou-->rag || 0.9534757137298584
+ and you will see how everything changes-->[EOS] || 0.9535921812057495
+ and no--> grown || 0.9542823433876038
+ wait a while exactly--> under || 0.9558930993080139
+ sometimes i tell myself surely not the little prince shuts his flower under her glass dome--> every || 0.957083523273468
+ everyone has the same stars--> but || 0.9571338891983032
+ so you will love to--> look || 0.957291305065155
+ for others--> they || 0.9576994180679321
+ for others--> who || 0.9576994776725769
+ it is better like that-->[EOS] || 0.9579072594642639
+ look at--> this || 0.9584146738052368
+ look at--> the || 0.9584148526191711
+ that night--> i || 0.959117591381073
+ he said to me--> that || 0.9592646360397339
+ he said to me--> i || 0.9592646360397339
+ he said to me--> only || 0.9592646360397339
+ sometimes--> i || 0.9592999219894409
+ she has four thorns of no use at all to protect herself against the entire world-->[EOS] || 0.9593310356140137
+ and your friends will be very surprised to see--> you || 0.9593380689620972
+ you will want--> to || 0.9597765803337097
+ you have made a mistake-->[EOS] || 0.960182249546051
+ for my--> business || 0.9604437351226807
+ my heart skipped a beat but i still--> did || 0.9605394005775452
+ for me--> it || 0.960771381855011
+ for others they are--> nothing || 0.9607892632484436
+ for some who are travelers--> the || 0.9609159827232361
+ you understand--> it || 0.9609742760658264
+ and i love to--> listen || 0.9612820148468018
+ and he took me by the hand but he was--> still || 0.9613791704177856
+ the companions--> who || 0.9618769884109497
+ and yet--> it || 0.9620088934898376
+ little fellow--> is || 0.9622701406478882
+ little fellow--> i || 0.9622702598571777
+ so i wonder what happened--> on || 0.9628196954727173
+ you will always be my friend-->[EOS] || 0.9628686308860779
+ it is here that the little prince appeared--> on || 0.9629762768745422
+ so you will love--> to || 0.9631357192993164
+ and no grownup will ever understand that--> this || 0.9632978439331055
+ it is the same landscape as the one on the previous page-->[EOS] || 0.9635171294212341
+ where i live everything is--> too || 0.96377032995224
+ and--> then || 0.9637896418571472
+ and--> i || 0.9637896418571472
+ and--> besides || 0.9637896418571472
+ and--> now || 0.9637896418571472
+ and--> sometimes || 0.9637896418571472
+ and--> he || 0.9637896418571472
+ and--> then || 0.9637896418571472
+
+
+## 50 prefixes with the highest comosition scores:
+ when i drew the muzzle for the little prince--> i || 0.9999376535415649
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to rest-->rain || 0.9998568296432495
+ if a child then comes to you if he laughs if he--> has || 0.9997962117195129
+ other times i tell myself--> everyone || 0.9995502829551697
+ sometimes i tell myself--> surely || 0.999518871307373
+ everyone has the same stars but they are not the--> same || 0.9995124936103821
+ other times i tell myself everyone is absent minded at some point and that--> is || 0.9994957447052002
+ other times i tell myself everyone is absent minded at some point and--> that || 0.9992711544036865
+ again i felt myself frozen by the sense of something irreparable and i knew that--> i || 0.998953104019165
+ when i drew the muzzle for the little prince i forgot--> to || 0.9989414811134338
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and--> in || 0.9986091256141663
+ and your friends will be very surprised to see you laughing whilst--> watching || 0.9985929727554321
+ i sat down too because--> i || 0.9985513091087341
+ it will look as if i am dead and that--> will || 0.9985145926475525
+ when i drew the muzzle for the little prince i forgot to add the leather st-->rap || 0.9982250332832336
+ i held him tightly in my arms like--> a || 0.9980589747428894
+ it was not a very--> heavy || 0.9980245232582092
+ i was sad but i told them it is because--> i || 0.9979861974716187
+ when i came back--> from || 0.9979360699653625
+ sometimes i tell myself surely--> not || 0.9978571534156799
+ again i felt myself frozen by the sense of something irreparable and i knew--> that || 0.9977879524230957
+ and she is so--> na || 0.9977444410324097
+ and she is so--> weak || 0.9977443218231201
+ the companions who met me were very--> happy || 0.9973797798156738
+ i was twenty meters from the wall and--> i || 0.9972391724586487
+ when i came back from my work the next evening--> i || 0.9970458149909973
+ other times i tell myself everyone is absent minded at some point and that is all--> it || 0.9969841837882996
+ sometimes i tell myself surely not the little prince shuts his flower under her glass dome every night and he watches over--> his || 0.9969421029090881
+ i mean not entirely but i do know that he got back to his planet because at daybreak i did not--> find || 0.9968608021736145
+ my heart skipped a--> beat || 0.9966683387756348
+ i was just coming to tell him that--> against || 0.9966399669647217
+ where i live everything is too small for me to point out to you where--> my || 0.9965066313743591
+ it will look as if i am dead and--> that || 0.9962759017944336
+ i was sad but i told them--> it || 0.9961971044540405
+ for my businessman--> they || 0.996040940284729
+ even as i dug around in my pocket to take out my revolver--> i || 0.9959965348243713
+ i was sad but i told--> them || 0.9959427714347839
+ my heart skipped a beat but--> i || 0.995846688747406
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing--> to || 0.9957024455070496
+ i had loosened the golden muffler that--> he || 0.9956566691398621
+ i mean not entirely but i do know that he got back to his planet because at daybreak i--> did || 0.9956120252609253
+ i felt his heart beat like the heart of a dying bird when--> shot || 0.9955898523330688
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to--> rest || 0.9955140352249146
+ she has four thorns of no use--> at || 0.9951432347297668
+ i am telling you this it is also because--> of || 0.995076060295105
+ another voice must have answered him because he replied yes yes it is the right day but--> this || 0.9949995875358582
+ i was sad but i told them it--> is || 0.9949473142623901
+ but something reassured--> him || 0.994946300983429
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are la-->ughing || 0.9947383403778076
+ my little fellow i said to--> him || 0.9947055578231812
+

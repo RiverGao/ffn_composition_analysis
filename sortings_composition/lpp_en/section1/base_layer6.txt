@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ here is the best portrait that later i managed to do of him but my drawing of course is much less--> char || 0.9005215764045715
+ so i would never speak to them--> of || 0.9016491174697876
+ i caught a glimpse into the--> mystery || 0.9020532965660095
+ and the little prince broke into a lov-->ely || 0.9021486043930054
+ it is true that you can not have come--> from || 0.9051253199577332
+ i could recognize at first glance ch-->ina || 0.905917227268219
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real life stories-->[EOS] || 0.9087116718292236
+ here is the best portrait that later i managed to do of him but my drawing of course is much--> less || 0.9089608788490295
+ when a mystery is too over-->power || 0.9093913435935974
+ but i was very surprised--> to || 0.911287248134613
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to ge-->ography || 0.9138071537017822
+ i have lived a lot amongst the--> grow || 0.9155263304710388
+ i talked to them--> about || 0.9155943393707275
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming--> than || 0.9162763357162476
+ the first night i went to sleep on the sand a thousand miles from any human habit-->ation || 0.918096661567688
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constr-->ict || 0.9184112548828125
+ i showed my masterpiece to the grownups and i asked them--> if || 0.9187485575675964
+ i could--> recognize || 0.918849527835846
+ i flew a little in many places around the world--> and || 0.9190503358840942
+ i took a good look around me and i saw a quite extraordinary little man who was--> exam || 0.9195634126663208
+ whenever i met one of them that seemed a bit more clear sighted i tried the--> experiment || 0.91959148645401
+ here is a copy--> of || 0.9200311899185181
+ he looked carefully then--> said || 0.9202972054481506
+ i wanted to know if they were really a person of true understanding but they always responded it is a hat-->[EOS] || 0.9204117059707642
+ so--> i || 0.9211007952690125
+ so--> you || 0.9211008548736572
+ so--> i || 0.9211008548736572
+ so--> getting || 0.9211008548736572
+ so--> i || 0.9211008548736572
+ so--> i || 0.9211008548736572
+ so--> once || 0.921100914478302
+ so--> when || 0.9211009740829468
+ so--> i || 0.9211009740829468
+ then he added so you also come from the--> sky || 0.9212121963500977
+ here is the best portrait that later i managed to do of him but my--> drawing || 0.9215830564498901
+ i will--> not || 0.9216091632843018
+ i took a good look around me and i saw a quite extraordinary little man who--> was || 0.9218161106109619
+ when a mystery is too overpowering one dare not dis-->ob || 0.9218958020210266
+ i had hardly--> enough || 0.9221690893173218
+ i was discouraged in my career as a painter--> by || 0.9224264025688171
+ then--> taking || 0.9224601984024048
+ then--> the || 0.9224603176116943
+ then--> he || 0.9224603176116943
+ then--> he || 0.9224603176116943
+ my friend smiled gently and--> indul || 0.922482967376709
+ i wanted to know if they were really a person of true understanding but they always responded--> it || 0.9225250482559204
+ as i had never drawn a sheep i redrew for him one of the only--> two || 0.922539234161377
+ i caught a glimp-->se || 0.9231886267662048
+ i took a good look around me and i saw a quite extraordinary little man who was examining me seriously-->[EOS] || 0.9232764840126038
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for--> them || 0.9233989715576172
+
+
+## 50 prefixes with the highest comosition scores:
+ i have seen them from close up-->[EOS] || 0.9770274758338928
+ he looked nothing like a child lost in the middle of the desert a thousand miles from any inhabited--> region || 0.974877119064331
+ i put myself at their level-->[EOS] || 0.9747024774551392
+ absurd as it seemed--> to || 0.9745470881462097
+ remember that i was a thousand miles from any inhabited--> region || 0.9742841720581055
+ when i finally managed to speak i said what are you doing here-->[EOS] || 0.9740738868713379
+ it showed a boa constrictor digesting--> an || 0.973704993724823
+ so getting impatient as i was eager to start dismantling--> my || 0.9736456871032715
+ do you think this sheep needs a lot of grass-->[EOS] || 0.9735409617424011
+ i have seen them from close--> up || 0.9732663631439209
+ after a reflective silence--> he || 0.9732643961906433
+ the first night i went to sleep on the sand a thousand miles from any human--> habit || 0.9722952842712402
+ i want a sheep that will--> live || 0.9722769856452942
+ but if you do not tie him up--> he || 0.9722110033035278
+ so you can imagine my surprise when at daybreak--> a || 0.9720909595489502
+ thus i abandoned at the age of six a magnificent career as--> a || 0.9718259572982788
+ as i had never drawn a sheep--> i || 0.9717440009117126
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored penc-->il || 0.971726655960083
+ because where i am from--> everything || 0.971479594707489
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my--> pocket || 0.9714239239692688
+ i could recognize at first glance--> ch || 0.9713619351387024
+ i rubbed my eyes-->[EOS] || 0.9713303446769714
+ as i had never drawn a sheep i redrew--> for || 0.9712918400764465
+ i then drew the inside of the boa constrictor so that the grownu-->ps || 0.9710797667503357
+ after a reflective silence he--> answered || 0.9710444808006287
+ that is right and if you are good i will give you a rope to tie--> him || 0.9709452986717224
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved--> or || 0.970842719078064
+ but i was very surprised to see the face of my young judge light up-->[EOS] || 0.970794141292572
+ once when i was six years old i saw a magnificent picture--> in || 0.9707024097442627
+ it is true that you can not have come from far away in that and he--> dr || 0.9706533551216125
+ it showed a boa constrictor swallowing--> a || 0.9704992771148682
+ then taking my sheep out of his pocket he sank himself into the contemplation of his treasure-->[EOS] || 0.9704602360725403
+ then taking my sheep out of his pocket he sank himself into the contempl-->ation || 0.9703896045684814
+ it showed a boa constrictor digesting an eleph-->ant || 0.9703450202941895
+ and i was astounded to hear the little fellow respond no no i do not want an eleph-->ant || 0.9702891111373901
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constrictors closed and open-->[EOS] || 0.9702000021934509
+ i flew a little in many places around the world and geography it is true has served me well-->[EOS] || 0.9701523184776306
+ when i finally managed to speak i said what are you doing--> here || 0.9697943329811096
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue--> nor || 0.9697058796882629
+ so once again i redid my--> drawing || 0.9696959257125854
+ it is exactly the way i wanted-->[EOS] || 0.9696654081344604
+ it said please draw me a sheep-->[EOS] || 0.9696316719055176
+ but if you do not tie him up he--> will || 0.9695201516151428
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry--> out || 0.9693717360496521
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.9693571925163269
+ once when i--> was || 0.969292163848877
+ i caught a glimpse into the mystery of his presence--> and || 0.9692825675010681
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and they--> sleep || 0.9692449569702148
+ it would be a drawing far too complicated for me-->[EOS] || 0.9692347645759583
+ so you can imagine my surprise when at daybreak a funny little voice woke--> me || 0.969167947769165
+

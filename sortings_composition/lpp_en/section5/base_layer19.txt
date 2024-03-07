@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then he sponged his forehead with a handkerch-->ief || 0.9027248620986938
+ your cigaret-->te || 0.9281538128852844
+ when he arrived on the planet he respectfully saluted the lamplighter-->[EOS] || 0.953252375125885
+ the little prince watched him and felt that he loved this lamplighter--> who || 0.9547393321990967
+ i was saying then five--> hundred || 0.9568508863449097
+ when he puts out his lamp he sends the flower or the star to sleep-->[EOS] || 0.9585771560668945
+ this man was so busy that he did not even raise his head when the little prince--> arrived || 0.9591684937477112
+ five hundred and one million i have forgotten now-->[EOS] || 0.9599606990814209
+ during the fifty--> four || 0.9601746797561646
+ we have already been speaking for--> a || 0.9618566036224365
+ five hundred and one million six hundred twenty two--> thousand || 0.9634353518486023
+ is that all--> that || 0.9639585614204407
+ no no the little things--> that || 0.9640429019927979
+ fifteen and seven make twenty two-->[EOS] || 0.9642457962036133
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of all because of the one thousand four hundred and forty sunsets every day-->[EOS] || 0.9644563794136047
+ but he is less absurd--> than || 0.9647260904312134
+ twenty six and five--> make || 0.965130090713501
+ i was saying then five hundred--> and || 0.9652360677719116
+ we have already been speaking for a--> month || 0.9653335809707642
+ the first time was twenty two--> years || 0.9654080867767334
+ five hundred and one million six hundred twenty two thousand seven hundred thirty one-->[EOS] || 0.9657065868377686
+ the first time was twenty two years ago by some scatterbrain who fell from god knows where-->[EOS] || 0.9666334986686707
+ two--> and || 0.9666988253593445
+ there was just enough room on it to accommodate--> a || 0.9671646356582642
+ for it is possible to be both faithful and lazy at the same time-->[EOS] || 0.9676617980003357
+ it was the smallest of them all-->[EOS] || 0.9678478837013245
+ when you find a diamond that belongs to nobody--> it || 0.9684167504310608
+ five--> hundred || 0.9686311483383179
+ five--> and || 0.9686312079429626
+ five--> hundred || 0.9686312079429626
+ five--> hundred || 0.9686312079429626
+ five--> hundred || 0.9686312079429626
+ what--> i || 0.9687466025352478
+ what--> do || 0.9687466025352478
+ what--> the || 0.9687466025352478
+ what--> are || 0.9687466621398926
+ what--> does || 0.9687466621398926
+ five hundred and one million what repeated the little prince who had never in his life let go of a question once he had asked it-->[EOS] || 0.9688372015953064
+ and he lit it again-->[EOS] || 0.9688378572463989
+ the grownu-->ps || 0.9690067172050476
+ fifteen--> and || 0.9696609377861023
+ five and seven--> make || 0.969704270362854
+ a--> month || 0.9697601199150085
+ five hundred and one million what--> repeated || 0.9697708487510681
+ five hundred--> and || 0.969897449016571
+ five hundred--> and || 0.9698975682258606
+ five hundred--> million || 0.9698975682258606
+ five hundred--> and || 0.9698976278305054
+ the businessman retorted grumpily-->[EOS] || 0.9699264764785767
+ what are--> the || 0.9700551629066467
+
+
+## 50 prefixes with the highest comosition scores:
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of--> all || 0.9999588131904602
+ it is not funny at--> all || 0.9993572235107422
+ if i owned a flower i--> could || 0.9973737001419067
+ he breathed a sigh of regret and said to--> himself || 0.9968989491462708
+ if i owned a scarf i--> could || 0.9962536692619324
+ i do not amuse myself with bal-->der || 0.995295524597168
+ i had the rest of the day to--> rest || 0.9950920939445496
+ it is of some use to my volcanoes and it is of some use to my flower that i own them-->[EOS] || 0.9948970079421997
+ there was just enough room on it to accommodate a street--> lamp || 0.9946161508560181
+ on matters of consequence the little prince had ideas which were very different--> from || 0.9938138127326965
+ you know i know a way you can rest whenever you--> want || 0.9938045740127563
+ what are the orders-->[EOS] || 0.9934309124946594
+ who owns them-->[EOS] || 0.9933618307113647
+ the first time was twenty two years ago by some scatterbrain who fell from god knows--> where || 0.9933052062988281
+ i own them-->[EOS] || 0.9930948615074158
+ you can walk and the day will last as long as--> you || 0.9930363297462463
+ it is rather poetic but it is of no--> great || 0.9929652810096741
+ it is rather poetic but it is of no great--> consequence || 0.9929472804069519
+ he made the most dreadful noise--> and || 0.9928110241889954
+ the orders have not changed said the--> l || 0.9925054907798767
+ as for me i am a man of--> consequence || 0.9924994707107544
+ your planet is so small that you can go right--> round || 0.9924666881561279
+ and how does--> ow || 0.9924079179763794
+ and how does--> being || 0.9924079179763794
+ but you are of no--> use || 0.992390513420105
+ when he lights his lamp it is as if he is bringing--> to || 0.9923519492149353
+ i am a man of--> consequence || 0.9921008944511414
+ i am a man of--> consequence || 0.9921008944511414
+ i am a man of--> consequence || 0.9921008944511414
+ this man was so busy that he did--> not || 0.9920805096626282
+ that is funny thought--> the || 0.9920169115066528
+ i have so much work-->[EOS] || 0.9919276237487793
+ the grow-->nu || 0.9919241666793823
+ at least his work--> has || 0.991833508014679
+ the businessman realised that there was no hope of being left in--> peace || 0.9917941689491272
+ kings do--> not || 0.9917635917663574
+ five hundred and one million i--> have || 0.9916900396347046
+ i own three volcanoes that i sweep out--> every || 0.9916852712631226
+ if--> i || 0.9915677309036255
+ if--> i || 0.9915677309036255
+ i own three volcanoes that i sweep out every week as--> i || 0.9915558695793152
+ but why have you just lit--> it || 0.9915395379066467
+ it was the smallest of them--> all || 0.991462767124176
+ the businessman realised that there was no hope of being left--> in || 0.9914548397064209
+ and i own the stars because no one before me ever thought--> of || 0.9914241433143616
+ the orders have not--> changed || 0.9913504719734192
+ during the fifty four years--> that || 0.9913408160209656
+ i do not know-->[EOS] || 0.9911941289901733
+ that is the tra-->ged || 0.9911835789680481
+ i would--> put || 0.9911749362945557
+

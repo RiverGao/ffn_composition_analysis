@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he had taken seriously words of no--> importance || 0.8905574679374695
+ i do not fear tig-->ers || 0.8946194648742676
+ she would only want to appear in the--> full || 0.9045816659927368
+ and tig-->ers || 0.9068847298622131
+ there had always been very simple--> flowers || 0.9150737524032593
+ there are not any tigers--> on || 0.915458619594574
+ and tigers--> do || 0.9175758361816406
+ and tigers do--> not || 0.9178434610366821
+ one day for example speaking of her four thorns she told the little prince let them come the tigers with their claws-->[EOS] || 0.918045163154602
+ he has never done anything but sums and all day long he repeats just--> like || 0.9184767007827759
+ there are not any tig-->ers || 0.9186811447143555
+ but this is not--> a || 0.9199482798576355
+ and the little prince completely abashed having gone to look for a sprinkling can of fresh water t-->ended || 0.920971155166626
+ i think that for his escape he took advantage of--> a || 0.9210094213485718
+ what a very complicated--> flower || 0.9217888116836548
+ she overwhelmed me with her fragrance and--> light || 0.9220644235610962
+ is it not of more consequence and more important than--> the || 0.922382652759552
+ i have my cla-->ws || 0.923272430896759
+ he asked ab-->rupt || 0.9236536026000977
+ if you would have the kind-->ness || 0.9238499999046326
+ humiliated at having been caught out on a lie so naive she coughed two or three times to imply the little--> prince || 0.9243643879890442
+ he believed he would--> never || 0.9244332909584045
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy--> in || 0.9244734048843384
+ and naively she showed her four--> th || 0.9251022934913635
+ and it is not a matter of consequence to try to understand why they take so much--> trouble || 0.9252908825874329
+ i know a planet where there is a redf-->ac || 0.9256097674369812
+ and the little prince completely abashed having gone to look for a--> spr || 0.925706684589386
+ but i was too young to--> know || 0.9262065887451172
+ but after--> a || 0.9263758063316345
+ at that--> moment || 0.9265162348747253
+ he has never done anything but sums--> and || 0.9265943169593811
+ she had come in the form of a--> seed || 0.926815927028656
+ she would only want to appear in--> the || 0.9272224307060242
+ but if the sheep eats the flower for him it is as if suddenly--> all || 0.9272323250770569
+ you conf-->use || 0.9274595379829407
+ am--> i || 0.9279918670654297
+ and the little--> prince || 0.9280036091804504
+ i do not fear tigers--> but || 0.928157389163971
+ he looked at me--> d || 0.9282083511352539
+ she would only want to appear in the full--> rad || 0.9283642768859863
+ i think that for his escape he took advantage--> of || 0.9284937977790833
+ it is so secretive the land--> of || 0.9285308122634888
+ they think themselves frightful with their thorn-->s || 0.9285746216773987
+ and it is not a matter of consequence to try to understand why they take--> so || 0.9289172291755676
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must--> emer || 0.9292360544204712
+ i was very busy trying to unscrew a bolt in my engine that had got--> stuck || 0.9292885661125183
+ one day for example speaking of her four thorns--> she || 0.929288923740387
+ they would--> appear || 0.9293645620346069
+ but the animals-->[EOS] || 0.9299365878105164
+ the little prince never--> let || 0.9301869869232178
+
+
+## 50 prefixes with the highest comosition scores:
+ this business of the claws which annoyed me so much should only have filled my heart with tenderness and pity-->[EOS] || 0.9797174334526062
+ i should have her judged by her deeds and not--> by || 0.9793424606323242
+ he stood there all bewildered the dome held in mid air-->[EOS] || 0.978103756904602
+ the cool night air--> will || 0.9775359034538269
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butter-->f || 0.9765035510063171
+ he shook his golden curls in the bree-->ze || 0.9764609932899475
+ the little prince was now white with--> ra || 0.9764111042022705
+ and her mysterious adornment had thus lasted for days and days-->[EOS] || 0.976297914981842
+ but how moving she was-->[EOS] || 0.9756351709365845
+ i should have her judged by her deeds and not by her words-->[EOS] || 0.9755423069000244
+ that is why they cause us no end of trouble-->[EOS] || 0.9754990935325623
+ then one morning exactly at sunr-->ise || 0.9754876494407654
+ i was very busy trying to unscrew a bolt in my engine that had got stuck-->[EOS] || 0.975323498249054
+ i had put down my tools of what moment was my hammer my bolt or--> th || 0.9752638936042786
+ i was upset over the bolt and i said the first thing that came into my head-->[EOS] || 0.9751806259155273
+ and tigers do not eat--> we || 0.9751133322715759
+ then one morning exactly at sunrise she suddenly showed herself-->[EOS] || 0.9750702381134033
+ then she forced a cough to inflict still more remorse-->[EOS] || 0.9746607542037964
+ humiliated at having been caught out on a lie so naive she coughed two or three times--> to || 0.9746494293212891
+ i was very busy trying to unscrew a bolt--> in || 0.9745441675186157
+ on our earth we are obviously much too small to clean out--> our || 0.974453866481781
+ i took him in--> my || 0.9743967056274414
+ he asked abruptly without anything leading up to it as if it was the result of a long silent--> med || 0.9743965268135071
+ so the little prince--> despite || 0.9743395447731018
+ the little prince also pulled up with a hint of sadness the last little shoots of--> the || 0.9742658138275146
+ if someone loves a flower of which just one specimen exists amongst the millions--> and || 0.9741799831390381
+ the little prince--> interrupted || 0.9741525650024414
+ the little prince--> could || 0.9741523861885071
+ the little prince--> was || 0.9741523861885071
+ the little prince--> never || 0.9741523861885071
+ the little prince--> also || 0.9741523861885071
+ the little prince--> guess || 0.9741523861885071
+ the little prince--> who || 0.9741523861885071
+ the little prince--> object || 0.9741523861885071
+ you would not happen to have--> a || 0.9741138219833374
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emerge from it-->[EOS] || 0.974090039730072
+ they would appear one morning in the grass and by evening they would have faded--> away || 0.974045991897583
+ even flowers that have thorn-->s || 0.9739977717399597
+ they would appear one morning in the grass and by evening--> they || 0.9739114046096802
+ but this one had sprouted one day from a seed blown in--> from || 0.9738466143608093
+ and as he watered the flower--> one || 0.9737537503242493
+ i was very busy trying to unscrew a bolt in my engine that--> had || 0.9737099409103394
+ if someone loves a flower of which just one specimen exists--> amongst || 0.9736952781677246
+ but if the sheep eats the flower for him--> it || 0.9736948609352112
+ humiliated at having been caught out on a lie so naive she cough-->ed || 0.973647952079773
+ and like that she had soon begun to torment him with her--> van || 0.9735702276229858
+ this business of the claws which annoyed me so much should only have filled my heart with tend-->ern || 0.9735010266304016
+ and after having worked with such care--> and || 0.97347491979599
+ it was very convenient for heating his breakfast in--> the || 0.9733824133872986
+ she did not want to come out all rumple-->d || 0.9733139872550964
+

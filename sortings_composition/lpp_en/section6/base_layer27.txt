@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ from a mountain as high as this one he said to himself i will be able--> to || 0.8960978388786316
+ i can help you if somed-->ay || 0.9118396043777466
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.9203760623931885
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.9210137128829956
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9281705021858215
+ seen--> from || 0.949001669883728
+ that is to say--> about || 0.9507647156715393
+ to give you an idea--> of || 0.9533290863037109
+ and towns--> and || 0.9568690061569214
+ geography--> books || 0.9580003023147583
+ look at--> my || 0.9584148526191711
+ and they were--> silent || 0.9584800601005554
+ and they were--> silent || 0.9584800601005554
+ i know someone said the little prince--> who || 0.9586172699928284
+ that really is at last--> a || 0.958703339099884
+ he asks them--> questions || 0.9594298601150513
+ i wonder he said if the stars are lit so that each of us can one day find his own again-->[EOS] || 0.9599164128303528
+ from a mountain as high as this one he said--> to || 0.9600000381469727
+ well said the--> ge || 0.9603699445724487
+ it is very rare that an ocean empties itself of its water-->[EOS] || 0.960442841053009
+ the recitals--> of || 0.9604776501655579
+ it is also lonely amongst men--> the || 0.9605197906494141
+ then those of africa and europe-->[EOS] || 0.960658073425293
+ that is possible so when the moral character of the explorer appears to be in order--> an || 0.9609480500221252
+ one never knows--> said || 0.961005449295044
+ i am all alone all alone--> all || 0.9610620141029358
+ if for example the discovery in question was of a large mountain one would require that he bring back large stones from it-->[EOS] || 0.9614861607551575
+ i understand very well said the little prince-->[EOS] || 0.9615465998649597
+ and never--> would || 0.9615853428840637
+ that was his first moment--> of || 0.9617242217063904
+ are there--> o || 0.9618324637413025
+ then those of africa--> and || 0.9618502259254456
+ geography books said the geographer of all--> books || 0.9618578553199768
+ goodbye--> said || 0.9620290398597717
+ goodbye--> said || 0.9620291590690613
+ i would not know said--> the || 0.9621585607528687
+ i would not know said--> the || 0.9621585607528687
+ of course-->[EOS] || 0.9621674418449402
+ what do you do--> here || 0.9622823596000671
+ the flower--> had || 0.9624437093734741
+ good morning good morning good morning answered--> the || 0.9624660015106201
+ whether volcano-->es || 0.9624847769737244
+ they are--> blow || 0.9628744721412659
+ who are you who are you who are you answered--> the || 0.9628944396972656
+ first came the turn of the lamplighters of new zealand and australia-->[EOS] || 0.9630013108253479
+ i feel sorry for you--> so || 0.9630053639411926
+ you trust--> me || 0.9631385803222656
+ good morning good morning--> good || 0.9634959101676941
+ and--> never || 0.9637896418571472
+ and--> he || 0.9637896418571472
+
+
+## 50 prefixes with the highest comosition scores:
+ it has one hundred and eleven kings not forgetting of course the negro k-->ings || 0.999970018863678
+ because intoxicated men see double so the geographer would record two mountains in a place where there was only--> one || 0.9990381598472595
+ but why do you always speak in r-->idd || 0.9988995790481567
+ it was magnific-->ent || 0.9985336065292358
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetlamp ligh-->ters || 0.9973930716514587
+ he asks them questions and he writes down their--> re || 0.9966699481010437
+ he asks them questions and he writes down their re-->collections || 0.9963557720184326
+ it is a bit lon-->ely || 0.9961118102073669
+ i run the risk of giving a fasle--> idea || 0.9958203434944153
+ but extinct volcanoes can w-->ake || 0.9956375360488892
+ oh so--> there || 0.9952777624130249
+ to give you an idea of the size of the earth i will tell you that before--> the || 0.9951894879341125
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetlamp l-->igh || 0.9949696063995361
+ that is very--> interesting || 0.994950532913208
+ when one wants to be witty it can happen that one b-->ends || 0.9948875904083252
+ when one wants to be witty it can happen that--> one || 0.9948564171791077
+ when one wants to be w-->itt || 0.9947429299354553
+ to give you an idea of the size of the earth i will tell you that before the in-->vention || 0.9946756958961487
+ no that would--> be || 0.994606614112854
+ then came the turn of the lampligh-->ters || 0.9944831132888794
+ then came the turn of the lampl-->igh || 0.994478702545166
+ it means which is at risk of immin-->ent || 0.9944663643836975
+ having set their lamps alight they would go--> off || 0.9944149255752563
+ having set their lamps al-->ight || 0.994352400302887
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred and eleven streetl-->amp || 0.994344174861908
+ from a mountain as high as this one he said to himself i will be able to see the entire planet all at once and--> all || 0.9943331480026245
+ that is possible so when the moral character of the explorer appears to be in--> order || 0.9943227171897888
+ next came the turn of the lampl-->igh || 0.9943004250526428
+ but do not waste your time on this ch-->ore || 0.9942659735679626
+ he wrapped himself around the little prince s ankle like a--> golden || 0.9942110180854797
+ the only mountains he had ever known were the three volcanoes that came up--> to || 0.9942007064819336
+ next came the turn of the lamplighters of china and si-->ber || 0.9941598176956177
+ because intoxicated men see double so the geographer would record two mountains in a place where there was--> only || 0.9941464066505432
+ and the geographer having opened his big register sharpened his p-->enc || 0.9941096901893616
+ and she has only four th-->orn || 0.994055986404419
+ i solve them all said the s-->nake || 0.9940044283866882
+ the little prince sat down on the table and p-->anted || 0.9939996600151062
+ he had already travelled so--> far || 0.9939809441566467
+ the little prince crossed the desert and met only with one flower a flower with three petals a nond-->es || 0.9939703345298767
+ i wonder he said if the stars are lit so--> that || 0.9939589500427246
+ all humanity could be piled up on the smallest pacific is-->let || 0.9939472079277039
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand--> five || 0.9939044713973999
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a--> ver || 0.9939016103744507
+ all humanity could be piled up on the smallest pacific--> is || 0.9938151836395264
+ i understand very--> well || 0.9937537312507629
+ the little prince sat--> down || 0.9937318563461304
+ the little prince sat--> down || 0.9937318563461304
+ men i think there exists six or seven of--> them || 0.993716835975647
+ to give you an idea of the size of the earth i will tell you that--> before || 0.9936717748641968
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of le-->is || 0.9936650395393372
+

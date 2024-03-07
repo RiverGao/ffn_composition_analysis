@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i have the right to demand obedience--> because || 0.914857029914856
+ i have the right to demand--> ob || 0.9224269986152649
+ to admire--> means || 0.9237335324287415
+ this was a very short visit but it plunged the--> little || 0.9237914681434631
+ but the conceited man--> did || 0.9275491833686829
+ to admire means to recognise--> that || 0.9282099008560181
+ why are you drink-->ing || 0.9283870458602905
+ the conce-->ited || 0.9285770058631897
+ the conce-->ited || 0.9285770654678345
+ the conce-->ited || 0.9285770654678345
+ the conce-->ited || 0.9285773634910583
+ ashamed of drinking concluded--> the || 0.9314857721328735
+ the king was sitting dressed in purple and--> er || 0.9317868947982788
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent er-->mine || 0.9322008490562439
+ the conceited man--> raised || 0.9329376816749573
+ the conceited man--> ad || 0.9329376816749573
+ the conceited man--> replied || 0.9329376816749573
+ the conceited man--> again || 0.932937741279602
+ he was reg-->rett || 0.9331302046775818
+ the grow-->nu || 0.9334911704063416
+ the grow-->nu || 0.9334913492202759
+ the grow-->nu || 0.933491587638855
+ to forget what asked the little prince who already--> felt || 0.9335346221923828
+ over everything the king made a subtle gesture pointing out his planet the other planets and the stars-->[EOS] || 0.9336573481559753
+ if he had held it himself he would have been able to watch not forty four but sevent-->y || 0.9336662292480469
+ i shall command it but i shall wait according to my science of government until conditions are favou-->rable || 0.9338987469673157
+ do that--> for || 0.9342951774597168
+ approach so that i may see you better said the--> king || 0.9348793029785156
+ he said to the drinker who he found sitting in silence in front of a--> number || 0.9349128603935242
+ the first--> one || 0.9349478483200073
+ over everything said the--> king || 0.9350647926330566
+ then my sunset the little prince reminded him who never forgot a question once he had--> asked || 0.9350881576538086
+ i order you to sit down replied the king who majestically gathered in a fol-->d || 0.9352133274078369
+ yes said--> the || 0.9352641701698303
+ clap your hands one--> against || 0.9352763891220093
+ ashamed of drinking concluded the drinker who--> then || 0.9353276491165161
+ hum hum replied the king then i i order you sometimes to ya-->wn || 0.9355289340019226
+ ashamed of drinking concluded the drinker who then--> shut || 0.9359472990036011
+ he had a magnificent--> air || 0.9363538026809692
+ do not go-->[EOS] || 0.9364050030708313
+ do not go--> said || 0.9364054203033447
+ i admire you said the little--> prince || 0.9365381598472595
+ what are you--> doing || 0.9365493059158325
+ to forget that i am ashamed confessed the drinker--> lower || 0.9366704225540161
+ to forget--> what || 0.9369038939476013
+ to forget--> replied || 0.9369041919708252
+ to forget--> that || 0.9369041919708252
+ over everything the king made a subtle gesture pointing out his planet the other planets and the--> stars || 0.9369277954101562
+ over all--> that || 0.9371797442436218
+ over all--> that || 0.9371797442436218
+
+
+## 50 prefixes with the highest comosition scores:
+ ah here comes a visit from an admirer exclaimed the--> conce || 0.9780288338661194
+ it is contrary to etiquette to yawn in the presence--> of || 0.9778247475624084
+ the monarch said to him i--> forb || 0.9775330424308777
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked--> up || 0.9775322079658508
+ of course the king said-->[EOS] || 0.9774109721183777
+ the grownups are certainly very very--> odd || 0.9773768186569214
+ then my sunset the little prince reminded him who never forgot a question once he had asked it-->[EOS] || 0.977180540561676
+ but how can that interest you so much-->[EOS] || 0.9770747423171997
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and--> since || 0.9767205119132996
+ if you ordered your people to go and throw themselves into the sea they would--> rise || 0.9764938354492188
+ the little prince looked around him for a place to sit but the planet was completely taken over by--> the || 0.9764120578765869
+ so he began by visiting them to learn--> more || 0.9762582778930664
+ if you ordered your people to go and throw themselves into the sea--> they || 0.976243793964386
+ come now yawn again-->[EOS] || 0.9762344360351562
+ if i ordered a general he would often say if i ordered a general to change himself into a--> se || 0.976192831993103
+ may i sit down the little prince en-->quired || 0.9760902523994446
+ he was regretting his lost sunset and then he was--> already || 0.9758687615394592
+ ah then the king said i--> order || 0.9757806062698364
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which--> one || 0.9757192730903625
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two hundred sunsets on the same--> day || 0.9755792617797852
+ exactly one must ask of--> each || 0.9755769371986389
+ oh really said the little prince who did not understand-->[EOS] || 0.9755561351776123
+ it is to raise in salute when--> people || 0.9754534363746643
+ because to conceited men all other--> men || 0.9754168391227722
+ but the little prince having readied himself to leave had--> no || 0.975333034992218
+ he was an absolute monarch but because he was good at heart he gave reasonable orders-->[EOS] || 0.9752864837646484
+ for the king fundamentally insisted that his authority be respected-->[EOS] || 0.9751871228218079
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a--> sea || 0.9751378297805786
+ may i sit down the little prince enquired timidly-->[EOS] || 0.9751162528991699
+ i do not tolerate in-->sub || 0.9750881791114807
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did not obey me it--> would || 0.9750844240188599
+ it seems to me that conditions are favourable-->[EOS] || 0.9748806357383728
+ then my sunset the little prince rem-->ind || 0.9748779535293579
+ the little prince said to himself and he began again to clap his hands one--> against || 0.9748490452766418
+ if your majesty wishes to be promptly obeyed he should be able to give me a reasonable order-->[EOS] || 0.9748339653015137
+ the little prince said to himself and he began again to clap his hands one against the other-->[EOS] || 0.9748057723045349
+ i order you to sit down replied the king who--> maj || 0.974715530872345
+ and as he felt a bit sad as he remembered--> his || 0.9747147560119629
+ it is to raise in salute when people acclaim--> me || 0.9746741652488708
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most--> intellig || 0.9745032787322998
+ i have no space for a carriage and--> it || 0.9744951128959656
+ it is contrary to etiquette to yawn in--> the || 0.974455714225769
+ the conceited man raised his hat--> in || 0.974443256855011
+ hum hum that will be about about that will be this evening about twenty minutes to--> eight || 0.9743910431861877
+ to admire means to recognise that i am the most handsome the best dressed the richest and--> the || 0.9743888974189758
+ sire he said to him excuse my asking--> you || 0.9743185043334961
+ he was an absolute monarch but--> because || 0.9742988348007202
+ i am fairly certain that somewhere on my planet there--> is || 0.974251925945282
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or--> to || 0.9742171764373779
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and a number of full--> bott || 0.9742153882980347
+

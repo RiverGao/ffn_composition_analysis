@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ then one morning exactly at sunr-->ise || 0.8834376335144043
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8875102400779724
+ we must look at them and breat-->he || 0.890820324420929
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.9188024997711182
+ i should have seen the tendern-->ess || 0.919162929058075
+ one day for example speaking of her--> four || 0.9361718893051147
+ he was surprised by this--> absence || 0.93631511926651
+ detests--> draft || 0.9370040893554688
+ for--> millions || 0.9381788969039917
+ for--> she || 0.9381788969039917
+ is that not--> important || 0.9387375712394714
+ he watched me hammer in hand and my--> fingers || 0.9388039708137512
+ he also owned an extinct--> vol || 0.9397169947624207
+ he owned two active--> vol || 0.9399207830429077
+ is it not of--> more || 0.940292477607727
+ then--> one || 0.9406998157501221
+ then--> she || 0.9406998157501221
+ then--> she || 0.9406998157501221
+ i will draw you a muzzle for your--> sheep || 0.9408583641052246
+ is the war between the flowers--> and || 0.9409279227256775
+ but all these--> familiar || 0.9410780668258667
+ there had always been very simple--> flowers || 0.9412463903427124
+ they reassure--> themselves || 0.9414857029914856
+ she would only want to appear in the full--> rad || 0.9416595697402954
+ but this is not a--> man || 0.9422146081924438
+ night--> had || 0.9422656893730164
+ even--> flowers || 0.9426237940788269
+ he has never looked at a--> star || 0.942897379398346
+ as for--> the || 0.9429901242256165
+ on the fifth day again thanks to the sheep this secret of--> the || 0.9431890845298767
+ and--> after || 0.9440470933914185
+ and--> the || 0.9440470933914185
+ and--> it || 0.9440470933914185
+ and--> as || 0.9440470933914185
+ and--> if || 0.9440470933914185
+ and--> you || 0.9440471529960632
+ and--> that || 0.9440471529960632
+ and--> t || 0.9440471529960632
+ and--> you || 0.9440471529960632
+ and--> na || 0.9440471529960632
+ and--> i || 0.9440471529960632
+ and--> like || 0.944047212600708
+ and--> her || 0.944047212600708
+ of--> course || 0.9440633654594421
+ at that--> moment || 0.9450415372848511
+ that is of--> no || 0.9452090859413147
+ and if i myself know of a unique--> flower || 0.945357084274292
+ she had come in the form of a--> seed || 0.9454587697982788
+ it could have been a new kind--> of || 0.945483922958374
+ you mix--> everything || 0.945547342300415
+
+
+## 50 prefixes with the highest comosition scores:
+ this business of the claws which annoyed me so much should only have filled my heart with tenderness and pity-->[EOS] || 0.9986394643783569
+ this business of the claws which annoyed me so much should only have filled my heart with tenderness--> and || 0.9974708557128906
+ they would appear one morning in the grass and by evening they would have f-->aded || 0.9968671798706055
+ and after having worked with such care and attention--> to || 0.9953945279121399
+ humiliated at having been caught out on a lie so naive she c-->ough || 0.9950587749481201
+ but you have been just as fool-->ish || 0.994928240776062
+ and after having worked with such care and attention to detail she said with a yawn oh i have only just w-->oken || 0.994867742061615
+ is it not of more consequence and more important than the sums of a fat redf-->ac || 0.9948598146438599
+ i felt very awk-->ward || 0.9945260882377625
+ he had taken seriously words of no importance and had become very unh-->appy || 0.9943597912788391
+ i think that for his escape he took advantage of a migration of a f-->lock || 0.9942975044250488
+ and as he watered the flower one last time and prepared to shelter her under her d-->ome || 0.9940269589424133
+ he carefully swe-->pt || 0.9939846396446228
+ in the evening you will put me under a glass d-->ome || 0.9936068058013916
+ i will have to endure two or three c-->ater || 0.993556797504425
+ he stood there all bewildered the d-->ome || 0.9935020208358765
+ then she forced a c-->ough || 0.993419885635376
+ one day for example speaking of her four thorns she told the little prince let them come the tig-->ers || 0.9932447075843811
+ he has never done anything but sums and all day long he repeats just like you-->[EOS] || 0.9932407736778259
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the extinct vol-->cano || 0.9932277798652649
+ i will have to endure two or three caterpillars if i wish to become--> acquaint || 0.9931900501251221
+ he shook his golden curls in the b-->ree || 0.993179440498352
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emerge from it-->[EOS] || 0.9929598569869995
+ i should have her judged by her de-->eds || 0.9929016828536987
+ this business of the claws which annoyed me so much should only have filled my heart--> with || 0.9928021430969238
+ this business of the claws which anno-->yed || 0.9926490783691406
+ and after having worked with such care and attention to detail--> she || 0.9926331639289856
+ it is t-->ires || 0.9926052093505859
+ one day for example speaking of her four thorns she told the little prince let them come the t-->ig || 0.9925711154937744
+ and her mysterious adornment had thus lasted--> for || 0.9925243258476257
+ i was very busy trying to uns-->cre || 0.9924167990684509
+ if they are well cleaned out volcanoes burn slowly and steadily without any eru-->ptions || 0.9923574328422546
+ and that makes him swell up--> with || 0.9922407865524292
+ he stood there all bew-->ilder || 0.9918041229248047
+ and the little prince completely abashed having gone to look for a sprinkling can of fresh water t-->ended || 0.9917351603507996
+ and that makes him swell up with pride-->[EOS] || 0.9917155504226685
+ he watched me hammer in hand and my fingers black with gre-->ase || 0.991441011428833
+ i will have to endure two or three caterpillars if i wish to become acquaint-->ed || 0.9912213683128357
+ they think themselves frightful with their th-->orn || 0.9911755919456482
+ i will draw you a m-->uzz || 0.9910734295845032
+ we must look at them and breathe their fra-->gr || 0.991055965423584
+ but if the sheep eats the flower for him it is as if suddenly all the stars have gone out-->[EOS] || 0.9910397529602051
+ but if the sheep eats the flower for him it is as if suddenly all the stars--> have || 0.9910109043121338
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when he looks at--> them || 0.9908937811851501
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is--> enough || 0.9908730387687683
+ and the little prince completely abashed having gone to look for a--> spr || 0.9908571243286133
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns--> which || 0.9907057881355286
+ i do not fear tigers but i det-->est || 0.9905002117156982
+ he shook his golden curls in the bree-->ze || 0.9904913902282715
+ but the shr-->ub || 0.9904583096504211
+

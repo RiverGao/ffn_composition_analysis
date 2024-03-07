@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catastrop-->he || 0.8193953037261963
+ does he collect butterf-->lies || 0.8370593190193176
+ i will try of course to make my portraits as lifeli-->ke || 0.8635275363922119
+ this asteroid has only been seen through a telescope once in 1-->9 || 0.8635845184326172
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.8642710447311401
+ the astronomer gave his presentation again in 1-->9 || 0.8684123158454895
+ it would suffice to be able--> to || 0.8686718940734863
+ then it elongates and grows timidly at first toward the sun a charming little harml-->ess || 0.8693421483039856
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.8821708559989929
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.887619137763977
+ i have serious reason to believe that the planet from where the little prince came is the asteroid b-->  || 0.9402920603752136
+ i say children beware of ba-->ob || 0.9415348768234253
+ and indeed on the planet of the little prince there were like on--> all || 0.9439687132835388
+ what games--> does || 0.9444730877876282
+ so that is why i have again bought a box--> of || 0.944537341594696
+ it is true is not it that sheep eat shr-->ubs || 0.9451230764389038
+ but if you were to say the planet he came from is the asteroid b-->  || 0.9461991786956787
+ some--> draw || 0.9469899535179138
+ but if you were to say the planet he came from is the asteroid--> b || 0.9479202628135681
+ the lesson which i pass on by this means was worth the--> effort || 0.9479453563690186
+ for i do--> not || 0.9480587244033813
+ how many--> brothers || 0.94830322265625
+ but if it is a bad plant one must pull the plant out straight away as soon as it can be--> recogn || 0.9485458135604858
+ they would--> sh || 0.9487589597702026
+ they would--> have || 0.9487590193748474
+ grownups love--> numbers || 0.94919753074646
+ now there were some terrible se-->eds || 0.9495543241500854
+ if i have told you these details about the asteroid b-->  || 0.9495794773101807
+ there were the se-->eds || 0.9506542086601257
+ do--> not || 0.9508010149002075
+ indeed--> when || 0.9508249163627625
+ i learned this new detail on the fourth day in--> the || 0.9510173201560974
+ if i try to describe him here it is so as--> not || 0.9510452747344971
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves--> on || 0.9511110186576843
+ i learned this new detail on the fourth day in the--> morning || 0.9511132836341858
+ the day--> you || 0.9511598348617554
+ fortunately for the reputation of asteroid b 61-->2 || 0.9515836834907532
+ grownups--> love || 0.951789915561676
+ grownups--> are || 0.9517899751663208
+ so that is why i have again bought a box of paints and some p-->enc || 0.9518146514892578
+ that is right but why do you want the sheep--> to || 0.9519606232643127
+ for those--> who || 0.9520009160041809
+ there were the seeds of ba-->ob || 0.9520781636238098
+ for i do not want my book--> to || 0.9523219466209412
+ he had then given a big presentation on--> his || 0.9525851011276245
+ i have serious reason to believe that the planet from where the little prince came--> is || 0.9527376294136047
+ i have serious reason to believe that the planet from where the little prince came is the asteroid--> b || 0.9529218673706055
+ he had--> neglect || 0.9529702663421631
+ he had--> then || 0.9529704451560974
+ fortun-->ately || 0.9532216787338257
+
+
+## 50 prefixes with the highest comosition scores:
+ the idea of the herd of elephants made--> the || 0.9858041405677795
+ it is to warn my friends of the danger they have long been skirting like myself without--> knowing || 0.9850532412528992
+ i thus learned a second very important thing that his home planet was barely bigger than--> a || 0.9848726391792297
+ every day i would learn something about--> his || 0.9847438335418701
+ i will try of course to make my portraits as lif-->eli || 0.9844222068786621
+ i would have liked to begin this story in--> the || 0.9842197895050049
+ oh i am glad-->[EOS] || 0.9841281771659851
+ i will make mistakes on certain important points too but you will have to forgive--> me || 0.984123170375824
+ this asteroid has only been seen through a telescope once in -->1 || 0.9839374423027039
+ you might be wondering why is it that in this book there are not any other drawings as--> impress || 0.9838065505027771
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa constrictor closed and open at the age of--> six || 0.9836772680282593
+ i pointed out to the little--> prince || 0.9835166335105896
+ it is to warn my friends of the danger they have long been skirting like myself without knowing it that i have worked--> so || 0.9834662079811096
+ you seemed surprised at first and then you chuckled at yourself and--> you || 0.9833084344863892
+ you would have to tell them i saw a hundred thousand franc house and they would cry--> how || 0.983238935470581
+ they sleep secretly deep in the earth until--> on || 0.9832376837730408
+ he had then given a big presentation on his discovery at an international astronomy conference but nobody had believed--> him || 0.983201801776886
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him a whole--> her || 0.9831085205078125
+ the information came slowly as his thoughts--> w || 0.9831084609031677
+ i thus learned a second very important thing that--> his || 0.9830791354179382
+ unfortunately france is much too far away but on your tiny planet all you needed was--> to || 0.9829675555229187
+ children should be forg-->iving || 0.9828606247901917
+ so if you were to say to them the proof that the little prince existed is that he was--> char || 0.9828117489814758
+ i would have liked to say once upon a time there was a little prince who lived on a planet not much bigger than himself and--> who || 0.9827593564987183
+ i learned this new detail on the fourth day in the morning--> when || 0.9827466607093811
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on his people on pain--> of || 0.9827386736869812
+ so if you were to say to them the proof that the little prince existed is that--> he || 0.9827384948730469
+ others do not look like their--> subjects || 0.9825612306594849
+ i did not understand why it was so important that sheep eat shrubs but the little prince added--> then || 0.982550859451294
+ indeed when it is noon in--> the || 0.9824798703193665
+ fortunately for the reputation of asteroid b 612 a turkish dictator im-->posed || 0.9824782013893127
+ then it elongates and grows tim-->id || 0.9823875427246094
+ unfortunately france is much too far away but on your tiny planet all you needed was to move your chair a few--> steps || 0.9823775291442871
+ unfortunately france is much too far away but--> on || 0.9823484420776367
+ unfortunately france is much too far away but on your tiny planet all you needed was to move--> your || 0.9823150634765625
+ it would suffice to be able to go to france in one minute--> to || 0.9822971224784851
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa constrictor closed and open at--> the || 0.9822160005569458
+ if it is a sprig of radish or rose bush you can let it grow as--> it || 0.9821697473526001
+ i also get the--> size || 0.9821693301200867
+ it is a very boring job but very--> easy || 0.982113242149353
+ if i have told you these details about the asteroid b 612 and revealed to you its--> number || 0.9820977449417114
+ i feel so much sadness in recounting--> these || 0.9820805191993713
+ this time again it was thanks to the sheep because the little prince asked me--> ab || 0.9820712804794312
+ he replied oh come on as if it were obvious and it took me a great mental effort to understand--> this || 0.9820030927658081
+ i am also not sure about--> the || 0.9819867610931396
+ he had then given a big presentation on his discovery at--> an || 0.981928288936615
+ when you talk to them about--> a || 0.9819198846817017
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even if he took with him--> a || 0.9818949699401855
+ after grooming oneself in the morning the--> planet || 0.9818850159645081
+ one day i saw the sunset forty--> four || 0.9818776249885559
+

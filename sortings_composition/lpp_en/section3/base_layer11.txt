@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ she overwh-->el || 0.8453183770179749
+ we must look at them and breat-->he || 0.8710668087005615
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8764704465866089
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.8824605941772461
+ i should have seen the tendern-->ess || 0.8942015171051025
+ then one morning exactly at sunr-->ise || 0.9027810096740723
+ oh-->[EOS] || 0.9187836647033691
+ oh--> yes || 0.9187838435173035
+ then she forced a c-->ough || 0.9277346134185791
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298274517059326
+ the little--> prince || 0.9298275113105774
+ the little--> prince || 0.9298275113105774
+ a sheep e-->ats || 0.9328781366348267
+ but after a moment of--> silence || 0.9370799660682678
+ humiliated at having been caught out on--> a || 0.9371055364608765
+ no--> no || 0.9375079870223999
+ humiliated at having been caught out on a--> lie || 0.9379639625549316
+ but if the sheep e-->ats || 0.9384218454360962
+ but this--> one || 0.939239501953125
+ but this--> is || 0.939239501953125
+ i will have--> to || 0.9397690296173096
+ then she added do not l-->inger || 0.9398015737533569
+ but she--> interrupted || 0.9398354291915894
+ i was upset over the bolt and i said the first--> thing || 0.9399574995040894
+ he can say my--> flower || 0.9403809905052185
+ i had put down my tools of what moment was my--> ham || 0.9406886100769043
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little--> sheep || 0.9408973455429077
+ she arranged her pet-->als || 0.9410185813903809
+ it seems that they are--> very || 0.9411584138870239
+ and if i myself know of a unique flower which grows nowhere but on my planet--> that || 0.9412037134170532
+ as for the large animals i am not--> at || 0.9417210221290588
+ and you actually believe that flowers-->[EOS] || 0.9424799680709839
+ and her mysterious adornment had thus last-->ed || 0.9429470896720886
+ she did--> not || 0.9432743191719055
+ i answered the--> first || 0.943479597568512
+ one day for example speaking of--> her || 0.9435865879058838
+ he watched me hammer in hand and my fingers black with grease leaning on an--> object || 0.9437990784645081
+ and like that she had soon begun to tor-->ment || 0.9442411661148071
+ mine perf-->umed || 0.9444358348846436
+ and you actually believe--> that || 0.9446139335632324
+ he shook his golden curls--> in || 0.9447908997535706
+ he is a--> m || 0.9450953006744385
+ let the dome--> be || 0.9452559351921082
+ and it is not a matter of consequence--> to || 0.9454999566078186
+ i know a planet where there is a redfaced--> gentleman || 0.945530116558075
+
+
+## 50 prefixes with the highest comosition scores:
+ this business of the claws which annoyed me so--> much || 0.9812912344932556
+ and if i myself know--> of || 0.9808568358421326
+ but after a moment of silence he exclaimed with--> a || 0.9808256030082703
+ the little prince never let go of a question once--> he || 0.9808142185211182
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it--> is || 0.9806530475616455
+ the little prince never let go of a question once he--> had || 0.980579137802124
+ i was very worried because my--> break || 0.9804478287696838
+ and her mysterious adornment had thus--> last || 0.9804329872131348
+ and the little prince completely abashed having gone to look for a sprinkling can of fresh water tended--> to || 0.9803707599639893
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is--> enough || 0.9802948832511902
+ then she forced a cough to inflict--> still || 0.9798660278320312
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which--> are || 0.97979736328125
+ as for the large animals i am not at all afraid--> of || 0.9797917008399963
+ for she did not want him to see--> her || 0.9797692894935608
+ one day for example speaking of her four thorns she told the little prince let them come the tigers with--> their || 0.9797236323356628
+ humiliated at having been caught out on a lie so naive she coughed two or three times to imply--> the || 0.9797139763832092
+ i was just going to look for it--> when || 0.979621171951294
+ i was very worried because my breakdown was beginning to appear to be very serious and i--> had || 0.9795315265655518
+ and her--> myster || 0.9795145392417908
+ the cool night air will do--> me || 0.9794662594795227
+ i was very worried because my breakdown was beginning to appear to be very serious and--> i || 0.9794619679450989
+ i was just going to look for it when--> you || 0.9794463515281677
+ he watched me hammer in hand--> and || 0.9794164299964905
+ i was just going to look for it when you spoke to me-->[EOS] || 0.979407012462616
+ but this one had sprouted one day from a seed blown in from no one--> knows || 0.9793527126312256
+ on the fifth day again thanks to the sheep this secret of--> the || 0.979312539100647
+ my cold is not all that--> bad || 0.9793041348457336
+ one day for example speaking of her--> four || 0.9792324900627136
+ then one morning exactly at sunrise she suddenly showed herself-->[EOS] || 0.9792173504829407
+ is it not of more consequence--> and || 0.9791713356971741
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water left that i--> had || 0.9791131019592285
+ i do not fear--> t || 0.9791051745414734
+ i had put down my tools of what moment was my hammer my bolt or thirst or--> death || 0.9790804982185364
+ this business of the claws which annoyed me so much--> should || 0.9790347218513489
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water left--> that || 0.9789539575576782
+ the little prince also pulled up with a hint of sadness the last little shoots--> of || 0.9789295196533203
+ but i was too young--> to || 0.9788203239440918
+ if you would have the kindness to--> think || 0.9786751866340637
+ but the shrub soon stopped growing and began to produce--> a || 0.9786714315414429
+ i said the flower that you love--> is || 0.9786669611930847
+ humiliated at having been caught out on a lie so naive she coughed two--> or || 0.9785933494567871
+ so the little prince despite the good will of his love had soon come to doubt her-->[EOS] || 0.9785773158073425
+ she arranged her petals one--> by || 0.9784400463104248
+ one day for example speaking of her four thorns she--> told || 0.978436291217804
+ and you think--> that || 0.9784108400344849
+ yes even flowers that have thorns-->[EOS] || 0.9783869981765747
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water--> left || 0.9783534407615662
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out--> with || 0.9783351421356201
+ but after a moment of silence he--> exclaimed || 0.9783095717430115
+ she would only--> want || 0.978308379650116
+

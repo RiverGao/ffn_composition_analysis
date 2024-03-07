@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ after five minutes of this exercise the little prince grew tired of--> the || 0.6422283053398132
+ as the king made no answer the little prince hesitated at first then with--> a || 0.642322838306427
+ from time to time you will condemn him to death thus his life will--> depend || 0.6455340385437012
+ i have not seen anyone yawning for--> years || 0.6466386318206787
+ i have nothing more to--> do || 0.6533604860305786
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so--> he || 0.6678382158279419
+ sire he said to--> him || 0.6679863929748535
+ he said to--> the || 0.6682499051094055
+ he said to--> himself || 0.6682513356208801
+ he said to--> himself || 0.6682513356208801
+ he said to--> the || 0.6682513356208801
+ and as he felt a bit sad as he--> remembered || 0.669277012348175
+ he was an absolute monarch but because he--> was || 0.6699204444885254
+ yawns to--> me || 0.6705034971237183
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us would be--> in || 0.6721916794776917
+ i have no space for a carriage and it tires me to--> walk || 0.6722619533538818
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and--> if || 0.6730290651321411
+ for his rule was not only absolute it--> was || 0.6737931966781616
+ he was regretting his lost sunset and then he--> was || 0.6757526993751526
+ after five minutes of this exercise the little prince grew tired of the monotony of--> the || 0.6765504479408264
+ hum hum replied the king then i i order you sometimes to yawn and sometimes to-->[EOS] || 0.6775498390197754
+ it is contrary to--> et || 0.6779138445854187
+ so he began by visiting them to--> learn || 0.67988121509552
+ to admire means to recognise that i am the most handsome the best dressed the richest and--> the || 0.682116687297821
+ i am fairly certain that somewhere on--> my || 0.683077871799469
+ it seems to--> me || 0.685017466545105
+ do it for--> me || 0.6854189038276672
+ ah then the king said i order you to--> ya || 0.6872162222862244
+ the monarch said to--> him || 0.6874443888664246
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did not obey me it would not be--> the || 0.6874814033508301
+ but you are the only man on--> the || 0.6883692145347595
+ from time to time you will condemn him to death thus his--> life || 0.688554584980011
+ and what should i do he asked to--> make || 0.6895904541015625
+ the king hastily called out-->[EOS] || 0.6931616067886353
+ hum hum replied the king who consulted a--> bul || 0.6934415698051453
+ for the king fundamentally insisted that--> his || 0.6938061714172363
+ if he had held it himself he--> would || 0.6943471431732178
+ ashamed of what--> in || 0.6948400139808655
+ the king said to--> him || 0.6959025859832764
+ the little prince said to himself and he began again to--> cla || 0.6962525248527527
+ yawns to me are objects of--> curiosity || 0.6970255374908447
+ the little prince said to himself as he--> continued || 0.6972528100013733
+ it is contrary to etiquette to yawn in the presence of--> a || 0.6972919702529907
+ it is much more difficult to judge oneself than--> to || 0.6973262429237366
+ the little prince looked around him for a place to sit but the planet was--> completely || 0.6974486112594604
+ i have no space for a carriage and it tires me--> to || 0.6978342533111572
+ he said to himself as he--> continued || 0.6985428333282471
+ he said to himself as he--> continued || 0.6985428333282471
+ i have no space for--> a || 0.6990206837654114
+ he was an absolute monarch but because he was good at heart he--> gave || 0.6990811824798584
+
+
+## 50 prefixes with the highest comosition scores:
+ and the little prince asked himself how could he recognise--> me || 0.9135411381721497
+ he was regretting his lost sunset and then he was already getting a little bored-->[EOS] || 0.9110744595527649
+ to admire means to recognise--> that || 0.9060079455375671
+ to forget that i am ashamed--> conf || 0.9007999897003174
+ i have come on a long journey and i have not slept-->[EOS] || 0.8981554508209229
+ to forget that i am ashamed confessed--> the || 0.8976163864135742
+ for--> the || 0.8952118158340454
+ for--> his || 0.8952117562294006
+ s-->ire || 0.8939716815948486
+ s-->ire || 0.8939708471298218
+ i order you to sit down replied the king who majestically gathered in a fold--> of || 0.8938564658164978
+ may i sit down the little prince enquired--> tim || 0.8937427997589111
+ i have no space for a carriage and it tires--> me || 0.8937247395515442
+ then my sunset the little prince remind-->ed || 0.8935312032699585
+ we do not--> know || 0.8930801153182983
+ it is to raise in salute--> when || 0.8927677273750305
+ hum hum replied the king who consulted a bulky--> al || 0.8925997614860535
+ the little prince clapped his hands one against the other-->[EOS] || 0.8919268250465393
+ over everything the king made a subtle gesture pointing out his planet the other planets--> and || 0.8901224136352539
+ over everything the king made a subtle--> gesture || 0.8900136947631836
+ then my sunset the little prince reminded--> him || 0.8899706602096558
+ sire he said to him excuse--> my || 0.8894484043121338
+ the little prince clapped--> his || 0.8884579539299011
+ i am fairly certain that somewhere--> on || 0.8860005140304565
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic--> drama || 0.8850407600402832
+ of--> course || 0.8845986127853394
+ to--> forget || 0.8842913508415222
+ to--> them || 0.8842913508415222
+ to--> forget || 0.8842910528182983
+ to--> adm || 0.8842905759811401
+ to--> forget || 0.8842905759811401
+ i am drink-->ing || 0.8811565041542053
+ to forget replied the drink-->er || 0.8809477090835571
+ conceited people never hear anything but praise-->[EOS] || 0.8796936869621277
+ it is much more difficult to judge oneself--> than || 0.8793540596961975
+ if he had held it himself he would have been able to watch not forty four but seventy--> two || 0.8791373372077942
+ this was a very short visit but it plung-->ed || 0.8784540891647339
+ minister--> of || 0.877723217010498
+ minister--> of || 0.877722978591919
+ approach so that i may see you better said the king--> who || 0.8775559067726135
+ to forget that i am ashamed confessed the drink-->er || 0.8774771094322205
+ do that--> for || 0.8772599101066589
+ he was regrett-->ing || 0.8769529461860657
+ ah here comes a visit from an admirer exclaimed the conceited man from afar--> the || 0.8769525289535522
+ i have no space for a carriage--> and || 0.8761827349662781
+ but i can judge myself--> anywhere || 0.8760653734207153
+ ah here comes a visit from an admirer exclaimed the conceited--> man || 0.8757302165031433
+ for the king fundamentally insisted--> that || 0.8756017684936523
+ ashamed of drink-->ing || 0.8748689293861389
+ he was regretting--> his || 0.8744425177574158
+

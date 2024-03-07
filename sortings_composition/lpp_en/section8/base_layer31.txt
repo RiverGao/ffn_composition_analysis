@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ of course no one had ever been able--> to || 0.9527363777160645
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would walk very slowly toward a spring of fresh--> water || 0.9695906043052673
+ what makes the desert beautiful said--> the || 0.9701616764068604
+ you have to keep your promise said the little prince softly who had again sat down beside--> me || 0.9709678292274475
+ the little prince saw them and laughed as he said your--> ba || 0.9738669395446777
+ what makes the desert beautiful said the little--> prince || 0.9747908115386963
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would walk very slowly toward a spring of--> fresh || 0.9751776456832886
+ the men where you live said the little prince grow five thousand roses in a single--> garden || 0.9762416481971741
+ men said the little prince stuff themselves into express trains but they do not know what--> they || 0.9767888784408569
+ myself the little prince said to himself if i had--> fifty || 0.9774059653282166
+ what makes the desert beautiful said the little prince is that somewhere it hides a well-->[EOS] || 0.9784836769104004
+ ah i said to the little prince these--> mem || 0.9786152243614197
+ the wells of the--> sah || 0.9788050055503845
+good--> morning || 0.9793967008590698
+ good--> morning || 0.9793967008590698
+ what makes the desert beautiful--> said || 0.9804350733757019
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would walk very slowly toward a--> spring || 0.9806622266769409
+ he has never been hungry or thirst-->y || 0.9807295799255371
+ myself the little prince said to--> himself || 0.9814321994781494
+ myself the little prince said to himself if i had fifty--> three || 0.9814478754997253
+ the little prince s words danced in--> my || 0.9815595149993896
+ and yet what they are looking for could be found in a single rose or in a little water-->[EOS] || 0.9815633893013
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ and the--> pul || 0.981955349445343
+ and the--> little || 0.9819554090499878
+ good morning said--> the || 0.9823797345161438
+ good morning said--> the || 0.9823797345161438
+ what makes the desert beautiful said the little prince is that somewhere it h-->ides || 0.9824216961860657
+ your fox his--> ears || 0.9827244281768799
+ what makes the desert beautiful said the little prince--> is || 0.9827508926391602
+ why are you selling those asked--> the || 0.9828253388404846
+ good morning said the little--> prince || 0.9830825328826904
+ myself the little prince said to himself if--> i || 0.9830837249755859
+ myself the little prince said to himself if i had fifty three minutes to spend as--> i || 0.9831215739250183
+ and the little prince added but the--> eyes || 0.9834612011909485
+ i hoisted the bucket slowly to the edge of the well and set it down good--> and || 0.9837197065353394
+ the men where you live said the little prince grow five thousand roses in a single garden and they do not find--> what || 0.9838604927062988
+ yes--> i || 0.9839157462120056
+ the song of--> the || 0.9840130805969238
+ your fox his ears they look a bit like horn-->s || 0.9841223359107971
+ myself the little prince said to himself if i had fifty three--> minutes || 0.9841588735580444
+ i made a gesture of wear-->iness || 0.9842686057090759
+ myself the little prince said to himself if i had fifty three minutes to spend--> as || 0.9842713475227356
+ and yet what they are looking for could be found in a single rose or--> in || 0.9843356013298035
+ what makes the desert--> beautiful || 0.9845996499061584
+ can you hear that said--> the || 0.9846500158309937
+ the men where you live said the little prince grow five thousand roses in a--> single || 0.9846917390823364
+
+
+## 50 prefixes with the highest comosition scores:
+ and i added--> hes || 0.9999634623527527
+ so it was not by chance that--> the || 0.9999539256095886
+ and i came to think of--> him || 0.9999352693557739
+ he never considers--> the || 0.9998911023139954
+ of course no one had ever been able to find--> it || 0.9998849034309387
+ he never answered questions but when you bl-->ush || 0.9998680353164673
+ let me do--> it || 0.9998668432235718
+ yes i said to--> the || 0.999866783618927
+ you can do anything you like with--> them || 0.9998657703399658
+ i came down very near--> here || 0.9998636841773987
+ i hoisted the bucket slowly to the edge of the well and set it down--> good || 0.9998561143875122
+ i have nothing left to drink and i too would be happy if--> i || 0.9998456835746765
+ he said to me you know my descent to earth tomorrow will be its anni-->versary || 0.9998447299003601
+ when we had walked for hours in silence night fell--> and || 0.9998366832733154
+ i do not know how to draw anything except boa constrict-->ors || 0.9998341202735901
+ and i added hesitantly perhaps because of the anni-->versary || 0.9998341202735901
+ he never cons-->iders || 0.9998335838317871
+ i hoisted the bucket slowly to the edge of the well and set it--> down || 0.9998335838317871
+ then after a silence he went--> on || 0.9998137354850769
+ he sat down-->[EOS] || 0.9998104572296143
+ but i have--> not || 0.9998036026954651
+ i did not understand his answer but i--> said || 0.9997861981391907
+ and once again without understanding why i felt a peculiar sense of--> sorrow || 0.9997841715812683
+ he did not follow--> my || 0.9997830986976624
+ it even seemed to me--> that || 0.9997790455818176
+ it is absurd to look for a well at random in the immensity of the desert but we started walking--> anyway || 0.9997761249542236
+ but he did--> not || 0.9997734427452087
+ but he did--> not || 0.9997734427452087
+ the song of the pulley continued in my ears and in the still trembling water i could see the sunlight sh-->immer || 0.9997704029083252
+ so they rush about and go in circles and he added--> it || 0.9997678399085999
+ the wells of the sahara are mere holes d-->ug || 0.9997652769088745
+ oh and i--> had || 0.9997633099555969
+ it is absurd--> to || 0.9997580051422119
+ and continuing to walk--> i || 0.999752938747406
+ it is abs-->urd || 0.9997476935386658
+ that which is most important is--> invisible || 0.9997475147247314
+ it is the image of a rose that shines in him--> like || 0.9997467994689941
+ it is the image of a rose that shines in him like the fl-->ame || 0.9997428059577942
+ why are you selling--> those || 0.9997339248657227
+ this was a merchant who sold pills that had been created to quench th-->irst || 0.9997318387031555
+ it even seemed to me that--> there || 0.9997310638427734
+ he has never been hungry or th-->irst || 0.9997268319129944
+ you can do anything you like--> with || 0.999724805355072
+ this one looked--> like || 0.9997189044952393
+ the well we had reached--> was || 0.999718427658081
+ the men where you live--> said || 0.9997181296348572
+ as his slightly parted lips gave way--> to || 0.9997166395187378
+ this one looked like a village well but there--> was || 0.9997143149375916
+ it is a big time sa-->ver || 0.9997130632400513
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the sm-->iles || 0.999705970287323
+

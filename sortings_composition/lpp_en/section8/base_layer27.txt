@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ of course no one had ever been able--> to || 0.8931432962417603
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.8979822397232056
+ the sand at sunr-->ise || 0.9052578210830688
+ one has--> to || 0.949172854423523
+ it was as sweet as some special festival--> treat || 0.9551271200180054
+ of course no--> one || 0.955211877822876
+ myself--> i || 0.9555228352546692
+ myself--> the || 0.9555228352546692
+ you have to keep your promise--> said || 0.9557901620864868
+ i am thirsty for this water said the little prince-->[EOS] || 0.9586899876594543
+ and i added hesitantly--> perhaps || 0.9589537978172302
+ he said to me--> you || 0.9592646360397339
+ men said the little prince stuff--> themselves || 0.9615832567214966
+ everything has been prepared the pulley the bucket and the rope-->[EOS] || 0.9616531729698181
+ and yet--> what || 0.9620088934898376
+ of course--> no || 0.9621674418449402
+ come back tomorrow--> evening || 0.9624224305152893
+ men said--> the || 0.9624963402748108
+ the song--> of || 0.9626420736312866
+ he said to me you know my descent to earth tomorrow--> will || 0.9627769589424133
+ he said simply water--> can || 0.9628287553787231
+ we were at the eighth day since my accident--> in || 0.9628680348396301
+ it is a big time saver said--> the || 0.9631959199905396
+ he said simply water can be good for the heart too-->[EOS] || 0.9632593989372253
+ why then--> did || 0.9632688760757446
+ my dear fellow our situation has nothing to do with the--> fo || 0.9637823700904846
+ and--> i || 0.9637896418571472
+ and--> continu || 0.9637896418571472
+ and--> i || 0.9637896418571472
+ and--> i || 0.9637896418571472
+ and--> the || 0.9637896418571472
+ and--> i || 0.9637896418571472
+ and--> what || 0.9637896418571472
+ and--> i || 0.963789701461792
+ and--> the || 0.963789701461792
+ and--> yet || 0.963789701461792
+ and--> once || 0.963789701461792
+ and--> he || 0.9637898206710815
+ and--> it || 0.9637898206710815
+ and--> then || 0.9637898206710815
+ it was as sweet--> as || 0.9639456868171692
+ as his--> slightly || 0.964137077331543
+ and i knew then what he had--> been || 0.9642219543457031
+ you were out walking like that--> all || 0.9643338918685913
+ it is nice to have had a friend even if you are about to die-->[EOS] || 0.9648977518081665
+ come back tom-->orrow || 0.9649184942245483
+ the--> well || 0.9651139378547668
+ the--> desert || 0.9651139378547668
+ the--> song || 0.9651139378547668
+ the--> little || 0.9651139378547668
+
+
+## 50 prefixes with the highest comosition scores:
+ the wells of the sahara are mere holes d-->ug || 0.9999744296073914
+ this was a merchant who sold pills that had been created to--> qu || 0.9998700022697449
+ this was a merchant who sold pills that--> had || 0.9998286962509155
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as--> i || 0.9996870160102844
+ as his slightly parted lips gave way to a half smile i continued what--> i || 0.9996234774589539
+ i saw them as if in a dream as--> my || 0.9994545578956604
+ so it was not by chance that the morning i--> first || 0.9994457960128784
+ then after a silence he went--> on || 0.9993669390678406
+ the well we had--> reached || 0.9988044500350952
+ and yet what they are looking for could be found--> in || 0.9986120462417603
+ and i added hesitantly perhaps because--> of || 0.9985993504524231
+ and what do i do with the fifty three minutes-->[EOS] || 0.998418927192688
+ as the little prince fell asleep i took him in my arms and--> set || 0.9983425140380859
+ this was a merchant who--> sold || 0.9983276724815369
+ i sat down beside him and after a silence--> he || 0.9982710480690002
+ and i knew then what--> he || 0.9981469511985779
+ and i knew--> then || 0.9979075789451599
+ and yet what they are looking for could be--> found || 0.9978452324867249
+ this one looked like a village well but there was no village there and i thought--> i || 0.9977760910987854
+ i replied that--> is || 0.9975255131721497
+ of course no one had ever been able to find it or perhaps no one--> had || 0.9974585771560669
+ a little sunshine is all--> he || 0.9971734285354614
+ he never considers the danger i said to myself-->[EOS] || 0.9970383644104004
+ of course no one had ever been able to find it or perhaps no one had--> even || 0.996955156326294
+ so it was not by chance that the morning i first met you--> a || 0.9969371557235718
+ so it was not by chance that the morning i first met you a week ago-->[EOS] || 0.996559202671051
+ i did not understand his answer but--> i || 0.9964277744293213
+ and once again without understanding why i felt a peculiar sense of sorrow one question--> occurred || 0.996332585811615
+ i have nothing left to drink and i too would be happy if--> i || 0.9961668848991394
+ i sat down beside--> him || 0.996056318283081
+ i did not understand his answer but i said--> nothing || 0.9959253668785095
+ and i knew then what he had been looking--> for || 0.995583713054657
+ and i knew then--> what || 0.995516300201416
+ the wells of the sahara are mere holes--> d || 0.995501697063446
+ and the pulley moaned like an old--> weather || 0.99532550573349
+ you have to search with the--> heart || 0.9952974915504456
+ i looked in the moonlight at his pale forehead his closed eyes his locks of hair that--> trem || 0.9952878952026367
+ the song of the pulley continued in my ears and--> in || 0.9952658414840698
+ oh and i had been so proud of my baobabs-->[EOS] || 0.9950937032699585
+ you hear nothing and yet something radi-->ates || 0.9948970079421997
+ the sand at sunrise is the color of h-->oney || 0.9948375225067139
+ the well we had reached was not like the other--> well || 0.994786262512207
+ myself i am glad--> to || 0.9947606921195984
+ but it cast an en-->chant || 0.9947226643562317
+ so i made a pencil sketch of a muzzle and--> i || 0.9946330785751343
+ this water was something very different from ordinary n-->our || 0.9946101307868958
+ i have nothing left to drink and i too would be happy if i--> could || 0.9946048259735107
+ when i was a little boy i lived in an old house and--> legend || 0.9945427179336548
+ i sat down beside him and after--> a || 0.9945023655891418
+ my dear fellow our situation has nothing--> to || 0.994479238986969
+

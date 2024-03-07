@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.8819716572761536
+ if he had held it himself he would have been able--> to || 0.8863445520401001
+ from time to--> time || 0.8886674046516418
+ he should be able--> for || 0.8999856114387512
+ i admire you said the little prince shrugg-->ing || 0.9178405404090881
+ for the--> king || 0.9333637952804565
+ authority--> is || 0.9335684180259705
+ ashamed of what inquired the little--> prince || 0.9344078898429871
+ what does that--> mean || 0.9350525140762329
+ may i sit down the--> little || 0.9354989528656006
+ unfortunately--> nobody || 0.9356626272201538
+ he found himself in the neighborhood of the asteroids 325 326 327 328 3-->2 || 0.9357013702392578
+ to forget what asked the little--> prince || 0.9364503026008606
+ because to conceited--> men || 0.9379032850265503
+ for--> his || 0.9381788969039917
+ for--> the || 0.9381788969039917
+ he was regretting his lost--> sun || 0.9383395314216614
+ he said to the drinker who he found sitting in silence in front of a number--> of || 0.9398416876792908
+ to forget what asked the--> little || 0.9402298927307129
+ then--> my || 0.9406996965408325
+ then--> you || 0.9406998157501221
+ ashamed of what inquired the--> little || 0.9412515163421631
+ hum hum that will be about about that will be this--> evening || 0.9428568482398987
+ such--> power || 0.9430962800979614
+ i order you to ask me a--> question || 0.9432836771011353
+ the next planet was inhabited by a heavy drink-->er || 0.9434615969657898
+ he said to the drink-->er || 0.9435105919837952
+ after five minutes of this exercise the little--> prince || 0.9435306191444397
+ i will make you--> a || 0.9436686038970947
+ then my--> sun || 0.9436894059181213
+ that is the most difficult thing of--> all || 0.9437032341957092
+ i make you my--> amb || 0.9439076781272888
+ and--> the || 0.9440470933914185
+ and--> the || 0.9440470933914185
+ and--> the || 0.9440470933914185
+ and--> as || 0.9440470933914185
+ and--> you || 0.9440471529960632
+ and--> the || 0.9440471529960632
+ and--> now || 0.9440471529960632
+ and--> what || 0.9440472722053528
+ of--> course || 0.9440633654594421
+ admire me--> just || 0.9441055655479431
+ you have a--> fun || 0.944418728351593
+ such power filled the little--> prince || 0.9444657564163208
+ approach--> so || 0.9453849196434021
+ but you will pardon him on each occasion to conserve--> him || 0.9454161524772644
+ do not go said--> the || 0.9454233050346375
+ i order you to sit down replied--> the || 0.9457225799560547
+ i do not have to--> live || 0.9464904069900513
+ to admire means--> to || 0.9471731185913086
+
+
+## 50 prefixes with the highest comosition scores:
+ if he had held it himself he would have been able to watch not forty four but seventy--> two || 0.9993399381637573
+ it seems to me that conditions are favourable-->[EOS] || 0.9951839447021484
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he sp-->otted || 0.9948776960372925
+ but you will pardon him on each occasion to con-->serve || 0.9947566986083984
+ the second planet was inhabited--> by || 0.9947513937950134
+ he did not tolerate disob-->ed || 0.9947277307510376
+ if he had held it himself he would have been able to watch not forty four but sevent-->y || 0.9945454001426697
+ as the king made no answer the little prince hes-->itated || 0.9942251443862915
+ i have no space for a carriage and it t-->ires || 0.9940270185470581
+ i admire you said the little prince shru-->gg || 0.9938370585441589
+ i have the right to demand obed-->ience || 0.9937102198600769
+ from time to time you will condemn him to death thus his life will depend--> on || 0.9936279654502869
+ exactly one must ask of each person--> that || 0.9934903979301453
+ but the little prince having readied himself to leave had no wish to gr-->ieve || 0.9934186935424805
+ the next planet was inhabited--> by || 0.9933571219444275
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine ro-->be || 0.992921769618988
+ he did not tolerate disobedience-->[EOS] || 0.9927176237106323
+ and as he felt a bit sad as he remembered his forsaken little planet he pl-->uck || 0.9925593137741089
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and a number of full bott-->les || 0.9925079941749573
+ he did not tolerate disobed-->ience || 0.9924827814102173
+ i shall command it but i shall wait according to my science of government until conditions are fav-->ou || 0.9921503663063049
+ as the king made no answer the little prince hesitated at first then with a s-->igh || 0.9920783638954163
+ the monarch said to him i forb-->id || 0.9916983842849731
+ over everything the king made a subt-->le || 0.9914975166320801
+ the grownu-->ps || 0.9913231730461121
+ the grownu-->ps || 0.9913231134414673
+ the grownu-->ps || 0.9913231134414673
+ he said to the drinker who he found sitting in silence in front of a number of empty bott-->les || 0.9913043975830078
+ from time to time you--> will || 0.9911460280418396
+ but the conceited man did not hear him-->[EOS] || 0.9909572601318359
+ i shall command it but i shall wait according to my science of government until conditions are favou-->rable || 0.9909393787384033
+ he was reg-->rett || 0.9909127354621887
+ it is to raise in salute when people acc-->laim || 0.9909008741378784
+ and the little prince went away--> puzz || 0.9907713532447815
+ and the little prince went away-->[EOS] || 0.9907712340354919
+ the next planet was inhab-->ited || 0.9907693862915039
+ the little prince said to himself as he continued on--> his || 0.9906921982765198
+ may i sit down--> the || 0.9905521869659424
+ i can not stop myself replied the little prince thoroughly embar-->rass || 0.9904406070709229
+ authority is based--> above || 0.9903651475906372
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was tired he--> ya || 0.9900318384170532
+ the little prince said to himself as he continued on his--> journey || 0.9900239706039429
+ may i sit--> down || 0.9899699687957764
+ i shall command it but i shall wait according to--> my || 0.9898656010627747
+ as the king made no answer the little prince hesitated at first then with a sigh took his--> leave || 0.989716649055481
+ the little prince looked around him for a place to--> sit || 0.9897100329399109
+ he said to himself as he continued on--> his || 0.9895070791244507
+ the little prince said to himself--> and || 0.9892547726631165
+ the little prince said to himself--> as || 0.9892546534538269
+ from time to time you will condemn him to death thus his life will--> depend || 0.9892204403877258
+

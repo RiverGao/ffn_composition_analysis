@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ for others who are schol-->ars || 0.9131359457969666
+ he got a bit discou-->rag || 0.9159596562385559
+ he would never have been able--> to || 0.94275963306427
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.9462578892707825
+ i am telling you this it is also because of the--> s || 0.9535630345344543
+ and she--> is || 0.9548934102058411
+ and she--> is || 0.9548934102058411
+ that night--> i || 0.9590017199516296
+ and sometimes you will open your window just like that--> for || 0.960005521774292
+ if a child then--> comes || 0.9610013365745544
+ that night i did not see him--> set || 0.9620803594589233
+ just that it will be like with the--> water || 0.9622666835784912
+ and now of course--> it || 0.9626955389976501
+ i was just coming to tell him that against all odds--> my || 0.9627958536148071
+ it is like with the--> water || 0.9632740616798401
+ it is like with the--> flower || 0.9632740616798401
+ it is--> better || 0.9635337591171265
+ it is--> not || 0.9635337591171265
+ it is--> just || 0.9635337591171265
+ it is--> like || 0.9635337591171265
+ it is--> much || 0.9635337591171265
+ it is--> the || 0.9635337591171265
+ it is--> too || 0.9635337591171265
+ it is--> like || 0.9635337591171265
+ it is--> like || 0.9635337591171265
+ it is--> here || 0.9635338187217712
+ it is--> true || 0.9635338187217712
+ when i came back from my work the next evening i saw from a distance my--> little || 0.9641069769859314
+ again--> i || 0.9644852876663208
+ it is true that--> they || 0.9646434187889099
+ and she is--> so || 0.9648622870445251
+ and she is--> so || 0.9648624062538147
+ he said to me that--> which || 0.9649015665054321
+ and i love to listen to the stars at night-->[EOS] || 0.9655135869979858
+ let me go--> on || 0.9659985899925232
+ he said to me i am glad that--> you || 0.966132640838623
+ i am telling you this it is also--> because || 0.9664278626441956
+ for my businessman they were--> wealth || 0.9664666056632996
+ and yet it seemed to me that--> he || 0.9665197134017944
+ and when your sorrow is comforted time he-->als || 0.9668529033660889
+ that is--> my || 0.9669037461280823
+ she has four thorns--> of || 0.9669234752655029
+ it is here that the--> little || 0.9670227766036987
+ but it will be--> like || 0.9670805931091309
+ i am telling you this it is--> also || 0.9671432971954346
+ and now--> i || 0.9672889113426208
+ and now--> of || 0.9672889113426208
+ just that it will be like with--> the || 0.9673866033554077
+ i am telling you this it is also because of--> the || 0.9677053689956665
+ i reached the wall just in time to catch my--> little || 0.9678363800048828
+
+
+## 50 prefixes with the highest comosition scores:
+ ask yourselves has the sheep yes or--> no || 0.9984002709388733
+ and if you happen--> to || 0.9934398531913757
+ i mean not entirely but i do know that he got back to his planet because at day-->break || 0.9926930069923401
+ ask yourselves has the sheep yes--> or || 0.9925963878631592
+ but he said to me tonight it will be a year-->[EOS] || 0.9923694133758545
+ i mean not entirely but i do know that he got back--> to || 0.9923639893531799
+ one evening he would have forgotten the glass--> d || 0.9923388957977295
+ i continued my walk toward the wall-->[EOS] || 0.992245614528656
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light met-->all || 0.9921596050262451
+ there was next to the well the ruin of an old stone wall-->[EOS] || 0.9920304417610168
+ i then lowered my eyes to the foot--> of || 0.9920304417610168
+ there is nothing sad--> about || 0.9920216202735901
+ it will be as if i would given you instead of stars lots--> and || 0.9919614791870117
+ my heart ski-->pped || 0.9917972683906555
+ and i love to listen--> to || 0.9917505979537964
+ and yet it seemed to me that he was plummeting down into an abyss and that i could--> do || 0.9917414784431458
+ and if you happen to pass by there i beg you do not hurry--> on || 0.9917100071907043
+ i could feel that he was rev-->iving || 0.9916453957557678
+ you will want to laugh with--> me || 0.9916268587112427
+ so you will tell them yes--> the || 0.9915300011634827
+ he remained motion-->less || 0.9914661049842834
+ and he took me by--> the || 0.9913102984428406
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metall-->ic || 0.9913039803504944
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do--> nothing || 0.991271436214447
+ if--> you || 0.9911894798278809
+ if--> a || 0.9911894798278809
+ little fellow i said i want to hear--> you || 0.9911496639251709
+ i then lowered my eyes to the foot of the wall and i leapt--> up || 0.9911269545555115
+ when you look at the sky at night because i will be living--> on || 0.9910736083984375
+ and she is so weak-->[EOS] || 0.9910608530044556
+ but something reassured--> him || 0.9910010695457458
+ you understand it is too--> far || 0.9909900426864624
+ i then lowered my eyes to the foot of the wall and i leapt up-->[EOS] || 0.9909464120864868
+ this to me is the most beautiful and most sad landscape in--> the || 0.9909210205078125
+ he was afraid of course but he laughed--> soft || 0.990912675857544
+ other times i tell myself everyone is absent minded at some point and that is all it--> takes || 0.990906834602356
+ i was sad but i told them it--> is || 0.990884006023407
+ my star will be right above the spot where i came down to earth a year--> ago || 0.9908818006515503
+ at night you will look--> at || 0.9908808469772339
+ where i live everything is too--> small || 0.9908730983734131
+ one evening he would have forgotten the glass dome or maybe the sheep got out--> quietly || 0.9908291101455688
+ i have your sheep and i have the box--> for || 0.9907833337783813
+ again i felt myself frozen by the sense of something irre-->par || 0.9907790422439575
+ i still did not see or hear--> anyone || 0.9907767176628113
+ and he laughed--> again || 0.9907500147819519
+ and he laughed--> some || 0.9907500147819519
+ and he laughed--> again || 0.9907500147819519
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never hearing--> that || 0.9907223582267761
+ but he was wor-->ried || 0.9906944036483765
+ other times i tell--> myself || 0.9906841516494751
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8447920083999634
+ we must look at them and breat-->he || 0.867672324180603
+ i should have seen the tendern-->ess || 0.8727736473083496
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.8814284801483154
+ then one morning exactly at sunr-->ise || 0.8839840292930603
+ she overwh-->el || 0.9029222726821899
+ and as he watered the flower one last time and prepared to shelter her under her d-->ome || 0.9467311501502991
+ he stood there all bewildered the d-->ome || 0.9515069723129272
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow--> th || 0.9527530670166016
+ but the shrub soon stopped growing and began to produce a--> flower || 0.9533514976501465
+ i had put down my--> tools || 0.9542924165725708
+ it is so secretive the land--> of || 0.9575230479240417
+ in the evening you will put me under a glass d-->ome || 0.9583405256271362
+ humiliated at having been caught out on a lie so naive she coughed two or three times to imply the little prince was--> in || 0.9595720171928406
+ he can say my--> flower || 0.9596544504165649
+ the thorns--> are || 0.9603251814842224
+ there had always been very simple flowers on the planet of--> the || 0.9607171416282654
+ i will have to endure two or three c-->ater || 0.9610830545425415
+ is it not of more consequence and more important than the sums of a fat re-->df || 0.9610904455184937
+ she would only want to appear in the full radiance of her beauty-->[EOS] || 0.9611376523971558
+ and as he watered the flower one last time and prepared to shelter her under her dome he--> found || 0.9613049030303955
+ the little prince--> object || 0.9616445302963257
+ the little prince--> was || 0.9616446495056152
+ the little prince--> could || 0.9616446495056152
+ the little prince--> guess || 0.96164470911026
+ the little prince--> who || 0.96164470911026
+ the little prince--> also || 0.96164470911026
+ the little prince--> never || 0.96164470911026
+ the little prince--> interrupted || 0.9616447687149048
+ i know a planet--> where || 0.9618064165115356
+ it is very cold where--> you || 0.961828887462616
+ mine perfumed my whole planet--> but || 0.9621621966362
+ he watched me hammer in hand and my fingers black with grease--> lean || 0.9624940156936646
+ the little prince also pulled up with a hint of sadness the last little--> sho || 0.962522566318512
+ let the d-->ome || 0.9625293612480164
+ you would not happen to have a screen-->[EOS] || 0.9626842141151428
+ flowers have been growing--> th || 0.9627968668937683
+ the little prince also pulled--> up || 0.9628242254257202
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely this sprout that was not like the--> other || 0.9631115198135376
+ there was on a star on a planet--> my || 0.963191032409668
+ of course i love you-->[EOS] || 0.9632413387298584
+ is it not of more consequence and more important than the sums of a fat redfaced--> gentleman || 0.9635648131370544
+ for millions of years the sheep have eaten--> the || 0.9635889530181885
+ if someone lov-->es || 0.9636620283126831
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with a--> ham || 0.9637681245803833
+ i know a planet where there--> is || 0.9640803337097168
+ he watched me hammer in hand and my fingers black with grease lean-->ing || 0.9642383456230164
+ one day for example speaking of her four thorns--> she || 0.9642672538757324
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars--> it || 0.9645111560821533
+ then she forced a cough to--> inf || 0.9645249843597412
+
+
+## 50 prefixes with the highest comosition scores:
+ she overwhelmed me with her fra-->gr || 0.9919497966766357
+ we must look at them and breathe their fra-->gr || 0.9901720285415649
+ we must look at them and breathe--> their || 0.9900825619697571
+ if a sheep eats shrubs then--> does || 0.9900060892105103
+ and if i myself know of a unique--> flower || 0.9895617961883545
+ i will have to endure two or three caterpillars if i wish to become acquainted with the but-->ter || 0.9894534945487976
+ he stood there all bew-->ilder || 0.9893195629119873
+ the little prince could not restrain his adm-->iration || 0.9892923831939697
+ at that moment i was thinking to myself if this bolt will not budge i will knock--> it || 0.9891868233680725
+ i--> was || 0.989000678062439
+ i--> was || 0.989000678062439
+ i--> should || 0.989000678062439
+ i--> was || 0.989000678062439
+ i--> think || 0.989000678062439
+ i--> had || 0.989000678062439
+ i--> will || 0.989000678062439
+ i--> did || 0.9890006184577942
+ i--> have || 0.9890006184577942
+ i--> made || 0.9890006184577942
+ i--> should || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> was || 0.9890006184577942
+ i--> learned || 0.9890006184577942
+ i--> felt || 0.9890006184577942
+ i--> ask || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> did || 0.9890006184577942
+ i--> will || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> rock || 0.9890006184577942
+ i--> did || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> should || 0.9890006184577942
+ i--> myself || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> answered || 0.9890006184577942
+ i--> do || 0.9890006184577942
+ i--> said || 0.9890006184577942
+ i--> am || 0.9890006184577942
+ i--> took || 0.9890006184577942
+ i-->[EOS] || 0.9890004992485046
+ i-->[EOS] || 0.9890004992485046
+ i--> know || 0.9890004992485046
+ i--> was || 0.9890004992485046
+ i--> do || 0.9890004992485046
+ i--> should || 0.9890004992485046
+ i--> was || 0.9890004992485046
+ they are na-->ive || 0.988980770111084
+ flowers are weak cre-->atures || 0.9888964295387268
+

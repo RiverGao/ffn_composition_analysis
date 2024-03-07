@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ so i had to choose another profession and i learned to--> fly || 0.9282330870628357
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little crossly that i did not know how to--> draw || 0.9314119815826416
+ he shook his head slowly whilst looking at my air-->plane || 0.9315255284309387
+ and i was ast-->ounded || 0.9315910339355469
+ there will certainly be--> enough || 0.9320586323738098
+ my friend broke into another peal--> of || 0.932858407497406
+ they answered me why would anyone be fright-->ened || 0.9354242086410522
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real--> life || 0.9360042214393616
+ it showed a boa constrictor--> dig || 0.9361355900764465
+ it showed a boa constrictor--> sw || 0.9361355900764465
+ i took a good look around me and i saw a quite extraordinary little man--> who || 0.9364902377128601
+ i will not draw my air-->plane || 0.9367318153381348
+ i was discou-->rag || 0.9368497729301453
+ i was discou-->rag || 0.9368497729301453
+ so getting imp-->at || 0.9372523427009583
+ it would be a drawing--> far || 0.9373791813850403
+ i was discouraged in my career as a painter by the grownups at the age--> of || 0.9374009370803833
+ he looked carefully then said no--> this || 0.9375544786453247
+ after a reflective silence he answered what is good about the box--> you || 0.9385600090026855
+ i then drew the inside of the bo-->a || 0.9387418031692505
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9397202730178833
+ so i lived alone without anyone i could really--> talk || 0.9410478472709656
+ draw me a--> sheep || 0.9414048194885254
+ draw me a--> sheep || 0.9414048194885254
+ draw me a--> sheep || 0.9414048194885254
+ so i thought a lot about the advent-->ures || 0.9416377544403076
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little crossly that i did not know how--> to || 0.9416552186012268
+ he is fallen as-->leep || 0.9419849514961243
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a sheet--> of || 0.9423903822898865
+ that is right and if--> you || 0.9427361488342285
+ so getting impat-->ient || 0.94300377368927
+ a boa constrictor is very dangerous and an--> ele || 0.9430598020553589
+ i caught a glimp-->se || 0.9431567192077637
+ i flew a little in--> many || 0.9432176947593689
+ the one of the closed boa constrictor-->[EOS] || 0.9436067938804626
+ that is right and--> if || 0.9436565637588501
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa--> con || 0.9439563155174255
+ so getting impatient as i was eager to start dismantling my engine i hastily sketched this drawing and i snapped this-->[EOS] || 0.9439772367477417
+ when a mystery is too overpowering one dare--> not || 0.9442786574363708
+ my drawing--> number || 0.9443137049674988
+ my drawing--> was || 0.9443137049674988
+ i showed my masterpiece to the grownups and i asked them if my drawing--> fright || 0.9443259835243225
+ the grownups advised--> me || 0.9444020986557007
+ but then i remembered that i had mainly studied geography history--> arithmetic || 0.9445797204971313
+ so i lived alone without anyone i could--> really || 0.9445797801017761
+ then he cried what you fell from the--> sky || 0.9449447393417358
+ and that is how--> i || 0.9450342059135437
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real life--> stories || 0.9451159238815308
+ grownups never understand anything by themselves and it is t-->ires || 0.9457508325576782
+ i have had during my life a lot of contact with many--> persons || 0.9457653760910034
+
+
+## 50 prefixes with the highest comosition scores:
+ it looked like this-->[EOS] || 0.9806286692619324
+ so getting--> imp || 0.9804574251174927
+ a boa constrictor is very dangerous and an elephant is--> very || 0.9792953133583069
+ as i had never drawn a sheep i redrew for him one of the only two drawings--> that || 0.979260265827179
+ i was more isolated than a shipwrecked sailor--> on || 0.978793740272522
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming than its model-->[EOS] || 0.9787752628326416
+ grownups never understand anything by--> themselves || 0.9783381819725037
+ here is the best portrait that later i managed to do of him but my drawing of--> course || 0.9781761169433594
+ so i lived alone without anyone i could really talk to until a breakdown in the sahara desert six--> years || 0.977838397026062
+ when i finally managed to speak i said what are you--> doing || 0.9776970744132996
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored pencil to make my first drawing my drawing number--> one || 0.977645218372345
+ here is the best portrait that later i managed to do of him but my drawing of course is much less charming than--> its || 0.9776248931884766
+ i talked to them about bridge golf politics and neckties and the grownup was glad to know such a sensible man-->[EOS] || 0.9775189757347107
+ it showed a boa constrictor swallowing a--> wild || 0.9774415493011475
+ my friend broke into another--> pe || 0.9773610234260559
+ i had hardly enough water to drink--> for || 0.9772656559944153
+ but i was very surprised to see the face of my young judge light--> up || 0.9772376418113708
+ here is the best portrait that later i managed to do of him but--> my || 0.9772265553474426
+ it is exactly the way--> i || 0.9771896004676819
+ this one is too old-->[EOS] || 0.9770975112915039
+ remember that i was a thousand miles from any inhabited region--> and || 0.9770957231521606
+ and perhaps with a hint of sadness he added straight ahead you--> can || 0.97705078125
+ as i had never drawn a sheep i redrew for him one of the only two drawings that--> i || 0.9769579172134399
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to--> try || 0.976928174495697
+ so you can imagine my surprise when at daybreak a funny little voice--> w || 0.9768968820571899
+ i was more isolated than a shipwrecked sailor on a raft--> in || 0.9768620729446411
+ that is right and if you are good i will give you a rope to tie him up with during the day and a--> st || 0.97673100233078
+ it said in the book boa constrictors swallow their pre-->y || 0.9767246246337891
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for them--> again || 0.9767239689826965
+ i was discouraged in my career as a painter by the--> grow || 0.9767048358917236
+ i was discouraged by the failure of my drawing number one and of my drawing number two-->[EOS] || 0.9766905903816223
+ for me it was a matter of life or--> death || 0.9766258597373962
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried to find out more-->[EOS] || 0.9765024185180664
+ after a reflective silence he answered what is good about the box you have given is that at night he--> can || 0.9764776825904846
+ this one--> is || 0.9764000177383423
+ it was the words spoken--> by || 0.9763806462287903
+ i have lived a lot amongst the grownups-->[EOS] || 0.976315975189209
+ absurd as it seemed to me a thousand miles from any human habitation and--> in || 0.976300835609436
+ thus i abandoned at the age of six a magnificent--> career || 0.9762813448905945
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for them again and again-->[EOS] || 0.9762316346168518
+ it showed a boa constrictor digesting an--> ele || 0.9761565327644348
+ they always need to have things explained-->[EOS] || 0.9761331677436829
+ so i--> had || 0.9761131405830383
+ so i--> lived || 0.9761130809783936
+ so i--> would || 0.9761130809783936
+ so i--> thought || 0.9761130809783936
+ so i--> drew || 0.976112961769104
+ i had hardly enough water to--> drink || 0.9760744571685791
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything--> except || 0.9760655164718628
+ i was discouraged by the failure of my drawing number one and--> of || 0.9760608077049255
+

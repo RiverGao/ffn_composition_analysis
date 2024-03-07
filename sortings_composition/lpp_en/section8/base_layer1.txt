@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ it is strange i said to--> the || 0.5872178077697754
+ of course no one had ever been able to find it or--> perhaps || 0.6152930855751038
+ it was born of the walk under the stars of the song of--> the || 0.6157693266868591
+ it was born of the walk under the stars of the song of the pulley of--> the || 0.6184259653091431
+ i hoisted the bucket slowly to the edge of the well and--> set || 0.6333333253860474
+ he never considers the danger i said to--> myself || 0.6550220251083374
+ it is too heavy for--> you || 0.6585493683815002
+ i raised the bucket to--> his || 0.6608192920684814
+ as the little prince fell as-->leep || 0.663059413433075
+ of course no one had ever been able to find it or perhaps no--> one || 0.6671631932258606
+ he said to--> me || 0.6682499051094055
+ myself the little prince said to--> himself || 0.6682668924331665
+ it was born of--> the || 0.6684021353721619
+ so i made a pencil sketch of a muzzle and i felt a--> p || 0.6702972650527954
+ you could take one pill a--> week || 0.6713492274284363
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as--> i || 0.671431839466095
+ i replied that is--> true || 0.6783226132392883
+ you run the risk of weeping a little if you allow yourself to--> be || 0.6783276200294495
+ and the pulley moaned like an old weathervane--> when || 0.6788301467895508
+ why then did i have to have this sense of--> gr || 0.6801354289054871
+ yes i said to--> the || 0.6825525164604187
+ and i came to think of him as--> even || 0.6825963258743286
+ you run the risk of weeping a little if you--> allow || 0.6835430860519409
+ we were at the eighth day since my accident in the desert and--> i || 0.6841343641281128
+ the well we had reached was not like the other wells of--> the || 0.6857600808143616
+ he did not follow my--> reasoning || 0.6871306300163269
+ i have nothing left to drink and--> i || 0.6872313618659973
+ i was surprised to--> suddenly || 0.6879662275314331
+ i saw them as if in a dream as my thirst had--> made || 0.689150333404541
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is his devotion to a--> flower || 0.6902437806129456
+ and continuing to--> walk || 0.6903553605079651
+ when i was a little boy the lights of the christmas tree the music of--> the || 0.6903691291809082
+ it is absurd to look for a well at random in the immensity of the desert but we--> started || 0.6904208660125732
+ i looked in--> the || 0.6906286478042603
+ ah i said to the little prince these memories of--> yours || 0.6911977529525757
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of--> my || 0.691204309463501
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave it to--> him || 0.6912206411361694
+ and yet what they are looking for could be found in a single rose or--> in || 0.6913630962371826
+ when i was a little boy i lived in an old house and legend told that a treasure was--> buried || 0.6914644837379456
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the radiance of--> the || 0.6914945840835571
+ myself the little prince said to himself if i had fifty three minutes to spend as i--> liked || 0.6916381120681763
+ it seemed to me that--> i || 0.6922690272331238
+ of course no one had ever been able to find it or perhaps no one had even looked for--> it || 0.6940727233886719
+ the little prince saw them and laughed as he--> said || 0.6951214075088501
+ the wells of the sahara are mere holes dug in--> the || 0.6954472064971924
+ of course no one had ever been able to find it or perhaps no one had--> even || 0.6957225203514099
+ everything has been--> prepared || 0.6981343030929565
+ you could take one pill a week and you--> no || 0.6985344886779785
+ you could take one pill a week and you no--> longer || 0.6988770961761475
+ my friend the fox he said to--> me || 0.6989947557449341
+
+
+## 50 prefixes with the highest comosition scores:
+ it is the image of a rose that shines--> in || 0.9234177470207214
+ i remembered the fox-->[EOS] || 0.9155970215797424
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles--> produced || 0.9053782224655151
+ you know a muzzle--> for || 0.9044328331947327
+ ah i said to the little prince these memories of yours are very charming-->[EOS] || 0.9031393527984619
+ your fox--> his || 0.8998294472694397
+ my friend the fox--> he || 0.8996626138687134
+ i am glad he said that you agree with my fox-->[EOS] || 0.897765040397644
+ it is the image of a rose that shines in him like the flame--> of || 0.8938367962837219
+ when i was a little boy i lived in an old house and legend told that a treasure--> was || 0.8923328518867493
+ and i looked without saying anything at the folds of sand in the moonlight-->[EOS] || 0.8922783136367798
+ i looked in the moonlight at his pale forehead his closed eyes his locks--> of || 0.891334056854248
+ i saw them as if in a dream as my thirst had made me fever-->ish || 0.8899797201156616
+ you know a muzz-->le || 0.8892221450805664
+ when i was a little boy the lights of the christmas--> tree || 0.8889121413230896
+ so i made a pencil sketch of a muzzle--> and || 0.8872191905975342
+ he laughed took the rope--> and || 0.8863309621810913
+ ah i said to the little prince these memories of yours--> are || 0.8856350779533386
+ of--> course || 0.8845983147621155
+ so they rush--> about || 0.8841649889945984
+ my dear fellow our situation has nothing to do with the fox--> anymore || 0.883044958114624
+ so i made a pencil sketch of a muzz-->le || 0.881908655166626
+ everything has been prepared the pulley the bucket and the rope-->[EOS] || 0.8810276389122009
+ myself i am glad to have had a fox--> as || 0.8806191682815552
+ he drank-->[EOS] || 0.8802366852760315
+ he never answered questions but when you blush--> that || 0.8793455958366394
+ why then did i have to have this sense--> of || 0.8767774105072021
+ it seemed to me that i was carrying a very fragile treasure-->[EOS] || 0.8764998912811279
+ why are you selling--> those || 0.8763480186462402
+ as his slightly parted lips gave way to a half smile--> i || 0.8758808374404907
+ i looked in the moonlight at his pale forehead--> his || 0.875700056552887
+ it was born of the walk under the stars--> of || 0.8756946921348572
+ come back tomorrow--> evening || 0.8756691813468933
+ my home was hiding a secret in the depth-->s || 0.8752385973930359
+ let--> us || 0.8750708103179932
+ let--> me || 0.8750708103179932
+ you sit down on a sand dune-->[EOS] || 0.8749870657920837
+ when i was a little boy the lights of the christmas tree the music of the midnight--> mass || 0.8749454617500305
+ it is nice to have had a friend--> even || 0.8744102120399475
+ a gust of wind--> can || 0.8743351101875305
+ i am worried-->[EOS] || 0.8733652830123901
+ the wells of the sahara are mere holes dug--> in || 0.8731642961502075
+ everything has been prepared the pulley the bucket--> and || 0.8728320598602295
+ i had drunk--> the || 0.8727282881736755
+ i raised--> the || 0.8726112842559814
+ the men where you live said the little--> prince || 0.8722653388977051
+ the sand at sunrise is the color--> of || 0.8720889091491699
+ so they rush about and go in circles--> and || 0.8711745142936707
+ because we will die of thirst-->[EOS] || 0.8711618185043335
+ and i looked without saying anything at the folds of sand in the moon-->light || 0.8711476922035217
+

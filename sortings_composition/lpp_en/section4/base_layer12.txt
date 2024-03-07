@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.8325288891792297
+ from time to--> time || 0.8673388361930847
+ i admire you said the little prince shrugg-->ing || 0.8806007504463196
+ he should be able--> for || 0.8818884491920471
+ if he had held it himself he would have been able--> to || 0.8902049660682678
+ hum hum replied the king then i i order you sometimes to ya-->wn || 0.9318084120750427
+ conceited--> people || 0.932927131652832
+ he found himself in the neighborhood of the asteroids 325-->  || 0.9345120191574097
+ he s-->put || 0.9348615407943726
+ i have come--> on || 0.9397560358047485
+ you shall have your sunset-->[EOS] || 0.9407506585121155
+ approach--> so || 0.9407820701599121
+ authority--> is || 0.9411872625350952
+ he was an absolute--> monarch || 0.9426336288452148
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which--> one || 0.9430983662605286
+ he should be able for example--> to || 0.9433483481407166
+ so he began by--> visit || 0.9435278177261353
+ hum hum that will be about about--> that || 0.9435282349586487
+ unfortunately--> nobody || 0.9435839056968689
+ it is to raise in salute when people acclaim me-->[EOS] || 0.9439337253570557
+ if you succeed in judging yourself rightly then you are truly wise-->[EOS] || 0.9441317915916443
+ minister of of--> justice || 0.9441906213760376
+ he did not tolerate--> dis || 0.9443520903587341
+ oh but i--> have || 0.9449884295463562
+ they--> obey || 0.9453505277633667
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and a number of full--> bott || 0.9456580281257629
+ he sputtered a--> bit || 0.9458410739898682
+ i have not seen anyone yawning--> for || 0.9459050297737122
+ he did not toler-->ate || 0.9462214112281799
+ conceited people--> never || 0.9465962052345276
+ s-->ire || 0.9469869136810303
+ s-->ire || 0.946986973285675
+ over everything the king made a subtle gesture pointing out his planet the--> other || 0.9477471709251404
+ and as he felt a bit sad as he remembered his for-->s || 0.9479036927223206
+ sire over--> what || 0.947925865650177
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us would be in the--> wrong || 0.9480429887771606
+ i shall command it--> but || 0.9481046795845032
+ it is contrary to etiquette to yawn--> in || 0.9483528137207031
+ i can not any more said--> the || 0.9484208226203918
+ i have come on a long journey and i have not--> sle || 0.9487760066986084
+ but you will p-->ardon || 0.9488537311553955
+ to--> them || 0.9488629102706909
+ to--> forget || 0.9488629102706909
+ to--> forget || 0.9488630890846252
+ to--> adm || 0.9488630890846252
+ to--> forget || 0.9488630890846252
+ he found--> himself || 0.9491788744926453
+ ashamed of drink-->ing || 0.9493153691291809
+ to admire means to recognise that i am--> the || 0.949326753616333
+ the next planet was inhabited by a heavy--> drink || 0.9497228264808655
+
+
+## 50 prefixes with the highest comosition scores:
+ the second planet--> was || 0.9859460592269897
+ and you--> will || 0.9839767813682556
+ over everything the king made a subtle gesture pointing out his planet the other planets and--> the || 0.9831870794296265
+ i have not seen anyone--> y || 0.982581615447998
+ i order you to ask me a question--> hast || 0.9824568033218384
+ to forget that i am ashamed conf-->essed || 0.9822788238525391
+ but you will pardon him on--> each || 0.9820709228515625
+ because to conceited men all other men are--> adm || 0.9818626046180725
+ and you will see how well i am obey-->ed || 0.981785237789154
+ then my sunset the little prince reminded him who never forgot--> a || 0.981626033782959
+ the king was sitting dressed--> in || 0.9814793467521667
+ sire he said to him--> exc || 0.9813706874847412
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked--> up || 0.9811919331550598
+ if your majesty wishes to be promptly obeyed he should be able to give me a reasonable order-->[EOS] || 0.9811661839485168
+ do it--> for || 0.9811275005340576
+ i am fairly certain that somewhere--> on || 0.981102466583252
+ and as he felt a bit sad as he remembered his forsaken--> little || 0.9810899496078491
+ but the little prince having readied himself to leave had no wish to grieve--> the || 0.9808716773986816
+ oh but i have already looked--> said || 0.9808626770973206
+ if he had held it himself he would have been able to watch not forty four but seventy two or even--> a || 0.9807168841362
+ i can not any--> more || 0.9806416034698486
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not--> carry || 0.9803465604782104
+ to forget that--> i || 0.980342447757721
+ as the king made no answer--> the || 0.980330765247345
+ i am fairly certain that somewhere on my planet there--> is || 0.9801996946334839
+ to forget that i--> am || 0.9801313877105713
+ oh really said the little prince who did not understand-->[EOS] || 0.9800921082496643
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two hundred sunsets on the same day without ever having to move his chair-->[EOS] || 0.9800817966461182
+ if your majesty--> wishes || 0.9800692200660706
+ he found himself in the neighborhood of the asteroids 325 326 3-->2 || 0.9800217747688293
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred--> or || 0.9799819588661194
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama--> or || 0.9799752235412598
+ if your majesty wishes to be promptly obeyed he should be able to--> give || 0.9799420833587646
+ i hear--> him || 0.9799255132675171
+ ah here comes a subject exclaimed the king when he caught--> sight || 0.9798623323440552
+ ah then the king said--> i || 0.9798601865768433
+ as the king made no answer the little prince hesitated at first then with a sigh took his--> leave || 0.979851484298706
+ from--> time || 0.9798329472541809
+ the little prince looked around him for a place to sit but the planet was completely taken over by--> the || 0.9798142313957214
+ and the little prince went away puzzled-->[EOS] || 0.9797708988189697
+ he found himself in the neighborhood of the asteroids 325 326 32-->7 || 0.9797120690345764
+ the king said to--> him || 0.9796723127365112
+ sire he said to him excuse my asking you a question-->[EOS] || 0.9795717000961304
+ i am fairly certain that somewhere on my planet there is an--> old || 0.9795315265655518
+ he said to himself as he continued--> his || 0.9795196652412415
+ he said to himself as he continued--> on || 0.9795196652412415
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did not obey me it would not be the general s fault-->[EOS] || 0.9795002341270447
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the--> order || 0.9794755578041077
+ i have no space for a carriage and--> it || 0.9794072508811951
+ it is contrary to etiquette to yawn in--> the || 0.9793725609779358
+

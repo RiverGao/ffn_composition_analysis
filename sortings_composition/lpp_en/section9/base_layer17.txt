@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.899676501750946
+ for others who are schol-->ars || 0.9139063358306885
+ he got a bit discou-->rag || 0.9250437021255493
+ then--> he || 0.9424071311950684
+ then--> he || 0.9424071311950684
+ then--> i || 0.9424071311950684
+ then--> this || 0.9424071907997131
+ and then--> he || 0.9463333487510681
+ and then--> the || 0.9463333487510681
+ it is true that they have--> no || 0.9543800950050354
+ he hesitated a bit and then--> stood || 0.956398606300354
+ it will look a bit as if--> i || 0.9582719206809998
+ i am telling you this it--> is || 0.9585312008857727
+ he said that is--> everything || 0.958824634552002
+ one evening he would have forgotten the glass dome or maybe the--> sheep || 0.9591342210769653
+ the companions who met me were very happy to see me alive--> again || 0.9598021507263184
+ he had a--> serious || 0.9613913893699646
+ and he laughed some more-->[EOS] || 0.9621886610984802
+ for others they are--> nothing || 0.9622176289558411
+ i am--> telling || 0.96249920129776
+ it will look as if--> i || 0.9625699520111084
+ it will look as if--> i || 0.9625699520111084
+ do not--> come || 0.9630306363105774
+ i mean not entirely--> but || 0.9630891680717468
+ but he did--> not || 0.9632871747016907
+ he would never have been able to fasten it to the--> sheep || 0.9634095430374146
+ you have--> made || 0.9634904265403748
+ he would never have been able to fasten it to--> the || 0.9636052846908569
+ i will also look at the--> stars || 0.9636846780776978
+ it is true that--> they || 0.9640945196151733
+ but it--> will || 0.964369535446167
+ you only you will have stars that--> can || 0.9644561409950256
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to restrain--> him || 0.9652310609817505
+ for some who--> are || 0.9653483033180237
+ and he--> smiled || 0.9654240012168884
+ and he--> laughed || 0.9654240012168884
+ and he--> laughed || 0.9654240012168884
+ and he--> laughed || 0.9654240012168884
+ and he--> took || 0.965424120426178
+ and he--> sat || 0.9654241800308228
+ i can--> not || 0.9656348824501038
+ one evening he would have--> forgotten || 0.9659356474876404
+ again--> i || 0.9659370183944702
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you--> it || 0.966144323348999
+ he did--> not || 0.9661823511123657
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain--> and || 0.9661867022514343
+ you only you will have--> stars || 0.966299831867218
+ i then lowered my eyes to the--> foot || 0.9663823843002319
+ now you will be able to go back home-->[EOS] || 0.9663854837417603
+ right there--> facing || 0.9665526747703552
+
+
+## 50 prefixes with the highest comosition scores:
+ where i live everything is too small for me to point out to you where my star--> is || 0.9937377572059631
+ little fellow is this all a bad dream this business--> with || 0.993333101272583
+ wait a while exactly under the star-->[EOS] || 0.9927662014961243
+ sometimes i tell myself surely not the little prince shuts his flower under her glass dome every night and he watches over his sheep very--> carefully || 0.9924072027206421
+ little fellow is this all a bad dream this business with the snake and the meeting place and the star-->[EOS] || 0.9921258091926575
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metallic--> sound || 0.9916097521781921
+ if you love a flower that is on a star--> it || 0.9913478493690491
+ it will be as if i would given you instead of stars--> lots || 0.9913455843925476
+ he took one step-->[EOS] || 0.9912795424461365
+ other times i tell myself everyone is absent minded at some point and that--> is || 0.9911165833473206
+ i felt his heart beat like the heart of a dying bird when shot with a rif-->le || 0.9910661578178406
+ and if you happen to pass by there i--> beg || 0.9910392165184021
+ i felt his heart--> beat || 0.9908503293991089
+ all the stars will be wells with a rust-->y || 0.9908334612846375
+ why are you talking--> with || 0.9908047318458557
+ it will be so--> much || 0.9907939434051514
+ look at this landscape carefully so as to be sure to recognize it if one day you travel in africa in the desert-->[EOS] || 0.9907715916633606
+ nothing in the universe is the same if somewhere out there a sheep that we have never seen has has it eaten--> a || 0.990768313407898
+ i felt very--> clearly || 0.9907587170600891
+ and then he too was silent because he was crying-->[EOS] || 0.9907118082046509
+ even as i dug around in my pocket to--> take || 0.990656852722168
+ he hes-->itated || 0.9906536340713501
+ sometimes i tell myself surely not the little prince shuts--> his || 0.9906429648399353
+ i will be--> there || 0.9905939102172852
+ i will be--> much || 0.9905938506126404
+ i was sad--> but || 0.9904754161834717
+ look--> at || 0.9904691576957703
+ look--> at || 0.9904691576957703
+ other times i tell--> myself || 0.9904621839523315
+ ask yourselves has the sheep yes or no eaten--> the || 0.9904403686523438
+ you will have the stars--> as || 0.9904398322105408
+ when i drew the muzzle for the little prince i forgot to--> add || 0.9904229640960693
+ it is true that they have no poison left for a second--> b || 0.9904110431671143
+ when you look at the sky at night because i will be living on one of them because i will be la-->ughing || 0.9904091954231262
+ little fellow is this all a bad dream this business with the snake and the meeting--> place || 0.9902417659759521
+ but it will be like an old abandoned shell-->[EOS] || 0.9902376532554626
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray--> of || 0.990211009979248
+ everyone has the same stars but they are not the--> same || 0.9901801943778992
+ and then the little bells turn--> to || 0.990095317363739
+ and i love to listen to the stars at night-->[EOS] || 0.9900930523872375
+ for me it was like a spring of fresh water in--> the || 0.9900618195533752
+ i was just coming to--> tell || 0.9900258183479309
+ you will see where my tracks begin in the sand-->[EOS] || 0.990013062953949
+ it will be as if i would given you instead of stars lots and lots of little bells that can laugh-->[EOS] || 0.9899988770484924
+ other times i tell myself everyone is absent minded at some point and that is all it--> takes || 0.9899719953536987
+ and i love to listen to the stars--> at || 0.9899417757987976
+ and i love to listen to the stars at--> night || 0.9899296164512634
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are la-->ughing || 0.9899163842201233
+ and sometimes you will open your--> window || 0.989909291267395
+ you know--> it || 0.9898673892021179
+

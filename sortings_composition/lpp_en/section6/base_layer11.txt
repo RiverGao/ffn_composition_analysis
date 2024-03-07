@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.8816553950309753
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.8878633975982666
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.8917762637138367
+ from a mountain as high as this one he said to himself i will be able--> to || 0.8987787961959839
+ the little prince crossed the desert and met only with one flower a flower with three petals a nondes-->cript || 0.9023279547691345
+ i can help you if somed-->ay || 0.9092454314231873
+ oh--> look || 0.9187834858894348
+ oh--> so || 0.9187836050987244
+ oh--> where || 0.9187836050987244
+ oh-->[EOS] || 0.9187836647033691
+ the grow-->nu || 0.9246431589126587
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a footst-->ool || 0.9273671507835388
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273921012878
+ the little--> prince || 0.9298274517059326
+ the little--> prince || 0.9298274517059326
+ the little--> prince || 0.9298274517059326
+ the little--> prince || 0.9298274517059326
+ the little--> prince || 0.9298275113105774
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the ext-->inct || 0.9324885010719299
+ they picture themselves as taking up a--> lot || 0.9343189001083374
+ he is a scholar who knows the location of the se-->as || 0.934466540813446
+ and he glanced around at the planet of the ge-->ograph || 0.9345700144767761
+ and they were silent-->[EOS] || 0.935945987701416
+ and they were silent-->[EOS] || 0.935945987701416
+ no--> that || 0.9375080466270447
+ but he--> saw || 0.9378759860992432
+ that is to say about two billion grow-->nu || 0.9383418560028076
+ geography books--> said || 0.9386387467384338
+ but it is--> so || 0.9395262598991394
+ but extinct--> vol || 0.9396551251411438
+ he cried out when he caught sight of the--> little || 0.9396728873252869
+ he had already travel-->led || 0.9397809505462646
+ the recit-->als || 0.9398452043533325
+ and she has--> only || 0.9403934478759766
+ the recitals of--> expl || 0.9406574368476868
+ if the two billion people who inhabit the earth were to stand u-->pr || 0.9411011934280396
+ what does--> that || 0.9419015645980835
+ what does--> e || 0.9419016242027283
+ geography books said the geographer of all books are the most concerned with matters of--> consequence || 0.9422449469566345
+ that is possible so when the moral--> character || 0.9423221945762634
+ what a funny planet he--> thought || 0.9425753951072693
+ the movements of this army were regulated like those of an opera--> bal || 0.9427393078804016
+ it has one hundred and eleven kings not forgetting of course the negro k-->ings || 0.9427403211593628
+ to give you an idea of the size of the earth i will tell you that before the invention of--> electric || 0.9427489638328552
+ seven--> thousand || 0.9428778886795044
+ seven--> million || 0.9428779482841492
+
+
+## 50 prefixes with the highest comosition scores:
+ onto earth in africa the snake--> answered || 0.9814562797546387
+ it is beautiful said the snake-->[EOS] || 0.980889081954956
+ having set their lamps alight they would go off to bed-->[EOS] || 0.9808643460273743
+ because intoxicated men see double so the geographer would record two--> mountains || 0.9806870222091675
+ and if any of their recollections seem interesting to him the geographer orders an inquiry into that explorer--> s || 0.9806633591651917
+ i wonder he said if the stars are lit so that each of us can one day find his own--> again || 0.9805143475532532
+ if the two billion people who--> inhab || 0.980222761631012
+ i run the risk of giving a fasle idea of our planet to those--> who || 0.9800673723220825
+ where are the men asked the little prince politely-->[EOS] || 0.9800616502761841
+ but he saw--> nothing || 0.980022132396698
+ it was inhabited by an old gentleman who wrote enormous--> books || 0.9797993898391724
+ and if any of their recollections seem interesting to him the geographer orders an inquiry--> into || 0.9797583222389221
+ if for example the discovery in question was of a large mountain one would require that he bring back--> large || 0.9797027111053467
+ i can carry you further than a ship said the snake-->[EOS] || 0.9796521067619324
+ if the two billion people who inhabit the earth were--> to || 0.9796364307403564
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six contin-->ents || 0.9795809388160706
+ because an explorer who--> told || 0.9795393347740173
+ then they too would disappear into the wings-->[EOS] || 0.9793907999992371
+ you go to see it-->[EOS] || 0.9793198704719543
+ he is a scholar who knows--> the || 0.9792943596839905
+ the only mountains he had ever known were--> the || 0.9792901873588562
+ that really is--> at || 0.979287326335907
+ because an explorer who told lies would cause havoc to geography books so would--> an || 0.9792776703834534
+ no that would--> be || 0.9792588949203491
+ and if any of their recollections seem interesting to him the--> ge || 0.9792255759239197
+ the little prince crossed the desert and met only with one flower a flower with three petals a--> n || 0.9792248606681824
+ your planet is very beautiful he said-->[EOS] || 0.9791342616081238
+ they adore numbers and that--> will || 0.9791280627250671
+ and towns--> and || 0.9791058301925659
+ to give you an idea of the size of the earth i will tell you that--> before || 0.979046642780304
+ what place would you advise--> me || 0.9790220856666565
+ you are a funny animal he said finally as thin as a finger-->[EOS] || 0.9789986610412598
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he--> used || 0.9789735674858093
+ i run the risk of giving a fasle idea of our--> planet || 0.9789334535598755
+ and if any of their recollections seem interesting to--> him || 0.9788461923599243
+ because an explorer who told lies would cause havoc to geography books so would an--> expl || 0.9788066744804382
+ it is not for the geographer to count the towns the rivers the--> mountains || 0.9788044095039368
+ the only mountains he had ever known were the three volcanoes that came up to his knees--> and || 0.9788020849227905
+ i run the risk of giving a fasle idea of--> our || 0.9787352681159973
+ they think themselves as important as the baobabs-->[EOS] || 0.9787091612815857
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south--> pole || 0.9786838293075562
+ if the two billion people who inhabit the earth were to stand upright--> and || 0.9786432981491089
+ he is a scholar who knows the location of the seas the rivers--> the || 0.9784907102584839
+ the only mountains he had ever known were the three volcanoes that came up to his knees and--> he || 0.9784585237503052
+ the movements of this army were regulated like those of an opera ballet-->[EOS] || 0.978431224822998
+ the sixth planet was--> ten || 0.9784244894981384
+ he does not leave his desk--> but || 0.9783929586410522
+ but what does ephemeral mean repeated the little prince who--> had || 0.9783321619033813
+ and never would they make a mistake in their order of entry on--> stage || 0.9783163070678711
+ be my friends-->[EOS] || 0.9783154129981995
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.877927839756012
+ of course no one had ever been able--> to || 0.8783637285232544
+ the sand at sunr-->ise || 0.9052863121032715
+ then--> after || 0.9424071907997131
+ and then--> he || 0.9463334679603577
+ can--> you || 0.9512051343917847
+ and it--> was || 0.9560946226119995
+ come back--> tom || 0.958301305770874
+ i came down very near here-->[EOS] || 0.9604179859161377
+ one has--> to || 0.961781919002533
+ i am--> wor || 0.9624990820884705
+ i am--> also || 0.96249920129776
+ i am--> responsible || 0.96249920129776
+ i am--> glad || 0.9624993205070496
+ i am--> th || 0.9624993205070496
+ he has--> never || 0.9627636075019836
+ but he did--> not || 0.9632871747016907
+ but he did--> not || 0.9632871747016907
+ then after a silence he--> went || 0.9634886980056763
+ you have--> plans || 0.96349036693573
+ you have--> to || 0.96349036693573
+ you have--> to || 0.96349036693573
+ as his slightly parted lips gave way to--> a || 0.9635305404663086
+ the sand at sunrise is the color of honey-->[EOS] || 0.9635381102561951
+ and i came to think of him as--> even || 0.9639246463775635
+ i replied that is--> true || 0.9640502333641052
+ you were out walking like that all--> alone || 0.9642844200134277
+ but it--> cast || 0.964369535446167
+ he has never been hungry or thirst-->y || 0.9643760919570923
+ and what do i do with--> the || 0.9646517634391785
+ why then--> did || 0.965002715587616
+ and i came to think--> of || 0.9651927351951599
+ the stars are beautiful--> because || 0.9652233719825745
+ i hoisted the bucket slowly to the edge of the--> well || 0.9653258323669434
+ i looked in the moonlight at his pale forehead his closed eyes his locks of--> hair || 0.9654218554496765
+ and he--> bl || 0.9654240012168884
+ it seemed to me that i was--> carrying || 0.9658132195472717
+ it is the image of a rose that--> sh || 0.9658255577087402
+ can you--> hear || 0.96592777967453
+ he did--> not || 0.9661823511123657
+ oh--> and || 0.9663951992988586
+ oh--> it || 0.9663953185081482
+ oh--> i || 0.9663953185081482
+ and i looked--> without || 0.9667278528213501
+ but he looked at me and replied to--> my || 0.9671981334686279
+ so it--> was || 0.9672937393188477
+ i took my--> sketch || 0.9673478007316589
+ because--> we || 0.9675598740577698
+ my dear fellow our situation has nothing to do with the fox--> anymore || 0.9676661491394043
+ i am also thirst-->y || 0.9677962064743042
+
+
+## 50 prefixes with the highest comosition scores:
+ and continu-->ing || 0.9923582673072815
+ what makes the desert--> beautiful || 0.9922796487808228
+ and it was true-->[EOS] || 0.9917570352554321
+ when we had walked for hours in silence night--> fell || 0.9917054772377014
+ i have always loved the desert-->[EOS] || 0.991649329662323
+ and yet what they are looking--> for || 0.9916426539421082
+ i came down very--> near || 0.9914188981056213
+ it even seemed to me that there was nothing more fragile on earth-->[EOS] || 0.9913621544837952
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would walk very--> slowly || 0.9912438988685608
+ you run the risk of weeping--> a || 0.9911380410194397
+ so i made a pencil sketch of a muzzle and i felt a p-->ang || 0.9911233186721802
+ the desert--> is || 0.9910516142845154
+ the song of the pulley continued in my ears and in the still--> trem || 0.9910159707069397
+ the sand--> at || 0.9910095930099487
+ that is true--> i || 0.9909559488296509
+ and i added hes-->it || 0.9908212423324585
+ as the little prince fell asleep i took him in my--> arms || 0.9906904697418213
+ when i was a little boy i lived in an old house and legend told that--> a || 0.9905843138694763
+ and what do i--> do || 0.9905834794044495
+ i looked in the moonlight at his pale forehead his closed--> eyes || 0.9905661344528198
+ men said the little prince stuff themselves into express trains but they do not know what they are looking--> for || 0.9904987812042236
+ myself the little prince said to himself if i had fifty three minutes to spend as i--> liked || 0.9903879165649414
+ everything has been prepared the pul-->ley || 0.9903841018676758
+ you have plans--> that || 0.9902912974357605
+ you sit down on a sand--> d || 0.9902623295783997
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i--> d || 0.9901689291000366
+ a gust--> of || 0.9901427030563354
+ i took my sketches out of my--> pocket || 0.990073025226593
+ one has to look--> after || 0.990028977394104
+ of course no one had ever been able to find it or perhaps no one had even looked--> for || 0.9900054931640625
+ and once again without understanding why i felt--> a || 0.9899598360061646
+ when we had walked for hours in silence night fell and the stars--> began || 0.989954948425293
+ but he respond-->ed || 0.9899307489395142
+ when we had walked--> for || 0.9898691773414612
+ it is nice to have had a friend even--> if || 0.9898678660392761
+ you know--> a || 0.9898675084114075
+ as his slightly parted lips gave way to a half smile i continued what i find so--> deeply || 0.9898098707199097
+ he said simply water can be--> good || 0.9897722005844116
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would walk very slowly toward--> a || 0.9897574186325073
+ so they rush about and go in--> circles || 0.9897181987762451
+ it even seemed to me that there was nothing--> more || 0.9897043108940125
+ and continuing--> to || 0.9897006154060364
+ this one looked like a village well but there was no village there and i thought i--> was || 0.9896970391273499
+ so it was not by--> chance || 0.9896721243858337
+ when i was--> a || 0.9896683096885681
+ when i was--> a || 0.9896683096885681
+ this water was something very--> different || 0.9896589517593384
+ the stars--> are || 0.9896444082260132
+ this one looked like a village well but there was no village--> there || 0.989621639251709
+ the little prince saw them and laughed as he--> said || 0.9896083474159241
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ from time to--> time || 0.7959128618240356
+ i admire you said the little prince shrugg-->ing || 0.8066722750663757
+ if he had held it himself he would have been able--> to || 0.8218689560890198
+ he should be able--> for || 0.8549842834472656
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.8785646557807922
+ he did not know that--> for || 0.9577468633651733
+ hum hum that will be about about--> that || 0.9583814144134521
+ ashamed of drinking concluded the--> drink || 0.9623516798019409
+ for the king fundamentally insisted that his authority be respect-->ed || 0.9627931714057922
+ sire he said to--> him || 0.9629087448120117
+ ashamed--> of || 0.9637496471405029
+ ashamed--> of || 0.9637497067451477
+ i have the right to demand obedience because my orders are reasonable-->[EOS] || 0.9638258814811707
+ hum hum that will be about about that will be--> this || 0.9644570350646973
+ hum hum replied the king then i i--> order || 0.9647974371910095
+ of course--> the || 0.965321958065033
+ approach so that i may see you better said the king who was very proud to finally be king over somebody-->[EOS] || 0.9658174514770508
+ he said to the drinker--> who || 0.9659504890441895
+ and as--> he || 0.9659784436225891
+ i replied the--> little || 0.9663874506950378
+ it is to raise in--> sal || 0.96648770570755
+ do that--> for || 0.966536819934845
+ it is to--> raise || 0.9665703177452087
+ he was an--> absolute || 0.9666360020637512
+ for his rule was not only absolute--> it || 0.9667277932167053
+ over all that--> asked || 0.9670314192771912
+ over all that--> the || 0.9670314788818359
+ he found himself in the neighborhood of the asteroids 325 326 -->3 || 0.967350423336029
+ there was no--> one || 0.967486560344696
+ he was an absolute monarch but because he was good at heart he gave reasonable orders-->[EOS] || 0.9678698778152466
+ so he--> began || 0.9679369926452637
+ to forget what asked the little prince who already felt sorry for him-->[EOS] || 0.9679486155509949
+ what are you--> doing || 0.9680405259132385
+ he found himself in the neighborhood of the asteroids 325 326 327 3-->2 || 0.9680747985839844
+ i order you to--> ask || 0.9683308005332947
+ i order you to--> sit || 0.9683309197425842
+ and you will see how--> well || 0.9684820771217346
+ conceited--> people || 0.9688107371330261
+ to forget that i am ashamed confessed the--> drink || 0.9691477417945862
+ but the little prince having--> read || 0.9702039361000061
+ it is contrary to etiquette--> to || 0.9704067707061768
+ to forget that--> i || 0.9705090522766113
+ he found himself in the neighborhood of the asteroids 325 326 327-->  || 0.9705122709274292
+ he said to--> the || 0.9706186652183533
+ he said to--> the || 0.9706186652183533
+ he said to--> himself || 0.9706187844276428
+ he said to--> himself || 0.9706187844276428
+ he found--> himself || 0.9709023237228394
+ and you will see how well--> i || 0.9709084630012512
+ hum hum replied the king then i i order you sometimes to--> ya || 0.9712023138999939
+
+
+## 50 prefixes with the highest comosition scores:
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and a number of--> full || 0.9999428987503052
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and a--> number || 0.9980365037918091
+ he said to the drinker who he found sitting in silence in front of--> a || 0.9974957704544067
+ he said to the drinker who he found sitting in silence in front of a number of--> empty || 0.9974538087844849
+ i have nothing more to do--> here || 0.9970690011978149
+ i have nothing more to do here-->[EOS] || 0.9968217611312866
+ unfortunately nobody ever passes by this way-->[EOS] || 0.9966534972190857
+ i have not yet made--> a || 0.9956032037734985
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and--> a || 0.9950835108757019
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up his courage to ask the king a favour-->[EOS] || 0.9948201775550842
+ he said to the drinker who he found sitting in silence in front of a--> number || 0.9947860240936279
+ this was a very short visit but it plunged the little prince into a--> deep || 0.9945487976074219
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry--> out || 0.9945147037506104
+ exactly one must ask--> of || 0.9945005178451538
+ the next planet was inhabited by a--> heavy || 0.9943978786468506
+ ah here comes a visit--> from || 0.9941794872283936
+ but the little prince having readied himself to leave had no wish to--> gr || 0.9941701889038086
+ the king was sitting dressed in purple and ermine on a very simple--> yet || 0.9941189885139465
+ this was a very short visit but it plunged the little prince into a deep--> sad || 0.9941003322601318
+ oh but i have already looked said the little prince who le-->ant || 0.9940392374992371
+ may i sit down the little prince enquired tim-->id || 0.993982195854187
+ he said to the drinker who he found sitting in silence in front of a number of empty--> bott || 0.993919312953949
+ it is to raise in salute when people--> acc || 0.993916392326355
+ it is to raise in salute when people acc-->laim || 0.9934723377227783
+ sire he said to him excuse my asking you a--> question || 0.9934662580490112
+ but the little prince having readied himself to leave had no wish to grieve the--> old || 0.9934642314910889
+ if your majesty wishes to be promptly obeyed he should be--> able || 0.9934634566307068
+ the second planet was inhabited by a--> conce || 0.9934514164924622
+ if your majesty wishes to be promptly obeyed he should be able to give me a reasonable--> order || 0.993399441242218
+ if i ordered a general to fly from one flower to another like a butterfly or to write a--> trag || 0.9933792352676392
+ and what should i do he asked to make the hat come--> down || 0.9932792782783508
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us would be in the--> wrong || 0.9932764172554016
+ oh but i have already looked said the little prince who leant over to give one more glance at the--> other || 0.9932715892791748
+ after five minutes of this exercise the little prince grew tired of the--> monot || 0.9931945204734802
+ what are you doing--> there || 0.9931887984275818
+ i order you to sit down replied the king who majestically gathered in a fold of his er-->mine || 0.9931850433349609
+ and as he felt a bit sad as he remembered his fors-->aken || 0.9931448698043823
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even--> two || 0.9931298494338989
+ i am fairly--> certain || 0.9930872321128845
+ he was an absolute--> monarch || 0.993083119392395
+ if your majesty wishes to be promptly obeyed he should be able to give--> me || 0.9930567741394043
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained--> standing || 0.9930056929588318
+ if your majesty wishes to be promptly obeyed he should--> be || 0.993003249168396
+ the conceited man raised his hat in a mod-->est || 0.993001401424408
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and if the general did not obey me it would not be the general s fault-->[EOS] || 0.992983877658844
+ hum hum replied the king who consulted a bulky al-->man || 0.992963433265686
+ the little prince looked around him for a place to sit but the--> planet || 0.9929197430610657
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and a number of full--> bott || 0.9928621649742126
+ i order you to sit down replied the king who majestically gathered in a fold of his ermine--> mant || 0.9928422570228577
+ if your majesty wishes to be promptly obeyed he should be able to give me--> a || 0.9928328394889832
+

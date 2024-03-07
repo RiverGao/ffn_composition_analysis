@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ if he had held it himself he would have been able--> to || 0.8863310217857361
+ from time to--> time || 0.8889638185501099
+ he should be able--> for || 0.8930928707122803
+ i admire you said the little prince shrugg-->ing || 0.8940293192863464
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.8968877792358398
+ oh--> but || 0.9187837243080139
+ oh--> really || 0.9187838435173035
+ the grow-->nu || 0.9246431589126587
+ the grow-->nu || 0.9246432185173035
+ the grow-->nu || 0.9246432781219482
+ the conceited man raised his--> hat || 0.9250080585479736
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298273324966431
+ the little--> prince || 0.9298274517059326
+ the little--> prince || 0.9298274517059326
+ the little--> prince || 0.9298275113105774
+ the little--> prince || 0.9298275113105774
+ he should be able for example to order me to leave within--> a || 0.9324519038200378
+ s-->ire || 0.932869553565979
+ s-->ire || 0.9328696131706238
+ i order you to sit down replied the king who majestically gathered in a--> fol || 0.9336775541305542
+ the conceited man again raised his--> hat || 0.9340391159057617
+ he found himself in the neighborhood of the--> astero || 0.935791552066803
+ sire he said to him excuse my--> asking || 0.9371617436408997
+ no--> said || 0.9375081658363342
+ it is to raise--> in || 0.9376764297485352
+ and as he felt a bit sad as he remembered his forsaken little planet he plucked up his--> courage || 0.9378086924552917
+ the conceited man raised his hat in a modest sal-->ute || 0.9392474889755249
+ i would like to see a sun-->set || 0.9393268823623657
+ it is much--> more || 0.9398363828659058
+ the conceited man raised--> his || 0.9398983716964722
+ hum hum replied the king who consulted a--> bul || 0.94003826379776
+ over all that the king answered-->[EOS] || 0.9402671456336975
+ but the conceited man did not hear--> him || 0.9404819011688232
+ if he had held it himself--> he || 0.9408206343650818
+ if i ordered a general he would often say if i ordered a general to change himself into a--> se || 0.9412192702293396
+ he found himself in the neighborhood of the asteroids 325 326 327 328 329--> and || 0.9413199424743652
+ to forget that i am ashamed confessed the drinker lowering his--> head || 0.941500723361969
+ there was no one--> there || 0.9415116906166077
+ what does--> that || 0.9419016242027283
+ if your majesty wishes to be promptly obey-->ed || 0.9420656561851501
+ over everything said the--> king || 0.9420672059059143
+ the conceited man replied-->[EOS] || 0.9420695304870605
+ unfortunately nobody ever--> passes || 0.9425092935562134
+ he was regretting his lost sunset and then he was already getting a little b-->ored || 0.9430721402168274
+ it is an order-->[EOS] || 0.9432207345962524
+ but there is--> nobody || 0.9434416890144348
+ if i ordered a general he would often say if i ordered a general to change himself into a se-->ab || 0.9436769485473633
+ then my sunset the little--> prince || 0.9438173770904541
+ if your majesty wishes to be--> prompt || 0.9440197348594666
+
+
+## 50 prefixes with the highest comosition scores:
+ over everything the king made a subtle gesture pointing out his planet the other planets and--> the || 0.9831198453903198
+ hum hum that will be--> about || 0.9822995066642761
+ but i can judge myself anywhere-->[EOS] || 0.9821399450302124
+ to admire means to recognise that i--> am || 0.9809187650680542
+ when will that be--> in || 0.9806250929832458
+ then my sunset the little prince reminded him who never forgot a question once he--> had || 0.9805243015289307
+ then my sunset the little prince reminded him who never forgot a question once he had asked it-->[EOS] || 0.980462372303009
+ hum hum replied the king then i i--> order || 0.9804132580757141
+ there was no one there either-->[EOS] || 0.980178952217102
+ the king hastily called out-->[EOS] || 0.9798368215560913
+ to admire means to recognise that i am the most handsome--> the || 0.9798307418823242
+ if your majesty wishes to be promptly obeyed he should be able to give--> me || 0.9798160791397095
+ as the king made no answer the little prince hesitated at first then with a--> s || 0.9797780513763428
+ clap your hands one--> against || 0.9797630906105042
+ if i ordered a general he would often say if i ordered--> a || 0.9795335531234741
+ to admire means to recognise that i am the most handsome the best dressed the richest and the most intelligent--> man || 0.979519784450531
+ if you ordered your people to go and throw themselves into the sea they would--> rise || 0.9795179963111877
+ but you will pardon him on each--> occasion || 0.9794305562973022
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which--> one || 0.9793103933334351
+ but you are the only--> man || 0.9791813492774963
+ after five minutes of this exercise the little prince grew tired--> of || 0.979163646697998
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the--> moment || 0.9791523814201355
+ then my sunset the little prince reminded him who never forgot a question once--> he || 0.979071319103241
+ the grownups are certainly very very--> odd || 0.9790467619895935
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two hundred--> sun || 0.9790111184120178
+ ah here comes a visit from an admirer exclaimed--> the || 0.9789103865623474
+ conceited people never hear anything--> but || 0.9788309335708618
+ oh really said the little prince who--> did || 0.9788235425949097
+ as the king made no answer the little prince hesitated--> at || 0.9787464141845703
+ and as he felt a bit sad as he remembered his forsaken--> little || 0.978699803352356
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two hundred sunsets on the same--> day || 0.9786979556083679
+ as the king made no answer the little prince hesitated at first then with--> a || 0.9786813259124756
+ ah here comes a subject exclaimed the king when he--> caught || 0.9786593317985535
+ if you succeed in judging yourself rightly then you are truly wise-->[EOS] || 0.9786427617073059
+ he was an absolute monarch but because he was good--> at || 0.978513240814209
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he spotted the--> little || 0.9784982800483704
+ i admire you said the little prince shrugging his shoulders a--> little || 0.978329062461853
+ but the little prince having readied himself to--> leave || 0.9783071875572205
+ he was regretting his lost--> sun || 0.9782427549362183
+ he found himself in the neighborhood of the asteroids 325 326 327 328 329 and-->  || 0.9782189726829529
+ do not--> go || 0.9782056212425232
+ do not--> go || 0.9782055616378784
+ and now i think i will go on my way-->[EOS] || 0.9781250357627869
+ if he had held it himself he would have been able to watch not forty four but seventy two or even a hundred or even two--> hundred || 0.9781135320663452
+ hum hum that will--> be || 0.978103518486023
+ the little prince yawned-->[EOS] || 0.978070855140686
+ as the king made no answer the little prince hesitated at first then--> with || 0.9780442118644714
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and--> since || 0.9779822826385498
+ he was regretting his lost sunset and then--> he || 0.9779621958732605
+ hum hum that will be about about that will be--> this || 0.9779367446899414
+

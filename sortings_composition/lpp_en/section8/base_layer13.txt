@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the sand at sunr-->ise || 0.8145010471343994
+ of course no one had ever been able--> to || 0.8579409122467041
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.8785825371742249
+ you know a muzzle--> for || 0.9263242483139038
+ and the pulley moaned like an old weather-->v || 0.9307973980903625
+ let us look for a--> well || 0.9365707635879517
+ but it cast--> an || 0.9378577470779419
+ his--> eyes || 0.9410839676856995
+ my dear fellow our situation has nothing to do with the fox--> anymore || 0.9413637518882751
+ he was--> tired || 0.9414467811584473
+ the men where you live--> said || 0.9430481195449829
+ i ho-->isted || 0.9453094601631165
+ i do not know how--> to || 0.94545978307724
+ but i was not reass-->ured || 0.9455749988555908
+ and once again without understanding why i felt a peculiar sense of sorrow one question occurred to me--> however || 0.9459580183029175
+ you have to--> keep || 0.9463211297988892
+ you have to--> search || 0.9463212490081787
+ and he bl-->ushed || 0.9465839862823486
+ the little prince saw them and laughed as he said your baobabs they look--> a || 0.9474359750747681
+ the song of the pulley--> continued || 0.9475706219673157
+ i hoisted the bucket slowly to the edge of the well and set--> it || 0.9481351375579834
+ he said simply water can--> be || 0.9483439922332764
+ you could--> take || 0.9486321806907654
+ i remembered the fox-->[EOS] || 0.9491413235664368
+ it even seemed--> to || 0.9495376348495483
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is his--> dev || 0.9504650235176086
+ i do not know--> how || 0.9506344199180603
+ the little prince saw them and laughed as he said your baobabs they look a bit like--> cab || 0.9507268071174622
+ i took my sketch-->es || 0.9507496356964111
+ the sand--> at || 0.9514421820640564
+ i raised--> the || 0.951769232749939
+ and i came to think of--> him || 0.9517869353294373
+ you were out walking like that all alone a thousand miles--> from || 0.9518204927444458
+ this was a merchant who sold pills that had been created to quench th-->irst || 0.9518297910690308
+ of course no one had ever been able to find it or perhaps no one had even looked--> for || 0.9518688917160034
+ we were at the eighth day--> since || 0.9527539610862732
+ you save fifty three--> minutes || 0.9528164267539978
+ the men where you live said the little prince grow five thousand roses in a single garden and they do not find what they are looking for in--> it || 0.953109085559845
+ the--> little || 0.9532439708709717
+ the--> song || 0.9532439708709717
+ the--> men || 0.9532439708709717
+ the--> well || 0.9532439708709717
+ the--> stars || 0.9532440900802612
+ the--> little || 0.9532440900802612
+ the--> sand || 0.953244149684906
+ the--> little || 0.953244149684906
+ the--> little || 0.953244149684906
+ the--> well || 0.9532442688941956
+ the--> desert || 0.9532442688941956
+ it even seemed to me--> that || 0.9532597661018372
+
+
+## 50 prefixes with the highest comosition scores:
+ i saw them as if in a dream--> as || 0.9866527318954468
+ so i made a pencil sketch of a muzzle and i felt--> a || 0.9861542582511902
+ we have woken up the well and it is singing-->[EOS] || 0.9851378202438354
+ i have nothing left to drink and i too would--> be || 0.9846389889717102
+ can you hear that said the little--> prince || 0.9843333959579468
+ i have nothing left to drink and i too would be happy if i could--> walk || 0.9838798642158508
+ and continuing to walk i found the well--> at || 0.9834817051887512
+ i was surprised to suddenly understand this--> myster || 0.9834194779396057
+ he said to me you know my descent--> to || 0.9833357334136963
+ the sand at sunrise is the color of--> h || 0.9831931591033936
+ this honey color was also making me feel--> good || 0.9830400347709656
+ my friend the fox he said to--> me || 0.9830142855644226
+ your fox his ears they look a bit like horns and they are too--> long || 0.9830071926116943
+ you can do anything you--> like || 0.9829724431037903
+ when i was a little boy i lived in an old house and legend told--> that || 0.9829469919204712
+ i sat down beside him and after a silence he spoke--> again || 0.9829338192939758
+ and i said to--> myself || 0.9828938841819763
+ this one looked like a village well but there was no village there and i thought--> i || 0.982843279838562
+ it seemed to me that i was carrying a very frag-->ile || 0.9827625751495361
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i--> d || 0.982633650302887
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i--> would || 0.9826105237007141
+ but it cast an en-->chant || 0.9826041460037231
+ when we had walked for hours in--> silence || 0.9825992584228516
+ it is nice to have had a friend even if you are about--> to || 0.9825935959815979
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about--> this || 0.982558012008667
+ when we had walked for hours in silence night fell and the stars began to come--> out || 0.9825268387794495
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleep-->ing || 0.9825003147125244
+ i have nothing left to drink and i too--> would || 0.9824268817901611
+ this honey color was also making me--> feel || 0.9822792410850525
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as--> i || 0.9822776317596436
+ it is too heavy for--> you || 0.9820361137390137
+ you run the risk of weeping a little--> if || 0.9819915890693665
+ i had drunk--> the || 0.9819827675819397
+ and once again without understanding why i felt a peculiar sense of sorrow--> one || 0.9819304943084717
+ and i looked without saying anything at the fol-->ds || 0.9819299578666687
+ ah i said to the little prince these memories of--> yours || 0.9818949103355408
+ this one looked like a village well but there was no village there and i thought i was dream-->ing || 0.9818779230117798
+ he never considers the danger i said to--> myself || 0.9817847013473511
+ you are not being fair my little--> fellow || 0.981776237487793
+ so you are also thirsty i asked--> him || 0.9817230701446533
+ i am also--> th || 0.9817198514938354
+ and i came to think of him as even more frag-->ile || 0.9816693663597107
+ the well we had reached was not like the other wells of--> the || 0.9816601872444153
+ you could take one pill a week and--> you || 0.9816447496414185
+ yes i said--> to || 0.9816299080848694
+ the little prince saw them and laughed as he said your baobabs they look a bit--> like || 0.9815641045570374
+ it is nice to have had a friend even if you--> are || 0.9815381765365601
+ he said simply water can be good for the heart too-->[EOS] || 0.9814923405647278
+ what makes the desert beautiful said the--> little || 0.9814801216125488
+ men said the little prince stuff themselves into express trains but they--> do || 0.9814346432685852
+

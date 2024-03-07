@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ we must look at them and breat-->he || 0.8436000347137451
+ then one morning exactly at sunr-->ise || 0.8474785685539246
+ i should have seen the tendern-->ess || 0.8551356196403503
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.8597906231880188
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.8617903590202332
+ she overwh-->el || 0.9358050227165222
+ that is of no importance-->[EOS] || 0.9530293941497803
+ on the fifth day again--> thanks || 0.9542959928512573
+ it is so secretive the land of tears-->[EOS] || 0.9567399024963379
+ let the--> d || 0.9572396874427795
+ and like that she had soon begun to torment him with her vanity-->[EOS] || 0.9573264122009277
+ i should have her judged by--> her || 0.9624366760253906
+ he was surprised by this absence--> of || 0.9624788165092468
+ i ask your forgiveness-->[EOS] || 0.9637783765792847
+ try to be happy-->[EOS] || 0.9645178914070129
+ try to be happy-->[EOS] || 0.9645178914070129
+ and it is not a matter of consequence to try to understand why--> they || 0.964614748954773
+ on the morning of his departure he put his planet in perfect order-->[EOS] || 0.9647583365440369
+ and like that--> she || 0.9648178815841675
+ if a sheep eats shrubs--> then || 0.9651657342910767
+ you should--> never || 0.9654368758201599
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke--> just || 0.9656090140342712
+ if you--> would || 0.9663344025611877
+ we must--> look || 0.9663747549057007
+ but all these--> familiar || 0.9665042161941528
+ goodbye--> he || 0.9666234254837036
+ goodbye--> he || 0.9666234254837036
+ i do not want it anymore-->[EOS] || 0.9671599864959717
+ he was really very angry-->[EOS] || 0.9672057628631592
+ the little prince guessed easily--> enough || 0.967399001121521
+ and tigers do not eat weeds-->[EOS] || 0.9685598015785217
+ he owned two active volcanoes-->[EOS] || 0.9685649871826172
+ it was very convenient for heating his breakfast in the morning-->[EOS] || 0.9685966372489929
+ as for the--> large || 0.9689975380897522
+ i learned very quickly--> to || 0.9690111875534058
+ but the--> shr || 0.9691017866134644
+ but the--> wind || 0.9691017866134644
+ but the--> animals || 0.9691017866134644
+ but the--> flower || 0.9691018462181091
+ the thorns are of no use at all-->[EOS] || 0.9691227078437805
+ and i was born--> at || 0.9692990183830261
+ the cool night air will do me good-->[EOS] || 0.9694394469261169
+ one day for example--> speaking || 0.9694463014602661
+ but this one--> had || 0.9695677161216736
+ i made no reply-->[EOS] || 0.9698245525360107
+ on the fifth day again thanks to--> the || 0.9700289368629456
+ and her mysterious adornment had thus lasted for days and days-->[EOS] || 0.9705412983894348
+ and after having worked with--> such || 0.9707008004188538
+ it is my fault--> that || 0.9708427786827087
+ but this one had sprouted one day from a seed blown in from no one knows where--> and || 0.9709367752075195
+
+
+## 50 prefixes with the highest comosition scores:
+ we must look at them and bre-->at || 0.9998587369918823
+ but this one had sprouted one day from a seed blown in from no one knows--> where || 0.9982385039329529
+ then she forced a cough to inflict still more--> rem || 0.9975261688232422
+ even--> flowers || 0.9974908232688904
+ but the shrub soon stopped growing and began to produce--> a || 0.9966946244239807
+ i know a planet where there is a redfaced gentleman-->[EOS] || 0.9966843724250793
+ and it is not a matter of consequence to try to understand why they take--> so || 0.9963701367378235
+ and as he watered the flower one last time and prepared to--> shelter || 0.995801568031311
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little--> sheep || 0.9957575798034668
+ then one morning exactly at sun-->r || 0.9955154061317444
+ this business of the claws which annoyed me so much should only have filled my heart with tenderness and--> pity || 0.9953448176383972
+ and if i myself know of a unique flower which grows now-->here || 0.9953269958496094
+ but the shrub soon stopped growing and began to produce a--> flower || 0.9953253865242004
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of pet-->als || 0.995296835899353
+ he had taken seriously words of no importance and had become very--> unh || 0.9950703978538513
+ but the shrub soon stopped growing and began to--> produce || 0.994947612285614
+ but this one had sprouted one day from a seed blown in from no one knows where and--> the || 0.9949367046356201
+ i think that for his escape he took advantage of a migration of a--> f || 0.9945737719535828
+ and after having worked with such care and--> attention || 0.9944570660591125
+ is it not of more consequence and more important than the sums of a fat re-->df || 0.9944196939468384
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had--> watched || 0.9943690299987793
+ i answered the first thing that came--> to || 0.9943430423736572
+ this business of the claws which annoyed me so much should only have filled my heart with--> tend || 0.9943284392356873
+ and it is not a matter of consequence to try to understand why they take so much--> trouble || 0.9942841529846191
+ is it not of more consequence and more important than the sums of a fat--> re || 0.9941965341567993
+ then she forced a cough to inflict--> still || 0.9941938519477844
+ but the shrub soon stopped growing and began--> to || 0.9941728115081787
+ at that moment i was thinking to myself if this bolt will--> not || 0.9941381216049194
+ humiliated at having been caught out on a lie so--> na || 0.9941198229789734
+ is it not of more consequence and more important than the sums of a fat redfaced--> gentleman || 0.9940959811210632
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never--> of || 0.9940633773803711
+ and it is not a matter of consequence to try to understand why they take so--> much || 0.9940178394317627
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one--> stroke || 0.9939579963684082
+ the flower coughed but it was not because she had a--> cold || 0.993916392326355
+ on our earth we are obviously much too small to clean out our--> vol || 0.9939011335372925
+ he had taken seriously words of no importance and had become very unh-->appy || 0.9938461184501648
+ but this one had sprouted one day from a seed blown in from no--> one || 0.9937811493873596
+ he stood there all bewildered the dome held in mid--> air || 0.9937790632247925
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without real-->ising || 0.9937638640403748
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely this--> spr || 0.9937511086463928
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of--> any || 0.9937161803245544
+ i think that for his escape he took advantage of a migration of a flock of wild--> birds || 0.993590772151947
+ and as he watered the flower one last time and--> prepared || 0.993553638458252
+ he watched me hammer in hand and my fingers black with grease leaning on an object that would have--> seemed || 0.9934799671173096
+ she did not want to come out all rumpled like the po-->pp || 0.9934700131416321
+ i will draw you a railing for your--> flower || 0.9934694170951843
+ he watched me hammer in hand and my fingers black with grease leaning on an object that would--> have || 0.9933919310569763
+ the little prince also pulled up with a hint of sadness the last little sho-->ots || 0.9933895468711853
+ on our earth we are obviously much--> too || 0.9933751821517944
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are--> never || 0.9933542609214783
+

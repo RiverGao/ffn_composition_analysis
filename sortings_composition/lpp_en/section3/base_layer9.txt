@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ it is t-->ires || 0.9145334959030151
+ but this one had spr-->out || 0.9205358624458313
+ i am not yet present-->able || 0.9235510230064392
+ on the fifth day again thanks to the sheep this secret--> of || 0.9239314198493958
+ and naively she showed her four th-->orn || 0.9242677092552185
+ that is bad--> luck || 0.9243949055671692
+ matters of--> consequence || 0.9244402647018433
+ and her myster-->ious || 0.9262201189994812
+ if someone loves a flower--> of || 0.9271439909934998
+ the little prince who witnessed the appearance of a--> huge || 0.9278006553649902
+ he watched me hammer--> in || 0.9290749430656433
+ the th-->orn || 0.9291079044342041
+ on the fifth day again thanks to the sheep this secret of the--> little || 0.929259181022644
+ we must look at them and breathe their fra-->gr || 0.9298710227012634
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.9300220608711243
+ a sheep--> e || 0.930296778678894
+ and after having--> worked || 0.9308879375457764
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of--> any || 0.9309434294700623
+ i will have to endure two or three caterpillars if i wish to become acquainted with the but-->ter || 0.9318981766700745
+ and after having worked with such care and attention to detail she said with a yawn oh i have only--> just || 0.9320006966590881
+ he carefully swe-->pt || 0.9321249127388
+ if a sheep eats shr-->ubs || 0.9323634505271912
+ i was ups-->et || 0.9326631426811218
+ and the little prince completely abashed having gone to look for a spr-->ink || 0.9327250123023987
+ i ask--> your || 0.9333401322364807
+ but you have been just--> as || 0.9334220290184021
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without real-->ising || 0.9335211515426636
+ the little prince also pulled up with a hint of sadness the last little shoots of the ba-->ob || 0.9336988925933838
+ he also owned an extinct volcano but as he used to say you never know so he clean-->ed || 0.9337247610092163
+ the flower respond-->ed || 0.9338897466659546
+ i said the flower that you love is not in danger-->[EOS] || 0.9340000748634338
+ and like that she had soon begun to torment him with her--> van || 0.9340641498565674
+ humiliated--> at || 0.9348101019859314
+ the little prince also pulled--> up || 0.9351500272750854
+ i do not fear tig-->ers || 0.9358859658241272
+ but the flower never stopped--> prepar || 0.9359087944030762
+ they think themselves frightful with their th-->orn || 0.9359169006347656
+ it is time i--> think || 0.9359363317489624
+ it is so secretive the land--> of || 0.9359826445579529
+ then she added do not linger--> like || 0.936375081539154
+ let the d-->ome || 0.9365001916885376
+ one day for--> example || 0.9366338849067688
+ i was very busy trying to unscrew a bolt in my engine that--> had || 0.9366699457168579
+ try to be--> happy || 0.9371544122695923
+ try to be--> happy || 0.9371544122695923
+ and after having worked with such care and attention to detail she said with a ya-->wn || 0.9372150301933289
+ and after having worked with such care and attention to--> detail || 0.9376047849655151
+ we must look at them and breat-->he || 0.9379845261573792
+ but if the--> sheep || 0.9381119012832642
+ i will draw you a m-->uzz || 0.9382299780845642
+
+
+## 50 prefixes with the highest comosition scores:
+ if someone loves a flower of which just one specimen exists--> amongst || 0.9817654490470886
+ he asked abruptly without anything leading up to it--> as || 0.9799219369888306
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one stroke just like that one morning without realising what he is done-->[EOS] || 0.9799069762229919
+ on the fifth day again thanks to the sheep this secret of the little prince s life was revealed to--> me || 0.9797799587249756
+ my cold is not all that bad-->[EOS] || 0.9777312278747559
+ the little prince never let go of a question once he had asked it-->[EOS] || 0.9775281548500061
+ and if i myself know of a unique flower which grows nowhere but--> on || 0.9774649739265442
+ i answered the first thing that came--> to || 0.977005660533905
+ they would appear one morning in the grass and by evening they would have--> f || 0.9769370555877686
+ there was on a star on a planet my planet earth a--> little || 0.9768951535224915
+ if they are well cleaned out volcanoes burn slowly and steadily--> without || 0.9767556190490723
+ they would appear one morning in the grass and by evening they would--> have || 0.9765335917472839
+ at that moment i was thinking to myself if this bolt will not budge--> i || 0.9765129685401917
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the extinct volcano--> too || 0.976468563079834
+ he owned two active volcanoes-->[EOS] || 0.9764279127120972
+ it is my fault--> that || 0.9764272570610046
+ the little prince interrupted my thoughts again-->[EOS] || 0.9762995839118958
+ if they are well cleaned out volcanoes burn slowly and--> stead || 0.9762281179428101
+ i was very busy trying to unscrew a bolt in my engine that had got stuck-->[EOS] || 0.9760514497756958
+ i was very busy trying to unscre-->w || 0.975971519947052
+ flowers have been growing thorns for millions of years-->[EOS] || 0.9759191870689392
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with--> a || 0.9757989048957825
+ the little prince also pulled up with a hint of sadness--> the || 0.9757631421089172
+ but this one had sprouted one day from a seed blown in from--> no || 0.9757339358329773
+ you would not happen to have a--> screen || 0.975670337677002
+ this business of the claws which annoyed me so much should only have filled my heart with--> tend || 0.9756513237953186
+ goodbye he said to the flower but she did not answer-->[EOS] || 0.9756200909614563
+ i should have seen the tenderness behind her contrivances-->[EOS] || 0.9755799770355225
+ no no i do not believe it--> at || 0.9755768775939941
+ the little prince also pulled up with a hint of sadness the last little shoots of--> the || 0.9754970669746399
+ goodbye he said to the flower but she did not--> answer || 0.9753898978233337
+ i think that for his escape he took--> advantage || 0.975289523601532
+ he asked abruptly without anything leading up--> to || 0.9751832485198975
+ the little prince never let go of a question once he had asked--> it || 0.9750389456748962
+ he also owned an extinct volcano but as he used to say you never know so he cleaned out the extinct--> vol || 0.9750319719314575
+ i was very worried because my breakdown was beginning to appear to be--> very || 0.975030779838562
+ he watched me hammer in hand and my fingers black with grease lean-->ing || 0.9749528169631958
+ this business of the claws which anno-->yed || 0.9748773574829102
+ but all these familiar tasks seemed on that morning very precious-->[EOS] || 0.9747318625450134
+ they would appear one morning in the grass and by evening they would have faded away-->[EOS] || 0.9746907949447632
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to--> make || 0.9746875762939453
+ there was on a star on--> a || 0.9746005535125732
+ she arranged her petals one by--> one || 0.9744669795036316
+ mine perfumed my whole planet but i did not know how to take--> pleasure || 0.9744510054588318
+ there was on a star on a planet my planet earth a little prince--> to || 0.9743916392326355
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can destroy in one--> stroke || 0.9743505716323853
+ they would appear one morning in--> the || 0.9742881655693054
+ if a sheep eats shrubs then does it eat flowers too-->[EOS] || 0.9742706418037415
+ he also owned an extinct volcano but as he used to say you never know so--> he || 0.9742687344551086
+ no no i--> do || 0.9742643237113953
+

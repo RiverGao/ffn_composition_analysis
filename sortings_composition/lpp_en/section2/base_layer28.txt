@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ the astronomer gave his presentation again in 1-->9 || 0.931571900844574
+ if i have told you these details about the--> astero || 0.9321582317352295
+ some--> draw || 0.9331067800521851
+ it would suffice to be able--> to || 0.9345901608467102
+ if it is a sprig of radish or rose bush you can let it grow as it lik-->es || 0.9354382157325745
+ sometimes there is no harm in postponing one s work but in the case of baobabs that always leads to a catastrop-->he || 0.9379966855049133
+ and based on what the little--> prince || 0.9398153424263
+ let us--> go || 0.9403352737426758
+ when i drew--> the || 0.9422837495803833
+ the soil of the--> planet || 0.9436131119728088
+ but of--> course || 0.9441852569580078
+ grownups love--> numbers || 0.9443030953407288
+ every--> day || 0.9444976449012756
+ when i drew the--> ba || 0.9453646540641785
+ so that is why i have again bought--> a || 0.9461669921875
+ the less-->on || 0.9462426900863647
+ i knew--> that || 0.9471518993377686
+ it is true is not--> it || 0.9472810626029968
+ here the--> little || 0.9474166035652161
+ if it--> is || 0.9478096961975098
+ do not blame--> them || 0.9482353925704956
+ and indeed--> on || 0.9485045671463013
+ when i--> drew || 0.9485280513763428
+ indeed when it is--> no || 0.94862300157547
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves on the roof they would not be able--> to || 0.949015736579895
+ i have serious reason to believe that the planet from where the--> little || 0.9491286277770996
+ but he--> remarked || 0.9497136473655701
+ there were the--> se || 0.9499499797821045
+ i am also not sure about the--> color || 0.9499706029891968
+ others do not look like--> their || 0.9499783515930176
+ he had--> neglect || 0.950060248374939
+ he had--> then || 0.9500603079795837
+ and one--> day || 0.9505559802055359
+ unfortunately fran-->ce || 0.9505783319473267
+ but he remarked wisely the baobab trees before--> they || 0.9508651494979858
+ if i--> have || 0.9508994221687317
+ if i--> try || 0.9508994817733765
+ and a little later you added you know you--> love || 0.9510068893432617
+ it was in this way that on the third day i came to know of the tragedy of the--> ba || 0.9510618448257446
+ the idea of the herd of elephants made the--> little || 0.951115071773529
+ the day you saw it forty four times were you--> were || 0.9511533975601196
+ it was in this way that on the third day i--> came || 0.9513372778892517
+ and if the planet--> is || 0.9515448212623596
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good seeds from good plants and bad se-->eds || 0.9516531229019165
+ but we have--> to || 0.9516553282737732
+ and a little later you added you know you love the--> sun || 0.951798677444458
+ but if it is a bad--> plant || 0.9518076777458191
+ but seeds--> are || 0.951831042766571
+ i am also not sure about the color of--> his || 0.9521235823631287
+ the idea of--> the || 0.9522481560707092
+
+
+## 50 prefixes with the highest comosition scores:
+ this time again it was thanks to the sheep because the little prince asked me abrupt-->ly || 0.9976456761360168
+ you must see to it that you regularly--> pull || 0.9972759485244751
+ the information came slowly as his thoughts w-->ander || 0.9954743385314941
+ it is to warn my friends of the danger they have long been sk-->ir || 0.9952356815338135
+ and indeed on the planet of the little prince there were like on all planets both good--> plants || 0.9941059947013855
+ so that is why i have again bought a box of paints and some penc-->ils || 0.9937878847122192
+ the astronomer gave his presentation again in -->1 || 0.9936193823814392
+ they sleep secretly deep in the earth until on a whim one of them decides to w-->ake || 0.9935895800590515
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good se-->eds || 0.9932924509048462
+ i pointed out to the little prince that baobabs were not shr-->ubs || 0.9932777285575867
+ fortunately for the reputation of asteroid b 612 a turk-->ish || 0.9929198622703552
+ i used to know a planet inhab-->ited || 0.9929019808769226
+ i feel so much sadness in rec-->ount || 0.9928972721099854
+ i did not understand why it was so important that sheep eat shrubs but the little prince added then it follows they also eat ba-->ob || 0.9927248358726501
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and--> do || 0.9927198886871338
+ for i do not want my book to be read light-->ly || 0.9925623536109924
+ but if you were to say the planet he came from is the asteroid b -->6 || 0.9924088716506958
+ and indeed on the planet of the little prince there were like on all planets both good plants and--> bad || 0.9923988580703735
+ do not bl-->ame || 0.9922565817832947
+ they sleep secret-->ly || 0.9922552108764648
+ this asteroid has only been seen through a--> teles || 0.9920452237129211
+ sometimes there is no harm in postpon-->ing || 0.9919072985649109
+ it is to warn my friends of the danger--> they || 0.991851806640625
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and therefore both good--> se || 0.9918482899665833
+ now there were some terrible se-->eds || 0.9917114973068237
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa constr-->ict || 0.9915190935134888
+ and indeed on the planet of the little prince there were like on all planets both good plants and bad plants and--> therefore || 0.9913747906684875
+ it is to warn my friends of the danger they--> have || 0.9913457036018372
+ i will try of course to make my portraits as lifelike as possible but i am not quite sure--> i || 0.9912564754486084
+ i pointed out to the little prince that baobabs were not shrubs but trees as big as churches and that even--> if || 0.9912208914756775
+ fortunately for the reputation of asteroid b 612 a turkish dictator im-->posed || 0.9912164807319641
+ fortunately for the reputation of asteroid b 612 a turkish dictator imposed on his people on pain of death to dress themselves--> in || 0.9912115335464478
+ i would have liked to say once upon a time there was a little prince who lived on a planet not much bigger than himself and who needed a--> friend || 0.9911815524101257
+ after grooming oneself in the morning the planet must be carefully gro-->omed || 0.9911558032035828
+ fortun-->ately || 0.990931510925293
+ i pointed out to the little prince that ba-->ob || 0.9907651543617249
+ oh--> i || 0.9905794858932495
+ oh--> little || 0.9905794262886047
+ i am also not sure about the color of his outfit--> so || 0.9905734062194824
+ fortunately for the reputation of asteroid b -->6 || 0.9901225566864014
+ they would have to be piled--> up || 0.9900747537612915
+ and if the planet is too small and if there are too--> many || 0.9900432229042053
+ if you said to the grownups i saw a beautiful red brick house with geraniums by the windows and doves--> on || 0.9900004267692566
+ it is hard to take up drawing again at my age when i have only ever attempted to draw a boa constrictor closed and open at the age of--> six || 0.9899918437004089
+ i did not understand why it was so important that sheep eat shrubs but the little prince added then it follows they also eat--> ba || 0.9897798895835876
+ he replied oh come on as if it were obvious and it took me--> a || 0.989771842956543
+ i thus learned a second very important--> thing || 0.9897707104682922
+ it is to warn my friends of the danger they have long been skir-->ting || 0.9897161722183228
+ this time again it was thanks to the sheep because the little prince asked me--> ab || 0.9896341562271118
+ but if it is a bad plant one must pull the plant out straight away as soon as it can be--> recogn || 0.9896338582038879
+

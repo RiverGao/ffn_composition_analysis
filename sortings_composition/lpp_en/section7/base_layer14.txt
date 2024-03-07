@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ my life is very monoton-->ous || 0.8529008030891418
+ the fox seemed very intrigu-->ed || 0.871703028678894
+ i can go for a walk as far as the viney-->ards || 0.8789661526679993
+ but every day you will be able--> to || 0.8831337690353394
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8882136940956116
+ and he suddenly felt--> very || 0.9455482363700867
+ unlike any other other footsteps send me hurry-->ing || 0.9474829435348511
+ i dispatch the trains that carry them sometimes to the right sometimes to the left-->[EOS] || 0.9485129714012146
+ and when the time to leave drew near oh--> said || 0.9487894773483276
+ she--> would || 0.9491809010505676
+ she--> would || 0.9491809010505676
+ so i--> get || 0.9506720304489136
+ so all--> this || 0.9508774876594543
+ unlike any other--> other || 0.9516090750694275
+ but it happened that the little prince having walked for a long time through the s-->ands || 0.9534966349601746
+ they all looked just--> like || 0.9536276459693909
+ i think--> she || 0.9539682865142822
+ i can go for a walk as far as the v-->ine || 0.9552192091941833
+ unlike any other other--> foot || 0.9552197456359863
+ we must observe the r-->ites || 0.9556363821029663
+ but if--> you || 0.9557291269302368
+ but if--> you || 0.9557291269302368
+ but if--> you || 0.9557291865348816
+ please tame--> me || 0.9560933709144592
+ one only understands the things that one tames said the fo-->x || 0.9561067819595337
+ but it happened that the little prince having walked for a long time through the sands rocks--> and || 0.956295907497406
+ so the--> little || 0.9564459323883057
+ nothing is--> perfect || 0.9565626382827759
+ a--> third || 0.9567224979400635
+ a--> second || 0.9567225575447083
+ but as--> there || 0.9572057723999023
+ you are not from here said the fo-->x || 0.9576505422592163
+ because it is for her that i killed the caterpillars--> except || 0.9579289555549622
+ because it is her that i listened to grumble or boast or even sometimes when--> she || 0.9579474925994873
+ to me you will be unique in the--> entire || 0.9579864144325256
+ what does tame--> mean || 0.958010733127594
+ what does tame--> mean || 0.958010733127594
+ oh i--> am || 0.9580156803131104
+ that and my--> three || 0.9580438137054443
+ what is a--> r || 0.9581829905509949
+ the men have--> forgotten || 0.9582647681236267
+ but if you tame me--> we || 0.9582844376564026
+ but if you tame me--> it || 0.9582844972610474
+ men said the fox they have guns--> and || 0.9582964777946472
+ i sort travel-->ers || 0.9583319425582886
+ are there hunters on that--> planet || 0.9583755731582642
+ that and my three volcanoes that--> come || 0.9584934115409851
+ his flower had told him that she was the only one of her kind in the--> universe || 0.9586486220359802
+ and the roses were--> very || 0.9586789608001709
+ the little prince went away to see the roses--> again || 0.9589275121688843
+
+
+## 50 prefixes with the highest comosition scores:
+ it has done me good said--> the || 0.9898447394371033
+ the wheat fields mean--> nothing || 0.9896212220191956
+ it is something that is too often forgotten said--> the || 0.9891557097434998
+ goodbye said--> the || 0.9889392852783203
+ a third brilliantly lit express--> th || 0.9889373183250427
+ because--> of || 0.988661527633667
+ because--> it || 0.988661527633667
+ because--> it || 0.988661527633667
+ because--> it || 0.988661527633667
+ because--> it || 0.988661527633667
+ because--> she || 0.9886614680290222
+ a second brilliantly lit express--> th || 0.988227367401123
+ good morning said--> the || 0.9879706501960754
+ good morning said--> the || 0.9879706501960754
+ good morning said--> the || 0.9879706501960754
+ good morning said--> the || 0.9879705905914307
+ and when the time to leave drew--> near || 0.9877007603645325
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself--> also || 0.9876559376716614
+ they are what make one day different from--> other || 0.987642765045166
+ not even the locomotive engineer knows that said--> the || 0.9874591827392578
+ men said the fox they have guns and they hunt-->[EOS] || 0.9874587655067444
+ because it is for her that--> i || 0.9871516227722168
+ you are not from here said--> the || 0.9870572686195374
+ but she alone is more important than all of you because--> it || 0.9870185256004333
+ i am looking for men said--> the || 0.9869071245193481
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got near-->er || 0.9869034886360168
+ they are lucky said--> the || 0.9866420030593872
+ it is possible said--> the || 0.9866400361061096
+ the men have forgotten this truth said--> the || 0.9866058826446533
+ it is your fault said--> the || 0.9865988492965698
+ one only understands the things that one tames said--> the || 0.9865427017211914
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got nearer-->[EOS] || 0.986523449420929
+ and a brilliantly lit express--> train || 0.9865199327468872
+ but you are going to cry said--> the || 0.9864833950996399
+ his flower--> had || 0.9864699244499207
+ then come back to say--> good || 0.9864246845245361
+ but she alone is more important--> than || 0.9863412380218506
+ and when the time to leave drew near oh said--> the || 0.9862293601036072
+ but your hair is the color of gold so it will be wonderful when you--> have || 0.9862070083618164
+ no one is ever happy where they are said--> the || 0.9860954880714417
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not--> she || 0.9860531687736511
+ what does tame mean-->[EOS] || 0.9860060214996338
+ what does tame mean-->[EOS] || 0.9860060214996338
+ i am beginning to understand said--> the || 0.9859658479690552
+ but she alone is more important than all--> of || 0.9859654307365417
+ only the children know what they are after said--> the || 0.9858005046844482
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow herself--> to || 0.9857689738273621
+ come and play with me proposed--> the || 0.9856556057929993
+ so all this has done you no good--> at || 0.985654890537262
+ here is--> my || 0.9856263399124146
+

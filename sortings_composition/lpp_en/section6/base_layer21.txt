@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.8348717093467712
+ i can help you if somed-->ay || 0.8695996999740601
+ from a mountain as high as this one he said to himself i will be able--> to || 0.8696537613868713
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.8727859854698181
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.8974743485450745
+ first came the turn of the lamplighters of new zealand and australia-->[EOS] || 0.9609559774398804
+ if for example the discovery in question was of a large mountain one would require that he bring back large stones from it-->[EOS] || 0.9635714888572693
+ i know someone said the little prince who would make a bad explorer-->[EOS] || 0.9644625186920166
+ and i--> have || 0.9645339250564575
+ i would not know that either--> said || 0.9663462042808533
+ next came the turn of the lamplighters of china and siberia--> to || 0.9675121307373047
+ then came the turn of the lamplighters of russia and the indies-->[EOS] || 0.9675554633140564
+ but i--> am || 0.9685285091400146
+ but i--> am || 0.9685285091400146
+ what place would you advise me--> to || 0.9691755771636963
+ the grownups of course will not believe--> you || 0.9693228006362915
+ it means which is at risk--> of || 0.9698308706283569
+ that is to say--> about || 0.9698742032051086
+ i saw them years ago-->[EOS] || 0.9699216485023499
+ to give you--> an || 0.9699569344520569
+ therefore you should advise them--> to || 0.9699755311012268
+ i have not been entirely honest in telling you about the--> l || 0.970232367515564
+ it means which is--> at || 0.9703666567802429
+ next came the turn of--> the || 0.9705182909965515
+ what is--> a || 0.9706529974937439
+ what is--> that || 0.9706529974937439
+ on what planet have--> i || 0.9709248542785645
+ if for example--> the || 0.971301257610321
+ then those of africa--> and || 0.971778392791748
+ who are you who are you who are--> you || 0.9718422889709473
+ i--> also || 0.9719623923301697
+ i--> solve || 0.9719623923301697
+ i--> saw || 0.9719623923301697
+ i--> am || 0.9719623923301697
+ i--> run || 0.9719623923301697
+ i--> wonder || 0.9719623923301697
+ i--> have || 0.9719623923301697
+ i--> have || 0.9719623923301697
+ i--> can || 0.9719623923301697
+ i--> understand || 0.9719623923301697
+ i--> do || 0.9719623923301697
+ i--> am || 0.9719624519348145
+ i--> have || 0.9719624519348145
+ i--> know || 0.9719624519348145
+ i--> would || 0.9719624519348145
+ i--> feel || 0.9719624519348145
+ i--> would || 0.9719624519348145
+ i--> can || 0.9719624519348145
+ i--> am || 0.9719624519348145
+ i--> would || 0.9719624519348145
+
+
+## 50 prefixes with the highest comosition scores:
+ i have three volcanoes two active volcanoes--> and || 0.9998589754104614
+ because an explorer who told lies would cause havoc to geography books so would an explorer who drank too--> much || 0.9995070695877075
+ the only mountains he had ever known were the--> three || 0.9982755184173584
+ but extinct volcanoes can wake up interrupted--> the || 0.9982069134712219
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily--> fit || 0.9981443881988525
+ i have three volcanoes two active volcanoes and one--> ext || 0.9979993104934692
+ whether volcanoes are--> ext || 0.9974812269210815
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano--> as || 0.9971235990524292
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct--> vol || 0.9971186518669128
+ i run the risk of giving--> a || 0.9967836737632751
+ the only mountains he had ever known were--> the || 0.9963430762290955
+ i have three volcanoes two--> active || 0.9961704015731812
+ whether volcanoes are extinct or--> active || 0.996089518070221
+ i have three volcanoes two active--> vol || 0.9959128499031067
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like--> for || 0.9951789379119873
+ if for example the discovery in question was of a large mountain one would require that he bring back--> large || 0.9950271248817444
+ and the geographer--> having || 0.9950026869773865
+ no that would be too--> complicated || 0.994658350944519
+ i have three volcanoes two active volcano-->es || 0.9944966435432434
+ from a mountain as high as--> this || 0.9944220185279846
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would--> easily || 0.9943963885307312
+ he asks them questions and he writes down their re-->collections || 0.994201123714447
+ nine hundred thousand business-->men || 0.9941800832748413
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct volcano as a foot-->st || 0.9941473007202148
+ and the geographer having opened his big register sharpened his--> p || 0.9941323399543762
+ i know someone said the little prince who would make a--> bad || 0.9940988421440125
+ whether volcano-->es || 0.99403315782547
+ and the geographer having opened his big register sharpened his p-->enc || 0.9939615726470947
+ and the geographer having opened his big--> register || 0.99396151304245
+ the little prince--> gaz || 0.9938555955886841
+ the little prince--> sat || 0.9938555955886841
+ the little prince--> crossed || 0.9938555955886841
+ the little prince--> smiled || 0.9938555955886841
+ the little prince--> clim || 0.9938554763793945
+ the little prince--> said || 0.9938554763793945
+ the little prince--> was || 0.9938554763793945
+ the little prince--> sat || 0.9938554763793945
+ the little prince--> having || 0.9938554763793945
+ the little prince--> made || 0.9938554763793945
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit--> on || 0.9938393831253052
+ whether volcanoes are extinct--> or || 0.9936928749084473
+ he had already started to worry that he--> had || 0.9936813116073608
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they--> would || 0.9935817122459412
+ because flowers are eph-->em || 0.9935603737831116
+ the movements of this army were regulated like those of an opera--> bal || 0.9935497641563416
+ i wonder he said if the stars are lit so that each of us can one day find his--> own || 0.9935441613197327
+ the only mountains he had ever known were the three--> vol || 0.9935295581817627
+ the only mountains he had--> ever || 0.9934732913970947
+ the only mountains he had ever known were the three vol-->cano || 0.9934603571891785
+ the only mountains he had ever known were the three volcano-->es || 0.9933038949966431
+

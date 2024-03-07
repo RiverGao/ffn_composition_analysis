@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ my life is very monoton-->ous || 0.8252754211425781
+ i can go for a walk as far as the viney-->ards || 0.8397890329360962
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.841320812702179
+ the fox seemed very intrigu-->ed || 0.8571488261222839
+ but every day you will be able--> to || 0.8919301629066467
+ to you--> i || 0.949784517288208
+ to you--> i || 0.949784517288208
+ of course--> an || 0.9500471353530884
+ it is very simple-->[EOS] || 0.9541107416152954
+ the--> next || 0.9551777243614197
+ the--> little || 0.9551777243614197
+ the--> fo || 0.9551777243614197
+ the--> whe || 0.9551778435707092
+ the--> fo || 0.9551778435707092
+ the--> whe || 0.9551778435707092
+ the--> little || 0.9551778435707092
+ the--> men || 0.9551778435707092
+ and when the time to leave drew near--> oh || 0.9570435881614685
+ you are not from here--> said || 0.9575368762016296
+ the next day--> the || 0.9577584862709045
+ these--> are || 0.9585564136505127
+ so all this has done you no good at all-->[EOS] || 0.9586703777313232
+ and i do not need you--> and || 0.9588590860366821
+ to establish bonds-->[EOS] || 0.9601939916610718
+ they are what make one day different from--> other || 0.9607786536216736
+ and i do not need you and you do not need me either-->[EOS] || 0.9622482657432556
+ it means to establish--> b || 0.9624000787734985
+ they are what make one day different from other days one hour different from--> other || 0.9626405835151672
+ to establish--> b || 0.9628168940544128
+ no one has tamed you--> and || 0.963513970375061
+ there is a rite for example--> among || 0.9637713432312012
+ what do you do here--> the || 0.9641298651695251
+ come and play--> with || 0.9642373919487
+ they are what make one day different from other days one hour different from other hours-->[EOS] || 0.9643735885620117
+ the fox went silent--> and || 0.9643992185592651
+ it is your fault--> said || 0.9646729230880737
+ goodbye--> he || 0.9654645919799805
+ goodbye--> said || 0.9654646515846252
+ they buy--> things || 0.9660716652870178
+ they waste their time with a rag doll and it becomes very important--> to || 0.9660825729370117
+ if you come for example--> at || 0.9663137197494507
+ words are a source of misunderstand-->ings || 0.9663569927215576
+ it means to establish bonds-->[EOS] || 0.9665589928627014
+ then come back to say goodbye to me--> and || 0.9672670364379883
+ they waste their time with a rag doll and it becomes very important to them-->[EOS] || 0.96738201379776
+ we must--> observe || 0.9673942923545837
+ unlike any other other footsteps send me hurrying back underground yours--> would || 0.9674196243286133
+ his flower had told him that she was the only one of her kind in the universe and here were five--> thousand || 0.967505931854248
+ and then--> look || 0.9676979184150696
+ and then--> he || 0.9676979184150696
+
+
+## 50 prefixes with the highest comosition scores:
+ i would--> feel || 0.9964093565940857
+ i would--> be || 0.9964091777801514
+ i would--> come || 0.9964091777801514
+ i would--> come || 0.9964091777801514
+ but as there are not any shops that--> sell || 0.996171772480011
+ and when the time to leave drew--> near || 0.9961087703704834
+ the fox went silent and gazed at the little prince for a long--> time || 0.9952958226203918
+ i am responsible for my rose repeated the little prince so as--> to || 0.9951337575912476
+ that and my three volcanoes that come up to my--> kne || 0.9951222538948059
+ a third brilliantly lit express thundered--> by || 0.9950351119041443
+ but if you come at just any time i would--> never || 0.9948432445526123
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time got--> near || 0.9947207570075989
+ i would be jumping--> about || 0.9946146607398987
+ if you come for example at four o clock in the afternoon from three o clock i would--> start || 0.9945189356803894
+ men no longer have the time to get--> to || 0.9944968223571777
+ if you come for example at four o--> clock || 0.9943042993545532
+ a second brilliantly lit express thundered--> by || 0.9942415952682495
+ i would be jumping about and getting--> rest || 0.9940504431724548
+ they are what make one day different from other days one hour--> different || 0.9939591288566589
+ they are what make one day different--> from || 0.9938182234764099
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow herself to--> die || 0.9937266111373901
+ so i get a bit--> b || 0.9936542510986328
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to--> nur || 0.9936496019363403
+ if you come for example at four o clock in the afternoon from three o--> clock || 0.9936108589172363
+ a second brilliantly lit express thundered by in the opposite--> direction || 0.9936099052429199
+ there is a rite for example among my--> hun || 0.9933670163154602
+ she would be very ups-->et || 0.9931797385215759
+ because it is her that i put under the glass--> d || 0.9931636452674866
+ good morning responded the little prince politely who then turned--> around || 0.9931442737579346
+ she would be very upset he said to himself if she--> saw || 0.9931378364562988
+ it is something that is too often--> forgotten || 0.9931154847145081
+ all the chickens look al-->ike || 0.9931137561798096
+ i would feel happier and happier already by four o--> clock || 0.9931008219718933
+ that does not make me a very great prince and lying in--> the || 0.9930748343467712
+ because it is for her that i killed the caterpillars except two or three to become--> but || 0.9929761290550232
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would--> allow || 0.9928989410400391
+ and he went back to the fo-->x || 0.992895781993866
+ men no longer have the time to--> get || 0.9928939342498779
+ so the little prince tamed the--> fo || 0.9928047060966492
+ she would cough and cough and pretend to die to avoid being laughed--> at || 0.9927837252616882
+ and a brilliantly lit express train rumbling--> like || 0.9926761984825134
+ so i get a bit b-->ored || 0.9926542639732361
+ no one is ever happy where they--> are || 0.9926165342330933
+ and when the time to leave drew near oh said the fo-->x || 0.9925807118415833
+ because it is her that i put under the--> glass || 0.9925796985626221
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my burrow like--> music || 0.9925466179847717
+ you are not from--> here || 0.9924546480178833
+ she would cough and c-->ough || 0.9924317002296448
+ oh but she is--> not || 0.9924194812774658
+ we must observe the r-->ites || 0.9924110770225525
+

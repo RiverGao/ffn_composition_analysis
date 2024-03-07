@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.8855451941490173
+ for others who are schol-->ars || 0.8988274931907654
+ he got a bit discou-->rag || 0.9182314872741699
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.9511609673500061
+ save me from this--> sorrow || 0.9518272876739502
+ she has four thorns of no use at all--> to || 0.9541486501693726
+ he said to me i am glad that you have found what was wrong with your--> engine || 0.9576284289360046
+ i was twenty meters from the wall and i still saw--> nothing || 0.9580211639404297
+ but none of--> these || 0.9581858515739441
+ sometimes i tell myself surely not the little prince shuts his flower under her glass dome every night and he watches over his sheep--> very || 0.9585351943969727
+ i felt his heart beat like the heart of a dying bird--> when || 0.9600820541381836
+ do not come to see--> that || 0.9601549506187439
+ save me from--> this || 0.960326075553894
+ one evening he would have forgotten the glass dome or maybe the sheep got out--> quietly || 0.9611859321594238
+ i held him tightly in my arms like a small child-->[EOS] || 0.9615564942359924
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are la-->ughing || 0.9627395272254944
+ it is here that--> the || 0.9630959630012512
+ and i love to listen to the stars at night-->[EOS] || 0.9635445475578308
+ when you look at the sky at night because i--> will || 0.9636813402175903
+ he was afraid of course--> but || 0.9638485908508301
+ i was sad but i told--> them || 0.9641222357749939
+ she has four thorns of no use at all to protect herself against the entire world-->[EOS] || 0.9646528959274292
+ what is going--> on || 0.9646921753883362
+ so i wonder what happened on--> his || 0.9649768471717834
+ i felt very--> clearly || 0.9651712775230408
+ i sat down too because i was no longer able--> to || 0.9657669067382812
+ again i felt--> myself || 0.9659781455993652
+ i had moistened his temples and had--> him || 0.9662140011787415
+ right there facing the little prince was one of those--> yellow || 0.9662507772445679
+ so think of me-->[EOS] || 0.9663920402526855
+ it is here that the--> little || 0.9666686058044434
+ little fellow is this all a bad dream--> this || 0.9669201970100403
+ tonight you know--> do || 0.9669203758239746
+ and your friends will be very surprised to see you laughing whilst watching--> the || 0.9669957160949707
+ i have your sheep and i have the box for the--> sheep || 0.9672090411186218
+ i had moistened his temples--> and || 0.9674002528190613
+ he had a serious look as--> if || 0.9674386382102966
+ he was afraid of course but he laughed softly-->[EOS] || 0.967577338218689
+ so i wonder what happened--> on || 0.9675797820091248
+ i was sad but i--> told || 0.9676122665405273
+ now you will be able to go back home-->[EOS] || 0.9676383137702942
+ it will be as if i would given you instead of--> stars || 0.9676625728607178
+ my star will be right above the spot where i came down to earth--> a || 0.9680168628692627
+ then i am happy and all the stars laugh sweetly-->[EOS] || 0.9680798053741455
+ i had moistened his tem-->ples || 0.9680837988853455
+ all the stars will pour out fresh--> water || 0.9680987596511841
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing to restrain him-->[EOS] || 0.9681364297866821
+ she has four thorns--> of || 0.9683042764663696
+ where i live everything is too small for me to point out to--> you || 0.9683112502098083
+ you will want to laugh with--> me || 0.9684237837791443
+
+
+## 50 prefixes with the highest comosition scores:
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do nothing--> to || 0.993533194065094
+ and yet it seemed to me that he was plummeting down into an abyss and that i could do--> nothing || 0.9927761554718018
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light metall-->ic || 0.992508590221405
+ but at the noise i made the snake let--> himself || 0.9921738505363464
+ i was just coming to tell him that against all odds my work had been successful-->[EOS] || 0.991790771484375
+ he looked at me grav-->ely || 0.9915469884872437
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear--> the || 0.9909272789955139
+ he must not bite--> you || 0.9908327460289001
+ all the stars are covered--> with || 0.9907362461090088
+ you will have five hundred million little bells and i will have five hundred million springs--> of || 0.9905924201011658
+ there was nothing but a yellow--> flash || 0.9905850887298584
+ i will be there ton-->ight || 0.9904529452323914
+ there is--> nothing || 0.99044269323349
+ the water you gave me to drink was--> like || 0.9900973439216614
+ i was--> just || 0.9900818467140198
+ i was--> sad || 0.9900818467140198
+ i was--> twenty || 0.9900817275047302
+ right there facing the little prince was one of those yellow--> sn || 0.9900037050247192
+ one evening he would have forgotten the glass d-->ome || 0.9899573922157288
+ another voice must have answered him because he replied yes yes it is the right day but this is not--> the || 0.9897144436836243
+ for me it was like a spring--> of || 0.9896880984306335
+ even as i d-->ug || 0.9896733164787292
+ my heart skipped a beat but i still did not understand-->[EOS] || 0.9895204305648804
+ i can--> not || 0.9894479513168335
+ there was--> not || 0.989430844783783
+ there was--> nothing || 0.9894307851791382
+ there was--> next || 0.9894307851791382
+ but at the noise i made the snake let himself flow easily across the sand--> like || 0.9893959760665894
+ there was next to the well the ruin--> of || 0.9893695116043091
+ all the stars will be wells with a rusty--> pul || 0.9892741441726685
+ there was next to the well the ru-->in || 0.9892512559890747
+ again i felt myself frozen by the sense of something irreparable and i knew that i could not bear the idea of never--> hearing || 0.9892451167106628
+ and yet it seemed to me that he was plummeting down into an abyss and that i could--> do || 0.9891828894615173
+ she has four thorns of no use at all to protect herself against the entire--> world || 0.9891746044158936
+ and when your sorrow is comforted time heals--> all || 0.9891654253005981
+ for my businessman they were wealth-->[EOS] || 0.9891587495803833
+ but none of these stars say anything--> back || 0.9891295433044434
+ i was just coming to tell him that against all--> odd || 0.9891261458396912
+ i had moist-->ened || 0.9890941977500916
+ it is much more difficult-->[EOS] || 0.9890913963317871
+ ah little--> fellow || 0.9890804290771484
+ then i am happy and all the stars laugh sweet-->ly || 0.9890094995498657
+ i then lowered my eyes to the foot of the wall and i leapt--> up || 0.9890080690383911
+ but he said to me tonight it will--> be || 0.9889896512031555
+ where i live everything is too small for me to point--> out || 0.9889623522758484
+ it will be as if i would given you instead of stars lots and lots of little bells that can--> laugh || 0.9889463186264038
+ i mean not entirely but--> i || 0.9889453649520874
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped--> between || 0.9889184236526489
+ sometimes i tell myself surely not the little prince shuts his flower under her glass--> d || 0.9889177680015564
+ it will be as if i would given you instead of stars lots and lots of little bells that--> can || 0.9889145493507385
+

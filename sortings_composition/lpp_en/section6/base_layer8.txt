@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i have been having some trouble with a flower--> said || 0.9121540188789368
+ the flower--> had || 0.9140963554382324
+ i can help you if someday you become too homes-->ick || 0.9144054651260376
+ men take up very little space on the--> earth || 0.9156442880630493
+ there is no one in the desert-->s || 0.9165574908256531
+ i also have a flower-->[EOS] || 0.9189645051956177
+ when one wants--> to || 0.9210415482521057
+ it is very rare that an ocean--> em || 0.9214838147163391
+ the movements--> of || 0.9219765067100525
+ because flowers--> are || 0.9243725538253784
+ what does e-->ph || 0.924397885799408
+ men take up--> very || 0.9250366687774658
+ we do not record flowers--> said || 0.9250679016113281
+ he wrapped himself around the little prince s ankle like a golden brace-->let || 0.9257800579071045
+ it is very rare that a mountain--> changes || 0.9265636801719666
+ it is a bit lonely in the desert-->[EOS] || 0.926988959312439
+ what does eph-->em || 0.9275212287902832
+ it is all dry and all jagged and all barren and the people have--> no || 0.9290517568588257
+ why is that--> asked || 0.9293189644813538
+ why is that-->[EOS] || 0.9293190240859985
+ why is that-->[EOS] || 0.9293190240859985
+ one never--> knows || 0.9298270344734192
+ and if--> any || 0.9304694533348083
+ and towns--> and || 0.9306626915931702
+ but do not waste your time on this ch-->ore || 0.9310501217842102
+ he does--> not || 0.9310970902442932
+ i wonder he said if the stars--> are || 0.9311061501502991
+ i would not--> know || 0.9312267899513245
+ i would not--> know || 0.9312267899513245
+ i would not--> know || 0.9312267899513245
+ the little prince crossed the desert and met only with one flower a flower with three petals a nond-->es || 0.9313376545906067
+ where are the men asked the little--> prince || 0.9314253330230713
+ where are the men asked the little--> prince || 0.9314253330230713
+ it does--> not || 0.9314475655555725
+ my flower--> is || 0.9314778447151184
+ no that--> would || 0.9315885901451111
+ everything is--> very || 0.9316883087158203
+ i am--> all || 0.9320446848869324
+ i am--> a || 0.9320449233055115
+ i am--> all || 0.9320449233055115
+ he had never seen such a maj-->estic || 0.9322015047073364
+ if for example the discovery in question was of a large mountain one would require--> that || 0.9325427412986755
+ i do--> not || 0.9326407313346863
+ when one wants to be witty it--> can || 0.9336740374565125
+ but i am--> not || 0.9337928295135498
+ but i am--> more || 0.9337928891181946
+ having set--> their || 0.9341626763343811
+ when one--> wants || 0.934181809425354
+ whether volcanoes are--> ext || 0.9348804354667664
+ if for example the discovery--> in || 0.9350160360336304
+
+
+## 50 prefixes with the highest comosition scores:
+ from a mountain as high as this one he said to himself i will be able--> to || 0.9906027913093567
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9840054512023926
+ but what does ephemeral mean repeated the little prince--> who || 0.9810572862625122
+ only the lamplighter of the single lamp of the north pole and his colleague at the single lamp of the south pole led lives of leis-->ure || 0.9809701442718506
+ what is that big book said the little prince-->[EOS] || 0.9809433817863464
+ who are you said the little prince-->[EOS] || 0.9808897376060486
+ i can help you if somed-->ay || 0.9807516932487488
+ why is that asked the little prince-->[EOS] || 0.9795244336128235
+ that is very interesting said the little prince-->[EOS] || 0.9791454076766968
+ i understand very well said the little prince-->[EOS] || 0.9789515733718872
+ oh where i live said the little prince-->[EOS] || 0.9788513779640198
+ where are the men asked the little prince--> at || 0.9788286089897156
+ where are the men asked the little prince--> polit || 0.9788286089897156
+ whether volcanoes are extinct or active--> is || 0.9787553548812866
+ good evening said the little prince--> cour || 0.9781564474105835
+ he wrapped himself around the little prince s ankle like--> a || 0.9781189560890198
+ on what planet have i come down on asked the little prince-->[EOS] || 0.9781066179275513
+ if the two billion people who inhabit the earth were to stand upr-->ight || 0.9780502319335938
+ but extinct volcanoes can wake up interrupted the little prince-->[EOS] || 0.9776525497436523
+ the flower had once seen a caravan passing-->[EOS] || 0.9773695468902588
+ it is also lonely amongst men the snake said-->[EOS] || 0.9771466851234436
+ that is possible so when the moral character of the explorer appears to be in order--> an || 0.9770683646202087
+ i am a geographer said--> the || 0.9770188927650452
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long--> and || 0.9769721031188965
+ good morning said the little prince-->[EOS] || 0.9768164753913879
+ i wonder he said if the stars are lit so that each of us can one day find his own--> again || 0.9767322540283203
+ but what does ephemeral mean repeated the little prince who had--> never || 0.9765379428863525
+ and if any of their recollections seem interesting--> to || 0.976453959941864
+ where are the men asked the little prince at--> last || 0.9764280319213867
+ i know someone said the little prince--> who || 0.9764062762260437
+ the little prince climbed a--> high || 0.9763712882995605
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct vol-->cano || 0.9763535261154175
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five hundred--> and || 0.9761984944343567
+ the little prince sat down on a stone and raised his eyes toward--> the || 0.9760515689849854
+ where are the men asked the little prince politely-->[EOS] || 0.9760377407073975
+ next came the turn of the lampligh-->ters || 0.9759852290153503
+ we do not record flowers said the geographer-->[EOS] || 0.9759469628334045
+ it is not for the geographer to count the towns the rivers the--> mountains || 0.9758425354957581
+ and she has only four thorns to defend--> herself || 0.9758362770080566
+ but what does ephemeral mean repeated the little prince who had never in his life let go of a question once he had asked--> it || 0.9758268594741821
+ what place would you advise me--> to || 0.9758203029632568
+ but i am more powerful than the finger of a king said--> the || 0.975801944732666
+ first came the turn of the lampligh-->ters || 0.9757280945777893
+ whether volcanoes are extinct or active is of no consequence to us said the geographer-->[EOS] || 0.9757014513015747
+ because intoxicated men see double so the geographer would record--> two || 0.9757006168365479
+ i would not know said the geographer-->[EOS] || 0.9756823778152466
+ i would not know said the geographer-->[EOS] || 0.9756823778152466
+ when one wants to be witty it can happen that one bends the truth a little-->[EOS] || 0.9755987524986267
+ that is true the geographer said-->[EOS] || 0.9755074381828308
+ he had already started to worry that he had got the wrong planet when a moon--> colored || 0.9754436612129211
+

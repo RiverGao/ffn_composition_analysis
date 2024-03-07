@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ for others who are schol-->ars || 0.8420166373252869
+ he got a bit discou-->rag || 0.8522382378578186
+ he would never have been able--> to || 0.8738725185394287
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hur-->ry || 0.9329570531845093
+ when i drew the muzzle for the little prince i forgot to add the leather st-->rap || 0.9334841370582581
+ and when your sorrow is comforted time heals--> all || 0.9345446228981018
+ his--> feet || 0.941084086894989
+ it will look--> as || 0.9414252042770386
+ it will look--> as || 0.9414252638816833
+ it will look--> a || 0.9414252638816833
+ he was--> afraid || 0.9414467215538025
+ and when your sorrow is comforted time heals all wounds you will be--> glad || 0.9414689540863037
+ it is here that the--> little || 0.943442165851593
+ nothing in the universe is the same if somewhere out there a sheep that we have never seen has has it eaten--> a || 0.9444553852081299
+ when i drew the m-->uzz || 0.9450136423110962
+ sometimes i--> tell || 0.9458328485488892
+ and besides i am--> going || 0.9458909630775452
+ he looked--> at || 0.9463487863540649
+ i had lo-->os || 0.9464450478553772
+ even as--> i || 0.9473327398300171
+ so you will--> tell || 0.9475858807563782
+ so you will--> love || 0.947585940361023
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like--> all || 0.9476534724235535
+ if you love a flower that is on--> a || 0.9479206800460815
+ ask yourselves has the sheep--> yes || 0.9483503699302673
+ and he smiled sad-->ly || 0.948503315448761
+ she has four th-->orn || 0.9487022161483765
+ i will not--> leave || 0.9491934180259705
+ i will not--> leave || 0.9491934180259705
+ i will not--> leave || 0.9491934180259705
+ but none of--> these || 0.9495934247970581
+ he would--> never || 0.9499035477638245
+ if a child--> then || 0.9502199292182922
+ do--> not || 0.950800895690918
+ do--> you || 0.9508010149002075
+ i am telling you this it is also because of the s-->nake || 0.9511396884918213
+ i can not--> carry || 0.9517489671707153
+ if you love a flower that is on a star it is sweet to look at the sky--> at || 0.9518332481384277
+ other times--> i || 0.9519469141960144
+ he said to me i am glad that you have found what was wrong with your--> engine || 0.9519593715667725
+ wait a while exactly under the--> star || 0.9522415399551392
+ the compan-->ions || 0.9525109529495239
+ for others who are sch-->ol || 0.9529406428337097
+ he had--> a || 0.9529704451560974
+ i had loosened the golden muffler that he always wore-->[EOS] || 0.9530527591705322
+ the--> water || 0.9532439708709717
+ the--> compan || 0.9532440900802612
+ the--> little || 0.9532442688941956
+ the--> little || 0.9532442688941956
+ it will be as if i would given you instead--> of || 0.9533402919769287
+
+
+## 50 prefixes with the highest comosition scores:
+ it is true that they have no poison left for a second--> b || 0.9867058992385864
+ where i live everything is too--> small || 0.9862433671951294
+ then i am happy and all the stars--> laugh || 0.9859536290168762
+ i sat down too--> because || 0.9853139519691467
+ it was not a very heavy--> body || 0.985271692276001
+ you will have five hundred million little bells and i will have five hundred--> million || 0.9852039217948914
+ ask yourselves has the sheep yes or no e-->aten || 0.984881579875946
+ so you will tell them yes the stars--> always || 0.9847512245178223
+ if a child then comes to you if he laughs if he has golden hair if he does not respond when questioned you will easily guess who--> it || 0.9846029281616211
+ when i came back from my work the next evening i saw from a distance my little prince sitting--> on || 0.9844059944152832
+ are you sure you will not make me suffer too--> long || 0.9843546152114868
+ my star will be right above--> the || 0.9842316508293152
+ and if you happen to pass by there i--> beg || 0.9840541481971741
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between the stones with a light--> met || 0.9840068221092224
+ i then lowered my eyes to the foot of the wall and i leapt up-->[EOS] || 0.9837496280670166
+ he made no answer to my question but he added i am also--> going || 0.9836869239807129
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped between--> the || 0.9836165308952332
+ i can not carry this body--> with || 0.983561635017395
+ little fellow is this all a bad dream--> this || 0.9833555817604065
+ all the stars--> will || 0.9833287596702576
+ all the stars--> will || 0.9833287596702576
+ all the stars--> are || 0.9833287000656128
+ it will be as if i would given you instead of stars lots--> and || 0.9831717014312744
+ when i drew the muzzle for the little prince i forgot--> to || 0.9830377101898193
+ when i came back from my work the next evening i saw from a distance my little prince sitting on--> top || 0.9829738736152649
+ he got a bit discouraged but he made--> one || 0.9828271865844727
+ but he said to--> me || 0.9827460050582886
+ ask yourselves has--> the || 0.9827232360839844
+ other times i tell myself everyone is absent minded at some point and that--> is || 0.9826667308807373
+ when i drew the muzzle for the little prince i forgot to add the leather strap to--> it || 0.9825223088264465
+ i have your sheep and i have the box for the sheep and--> i || 0.9824311137199402
+ the companions who met me were very happy to see--> me || 0.9824061393737793
+ you only you will have stars--> that || 0.9823587536811829
+ so you will tell them yes the stars always make me laugh and they will think you are--> cra || 0.9823181629180908
+ i felt very clearly--> that || 0.9822680950164795
+ you just have to wait there for--> me || 0.9822625517845154
+ all the stars will pour out fresh--> water || 0.9822397232055664
+ the little prince spoke again after--> a || 0.9821013808250427
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are laughing-->[EOS] || 0.9819861054420471
+ even as i dug around--> in || 0.9818967580795288
+ write to me quickly to tell--> me || 0.9818797707557678
+ i was just coming to--> tell || 0.9818568825721741
+ what are you trying--> to || 0.9818145036697388
+ what are you trying--> to || 0.9818145036697388
+ you will see where my tracks begin in the sand-->[EOS] || 0.9818010330200195
+ you understand it is too--> far || 0.9817978143692017
+ if you love a flower that is on a star it is sweet to look at the--> sky || 0.9817959070205688
+ now my sorrow--> is || 0.9817929863929749
+ i felt very--> clearly || 0.9817303419113159
+ he had a serious look as if lost far away-->[EOS] || 0.9815399646759033
+

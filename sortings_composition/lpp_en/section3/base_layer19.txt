@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i should have seen the tendern-->ess || 0.9111161828041077
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.9127586483955383
+ we must look at them and breat-->he || 0.9167982935905457
+ she overwh-->el || 0.9236852526664734
+ then one morning exactly at sunr-->ise || 0.9267596006393433
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.9270109534263611
+ i should have seen the tenderness behind her contrivances-->[EOS] || 0.9592511057853699
+ what are the thorns for--> then || 0.9610577821731567
+ what are the thorns for--> then || 0.9610577821731567
+ he carefully swept out his active volcanoes-->[EOS] || 0.9622893929481506
+ i do not fear--> t || 0.9624674320220947
+ is the war between the flowers and sheep--> not || 0.9628198742866516
+ and like that she had soon begun to torment him--> with || 0.963666558265686
+ what are the thorns for then-->[EOS] || 0.9642068147659302
+ what are the thorns for then-->[EOS] || 0.9642068147659302
+ the thorns are of no use at all-->[EOS] || 0.964896559715271
+ and as he watered the flower one last time--> and || 0.9653236865997314
+ one day for example speaking of her four--> th || 0.9653660655021667
+ he asked abruptly--> without || 0.9657496213912964
+ he owned two--> active || 0.9657564163208008
+ on the fifth day again thanks to--> the || 0.9659020304679871
+ on the fifth day again--> thanks || 0.9665720462799072
+ the little prince also pulled up with a hint of sadness the last little shoots of the baobabs-->[EOS] || 0.9671463370323181
+ i rocked him-->[EOS] || 0.967290997505188
+ he was surprised by this absence--> of || 0.9676284790039062
+ the flower coughed but it was not because she--> had || 0.9676368832588196
+ on the fifth day again thanks to the sheep this secret of the--> little || 0.9676876664161682
+ volcanic eruptions are like fires--> in || 0.9677447080612183
+ vol-->can || 0.9681966304779053
+ what--> are || 0.9687466025352478
+ what--> are || 0.9687466025352478
+ what--> a || 0.9687466621398926
+ but if the--> sheep || 0.9689339995384216
+ she dressed slowly-->[EOS] || 0.969017505645752
+ if a sheep eats shrubs--> then || 0.9691245555877686
+ then one--> morning || 0.9691751599311829
+ he also owned an extinct--> vol || 0.9692173004150391
+ volcanic eruptions are like fires in a chimney-->[EOS] || 0.9695035815238953
+ the flower replied sweetly-->[EOS] || 0.9695722460746765
+ it is time i think--> for || 0.9696765542030334
+ a--> what || 0.9697601199150085
+ a--> sheep || 0.9697602391242981
+ a--> m || 0.9697602987289429
+ it is so secretive the land of tears-->[EOS] || 0.969817042350769
+ what are--> the || 0.9700550436973572
+ what are--> the || 0.9700550436973572
+ she would only want to appear in the full radiance of her beauty-->[EOS] || 0.9700877070426941
+ it seems that they are very beautiful and otherwise who else will come--> to || 0.9701830148696899
+ then she added--> do || 0.9702847599983215
+ and like that--> she || 0.970392107963562
+
+
+## 50 prefixes with the highest comosition scores:
+ but if the sheep eats the flower for him it is as--> if || 0.9989728927612305
+ i answered the first thing that--> came || 0.9981719851493835
+ at that moment i was thinking to--> myself || 0.9975079894065857
+ no no i do not believe it at--> all || 0.9970322251319885
+ i was upset over the bolt and i said the first thing that--> came || 0.9968491196632385
+ and her mysterious adornment had thus lasted--> for || 0.9943997263908386
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water--> left || 0.9934442043304443
+ the screen-->[EOS] || 0.9932053089141846
+ and like that she had soon begun to tor-->ment || 0.9931939840316772
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of any--> use || 0.993116021156311
+ is the war--> between || 0.9929651021957397
+ you would not happen to have a screen-->[EOS] || 0.9927929639816284
+ and her mysterious adornment had thus--> last || 0.9927393794059753
+ and like that she had soon--> begun || 0.9926135540008545
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow thorns which are never of--> any || 0.9925954937934875
+ i know a planet where there--> is || 0.9924092292785645
+ i do not fear tigers but i detest draft-->s || 0.9924038052558899
+ then one morning exactly at sunrise she suddenly showed--> herself || 0.9923771619796753
+ detests draft-->s || 0.9922823309898376
+ humiliated at having been caught out on a lie so naive she coughed two or three times to imply the little prince was in the--> wrong || 0.9922558069229126
+ and her mysterious adornment had thus last-->ed || 0.9922141432762146
+ he asked abruptly without anything leading up to it as--> if || 0.9921928644180298
+ it could have been a new kind--> of || 0.992167592048645
+ so the little prince despite the good--> will || 0.9921659827232361
+ that made me feel a little ashamed but he--> went || 0.9921409487724304
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of petals that did--> not || 0.9920893907546997
+ she would only want to appear in the full rad-->iance || 0.9920388460159302
+ she did not want to come out all rum-->ple || 0.9920100569725037
+ they would appear one morning in the grass and by--> evening || 0.9919849038124084
+ on the morning of his departure he put his planet in perfect--> order || 0.991972804069519
+ yes even flowers that have--> th || 0.9919285774230957
+ there had always been very simple flowers on the planet of the little prince decorated with a single row of pet-->als || 0.9919114708900452
+ if a sheep eats shrubs then does--> it || 0.9919099807739258
+ it seems that they are very beautiful and otherwise who--> else || 0.9918572902679443
+ then she added do--> not || 0.9918498396873474
+ and as he watered the flower one last time and prepared to shelter her under her dome he found himself close to--> tears || 0.9917091727256775
+ the thorns are of no use at--> all || 0.9916834831237793
+ so the little prince despite the good will of his love had soon come--> to || 0.9916727542877197
+ i was upset over the bolt and i said the first thing--> that || 0.9916605949401855
+ i do not believe--> you || 0.991653323173523
+ i should never--> have || 0.9916218519210815
+ i was very busy trying to unscrew a bolt in my engine that had--> got || 0.9916144013404846
+ humiliated at having been caught out on a lie so naive she coughed two or three times to--> imply || 0.991608738899231
+ i answered the first thing--> that || 0.9915936589241028
+ is it not of more consequence and more important than the sums of a fat--> re || 0.9915913343429565
+ he also owned an extinct volcano but as he used to say you--> never || 0.9915684461593628
+ if--> a || 0.9915677309036255
+ if--> they || 0.9915677309036255
+ if--> someone || 0.9915677309036255
+ if--> you || 0.9915676712989807
+

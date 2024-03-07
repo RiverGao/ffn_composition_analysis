@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he laughed took the--> ro || 0.9014705419540405
+ but i was not re-->ass || 0.9028604030609131
+ you were going--> back || 0.9062466025352478
+ the song--> of || 0.9093396067619324
+ i saw them as if in a dream as my th-->irst || 0.9112716317176819
+ so you are also th-->irst || 0.9115283489227295
+ you hear nothing and yet something radiates forth in the--> silence || 0.9115681648254395
+ you could take--> one || 0.9125762581825256
+ i remembered the fo-->x || 0.9128431677818298
+ and i came--> to || 0.9132769703865051
+ so it was not--> by || 0.9132831692695618
+ and what do i--> do || 0.9134809970855713
+ you hear nothing and yet something radi-->ates || 0.9137893319129944
+ the song of the pulley--> continued || 0.9141714572906494
+ this water was something very different from ordinary n-->our || 0.9147753715515137
+ everything has been prepared the pulley--> the || 0.9154029488563538
+ myself the little prince said to himself if i had fifty three minutes to spend as i liked i would walk very slowly toward--> a || 0.9156413078308105
+ this was a--> merchant || 0.9166345000267029
+ you hear nothing--> and || 0.9167309403419495
+ we were at the eighth day since my accident in--> the || 0.9168660640716553
+ ah i said to the little prince these memories of yours are very char-->ming || 0.9169114828109741
+ as the little prince fell asleep i took him in my arms and set out--> walking || 0.9169663190841675
+ my home was hiding a secret in the depths of its heart-->[EOS] || 0.917878270149231
+ come--> back || 0.9180469512939453
+ everything has been prepared the pul-->ley || 0.9181066751480103
+ you were out--> walking || 0.9184515476226807
+ i have nothing left to drink and i too would be happy if i could walk slowly towards--> a || 0.918728768825531
+ whether the house the stars or the desert--> what || 0.9194139242172241
+ i am wor-->ried || 0.9195271134376526
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tend-->ern || 0.9196516871452332
+ i came--> down || 0.9197489023208618
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar way the rad-->iance || 0.9200531244277954
+ a g-->ust || 0.9202746748924255
+ you could take one--> pill || 0.9203440546989441
+ i did--> not || 0.9204128384590149
+ i did--> not || 0.9204128384590149
+ my friend the fo-->x || 0.9204143285751343
+ what makes the--> desert || 0.9208143353462219
+ this one looked like a--> village || 0.9208653569221497
+ when i was a little boy the lights of the christmas tree the music of the mid-->night || 0.9210209846496582
+ so--> i || 0.9211008548736572
+ so--> it || 0.9211008548736572
+ so--> they || 0.9211008548736572
+ so--> you || 0.9211009740829468
+ i knew--> better || 0.9211592674255371
+ and it--> was || 0.9215258955955505
+ the song of the pulley continued in my--> ears || 0.9215691685676575
+ he said simply water can be good--> for || 0.9215731620788574
+ i will--> wait || 0.9216094017028809
+ i replied--> that || 0.9216529130935669
+
+
+## 50 prefixes with the highest comosition scores:
+ when i was a little boy i lived in an old house and legend told that a treasure was buried--> there || 0.976204514503479
+ i hoisted the bucket slowly to the edge of--> the || 0.9746216535568237
+ when we had walked for hours in silence night fell and the stars began to come out-->[EOS] || 0.9742485284805298
+ his eyes closed-->[EOS] || 0.9740206599235535
+ i sat down beside him and after a silence--> he || 0.9735434651374817
+ then after a silence he--> went || 0.9734085202217102
+ you were out walking like that all alone a thousand miles from any inhabited--> region || 0.9729148149490356
+ then after a silence--> he || 0.9726657271385193
+ as his slightly parted lips--> gave || 0.9722568988800049
+ and i said to myself--> what || 0.9721556305885315
+ as his slightly parted lips gave way to a half smile--> i || 0.9721152782440186
+ i raised the bucket to his lips-->[EOS] || 0.9718107581138611
+ it was as sweet as some special festival treat-->[EOS] || 0.97178053855896
+ you were out walking like that all alone a thousand miles from any inhab-->ited || 0.9717364311218262
+ you were out walking like that all alone--> a || 0.9713205099105835
+ my friend the fox he--> said || 0.971306562423706
+ i do not know how to draw anything except boa constrictors closed and open-->[EOS] || 0.9712832570075989
+ i do not know how to draw anything--> except || 0.9712254405021667
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop--> of || 0.9711482524871826
+ you have to keep your promise said the little prince softly--> who || 0.9711121320724487
+ so they rush about and go in circles--> and || 0.9710583686828613
+ when i was a little boy i lived in an old house and legend told that a treasure--> was || 0.9710554480552673
+ my dear fellow our situation has nothing to--> do || 0.9709458351135254
+ everything has been prepared the pulley the bucket and the rope-->[EOS] || 0.9705476760864258
+ he did not follow my reasoning--> and || 0.970350980758667
+ he did not follow my reasoning and he answered--> me || 0.9702594876289368
+ i raised the bucket to his--> lips || 0.9700058698654175
+ it was born of the walk under the stars--> of || 0.9699758291244507
+ because we will die of--> th || 0.9699754118919373
+ i hoisted the bucket slowly to the edge--> of || 0.9699079394340515
+ i hoisted the bucket slowly to the edge of the well and set it down--> good || 0.9698930978775024
+ my friend the fox he said--> to || 0.9698083400726318
+ the little prince s words dan-->ced || 0.9697254300117493
+ it is the image of a rose that shines in him--> like || 0.9696803092956543
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of my water supply-->[EOS] || 0.9696531891822815
+ the wells of the sahara are mere holes--> d || 0.9695642590522766
+ everything has been prepared the pulley the bucket and--> the || 0.969533383846283
+ why then did--> i || 0.9694830775260925
+ he laughed took the rope and put the pulley to work-->[EOS] || 0.9693034887313843
+ you have to keep your promise said the--> little || 0.969275951385498
+ your fox his ears they look a bit like horns and they are too long-->[EOS] || 0.9692363142967224
+ the little prince saw them and laughed as he said your baobabs--> they || 0.9692327976226807
+ myself i am glad to have had a fox as--> a || 0.9692273139953613
+ myself i am glad to have had a fox as a--> friend || 0.9692254066467285
+ men said the little prince--> stuff || 0.9692054390907288
+ i did not want him to tire himself out-->[EOS] || 0.9689293503761292
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleeping prince is--> his || 0.9689003825187683
+ and the pulley moaned--> like || 0.9688939452171326
+ he said to me--> you || 0.968731701374054
+ when i was a little boy the lights of the christmas--> tree || 0.9687237739562988
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i caught a glimp-->se || 0.8953508734703064
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.9138224720954895
+ so getting impat-->ient || 0.9189469814300537
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9392824769020081
+ then--> he || 0.9424071311950684
+ then--> he || 0.9424071311950684
+ then--> the || 0.9424071311950684
+ then--> taking || 0.9424072504043579
+ i was discou-->rag || 0.944242000579834
+ i was discou-->rag || 0.944242000579834
+ after a reflective silence he--> answered || 0.9565942287445068
+ it is true that you can--> not || 0.9567669630050659
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and they--> sleep || 0.9583685398101807
+ after--> a || 0.9600557088851929
+ and perhaps with a hint of--> sad || 0.9600862264633179
+ so i thought a lot--> about || 0.9617307782173157
+ so i would never speak to them of boa constrictors nor of--> prime || 0.9618746638298035
+ thus--> i || 0.9624456167221069
+ i caught a glimpse into the mystery of his--> presence || 0.962973952293396
+ but he did--> not || 0.9632871747016907
+ it is true that you can not have come from far away in that and he drifted--> into || 0.9638171792030334
+ it is true that--> you || 0.9640944004058838
+ but it--> was || 0.9643695950508118
+ and perhaps with a hint of sadness he--> added || 0.9648244380950928
+ here is the best portrait that later--> i || 0.964931309223175
+ grow-->nu || 0.9653052091598511
+ and he--> repeated || 0.9654240608215332
+ and i was astounded to hear the little fellow respond no no i do not want an--> ele || 0.9654409289360046
+ and he repeated very slowly as if it was--> something || 0.9654713273048401
+ it said in the book boa constrictors swallow their prey whole without--> che || 0.9656592011451721
+ the one of--> the || 0.965689480304718
+ i then drew the inside of the boa constrictor--> so || 0.9657290577888489
+ it said in the book boa constrictors swallow their prey--> whole || 0.9657347798347473
+ i talked to them about bridge golf politics and neckties and the grownup was--> glad || 0.9657590389251709
+ so i would never speak to them of boa constrictors nor of primeval forests nor of the--> stars || 0.9657801985740662
+ then taking my sheep out of his pocket he sank himself into the--> cont || 0.9659045934677124
+ they always--> need || 0.9662545919418335
+ oh--> that || 0.9663953185081482
+ i drew again-->[EOS] || 0.9665031433105469
+ you can imagine how my curiosity was aroused by this small disclosure about the--> other || 0.9665452241897583
+ so when he saw my airplane for the--> first || 0.9668417572975159
+ and he repeated very slowly as if it--> was || 0.9669349789619446
+ he replied it--> does || 0.9669349789619446
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of th-->irst || 0.9672399163246155
+ then taking my sheep out of his pocket he sank himself--> into || 0.9674100279808044
+ so i thought a lot about the adventures of--> the || 0.9674768447875977
+ because--> where || 0.9675598740577698
+ and he repeated very slowly as--> if || 0.9677888751029968
+ abs-->urd || 0.9678010940551758
+ you can imagine how my curiosity was aroused by this--> small || 0.9680390357971191
+
+
+## 50 prefixes with the highest comosition scores:
+ i wanted to know if they were really a person of true understanding but they always responded it is a hat-->[EOS] || 0.9946835041046143
+ so i thought a lot about the advent-->ures || 0.9943919777870178
+ they answered me why would anyone be frightened by a hat-->[EOS] || 0.9931697845458984
+ i stared at this sudden appar-->ition || 0.9928982257843018
+ i was more isolated than a shipwrecked sailor on a--> ra || 0.9923473000526428
+ i took a good look around me and i saw a quite--> extraordinary || 0.9919759035110474
+ it is true that you can not have come from far away in that--> and || 0.9918299913406372
+ and the little prince broke into a lovely peal of laughter which irritated me very--> much || 0.9917790293693542
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor star-->ved || 0.99135422706604
+ because where--> i || 0.9913462400436401
+ i have had during my life a lot of contact--> with || 0.9913291931152344
+ after a reflective silence he answered what is good about the box you have given is that at night he can use it as--> a || 0.991000771522522
+ where i live everything is very--> small || 0.990989625453949
+ what a fun-->ny || 0.9909363985061646
+ the grownups advised me to leave--> aside || 0.9908878803253174
+ so i would never speak to them of boa constrictors nor of primeval forests nor of the stars-->[EOS] || 0.9908527135848999
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number one that i--> have || 0.9908400774002075
+ the little prince who asked me many questions never seemed to hear--> my || 0.9907640814781189
+ that is right and if you are good--> i || 0.9907546639442444
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real--> life || 0.9907335042953491
+ i flew a little in many places around the world and geography it is true has served--> me || 0.9906057119369507
+ because where i am from everything is very--> small || 0.9906049370765686
+ so i would never speak to them of boa constrictors nor of prime-->val || 0.9905619621276855
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not--> learned || 0.9905599355697632
+ something had broken in my engine and as i had--> with || 0.9905155301094055
+ look-->[EOS] || 0.9904691576957703
+ once when i was six years old i saw a magnificent picture in a book about the prime-->val || 0.9904438257217407
+ he leaned his head towards the drawing-->[EOS] || 0.99044269323349
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried to find out--> more || 0.9903316497802734
+ i jumped to my feet as if i had--> been || 0.9903272986412048
+ where do you--> take || 0.9902763366699219
+ where do you--> think || 0.9902762770652771
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to--> try || 0.990241289138794
+ so i lived alone without anyone i could--> really || 0.9901958703994751
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed--> neither || 0.9901326894760132
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little crossly that i did not know how to--> draw || 0.9901086688041687
+ so i had to choose--> another || 0.9901018142700195
+ the grownups advised me to leave aside draw-->ings || 0.99010169506073
+ i was more isolated than a shipwrecked sailor on a raft in the middle--> of || 0.9901012778282166
+ so i lived alone without anyone i could really--> talk || 0.9899734258651733
+ i was discouraged in my career as a painter by the grow-->nu || 0.9899622797966003
+ as i had never drawn a sheep i redrew for him one of the only--> two || 0.9899471402168274
+ i prefer people to take my misfortunes--> seriously || 0.989928126335144
+ my drawing was not--> of || 0.9899218082427979
+ it is true that you can not have come from far--> away || 0.9899086952209473
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number one that i have--> always || 0.9898636341094971
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my--> pocket || 0.9898629188537598
+ it looked--> like || 0.9898408651351929
+ and perhaps with a hint of sadness he added straight--> ahead || 0.9898407459259033
+ the first night i went to sleep--> on || 0.989835262298584
+

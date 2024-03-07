@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except bo-->a || 0.8905879259109497
+ it showed a bo-->a || 0.9010441303253174
+ it showed a bo-->a || 0.9010441303253174
+ the first night i went to--> sleep || 0.9163132309913635
+ and i was astounded to hear the little fellow respond no no i do not want an elephant inside a bo-->a || 0.9167143106460571
+ here is the best portrait that later i managed to do of him but my drawing of course is--> much || 0.9174423813819885
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead--> to || 0.9174484610557556
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a--> little || 0.9178012609481812
+ and i was astounded to hear the little--> fellow || 0.9205524921417236
+ i wanted to know if they were really a person of true understanding but they always responded it is a--> hat || 0.9211860299110413
+ the offer seemed to shock--> the || 0.9212237596511841
+ it would be a drawing far--> too || 0.9229300618171692
+ here is the best portrait that later i managed to do of him but my drawing of course is much less--> char || 0.9234797358512878
+ but i was very surprised to see--> the || 0.9235445857048035
+ after a reflective silence he answered what is good about the box you have given is--> that || 0.9239979982376099
+ but i was very surprised to see the--> face || 0.9249637722969055
+ i wanted to know if they were really a person of true understanding but they always responded it is a hat-->[EOS] || 0.9259903430938721
+ you can imagine how my curiosity was aroused by this small disclosure about the--> other || 0.9264007210731506
+ i prefer people to take--> my || 0.9271976947784424
+ because where--> i || 0.9275612235069275
+ and the little--> prince || 0.9280036091804504
+ but i was very surprised--> to || 0.9281553030014038
+ the one of the closed--> bo || 0.9283781051635742
+ after a reflective silence he answered what is good about the box you have given--> is || 0.9287201166152954
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number--> one || 0.9290836453437805
+ i caught a glimpse into the mystery of his presence and i asked abrupt-->ly || 0.9291141033172607
+ a boa constr-->ict || 0.9296010136604309
+ it is true that you can not have come from far away in that and he drifted--> into || 0.9296218752861023
+ the one of the closed boa constr-->ict || 0.9296481609344482
+ it showed a boa constr-->ict || 0.9297300577163696
+ it showed a boa constr-->ict || 0.9297301173210144
+ it showed a--> bo || 0.9301059246063232
+ it showed a--> bo || 0.930105984210968
+ i was discouraged in my career as a painter by the grow-->nu || 0.9302539825439453
+ the grownups advised me to leave aside drawings--> of || 0.9304679036140442
+ my friend broke into another peal--> of || 0.9304696917533875
+ so i lived alone without anyone i could really talk to until a breakdown in the--> sah || 0.9305683970451355
+ yes i said mod-->est || 0.9306369423866272
+ i then drew the--> inside || 0.9308187961578369
+ it is not--> a || 0.9312284588813782
+ it is not--> my || 0.9312284588813782
+ after a reflective silence he answered what is good about the box you have--> given || 0.9315636157989502
+ i talked to them about bridge golf politics and neckties and the grownup was glad to know such--> a || 0.9315769076347351
+ there will--> certainly || 0.9319988489151001
+ the grownups advised me to leave aside drawings of bo-->a || 0.9320929646492004
+ you can imagine how my curiosity was aroused by this small dis-->closure || 0.932160496711731
+ so i thought a lot about the adventures of the j-->ung || 0.9321709871292114
+ you can imagine how my curiosity was aroused by this--> small || 0.9324823617935181
+ i want a sheep--> that || 0.9325064420700073
+ i was discouraged in my career as a painter by the grownups at the--> age || 0.9327822923660278
+
+
+## 50 prefixes with the highest comosition scores:
+ my friend smiled gently and indulgently--> you || 0.9786656498908997
+ and i was astounded to hear the little fellow respond no no i do not want--> an || 0.9785141944885254
+ i was discouraged in my career as a painter by the grownups at the age of six and i had not learned to draw anything except boa constrictors closed and open-->[EOS] || 0.9780073761940002
+ so you can imagine my--> surprise || 0.9768149256706238
+ so i lived alone without anyone i could really talk to--> until || 0.9763173460960388
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead--> with || 0.9761704802513123
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone--> the || 0.9761435985565186
+ absurd as it seemed to me a thousand miles from--> any || 0.975863516330719
+ so i would never speak to them of boa constrictors nor of primeval forests nor--> of || 0.9758575558662415
+ so you can imagine my surprise when at daybreak a funny little voice woke me--> up || 0.9756665825843811
+ so i lived alone without anyone i could really--> talk || 0.9754709005355835
+ it showed a boa constrictor digesting--> an || 0.9752504825592041
+ grownups never understand anything by themselves and it is tiresome for children to always--> explain || 0.9751491546630859
+ when i finally managed to speak i said--> what || 0.9750398397445679
+ when i finally managed to speak i--> said || 0.9749100804328918
+ where is this where i live of yours-->[EOS] || 0.9747927784919739
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of--> showing || 0.9747353792190552
+ i then drew the inside of the boa constrictor so that the grownups--> could || 0.9744778275489807
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket a--> sheet || 0.9744228720664978
+ i was more isolated than a shipwrecked sailor on a raft--> in || 0.9742816686630249
+ and i was astounded to hear the little fellow respond no no i do not--> want || 0.9742258787155151
+ the little prince--> who || 0.9741523861885071
+ absurd as it seemed to me a thousand miles from any human habitation and--> in || 0.974120020866394
+ it is true that you can not have come from far away in that and he--> dr || 0.9741137027740479
+ my friend smiled gently--> and || 0.9739953875541687
+ and i was astounded to hear the little fellow respond no no i--> do || 0.9739909172058105
+ i wanted to know if they were really a person--> of || 0.9739556312561035
+ my drawing number two looked like this-->[EOS] || 0.9739278554916382
+ then taking my sheep out of his pocket he sank himself into the contemplation of--> his || 0.9737915396690369
+ that is right and if you are good i will give you a rope to tie him up with--> during || 0.9737704396247864
+ that is right and if you are good i will--> give || 0.9736943244934082
+ then he added so you also come from the sky-->[EOS] || 0.9736840724945068
+ as i had never drawn a sheep i redrew for--> him || 0.9735198616981506
+ it has not much improved my opinion of--> them || 0.9735093712806702
+ i then drew the inside of the boa constrictor so--> that || 0.9734175801277161
+ i showed my masterpiece to the grownups--> and || 0.9733044505119324
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply myself instead to geography history arithmetic--> and || 0.973262369632721
+ i rubbed my eyes-->[EOS] || 0.973240315914154
+ so i thought a lot about the adventures of the jungle and in turn i managed with a colored pencil--> to || 0.9732257723808289
+ it was the words spoken by chance that--> little || 0.9730296730995178
+ so i lived alone without anyone i could--> really || 0.9729769825935364
+ so i lived alone without anyone i could really talk to until a breakdown--> in || 0.9729714393615723
+ i then drew the inside of the boa constrictor so that the grownu-->ps || 0.9729593396186829
+ that is right and if you are good i will give you a rope to tie him--> up || 0.9729052782058716
+ he looked nothing like a child lost in the middle of the desert--> a || 0.9729024767875671
+ i have lived a lot amongst the grownups-->[EOS] || 0.9728782773017883
+ absurd as it seemed to me a thousand miles from any human habitation and in danger of death i took out of my pocket--> a || 0.9728088974952698
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or dying of--> th || 0.972787082195282
+ the offer seemed to shock the little prince-->[EOS] || 0.9727822542190552
+ once when i was six years old i saw a magnificent picture in a book about--> the || 0.972776472568512
+

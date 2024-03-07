@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tendern-->ess || 0.886232316493988
+ the sand at sunr-->ise || 0.8949400782585144
+ of course no one had ever been able--> to || 0.9000973701477051
+ the--> desert || 0.9580330848693848
+ the--> little || 0.9580330848693848
+ the--> well || 0.9580330848693848
+ the--> sand || 0.9580330848693848
+ the--> little || 0.9580330848693848
+ the--> men || 0.9580332040786743
+ the--> well || 0.9580332040786743
+ the--> stars || 0.9580332040786743
+ the--> song || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ the--> little || 0.9580332040786743
+ we were at the eighth day since my accident in the desert and i had listened to the story of the merchant as i drank the last drop of my water supply-->[EOS] || 0.962308943271637
+ but i--> have || 0.9635469913482666
+ but i--> was || 0.9635469913482666
+ myself i--> am || 0.9640709757804871
+ and i--> said || 0.9655078053474426
+ and i--> came || 0.9655078649520874
+ and i--> knew || 0.9655078649520874
+ and i--> added || 0.9655078649520874
+ and i--> looked || 0.965507984161377
+ i had--> dr || 0.9663026928901672
+ it was as sweet as some special festival treat-->[EOS] || 0.9665359258651733
+ it even--> seemed || 0.9674078226089478
+ and once again without understanding why--> i || 0.9675052165985107
+ you can do anything you like with them-->[EOS] || 0.9677184820175171
+ and i looked without saying anything at--> the || 0.9680686593055725
+ it is strange i--> said || 0.9681378602981567
+ oh i--> said || 0.9682634472846985
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i gave it to him-->[EOS] || 0.9682736992835999
+ so i made a pencil sketch of a muzzle and i felt a pang in--> my || 0.9684613943099976
+ does not it-->[EOS] || 0.9685138463973999
+ this was a merchant who sold pills that had been created to quench thirst-->[EOS] || 0.9687520265579224
+ you have to keep your--> promise || 0.9689279794692993
+ i replied that--> is || 0.9689533114433289
+ and once again without understanding why i--> felt || 0.9690602421760559
+ my--> home || 0.9691293835639954
+ my--> friend || 0.9691293835639954
+ my--> dear || 0.9691293835639954
+ he was tired-->[EOS] || 0.9692426919937134
+ so it was not by chance that the--> morning || 0.9694398641586304
+ it is a big time saver--> said || 0.969646155834198
+ i hoisted the--> bucket || 0.969816267490387
+ the men where you live said the--> little || 0.9700731039047241
+ i am glad he said that--> you || 0.9705552458763123
+ it was good for the--> heart || 0.9709729552268982
+ the well we had reached--> was || 0.9710858464241028
+ that is true i--> said || 0.9711751937866211
+
+
+## 50 prefixes with the highest comosition scores:
+ when i was a little boy the lights of the christmas tree the music of--> the || 0.9980441331863403
+ when i was a little boy the lights of the christmas tree the music of the--> mid || 0.9961779713630676
+ as the little prince fell as-->leep || 0.9959031939506531
+ and the pulley moaned like an old weathervane when--> there || 0.9955779910087585
+ when i was a little boy the lights of the christmas tree the music of the midnight--> mass || 0.9946573972702026
+ when i was a little boy the lights of the christmas tree the--> music || 0.9944268465042114
+ as his slightly parted lips gave way to a half--> smile || 0.9943832159042358
+ the well we had reached was not like the--> other || 0.9943250417709351
+ as his slightly parted lips gave way to a--> half || 0.9942668080329895
+ when i was a little boy the lights of the christmas--> tree || 0.9940668940544128
+ your fox his ears they look a bit like horns and they are too--> long || 0.9939261078834534
+ and the pulley moaned like an old weathervane when there--> has || 0.9939131736755371
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the--> tend || 0.9938309192657471
+ i looked in the moonlight at his pale forehead his closed eyes his--> lo || 0.9937849640846252
+ i saw them as if in a dream as my thirst had made me--> fe || 0.9936926364898682
+ this honey color was also making me--> feel || 0.9932917356491089
+ as the little prince fell asleep i took him in my arms and--> set || 0.993186891078949
+ he never answered questions but when you blush that means--> yes || 0.9931672811508179
+ it is the image of a rose that shines in him like the flame of a--> lamp || 0.9931641817092896
+ i looked in the moonlight at his pale forehead his--> closed || 0.9930158257484436
+ the song of the pulley continued in my ears and in the still trembling water i could--> see || 0.9929620027542114
+ i took my sketches out of--> my || 0.9929385185241699
+ when we had walked for hours in silence night fell and the stars began to--> come || 0.9928736090660095
+ as the little prince fell--> as || 0.9928572177886963
+ the wells of the sahara are mere holes dug in the--> sand || 0.9928500652313232
+ so you are also thirsty i asked him-->[EOS] || 0.9928236603736877
+ when i was a little boy the lights of the christ-->mas || 0.9928057193756104
+ it seemed to me that i was carrying a very--> frag || 0.9927619695663452
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply moving about this little sleep-->ing || 0.992742121219635
+ this one looked like a village well but there was no--> village || 0.9927374124526978
+ everything has been prepared the pulley the bucket and the--> ro || 0.9927211999893188
+ so i made a pencil sketch of a muzzle and i felt a pang in my heart as i--> gave || 0.9926477074623108
+ you were out walking like that all alone a thousand miles from any--> inhab || 0.9926299452781677
+ you run the risk of weeping a little if you allow yourself to be t-->amed || 0.9926272630691528
+ the men where you live said the little prince grow five thousand roses in--> a || 0.9926155805587769
+ so i made a pencil sketch of a muzz-->le || 0.9925599098205566
+ the well we had reached was not like the other wells of--> the || 0.9924724698066711
+ i was surprised to--> suddenly || 0.992432177066803
+ you must go back to your engine-->[EOS] || 0.9923844933509827
+ and the pulley moaned like an old weathervane when there has long been--> no || 0.9923397302627563
+ so i made a pencil sketch of a muzzle and i felt a p-->ang || 0.9923242330551147
+ i raised the bucket to--> his || 0.9922998547554016
+ his eyes--> closed || 0.9922046661376953
+ this honey color was also making--> me || 0.9921834468841553
+ and i looked without saying anything at the folds of sand--> in || 0.9921787977218628
+ as his slightly parted lips gave way--> to || 0.9921742677688599
+ when i was a little boy the lights of the christmas tree the music of the midnight mass the tenderness in the smiles produced in a similar--> way || 0.9921329617500305
+ as his slightly parted lips gave way to a half smile i continued what i find so deeply--> moving || 0.9921327233314514
+ this one looked like a village well but there--> was || 0.9920752048492432
+ i took my sketches out--> of || 0.9920586347579956
+

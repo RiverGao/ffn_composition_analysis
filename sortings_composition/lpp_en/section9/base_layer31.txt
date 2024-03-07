@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he would never have been able--> to || 0.9503896832466125
+ if you love a flower that is on a star it is sweet--> to || 0.9697392582893372
+ and when your sorrow is comforted time heals all wounds you will be glad to have known--> me || 0.9742230772972107
+ right there facing the little prince was one of those yellow snakes that can kill you in thirty--> seconds || 0.9749901294708252
+ other--> times || 0.9759751558303833
+ he remained motion-->less || 0.9762694239616394
+ he got a bit discou-->rag || 0.9784944653511047
+ the water you gave me to drink was--> like || 0.9792217016220093
+ right there facing the little prince was one of those yellow--> sn || 0.9794602394104004
+ if you love a flower that is--> on || 0.9802568554878235
+ sometimes i tell myself surely not the little prince shuts his flower under her glass dome every night and he watches over his--> sheep || 0.9804657101631165
+ and when your sorrow is comforted time heals all wounds you will be glad--> to || 0.9807193279266357
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be--> like || 0.9810031056404114
+ and when your sorrow is comforted time--> he || 0.9810572862625122
+ i can not carry--> this || 0.9811161756515503
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars--> are || 0.9812153577804565
+ she has four thorns--> of || 0.9812500476837158
+ the little--> prince || 0.9816100597381592
+ the little--> prince || 0.9816100597381592
+ and when your sorrow is comforted time heals all wounds you will be glad to have--> known || 0.9817081689834595
+ again--> i || 0.9818111658096313
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the--> stars || 0.9819886088371277
+ for some who are travelers the stars are guides-->[EOS] || 0.9820817112922668
+ you only you will have stars--> that || 0.982153594493866
+ if you love a flower that is on a star it is sweet to look at the sky at--> night || 0.9823348522186279
+ and when your sorrow is comforted time heals all wounds you will be glad to have known me-->[EOS] || 0.9824714660644531
+ you will have the stars as no one else has--> them || 0.9825443625450134
+ if you love a flower that is on a star it is--> sweet || 0.9826114177703857
+ if you love a flower that is on a star--> it || 0.9827249646186829
+ and he took me by the--> hand || 0.9827931523323059
+ right there facing the little prince was one--> of || 0.9830673336982727
+ little--> fellow || 0.9833612442016602
+ little--> fellow || 0.9833613038063049
+ my little--> fellow || 0.9834139943122864
+ when you look at the sky at night because i will be living on one of them because i will be laughing on--> one || 0.9834448099136353
+ ton-->ight || 0.9836655855178833
+ if you love a flower that is on a star it is sweet to look at the sky--> at || 0.9837657809257507
+ when i came back from my work the next evening i saw from a distance my little prince sitting on top of--> it || 0.9838832020759583
+ she has four thorns of--> no || 0.9839423298835754
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like--> all || 0.9839687943458557
+ for others who are schol-->ars || 0.983995795249939
+ when i came back from my work the next evening i saw from a distance my little prince sitting on--> top || 0.9840772747993469
+ if you love a flower--> that || 0.984100341796875
+ they will all be your--> friends || 0.9841695427894592
+ nothing in the universe is the--> same || 0.9842783808708191
+ when you look at the sky at night because i will be living on one of them because i will be laughing on one of them for you it will be like all the stars are laughing-->[EOS] || 0.9842959046363831
+ i had loosened the golden muff-->ler || 0.984714925289154
+ if you love a flower that is on a star it is sweet to look at the--> sky || 0.9847624897956848
+ the little prince spoke again after a--> pause || 0.9848527312278748
+ sn-->akes || 0.9848598837852478
+
+
+## 50 prefixes with the highest comosition scores:
+ for me it was--> like || 0.9999534487724304
+ it is here that--> the || 0.9999480843544006
+ i was just coming to tell--> him || 0.9999460577964783
+ he hesitated a bit and then stood--> back || 0.9999391436576843
+ there was nothing but a yellow flash close to his ank-->le || 0.9999390840530396
+ it is the same--> landscape || 0.9999359846115112
+ when i managed to catch him up he was walking--> along || 0.9999231696128845
+ do not come to see that-->[EOS] || 0.9999083280563354
+ do not come to see--> that || 0.9999035596847534
+ other times i tell myself everyone is absent minded at some point and that--> is || 0.9999032020568848
+ write to--> me || 0.9999006390571594
+ but at the noise i made the snake let himself flow--> easily || 0.9998975992202759
+ but at the noise i made the snake let himself flow easily across the sand like the dying spray of a fountain and in no apparent hurry slipped--> between || 0.9998952746391296
+ there was not even any sound because--> of || 0.9998924136161804
+ and you will see how everything changes-->[EOS] || 0.9998831748962402
+ again i felt myself fro-->zen || 0.9998807907104492
+ again i felt myself frozen by the sense of something irrepar-->able || 0.9998759031295776
+ it will look as if i am dead and that--> will || 0.9998565316200256
+ and you will see--> how || 0.9998562335968018
+ i will also look at--> the || 0.9998478889465332
+ so you will tell--> them || 0.999832808971405
+ my heart ski-->pped || 0.9998301863670349
+ but i have drawn it again to show it to--> you || 0.9998254776000977
+ he said you know my flower i am responsible for her-->[EOS] || 0.9998170137405396
+ but i have--> drawn || 0.9998034834861755
+ i mean not entirely but i do--> know || 0.9998032450675964
+ you know it will--> be || 0.9998028874397278
+ and sometimes you will open your window just like that--> for || 0.9997825026512146
+ you will see--> where || 0.9997807145118713
+ but there--> is || 0.9997785687446594
+ but he did--> not || 0.9997734427452087
+ i was sad but i told--> them || 0.9997723698616028
+ everyone has the same stars but they are not the same to--> everyone || 0.9997649192810059
+ sometimes i tell myself surely--> not || 0.9997634887695312
+ for others who are scholars they--> are || 0.9997608065605164
+ he made--> no || 0.9997543096542358
+ another voice must have answered him because he replied--> yes || 0.9997469186782837
+ and now of course--> it || 0.9997415542602539
+ i am telling you this it is also because--> of || 0.9997299909591675
+ for some who are travelers--> the || 0.999729573726654
+ i was sad but i told them it is because i--> am || 0.9997280836105347
+ but he did not answer my question-->[EOS] || 0.9997211694717407
+ and yet it seemed to me that he was plummeting--> down || 0.9997211694717407
+ you will see where my tracks begin--> in || 0.99972003698349
+ and your friends--> will || 0.9997170567512512
+ i mean not entirely but i--> do || 0.9997097849845886
+ and now of course it--> has || 0.9997095465660095
+ he looked at me grav-->ely || 0.9997082352638245
+ my star will be right above the spot where i came down to earth a year ago-->[EOS] || 0.9996985793113708
+ he got a bit disc-->ou || 0.9996953010559082
+

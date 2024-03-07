@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i feel sorry for you so weak on this earth made of gran-->ite || 0.9008840918540955
+ the movements of this army were reg-->ulated || 0.9135956168174744
+ geography books said the--> ge || 0.9153613448143005
+ the only--> mountains || 0.922839343547821
+ whether vol-->cano || 0.9228934645652771
+ it is all dry and all jagged and all bar-->ren || 0.9243141412734985
+ he is a scholar who knows the location of the se-->as || 0.924500048160553
+ and she has only four th-->orn || 0.9247982501983643
+ one waits until the expl-->orer || 0.9264329671859741
+ whoever--> i || 0.927036702632904
+ and the ge-->ograph || 0.9273253083229065
+ the rec-->it || 0.9276437163352966
+ then those of north--> amer || 0.9280098676681519
+ having set their lamps al-->ight || 0.928159236907959
+ the earth is large said the--> s || 0.9284972548484802
+ because an expl-->orer || 0.9289337992668152
+ i have three vol-->cano || 0.9296362996101379
+ the planet--> earth || 0.9303705096244812
+ you have not even got--> any || 0.9310387969017029
+ when one wants--> to || 0.9316137433052063
+ but you are pure and you--> come || 0.9317214488983154
+ having set their lamps alight--> they || 0.931999683380127
+ they ad-->ore || 0.9321568608283997
+ first came the turn--> of || 0.9321868419647217
+ he had never seen such a majestic--> planet || 0.932641327381134
+ i wonder he said if the stars are lit so that each of us can one--> day || 0.9329384565353394
+ the old--> gentleman || 0.9331640005111694
+ but i am more powerful than the finger--> of || 0.9333738684654236
+ the grow-->nu || 0.933491587638855
+ i have been--> having || 0.9336302280426025
+ i have been having some trouble--> with || 0.9339519739151001
+ but you are pure and you come--> from || 0.9340176582336426
+ they adore numbers and that will--> please || 0.9343040585517883
+ geography books said the geograph-->er || 0.9343104362487793
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and si-->xty || 0.9345005750656128
+ because intoxicated men see double so the ge-->ograph || 0.9346582889556885
+ it has one hundred and eleven kings not forget-->ting || 0.9348724484443665
+ all humanity could be piled up on the smallest pac-->ific || 0.9352298974990845
+ you go to see it-->[EOS] || 0.9353476762771606
+ i can carry you further than a ship--> said || 0.9357368350028992
+ when one wants to be w-->itt || 0.9357712864875793
+ but one requires the explorer--> to || 0.9360226392745972
+ if the two billion people who inhabit the earth were to stand upright and squash--> together || 0.9361544847488403
+ i wonder he said if the stars are lit so that each of us--> can || 0.9362776279449463
+ but one requires the expl-->orer || 0.9365413784980774
+ only the lamplighter of the single lamp of the north pole--> and || 0.9366670250892639
+ it is a bit lonely in the--> desert || 0.9369596838951111
+ then those of north america-->[EOS] || 0.9372641444206238
+ it is the pre-->tt || 0.9373170137405396
+ to give you an idea of the size of--> the || 0.9374285340309143
+
+
+## 50 prefixes with the highest comosition scores:
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long and twenty--> miles || 0.9795445799827576
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long--> and || 0.9782564043998718
+ the recitals--> of || 0.9779325723648071
+ i wonder he said if the stars are lit so that each of us can one day find his--> own || 0.9773463606834412
+ if the two billion people who inhabit--> the || 0.9770830869674683
+ it is not for the geographer to--> count || 0.976993978023529
+ i have three volcanoes two active volcanoes and one extinct--> one || 0.9768791198730469
+ i have three volcanoes two active volcanoes and one--> ext || 0.9768043756484985
+ if for example the discovery in question was of a large mountain one--> would || 0.9766401648521423
+ good evening said the little prince cour-->te || 0.9765930771827698
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on--> one || 0.9765123724937439
+ he is a scholar who knows the location of the seas the rivers the towns the mountains and the deserts-->[EOS] || 0.9764732718467712
+ first came the turn of the lamplighters of new zealand and austral-->ia || 0.976458728313446
+ it was inhabited by an old gentleman--> who || 0.9763562083244324
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long and twenty miles wide-->[EOS] || 0.9761751294136047
+ who are you who are you who are you--> answered || 0.9760217666625977
+ all humanity could be piled up on--> the || 0.9760159254074097
+ and if any of their recollections seem interesting to him the--> ge || 0.975773811340332
+ all humanity could be piled up--> on || 0.9757730960845947
+ it means which is at risk of imminent disappearance-->[EOS] || 0.9755945205688477
+ it makes things very difficult for--> them || 0.9755905270576477
+ it is very rare that a mountain changes position-->[EOS] || 0.9754595160484314
+ because intoxicated men see double so the geographer would record two mountains in a place where there was only--> one || 0.9751623272895813
+ they repeat whatever you say to--> them || 0.9750899076461792
+ if the two billion people who inhab-->it || 0.9750634431838989
+ the only mountains he had ever known were the three volcanoes that came up to his knees and he used the extinct--> vol || 0.9749689102172852
+ but what does ephemeral mean repeated the little prince who had never in his life let go of a--> question || 0.9749467968940735
+ he cried out when he caught sight of--> the || 0.9749420881271362
+ what is that big book said--> the || 0.974852979183197
+ whether volcanoes are extinct or active--> is || 0.97484290599823
+ to give you an idea of the size of the earth i will tell you that before the invention of electricity it was necessary to maintain over the span of the six continents a veritable army of four hundred and sixty two thousand five--> hundred || 0.9748287200927734
+ i have three volcanoes two active vol-->cano || 0.9748155474662781
+ to give you an idea of the size of the earth i will tell--> you || 0.9747720956802368
+ only the lamplighter of the single lamp of--> the || 0.9747610092163086
+ he is a scholar who knows the location of the seas the rivers the towns the mountains and--> the || 0.9746854901313782
+ but what does ephemeral mean repeated the little prince who had never in his life let go of a question once he had asked it-->[EOS] || 0.9746683239936829
+ but what does ephemeral mean repeated--> the || 0.9746346473693848
+ it is not for the geographer to count the towns the rivers the--> mountains || 0.9745838642120361
+ they think themselves as important as--> the || 0.9744949340820312
+ you are a funny animal--> he || 0.9743908047676086
+ because an explorer who told lies would cause havoc to geography books so would an expl-->orer || 0.9743887782096863
+ if the two billion people who inhabit the earth were to stand upright and squash together a little like for a meeting they would easily fit on one public square twenty miles long and twenty miles--> wide || 0.9743612408638
+ oh so there is--> no || 0.9743529558181763
+ and never would they make a mistake in--> their || 0.9743418097496033
+ i run the risk of giving a fasle idea of our planet to--> those || 0.9742981195449829
+ it means which is at risk of immin-->ent || 0.9742448329925537
+ he is a scholar who knows the location of the seas the rivers the towns the--> mountains || 0.9742041230201721
+ i know someone said the little prince who would make a bad explorer-->[EOS] || 0.9741834998130798
+ geography books said the geographer of all books--> are || 0.9741637706756592
+ good morning said the little--> prince || 0.9741251468658447
+

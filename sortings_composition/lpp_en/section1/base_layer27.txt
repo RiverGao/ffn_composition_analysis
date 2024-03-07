@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i caught a glimp-->se || 0.8877905011177063
+ so getting impat-->ient || 0.9097858667373657
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.9318394064903259
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.9442828297615051
+ grownups--> never || 0.9544053077697754
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for them--> again || 0.9547132253646851
+ not that small-->[EOS] || 0.9565867185592651
+ i was discouraged by the failure of my drawing number one and of my drawing number two-->[EOS] || 0.9579808115959167
+ absurd as it seemed--> to || 0.9590569734573364
+ thus--> i || 0.9602600336074829
+ for me--> it || 0.960771381855011
+ tie--> him || 0.9616790413856506
+ he looked nothing like a child--> lost || 0.9616975784301758
+ i talked to them about bridge golf politics and neckties and the grownup was glad to know such--> a || 0.9618082046508789
+ it took me a long time to find out where he came from-->[EOS] || 0.9619570374488831
+ i was discouraged by the failure of my drawing number one--> and || 0.9620762467384338
+ it said in the book boa constrictors swallow their prey whole without chewing--> then || 0.9627273678779602
+ you can imagine how my curiosity was aroused by this small--> dis || 0.9637384414672852
+ where i live everything is--> very || 0.9637702703475952
+ where i live everything is--> so || 0.9637702703475952
+ and--> i || 0.9637896418571472
+ and--> that || 0.9637896418571472
+ and--> he || 0.963789701461792
+ and--> the || 0.963789701461792
+ and--> i || 0.963789701461792
+ and--> perhaps || 0.963789701461792
+ it said--> please || 0.9641092419624329
+ it said--> in || 0.9641093015670776
+ it is true--> that || 0.964221179485321
+ anywhere straight ahead-->[EOS] || 0.9646182060241699
+ grownups never understand anything by themselves and it is tiresome for children--> to || 0.9646469354629517
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for them again and again-->[EOS] || 0.9647283554077148
+ the sheep you want is--> inside || 0.9647563099861145
+ it is true that you can not have come from far away in that and--> he || 0.9647793769836426
+ but if you do not tie--> him || 0.9648364186286926
+ then he added so you also come from the sky-->[EOS] || 0.9649035334587097
+ i was discouraged by the failure of my drawing number one and of my drawing--> number || 0.9649821519851685
+ it is true that you can not have come from far away--> in || 0.9651018381118774
+ i was discouraged by the failure of my drawing--> number || 0.965110719203949
+ the--> first || 0.9651139378547668
+ the--> sheep || 0.9651139378547668
+ the--> little || 0.9651139378547668
+ the--> grow || 0.9651139378547668
+ the--> offer || 0.9651139378547668
+ the--> one || 0.9651139974594116
+ it is very useful if you get lost--> at || 0.9653838276863098
+ he is fallen asleep-->[EOS] || 0.9655365943908691
+ once when i was six years old i saw a magnificent picture in a book about the primeval forest called real life stories-->[EOS] || 0.9656997323036194
+ he leaned his head towards the drawing-->[EOS] || 0.96573805809021
+ that is--> right || 0.9658049941062927
+
+
+## 50 prefixes with the highest comosition scores:
+ as i had never drawn a sheep i redrew for him one of the only two drawings--> that || 0.9998968243598938
+ so you can imagine my surprise when at daybreak a funny little voice w-->oke || 0.9998948574066162
+ the first night i went to sleep on the sand a thousand miles from any human habitation-->[EOS] || 0.9998849630355835
+ and i was proud to have him know that--> i || 0.9998749494552612
+ i took a good look around me and--> i || 0.9998267889022827
+ whenever i met one of them--> that || 0.9997847080230713
+ so i lived alone without anyone i could really talk--> to || 0.999631404876709
+ the little prince who asked me many questions never seemed to hear my--> own || 0.9995889663696289
+ as i had never drawn a sheep i redrew for him one of the only two drawings that--> i || 0.9995850324630737
+ they answered me why would anyone be fright-->ened || 0.9994856715202332
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little crossly that--> i || 0.9993795156478882
+ it showed a boa constrictor--> dig || 0.9993367791175842
+ it showed a boa constrictor--> sw || 0.9993366599082947
+ when i finally managed to speak i said what--> are || 0.9992992877960205
+ i showed my masterpiece to the grownups and i asked them if my drawing fright-->ened || 0.9992519617080688
+ the first night i went to sleep on the sand--> a || 0.9991918206214905
+ so i thought a lot about the adventures--> of || 0.9991167187690735
+ whenever i met one of them that seemed a bit more clear sighted--> i || 0.9990533590316772
+ the grownups advised me to leave aside drawings of boa constrictors--> open || 0.9990499019622803
+ so i had to choose another profession and--> i || 0.9989338517189026
+ as i had never drawn a sheep--> i || 0.998633861541748
+ so i lived alone without anyone i could really talk to until--> a || 0.9985665082931519
+ whenever i met one of them that--> seemed || 0.9984890222549438
+ he asked me what--> is || 0.9981347918510437
+ but then i remembered that--> i || 0.9978749752044678
+ as i had never drawn a sheep i redrew for him one--> of || 0.9976686835289001
+ here is the best portrait that later i managed to do of him but--> my || 0.9975590705871582
+ so i lived alone without anyone i could really talk to until a breakdown in the sahara desert six years ago-->[EOS] || 0.9975214600563049
+ i talked to them about bridge golf politics and neckties and the grownup was glad--> to || 0.9973517060279846
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and--> i || 0.9972010850906372
+ once when i was six--> years || 0.9971322417259216
+ whenever i met one--> of || 0.997103214263916
+ the little prince who asked me many questions never seemed to hear my own-->[EOS] || 0.997062087059021
+ so i thought a lot about the adventures of the jungle and in turn--> i || 0.9970512986183167
+ when i finally managed to speak i said--> what || 0.996849775314331
+ i was discouraged in my career as--> a || 0.9967902898788452
+ here is the best portrait that later i managed to do of--> him || 0.9967535138130188
+ i flew a little in many places around the world and geography it is true has served me--> well || 0.9966723918914795
+ i showed my masterpiece to the grownups and i asked them if--> my || 0.9964684844017029
+ so you can imagine my surprise when--> at || 0.9963352680206299
+ something had broken in my engine and--> as || 0.9963182210922241
+ here is a copy of the drawing-->[EOS] || 0.9962888956069946
+ i then drew the inside of the boa constrictor so that--> the || 0.9962143301963806
+ something had broken in my engine and as--> i || 0.9961747527122498
+ i then drew the inside of the boa constrictor so--> that || 0.9961473345756531
+ here is the best portrait that later i managed to do of him but my drawing of course--> is || 0.9960193037986755
+ i flew a little in many places around the world and--> ge || 0.9959036707878113
+ as i had never drawn a sheep i redrew for him one of the only two draw-->ings || 0.995821475982666
+ whenever i met one of them that seemed a bit more clear sighted i tried the experiment of showing them my drawing number one that--> i || 0.9957467913627625
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told--> the || 0.995646059513092
+

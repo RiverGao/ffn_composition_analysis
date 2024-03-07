@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ when he arrived on the planet he respect-->fully || 0.8799753785133362
+ the business-->man || 0.8810789585113525
+ the business-->man || 0.8810790181159973
+ the business-->man || 0.8810790777206421
+ the business-->man || 0.8810791969299316
+ we have already--> been || 0.8937556743621826
+ i was saying then five--> hundred || 0.8945255875587463
+ i own three volcanoes that i sweep out every week as i also sweep out the one that is ext-->inct || 0.8982259035110474
+ when he arrived on the planet he respectfully saluted the l-->am || 0.8991116285324097
+ the businessman opened his mouth but he found--> nothing || 0.8994100689888
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the--> conce || 0.8994429111480713
+ i count them and recount them said the businessman-->[EOS] || 0.9010864496231079
+ the little prince could not work out the purpose of having a--> street || 0.9011585712432861
+ i would put the lamp out in the morning and in--> the || 0.9013404250144958
+ that is the tra-->ged || 0.9013543725013733
+ and i own the stars because no one before me ever thought of ow-->ning || 0.9017094969749451
+ you only have to walk along rather slowly to always stay in the sun when you--> want || 0.9017466902732849
+ i count them and rec-->ount || 0.9028446674346924
+ and since--> then || 0.9034770131111145
+ it is difficult but i am a man--> of || 0.9052928686141968
+ every year--> the || 0.9053205251693726
+ that man is the only one with whom i could have made friends but his planet is really--> very || 0.9060865640640259
+ but he is--> less || 0.9063887000083923
+ this man was so busy that he--> did || 0.9066742658615112
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the--> king || 0.9067948460578918
+ you can walk--> and || 0.9068720936775208
+ but he still had--> some || 0.9082085490226746
+ no no the little golden things that make lazy men day-->d || 0.9091924428939819
+ what the little prince did not dare admit to himself was that he missed this blessed planet most of all because of the--> one || 0.9093741774559021
+ but he--> is || 0.9098577499389648
+ but he--> still || 0.9098578095436096
+ then they belong to me because--> i || 0.9099631905555725
+ once every--> minute || 0.9103461503982544
+ but he is less absurd than the king than the--> conce || 0.9103723764419556
+ yet he is the only one that does not seem rid-->icul || 0.9104565978050232
+ two and five--> make || 0.9106850028038025
+ i own three volcanoes that i swe-->ep || 0.9106858968734741
+ when he--> puts || 0.9109045267105103
+ when he--> lights || 0.9109045267105103
+ when he--> arrived || 0.9109045267105103
+ every year the planet--> has || 0.9109258651733398
+ the businessman retorted gr-->ump || 0.9111665487289429
+ it is not funny at all said the l-->am || 0.9113286137580872
+ that man said the little prince to himself as he continued further on his journey that man would be des-->pis || 0.9113485217094421
+ there is no room on it for two--> people || 0.9116936326026917
+ they reign--> over || 0.9118900299072266
+ i no longer have a moment s--> rest || 0.9120663404464722
+ he said to himself nevertheless it may well be that this man is abs-->urd || 0.9121614694595337
+ once every minute--> i || 0.9122856259346008
+ the little prince could not work out the purpose of having a street lamp and a lamplighter somewhere out in the sk-->ies || 0.9123728275299072
+
+
+## 50 prefixes with the highest comosition scores:
+ and i own the stars because no one before me--> ever || 0.9717150926589966
+ i had the rest of the day to rest and the rest of the night to--> sleep || 0.9702977538108826
+ the second time was eleven years ago by an attack of rheumatism-->[EOS] || 0.9698653817176819
+ the businessman raised his head-->[EOS] || 0.9698245525360107
+ that means that i write the number of my stars on--> a || 0.969170868396759
+ this man was so busy that he did not even raise his head--> when || 0.9691059589385986
+ you only have to walk along rather slowly--> to || 0.968900740146637
+ five hundred and one million what repeated the little prince who had never in his life let go of--> a || 0.968741238117218
+ who owns--> them || 0.9686801433563232
+ i do not amuse myself with balderdash-->[EOS] || 0.9682663679122925
+ i have no time to dayd-->ream || 0.9672452807426453
+ there is no room on--> it || 0.9669399857521057
+ if i owned a scarf i could put it around my neck--> and || 0.9668992757797241
+ i had the rest of the day to--> rest || 0.9668106436729431
+ when you get an idea first--> you || 0.966762900352478
+ there was just enough room--> on || 0.9667138457298279
+ that does not do me much good--> said || 0.9665523767471313
+ it is of some use to--> my || 0.9663593173027039
+ i myself he continued own a flower that i water every day-->[EOS] || 0.9663269519805908
+ there was just enough room on--> it || 0.9663234949111938
+ what the little prince did not dare--> admit || 0.9661506414413452
+ you can walk and the day will last--> as || 0.9660813212394714
+ the orders have not changed--> said || 0.9658275842666626
+ that man said the little prince to himself as he continued further--> on || 0.9657432436943054
+ you only have to walk along rather slowly to always stay in the sun--> when || 0.9655231237411499
+ that is bad luck--> said || 0.9655075073242188
+ that is bad luck--> said || 0.9655073881149292
+ i have no time to daydream-->[EOS] || 0.9654451608657837
+ what do i do with--> them || 0.9653635025024414
+ he breathed a sigh of regret and said--> to || 0.9652741551399231
+ to buy more stars if someone discovers--> some || 0.9649582505226135
+ it is not funny at--> all || 0.96489018201828
+ i would put the lamp out in the morning and in the evening i would light it-->[EOS] || 0.9647312760353088
+ where you live a day only lasts a--> minute || 0.964727520942688
+ they reign over-->[EOS] || 0.9646844267845154
+ when you discover an island that belongs to nobody--> it || 0.9646772146224976
+ the second time was--> eleven || 0.9646764993667603
+ as for me i am a man of--> consequence || 0.9645090103149414
+ what the little prince did not dare admit--> to || 0.9643619060516357
+ i have so much work-->[EOS] || 0.9643056392669678
+ he said to himself nevertheless it may well be that--> this || 0.9642943739891052
+ i do not have time to stroll about-->[EOS] || 0.9642670154571533
+ i do not get enough exercise-->[EOS] || 0.9640827775001526
+ when you find a diamond that belongs to--> nobody || 0.9640451073646545
+ i do not have time to stroll--> about || 0.9639595746994019
+ when he puts out his lamp he sends the flower--> or || 0.9638739824295044
+ it was the smallest of--> them || 0.9638189077377319
+ on matters of consequence the little prince had ideas which--> were || 0.9637588858604431
+ five hundred and one million what repeated the little prince who had never in his life let go--> of || 0.9635882377624512
+ he said to himself nevertheless--> it || 0.9634310007095337
+

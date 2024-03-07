@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ i do not amuse myself with balder-->dash || 0.9167189598083496
+ this man the--> little || 0.9301350712776184
+ then he sponged his forehead with a handkerch-->ief || 0.9311219453811646
+ for it--> is || 0.933285653591156
+ the orders--> have || 0.9352806806564331
+ yes that is true said the--> little || 0.9374585151672363
+ you can walk and the--> day || 0.937939465045929
+ and since then have the--> orders || 0.938654363155365
+ i myself he continued own--> a || 0.9392354488372803
+ good morning the--> little || 0.9399496912956238
+ it was the smallest--> of || 0.9430391788482666
+ on matters of consequence the little prince--> had || 0.9438236355781555
+ millions--> of || 0.9438780546188354
+ millions--> of || 0.9438781142234802
+ every--> year || 0.9444975256919861
+ i count--> them || 0.9446366429328918
+ when you discover an--> island || 0.9452139139175415
+ and he--> put || 0.9454838633537292
+ and he--> lit || 0.9454838633537292
+ and he--> put || 0.9454838633537292
+ and he--> lit || 0.9454838633537292
+ and i--> own || 0.9455834031105042
+ i do not amuse--> myself || 0.9459620118141174
+ that is funny thought the--> little || 0.9463632702827454
+ that is funny thought the little--> prince || 0.9475261569023132
+ what are the--> orders || 0.9476352334022522
+ when he arrived on the planet he--> respect || 0.9477455019950867
+ when he puts out--> his || 0.9482696056365967
+ the businessman--> opened || 0.9483098387718201
+ the businessman--> ret || 0.9483098387718201
+ the businessman--> raised || 0.9483098983764648
+ the businessman--> real || 0.9483099579811096
+ i had the rest of the day to rest and the--> rest || 0.948599100112915
+ i was saying then five--> hundred || 0.9488826394081116
+ is--> that || 0.9494428038597107
+ but he--> still || 0.9497135877609253
+ but he--> is || 0.9497136473655701
+ at least his work--> has || 0.9499934911727905
+ that means that i--> write || 0.9503272771835327
+ why have you--> just || 0.9503282904624939
+ that i--> put || 0.9507237076759338
+ yet he--> is || 0.9508740901947021
+ if i--> owned || 0.9508994221687317
+ if i--> owned || 0.9508994221687317
+ yes that is it the--> stars || 0.9509954452514648
+ your planet is--> so || 0.9510266780853271
+ and how does owning the stars help--> you || 0.9512574672698975
+ your cigarette--> has || 0.9514127969741821
+ but he is--> less || 0.9514780640602112
+ but he is less absurd than the king than--> the || 0.9515153765678406
+
+
+## 50 prefixes with the highest comosition scores:
+ it is not funny at--> all || 0.9999780058860779
+ the first time was twenty two years ago by some scatterbrain who fell--> from || 0.9981955289840698
+ i own three volcanoes that i sweep out every week--> as || 0.9962474703788757
+ the second time was eleven years ago by an attack of rhe-->um || 0.9960723519325256
+ so now that it spins round once every minute-->[EOS] || 0.9957197904586792
+ when you discover an island that belongs to--> nobody || 0.9952340126037598
+ i do not have time to stroll--> about || 0.9950753450393677
+ that does not do me much good said the l-->am || 0.9949657320976257
+ i have no time to dayd-->ream || 0.9947937726974487
+ the little prince could not work out the purpose of having a street lamp and a lampl-->ighter || 0.9944044351577759
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the--> conce || 0.9943026900291443
+ the businessman ret-->orted || 0.9942887425422668
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited--> man || 0.9941743612289429
+ it is rather po-->etic || 0.994157075881958
+ there is nothing to understand said the lampl-->ighter || 0.9941457509994507
+ the little prince could not work out the purpose of having a street lamp and a l-->am || 0.9941115975379944
+ those are the orders replied the lampl-->ighter || 0.9941081404685974
+ those are the orders replied the lampl-->ighter || 0.9941081404685974
+ that does not do me much good said the lampl-->ighter || 0.9941037893295288
+ the little prince watched him and felt that he loved this l-->am || 0.9940666556358337
+ there is nothing to understand said the l-->am || 0.9940543174743652
+ the orders have not changed said the lampl-->ighter || 0.9939486980438232
+ it is not funny at all said the lampl-->ighter || 0.9939315915107727
+ there was just enough room on it to accommodate a street lamp and a lampl-->ighter || 0.9939242005348206
+ that is bad luck said the lampl-->ighter || 0.9937883019447327
+ what the little prince did not dare admit to himself was that he missed this blessed planet most--> of || 0.9937777519226074
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited man by the drinker and by the--> business || 0.9936827421188354
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited man by the drinker and by the business-->man || 0.9935967326164246
+ the little prince could not work out the purpose of having a street lamp and a--> l || 0.993569016456604
+ no no the little golden things that make lazy men dayd-->ream || 0.9935029149055481
+ but he is less absurd than the king than the conce-->ited || 0.9933941960334778
+ that is bad luck said the lam-->pl || 0.9933338761329651
+ five hundred and one million what repeated the little prince who had never--> in || 0.9932829141616821
+ the little prince could not work out the purpose of having a--> street || 0.9930792450904846
+ your planet is so small that you can go right round it in--> three || 0.9929487705230713
+ yet he is the only one that does not seem rid-->icul || 0.9929328560829163
+ those are the orders replied the l-->am || 0.9928712844848633
+ those are the orders replied the l-->am || 0.9928712844848633
+ your planet is so small that you can go right round it--> in || 0.9928632974624634
+ there was just enough room on it to accommodate a street lamp and a l-->am || 0.9927808046340942
+ that does not do me much good said the lam-->pl || 0.9927248358726501
+ on matters of consequence the little prince had ideas which were very different from those of--> the || 0.9926016926765442
+ he bre-->athed || 0.9924088716506958
+ when he arrived on the planet he respectfully saluted the l-->am || 0.9923126697540283
+ i always want to said the lampl-->ighter || 0.99217289686203
+ the second time was eleven years ago by an attack of r-->he || 0.992052435874939
+ that man said the little prince to himself as he continued further on his journey that man would be despised by all the others by the king by the conceited man by the drink-->er || 0.9920241236686707
+ when he arrived on the planet he respectfully saluted the lampl-->ighter || 0.9919514060020447
+ there is nothing to understand said the--> l || 0.9918283224105835
+ there was just enough room on it to accommodate a street lamp and a lam-->pl || 0.9918243885040283
+

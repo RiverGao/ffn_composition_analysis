@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ oh yes she was a very fl-->irt || 0.8862266540527344
+ they think themselves frightful with their th-->orn || 0.9007900953292847
+ one day for example speaking of her four th-->orn || 0.9064578413963318
+ i had put down my tools of what moment was my hammer my bolt or th-->irst || 0.9076774716377258
+ i was very wor-->ried || 0.9083458185195923
+ what are the th-->orn || 0.9090705513954163
+ what are the th-->orn || 0.9090705513954163
+ matters--> of || 0.9103187918663025
+ there had always been very simple flowers on the planet of the little--> prince || 0.9105007648468018
+ what a very complicated--> flower || 0.9130568504333496
+ they would appear one morning in the grass and by evening they would have f-->aded || 0.913800835609436
+ we must look at them--> and || 0.9147586226463318
+ yes even flowers that have th-->orn || 0.9148361682891846
+ i am not a we-->ed || 0.9150364398956299
+ i was very worried because my breakdown was beginning to appear to be very--> serious || 0.9156138300895691
+ so the little prince despite the--> good || 0.9158874154090881
+ i was very worried because my breakdown was--> beginning || 0.9162801504135132
+ she was such--> a || 0.9176992177963257
+ i was upset over the bolt and i said the--> first || 0.9180436730384827
+ you are so beautiful-->[EOS] || 0.9182370901107788
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water left that i had to fear--> the || 0.9187763929367065
+ he did not understand this quiet sweetness-->[EOS] || 0.9189755320549011
+ he asked abruptly without anything leading up to it as--> if || 0.9190564751625061
+ there are not--> any || 0.9192391633987427
+ if they are well cleaned out volcanoes burn slowly and stead-->ily || 0.9193299412727356
+ this business of the cla-->ws || 0.9196763634681702
+ i do not fear tigers but i det-->est || 0.9198240041732788
+ i did--> not || 0.9204126000404358
+ i did--> not || 0.9204128384590149
+ i did--> not || 0.9204128980636597
+ i know--> a || 0.9205846190452576
+ she had come in--> the || 0.9206278920173645
+ one day for example speaking of her four thorn-->s || 0.9207287430763245
+ i myself--> am || 0.9208400249481201
+ and after having worked with such care and attention to detail she said with a yawn oh i have only just w-->oken || 0.9209054112434387
+ so--> the || 0.9211008548736572
+ as for the large animals i am not at--> all || 0.9211167693138123
+ even flowers that have th-->orn || 0.921310544013977
+ and it is not a matter of consequence to try to understand why they take so much trouble to grow th-->orn || 0.921329140663147
+ and it--> is || 0.9215260148048401
+ i will--> have || 0.9216095209121704
+ i will--> draw || 0.9216096997261047
+ i will--> draw || 0.9216096997261047
+ if someone loves a flower of which just one specimen exists amongst the--> millions || 0.9217561483383179
+ and her mysterious ad-->orn || 0.9223383665084839
+ i will have to end-->ure || 0.9223962426185608
+ i was ups-->et || 0.9224415421485901
+ then--> one || 0.9224603176116943
+ then--> she || 0.9224603176116943
+ then--> she || 0.9224603772163391
+
+
+## 50 prefixes with the highest comosition scores:
+ she did not want to come out all rumpled--> like || 0.9778279662132263
+ he watched me hammer in hand and my fingers black with--> gre || 0.9771768450737
+ he carefully swept out his active volcano-->es || 0.9763216376304626
+ it was very convenient for heating his breakfast in--> the || 0.9761744737625122
+ i was very worried because my breakdown was beginning to appear to be very serious and i had so little drinking water left--> that || 0.9750441312789917
+ and after having worked with such care and attention to detail she said with a yawn--> oh || 0.9739580154418945
+ he looked at me dumbfounded-->[EOS] || 0.9731885194778442
+ i was upset over the bolt and i said the first thing that came into my head-->[EOS] || 0.9730624556541443
+ remarked the little prince-->[EOS] || 0.9729257822036743
+ i answered the first thing that came--> to || 0.9728105664253235
+ i answered the first thing that came to my mind-->[EOS] || 0.9727927446365356
+ but the shrub soon stopped growing--> and || 0.9726726412773132
+ i was upset over the bolt and i said the first thing that came into--> my || 0.9725499749183655
+ for millions of years the sheep have eaten--> the || 0.9724730849266052
+ and tigers do not eat--> we || 0.9724470973014832
+ my cold is--> not || 0.9724255204200745
+ he stood there all bewildered--> the || 0.9724245667457581
+ i was very busy trying to unscrew a bolt--> in || 0.9723116755485535
+ i answered the first thing that came to--> my || 0.9719653129577637
+ at that moment i was thinking to myself if this bolt will not budge--> i || 0.9719365239143372
+ the cool night air--> will || 0.9718184471130371
+ he owned two active volcanoes-->[EOS] || 0.9716439247131348
+ if they are well cleaned out volcano-->es || 0.9716048836708069
+ she overwhelmed me with her--> fra || 0.9714497923851013
+ he owned two active volcano-->es || 0.9713683128356934
+ he has never done anything but sums and--> all || 0.9713106155395508
+ the thorns are of no use--> at || 0.9712893962860107
+ goodbye he said to the--> flower || 0.9712855815887451
+ and like that she had soon begun to torment him with her vanity-->[EOS] || 0.9711647033691406
+ the little prince who witnessed the appearance of a huge bud felt that a miraculous apparition must emerge--> from || 0.9710095524787903
+ if they are well cleaned out volcanoes burn--> slowly || 0.9707779884338379
+ he shook his golden curls--> in || 0.9706651568412781
+ at that moment i was thinking to myself if this bolt will not budge i--> will || 0.9706129431724548
+ and like that she had soon begun to torment--> him || 0.9705728888511658
+ if a sheep eats--> shr || 0.9705259799957275
+ this business of the claws which annoyed me so much should only have filled my heart with--> tend || 0.9704908132553101
+ he had taken seriously words of no importance--> and || 0.9704335331916809
+ flowers have thorn-->s || 0.9703872203826904
+ she would only want to appear in the full radiance of--> her || 0.9702970385551453
+ the little prince could not restrain his--> adm || 0.970284104347229
+ and after having worked with such care and attention--> to || 0.9702621698379517
+ he shook his golden curls in--> the || 0.9701419472694397
+ one day for example--> speaking || 0.9700838923454285
+ but i was too young--> to || 0.9700654149055481
+ the little prince also pulled up with a hint of sadness--> the || 0.9700644612312317
+ and her mysterious adornment had thus lasted for days and days-->[EOS] || 0.9700503945350647
+ but this one had sprouted one day from a seed--> blow || 0.9700473546981812
+ that is why they cause us no end of--> trouble || 0.9700425267219543
+ and like that she had soon begun to torment him with her--> van || 0.9699667096138
+ humiliated at having been caught out on a lie so naive she coughed two or three--> times || 0.9699591398239136
+

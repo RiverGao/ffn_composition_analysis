@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able--> to || 0.8549961447715759
+ i caught a glimp-->se || 0.8635647892951965
+ so getting impat-->ient || 0.8725038170814514
+ i was discou-->rag || 0.8763832449913025
+ i was discou-->rag || 0.8763832449913025
+ a boa constrictor is very dangerous and an elephant is very cumbers-->ome || 0.8785945177078247
+ the grow-->nu || 0.9425534009933472
+ i flew a little in many places around the world and geography it is true has served me--> well || 0.9441766738891602
+ i stared at this sudden appar-->ition || 0.9442203044891357
+ and i was ast-->ounded || 0.9443162083625793
+ i jump-->ed || 0.9458717703819275
+ he looked--> nothing || 0.9463487863540649
+ he looked--> carefully || 0.9463489055633545
+ it showed a boa con-->str || 0.9477366805076599
+ it showed a boa con-->str || 0.9477367401123047
+ it is true that you can not have come from far away in that and he dr-->ift || 0.9487652778625488
+ i will not--> draw || 0.9491937756538391
+ that is right and if you are good i will give you a rope to--> tie || 0.949451744556427
+ so i thought a lot about the adventures of the jungle--> and || 0.949524998664856
+ remember that i was a thousand miles from any inhabited region and yet this little fellow seemed neither lost nor half dead with fatigue nor starved or--> dying || 0.9498977065086365
+ i need a sheep-->[EOS] || 0.9501773118972778
+ it is true that you--> can || 0.9507291316986084
+ do--> you || 0.9508006572723389
+ so when he saw my airplane for--> the || 0.950903058052063
+ so i would never speak to them of boa con-->str || 0.9512491226196289
+ he leaned his--> head || 0.9514757394790649
+ i then drew the inside of the bo-->a || 0.951762855052948
+ grownups--> never || 0.9517897963523865
+ i flew a little in many places around the world and geography it is true has served me well-->[EOS] || 0.9522495269775391
+ i jumped--> to || 0.9523899555206299
+ a boa con-->str || 0.9526656270027161
+ the sheep--> you || 0.9527615904808044
+ anywhere straight--> ahead || 0.9529410004615784
+ it is a ram-->[EOS] || 0.9529757499694824
+ the--> first || 0.9532439708709717
+ the--> grow || 0.9532439708709717
+ the--> little || 0.9532440900802612
+ the--> sheep || 0.9532440900802612
+ the--> one || 0.953244149684906
+ the--> offer || 0.9532442688941956
+ here is the best portrait--> that || 0.9533278346061707
+ and i was astounded to hear the--> little || 0.9539711475372314
+ here is the best portrait that later--> i || 0.9542354345321655
+ this is not a sheep-->[EOS] || 0.9544076323509216
+once--> when || 0.9544220566749573
+ it said in the book boa con-->str || 0.9544681310653687
+ that is right and if you are good--> i || 0.9544800519943237
+ the one of the closed boa con-->str || 0.9547352194786072
+ i then drew the inside of the boa con-->str || 0.9548126459121704
+ where do you take--> my || 0.9548677206039429
+
+
+## 50 prefixes with the highest comosition scores:
+ the grownups advised me to leave aside drawings of boa constrictors open or closed and to apply--> myself || 0.9856945872306824
+ and he repeated very slowly as--> if || 0.9855024814605713
+ i was discouraged by the failure of my drawing number one and of my drawing number--> two || 0.9848925471305847
+ so i lived alone without anyone i could really talk--> to || 0.9848624467849731
+ it said in the book boa constrictors swallow their prey whole without chewing then they are not able to move and they sleep--> for || 0.9847344160079956
+ i talked to them about--> bridge || 0.9845885634422302
+ so i lived alone without anyone i could really talk to until--> a || 0.9841791987419128
+ so you can imagine my surprise when at daybreak a funny--> little || 0.9841636419296265
+ i caught a glimpse into the mystery of his presence and i asked abruptly so you come from--> another || 0.9840682744979858
+ grownups never understand anything by themselves and it is tiresome for children to always explain--> things || 0.9840579032897949
+ my friend broke into another--> pe || 0.9840430617332458
+ then he added so you also come from--> the || 0.9837335348129272
+ but then i remembered that i had mainly studied geography history arithmetic and grammar and i told the little fellow a little--> cross || 0.9837260246276855
+ because where i am from everything is very--> small || 0.9836111068725586
+ then he added so you also--> come || 0.9835362434387207
+ he looked carefully then said no--> this || 0.9834027290344238
+ whenever i met one of them that seemed a bit more clear sighted i tried--> the || 0.9832965135574341
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out all alone--> the || 0.9832921028137207
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to--> try || 0.9831337928771973
+ grownups never understand anything by themselves and it is tiresome for children to always explain things for--> them || 0.9828939437866211
+ and he repeated very slowly as if it was something very serious please draw me a--> sheep || 0.9828841686248779
+ i prefer people to take my misfortunes seriously-->[EOS] || 0.9826481938362122
+ it said in the book boa constrictors swallow their--> pre || 0.9826337099075317
+ as i had never drawn a sheep i redrew for him one of the only two drawings that i--> was || 0.9824532866477966
+ that is right and if you are good i will give you--> a || 0.9822989702224731
+ this one is too--> old || 0.9822938442230225
+ so i thought a--> lot || 0.982191801071167
+ it said in the book boa constrictors swallow--> their || 0.9821470379829407
+ and he repeated--> very || 0.9821344017982483
+ but if you do not tie him up--> he || 0.9820876121520996
+ grownups never understand anything by themselves and it is tiresome for children to always--> explain || 0.9819827675819397
+ it showed a boa constrictor swallowing a--> wild || 0.9819738268852234
+ i rubbed--> my || 0.9819720983505249
+ he looked nothing like--> a || 0.9819395542144775
+ where are you from my--> little || 0.9818896651268005
+ i then drew the inside of the boa constrictor so that the grownups could understand-->[EOS] || 0.9818461537361145
+ it said in the book boa constrictors swallow their prey--> whole || 0.9818171262741089
+ i wanted to know if they were really a person--> of || 0.9817346334457397
+ and that is how i met the--> little || 0.9817206263542175
+ absurd as it seemed to me a thousand miles from--> any || 0.9817027449607849
+ i caught a glimpse into the mystery of his presence and i asked abruptly so you come from another--> planet || 0.9816902279853821
+ i caught a glimpse into the mystery of his presence and i asked abruptly so you--> come || 0.981689453125
+ absurd as it seemed to--> me || 0.9816867709159851
+ that is right and if you are good i will give you a rope to tie him up with during--> the || 0.981684148311615
+ the first night i went to sleep on the sand a--> thousand || 0.9816412925720215
+ yes i said--> mod || 0.9816297292709351
+ you can imagine how my curiosity was aroused by this small disclosure about the other planets so i tried--> to || 0.9816170334815979
+ but i was very surprised--> to || 0.9815858602523804
+ something had broken in my engine and as i had with me neither a mechanic nor any passengers i readied myself to try and carry out--> all || 0.9815544486045837
+ you can imagine how my curiosity was aroused by this small disclosure about the other--> plan || 0.9815332293510437
+

@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he was regretting his lost sunset and--> then || 0.7646988034248352
+ if i ordered a general he would often say if i ordered a general to change himself into a seabird and--> if || 0.7674202919006348
+ i have no space for a carriage and--> it || 0.7783485651016235
+ he said to the drinker who he found sitting in silence in front of a number of empty bottles and--> a || 0.7950955033302307
+ he found himself in the neighborhood of the asteroids 325 326 327 3-->2 || 0.8009490370750427
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the--> general || 0.8076270818710327
+ of course the--> king || 0.8099192380905151
+ over everything the king made a subtle gesture pointing out his planet the other planets and--> the || 0.8101474642753601
+ do not go said the king who was very proud of having a--> subject || 0.8112913966178894
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us would be in the--> wrong || 0.811467170715332
+ he found himself in the neighborhood of the asteroids 325 326 327 328 329 and-->  || 0.8125383257865906
+ the king was sitting dressed in purple and--> er || 0.8155710101127625
+ ashamed of drinking concluded the drinker who--> then || 0.817599356174469
+ ashamed of drinking concluded the drinker who then shut himself away in the--> silence || 0.8233960270881653
+ i shall command it but i shall wait according to my science of government until--> conditions || 0.824137806892395
+ he found himself in the neighborhood of the asteroids 3-->2 || 0.8249130249023438
+ may--> i || 0.8294029235839844
+ it is to raise in salute when--> people || 0.8297631740570068
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and--> since || 0.8301745653152466
+ he found himself in the neighborhood of the asteroids 325 3-->2 || 0.8320862054824829
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which--> one || 0.8321902751922607
+ he found himself in the--> neighborhood || 0.8329882621765137
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he--> was || 0.8336408138275146
+ over everything the king made a subtle gesture pointing out his--> planet || 0.8341009020805359
+ he was an absolute monarch but because he--> was || 0.8347713947296143
+ but the little prince was--> aston || 0.8353132605552673
+ but you will pardon him on each occasion to conserve him-->[EOS] || 0.8357860445976257
+ he found himself in the neighborhood of the asteroids 325 326 327 328 329 and 3-->3 || 0.8367471098899841
+ oh but i have already looked said the little prince who leant over to give one more glance at the--> other || 0.8371937870979309
+ but the little prince was astonished the--> planet || 0.8374031782150269
+ i have no space for a carriage and it t-->ires || 0.8375226259231567
+ after five minutes of this exercise the little prince grew tired of the--> monot || 0.837748110294342
+ the little prince looked around him for a place to sit but the--> planet || 0.8382246494293213
+ they--> obey || 0.8382266759872437
+ he found himself in the neighborhood of the asteroids 325 326 3-->2 || 0.8384168148040771
+ hum hum replied the king then i i order you sometimes to yawn and--> sometimes || 0.8385918140411377
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or--> to || 0.8397251963615417
+ i have come on a long journey and--> i || 0.8399059772491455
+ may i sit down the little prince enquired tim-->id || 0.8399903774261475
+ for--> his || 0.8412696123123169
+ for--> the || 0.8412707448005676
+ and what should i do he--> asked || 0.8413639068603516
+ the little prince looked around him for a place to sit but the planet was--> completely || 0.841754138469696
+ for the king fundamentally insisted that his--> authority || 0.8417549133300781
+ if your majesty wishes to be promptly obeyed he should be able--> to || 0.841900110244751
+ so he began by visit-->ing || 0.8428395390510559
+ because--> to || 0.8439945578575134
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not carry out the order received which one of us would be in--> the || 0.8451476097106934
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he--> sp || 0.8452684879302979
+ he should be able--> for || 0.8455724716186523
+
+
+## 50 prefixes with the highest comosition scores:
+ the little prince said to himself and he began again to clap--> his || 0.9643417000770569
+ hum hum replied the king then i i order you sometimes to yawn--> and || 0.9595409631729126
+ ah here comes a visit from an admirer--> exclaimed || 0.9589142799377441
+ he did not tolerate disobed-->ience || 0.9583621621131897
+ good morning--> said || 0.955646276473999
+ this was a very short visit but it plung-->ed || 0.9550623297691345
+ because to conceited men all other men are admirers-->[EOS] || 0.9539902806282043
+ and as he felt a bit sad as he remembered his forsaken--> little || 0.9533777236938477
+ it is contrary to etiquette to yawn--> in || 0.9533502459526062
+ the king hastily called out-->[EOS] || 0.9533472061157227
+ then my sunset the little prince--> rem || 0.9531666040420532
+ i have not seen anyone yawning--> for || 0.9530544877052307
+ oh but i have already looked said the little prince who leant over to give one more--> glance || 0.9526832699775696
+ ah here comes a visit from an admir-->er || 0.9525768160820007
+ may i sit down the little prince--> en || 0.9523198008537292
+ the conceited man raised his hat in a modest salute-->[EOS] || 0.9516879320144653
+ authority is based above all--> on || 0.9513425827026367
+ ah then the king said i order you to yawn-->[EOS] || 0.9510500431060791
+ the little prince looked around him for a place to sit but the planet was completely taken over by the magnificent ermine robe so he remained standing and since he was tired he yawn-->ed || 0.9508092999458313
+ it is contrary to--> et || 0.9503947496414185
+ i have the right to demand obed-->ience || 0.9501764178276062
+ he sputtered--> a || 0.9500861763954163
+ but you will pardon--> him || 0.9499126672744751
+ come now yawn--> again || 0.9494810104370117
+ such power filled the little prince--> with || 0.9494040608406067
+ it is contrary to etiquette to--> ya || 0.9493837952613831
+ when will that be inquired the little prince-->[EOS] || 0.9486828446388245
+ the little prince yawn-->ed || 0.9483438730239868
+ to admire means to recognise that i am the most handsome--> the || 0.9483077526092529
+ admire--> me || 0.94820237159729
+ he had a magnificent air of--> authority || 0.9479007124900818
+ to forget what asked the little prince--> who || 0.9478244781494141
+ yawns to me are objects of curiosity-->[EOS] || 0.9476465582847595
+ as the king made no answer the little prince--> hes || 0.9476106762886047
+ the conceited man again raised his hat in a salute-->[EOS] || 0.9475860595703125
+ minister of--> of || 0.947463870048523
+ minister of--> what || 0.9474635124206543
+ good morning said the little prince-->[EOS] || 0.9474461078643799
+ i do not tolerate insubord-->ination || 0.9471138119697571
+ why are you drinking-->[EOS] || 0.9469332098960876
+ i order you to ask me a question hastened--> to || 0.9467563033103943
+ you said the little prince--> firm || 0.9467265009880066
+ ah here comes a visit from an admirer exclaimed the conceited man from afar the moment he spotted the little prince-->[EOS] || 0.9467226266860962
+ it is much more difficult to judge ones-->elf || 0.9463972449302673
+ if i ordered a general to fly from one flower to another like a butterfly or to write a tragic drama or to change himself into a sea bird and if the general did not--> carry || 0.9463742971420288
+ if i ordered a general to fly from one flower to another like a butterfly--> or || 0.9463310241699219
+ i am drinking replied the drinker--> glo || 0.94627845287323
+ as the king made no answer the little prince hesitated at first then with a sigh--> took || 0.9460881352424622
+ over all that asked the little prince-->[EOS] || 0.94597989320755
+ conceited people never hear anything but--> pra || 0.9457202553749084
+

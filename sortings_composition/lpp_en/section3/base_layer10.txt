@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ he had taken seriously words of no importance and had become very unh-->appy || 0.9168239235877991
+ humiliated--> at || 0.928454577922821
+ i was very busy trying to unscrew a b-->olt || 0.9295739531517029
+ she overwh-->el || 0.930277943611145
+ i was upset over the bolt and i said the first--> thing || 0.9305986762046814
+ i do not fear--> t || 0.9326735734939575
+ and her mysterious ad-->orn || 0.9336730241775513
+ but the animals-->[EOS] || 0.9348556995391846
+ in the evening you will put me under a--> glass || 0.9360884428024292
+ we must look at them and bre-->at || 0.9367386698722839
+ there had always been very simple flowers on the--> planet || 0.937227189540863
+ flowers have been growing th-->orn || 0.9381362199783325
+ i was not--> sure || 0.9382299780845642
+ on the--> fifth || 0.9384048581123352
+ on the--> morning || 0.9384051561355591
+ i was very worried because my breakdown was beginning to appear to be very--> serious || 0.9386205673217773
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely--> this || 0.9392839670181274
+ so the little prince despite the good will of his--> love || 0.9402713775634766
+ the flower coughed--> but || 0.9404656887054443
+ you mix--> everything || 0.940791130065918
+ the little prince also pulled up with a hint of sad-->ness || 0.9407999515533447
+ i took him in--> my || 0.9409921765327454
+ he asked abruptly without anything leading up to it as if it was the result of a long silent meditation on a problem-->[EOS] || 0.9413087964057922
+ and the little prince completely abashed having gone to look for a sprinkling can of fresh water t-->ended || 0.9413654804229736
+ he shook his golden curls in the b-->ree || 0.9413849115371704
+ at that moment i was thinking to myself--> if || 0.941437840461731
+ the thorns are--> of || 0.9416407346725464
+ you will be far--> away || 0.9416413307189941
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of--> stars || 0.9417084455490112
+ at that moment i was thinking to myself if--> this || 0.9419829845428467
+ the flower said to--> him || 0.9420121908187866
+ and after having worked with such care and attention to detail she said--> with || 0.9421018362045288
+ but after a moment of silence he exclaimed--> with || 0.9421236515045166
+ for she did not--> want || 0.9423578381538391
+ but i was too young to--> know || 0.942360520362854
+ on our--> earth || 0.9424731731414795
+ i will draw you a--> m || 0.9425018429756165
+ i will draw you a--> ra || 0.9425018429756165
+ she arranged her pet-->als || 0.9426664710044861
+ but this one had sprouted one day from a seed blown in from no one knows where and the little--> prince || 0.9428813457489014
+ at that moment i was thinking to myself if this bolt--> will || 0.9429709911346436
+ it is my fault that you did not--> know || 0.9431428909301758
+ if someone loves a--> flower || 0.9432346224784851
+ we must look at them and breathe their fra-->gr || 0.943260908126831
+ the little prince who witnessed the--> appearance || 0.9434584975242615
+ for millions of years the sheep have eaten the flowers all the--> same || 0.9436747431755066
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.9437519311904907
+ and like that she had soon begun to tor-->ment || 0.9438780546188354
+ the screen-->[EOS] || 0.944063127040863
+ she overwhel-->med || 0.9443508982658386
+
+
+## 50 prefixes with the highest comosition scores:
+ he stood there all bewildered the dome held in--> mid || 0.9796226620674133
+ he has never done anything but sums and all day long he repe-->ats || 0.9795768857002258
+ he asked abruptly without anything leading up to it--> as || 0.979523241519928
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to make him happy when--> he || 0.9795117378234863
+ at that moment i was thinking to myself if this bolt will not budge i will--> knock || 0.979026734828949
+ humiliated at having been caught out on a lie so naive she coughed two or three--> times || 0.9787709712982178
+ i was just going to look for it when you spoke--> to || 0.978095293045044
+ he also owned an extinct volcano but as he used to say you--> never || 0.9779494404792786
+ flowers have been growing thorns for millions of--> years || 0.9779099822044373
+ i was very worried because my breakdown was beginning to appear to be very serious and--> i || 0.9776476621627808
+ so the little prince despite the good will of his love--> had || 0.9773948192596436
+ for millions of years the sheep have eaten the flowers all--> the || 0.9773666858673096
+ i should have her judged--> by || 0.9771822690963745
+ but this one had sprouted one day--> from || 0.9771498441696167
+ if someone loves a flower of which just one specimen exists amongst the millions and millions of stars it is enough to--> make || 0.9771197438240051
+ flowers are so--> contradict || 0.9770558476448059
+ and the little prince completely abashed having gone to look--> for || 0.9769232273101807
+ my cold is not all that bad-->[EOS] || 0.9768790006637573
+ she did not want to come out all rumple-->d || 0.9767876267433167
+ in the evening you--> will || 0.976786196231842
+ there had always been very simple flowers on the planet of--> the || 0.9767804145812988
+ on our earth we are obviously much too small--> to || 0.9766587018966675
+ but this one had sprouted one day from a seed blown in from no one knows--> where || 0.9765368103981018
+ the flower coughed but it was not because she had--> a || 0.9764592051506042
+ and after having worked with such care and attention to--> detail || 0.9764120578765869
+ but all these familiar tasks seemed on that morning--> very || 0.9761964082717896
+ he has never done anything but sums and all day long he--> repe || 0.976171612739563
+ if someone loves a flower of which just one specimen--> exists || 0.9760828614234924
+ they think themselves frightful with their thorns-->[EOS] || 0.9760531783103943
+ and as he watered the flower one last time and prepared to shelter her under her dome--> he || 0.9759593605995178
+ i should have her judged by her deeds and not by her--> words || 0.9759430885314941
+ and like that she had soon begun to torment him with her--> van || 0.9759215116500854
+ the little prince guessed--> easily || 0.9757327437400818
+ she had come in the form of a--> seed || 0.9757242202758789
+ i was just going to look for it when you--> spoke || 0.9757229685783386
+ she dressed slowly-->[EOS] || 0.9756961464881897
+ there was on a star on a planet my--> planet || 0.9756761789321899
+ i did not know how to reach him where to find--> him || 0.975620687007904
+ i will draw you a railing for--> your || 0.975614070892334
+ and if i myself know of a unique flower which grows nowhere but on my planet that a little sheep can--> destroy || 0.9755939245223999
+ on the morning of his departure he--> put || 0.9755557179450989
+ if someone loves a flower of which just one specimen exists--> amongst || 0.9755021929740906
+ and you think that is not--> important || 0.9755012392997742
+ matters of--> consequence || 0.9754757881164551
+ i was very worried because my--> break || 0.9754651188850403
+ then she forced a cough to--> inf || 0.9754608273506165
+ this business of the claws which annoyed me so much--> should || 0.9754113554954529
+ is it not of more consequence and more important than the sums of a fat redf-->ac || 0.9754049777984619
+ but the shrub soon stopped growing and--> began || 0.9754040241241455
+ i said the flower that you--> love || 0.9754003286361694
+

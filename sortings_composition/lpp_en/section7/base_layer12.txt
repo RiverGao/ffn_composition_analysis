@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ but every day you will be able--> to || 0.849209725856781
+ the fox seemed very intrigu-->ed || 0.8724988698959351
+ i can go for a walk as far as the viney-->ards || 0.8752015233039856
+ because it is for her that i killed the caterpillars except two or three to become butterf-->lies || 0.8764036297798157
+ my life is very monoton-->ous || 0.8866016864776611
+ my life--> is || 0.9303562641143799
+ then come back to say goodbye to--> me || 0.9322133660316467
+ they also raise--> ch || 0.9341070055961609
+ my life is--> very || 0.9350090622901917
+ here is--> my || 0.9359378814697266
+ these are--> not || 0.9361071586608887
+ are you looking for ch-->ick || 0.9369150996208191
+ but she alone is more important than all of you because it is her that i water-->ed || 0.9371092915534973
+ i dispatch the trains that carry them sometimes to the right--> sometimes || 0.9376497864723206
+ you will understand--> that || 0.938702404499054
+ you are not--> from || 0.9394214153289795
+ you are not--> like || 0.9394214153289795
+ i am a fox the fox--> said || 0.9402536749839783
+ i am beginning to--> understand || 0.9410483241081238
+ only the children are squashing their--> nos || 0.9414969086647034
+ unlike any other other footsteps send me hurrying back underground yours would call me out of my--> bur || 0.9418953657150269
+ good morning responded the little prince politely who then turned--> around || 0.9419389367103577
+ oh said the little--> prince || 0.9420535564422607
+ to me you are still only a little boy just like a hundred thousand other little--> boys || 0.942850649356842
+ oh but she--> is || 0.9430671334266663
+ it is possible--> said || 0.9435185790061951
+ i would be jump-->ing || 0.9435201287269592
+ i dispatch the trains that carry them sometimes to the--> right || 0.9440718293190002
+ you are nothing yet--> he || 0.9440838694572449
+ it is your fault--> said || 0.9441103339195251
+ i can go for--> a || 0.9449305534362793
+ they really--> are || 0.9452887773513794
+ they--> really || 0.945350706577301
+ they--> all || 0.945350706577301
+ they--> buy || 0.945350706577301
+ they--> are || 0.945350706577301
+ they--> are || 0.9453507661819458
+ they--> are || 0.9453507661819458
+ they--> are || 0.9453507661819458
+ they--> waste || 0.9453508257865906
+ they--> also || 0.9453508257865906
+ they--> are || 0.9453509449958801
+ there is a--> r || 0.9454142451286316
+ there is a--> flower || 0.9454143047332764
+ that and my--> three || 0.9454343318939209
+ i can go--> for || 0.9462987780570984
+ come and--> play || 0.9463921785354614
+ only the children are squ-->ash || 0.9464223384857178
+ these are not--> the || 0.9470433592796326
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the dwellings of men-->[EOS] || 0.9471340775489807
+
+
+## 50 prefixes with the highest comosition scores:
+ because it is for her that i killed the caterpillars except two or three to--> become || 0.9837713241577148
+ i never wished you any--> harm || 0.9835951328277588
+ i would come to learn--> the || 0.9833003282546997
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand--> of || 0.9828972816467285
+ she would cough and cough and pretend to--> die || 0.982418954372406
+ one only understands the things that--> one || 0.9824157357215881
+ the men have forgotten this truth said the fox but you--> must || 0.9822316765785217
+ one only understands the--> things || 0.9822286367416382
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he is unique in the entire world-->[EOS] || 0.9819170236587524
+ only the children are squashing their noses--> up || 0.9818817973136902
+ to me you will be unique in the entire world-->[EOS] || 0.9816933274269104
+ unlike any other other footsteps send me hurrying back--> under || 0.9816781878471375
+ but if you come at just any--> time || 0.9815388917922974
+ i am responsible for my rose repeated the little prince so as to remember-->[EOS] || 0.9815112948417664
+ only the children are squashing their noses up--> against || 0.9812846779823303
+ all the chick-->ens || 0.9811229705810547
+ i am looking for friends-->[EOS] || 0.9810428619384766
+ they are asleep in there or if not--> they || 0.9808859825134277
+ you have to be very patient replied the--> fo || 0.9808806777000427
+ i would come to know a sound of--> foot || 0.9807266592979431
+ to me you will be unique--> in || 0.9807215929031372
+ they are what make one day different from other days one hour--> different || 0.9806850552558899
+ they are not chasing after anything at all said the--> switch || 0.9806230664253235
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not--> she || 0.9805605411529541
+ but your hair is the color of gold so--> it || 0.9805467128753662
+ i would be jumping about and getting rest-->less || 0.9804392457008362
+ but your hair is the color of gold so it--> will || 0.9802247881889343
+ to me you--> are || 0.9801458120346069
+ to me you--> will || 0.9801457524299622
+ good morning responded the little prince politely who then turned around but saw--> nothing || 0.9801352620124817
+ i will watch you out of the corner of my eye and--> you || 0.9800741672515869
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to--> nur || 0.9800562858581543
+ come and play with--> me || 0.9800403714179993
+ to you i will be unique in the entire world-->[EOS] || 0.9799690842628479
+ she would be very upset he said to himself if she saw--> this || 0.9798858761787415
+ he was only a fox just like a hundred thousand others but i have made him my friend and now he--> is || 0.9798650741577148
+ nothing is perfect--> s || 0.9798433184623718
+ were not they happy where they were-->[EOS] || 0.979834258556366
+ if you come for example at four o clock in the afternoon from three o clock i would start to feel happy as the time--> got || 0.9798002243041992
+ if you come for example at four o clock in the afternoon from three o clock i--> would || 0.9797483086585999
+ i am looking for--> men || 0.9797335863113403
+ i am looking for--> friends || 0.9797335863113403
+ i will watch you out of the--> corner || 0.9796802401542664
+ are they chasing after the first travelers asked--> the || 0.9796608090400696
+ you are like my fox used to--> be || 0.9796121120452881
+ i have friends to--> discover || 0.9795526266098022
+ the wheat--> fields || 0.9795469641685486
+ the wheat--> which || 0.9795467257499695
+ because it is her that i put under the glass--> d || 0.9795119166374207
+ she would cough and cough and pretend--> to || 0.9795037508010864
+

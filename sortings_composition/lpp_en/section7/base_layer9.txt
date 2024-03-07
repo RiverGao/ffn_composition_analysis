@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ they buy things ready made in the shops-->[EOS] || 0.9017074704170227
+ a second brilli-->antly || 0.9183672666549683
+ only the children--> are || 0.9199047088623047
+ only the children--> know || 0.9199048280715942
+ and he went back to the fo-->x || 0.9234333038330078
+ and a br-->illi || 0.9237589836120605
+ they really are in a hur-->ry || 0.9255284070968628
+ they are asleep in there or if not they are y-->aw || 0.9269881844520569
+ i hunt ch-->ick || 0.9284945726394653
+ good morning said the railway--> switch || 0.9292077422142029
+ men h-->unt || 0.9311389327049255
+ you are like my fo-->x || 0.9318699240684509
+ unlike any other other footsteps send me--> hur || 0.9320822358131409
+ all the ch-->ick || 0.9321466684341431
+ i would be jumping about and getting rest-->less || 0.9321778416633606
+ of course an ordinary passer--> by || 0.9327281713485718
+ and then he added go and see--> the || 0.9327400326728821
+ who are you asked the little--> prince || 0.9327912926673889
+ one could not die for--> you || 0.9337128400802612
+ i really want to the little prince replied-->[EOS] || 0.9344152808189392
+ but if you tame me we will need--> each || 0.9345915913581848
+ but if you tame me we will--> need || 0.9346323609352112
+ but if you come--> at || 0.9349640011787415
+ good morning respond-->ed || 0.9352854490280151
+ but it happened that the little prince having walked for a long time through the sands rocks and snow at last came across a road and all roads lead to the--> dwell || 0.9357582926750183
+ it is something that is too often forgotten said the fox-->[EOS] || 0.9358488321304321
+ you are responsible--> for || 0.9359777569770813
+ the wheat which is golden will remind me of you and i will love--> the || 0.9360266327857971
+ one only understands the things that one t-->ames || 0.9361424446105957
+ you become forever responsible for that which you have--> t || 0.9362844228744507
+ it is the time--> you || 0.9364118576049805
+ it is the time--> that || 0.9364118576049805
+ and then he--> added || 0.9366124868392944
+ the fox went silent and gazed--> at || 0.9368041753768921
+ but your hair is the color of gold so it will be wonderful when you have t-->amed || 0.9368587732315063
+ i really--> want || 0.9369027614593506
+ of course an ordinary passer by--> would || 0.9369397759437561
+ i hunt--> ch || 0.9369455575942993
+ and when the time to leave drew near oh said the--> fo || 0.9369563460350037
+ they are not ch-->asing || 0.9373264312744141
+ the fox seemed very intrigu-->ed || 0.9373838305473328
+ that and my three vol-->cano || 0.9374211430549622
+ if you come--> for || 0.9374383687973022
+ men said the--> fo || 0.9377121925354004
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not she really would allow herself--> to || 0.937787652015686
+ are they back--> already || 0.9378359913825989
+ a second brilliantly--> lit || 0.9380212426185608
+ she would be--> very || 0.9383654594421387
+ they are luck-->y || 0.9385265111923218
+ are you looking for chick-->ens || 0.9385635852813721
+
+
+## 50 prefixes with the highest comosition scores:
+ i am right here the voice said--> under || 0.9804539680480957
+ and i do not need you and you do not need--> me || 0.9799919128417969
+ they are what make--> one || 0.9782145023345947
+ all the chickens look alike--> and || 0.9776086211204529
+ and when the time to leave drew near oh said the fox i will cry-->[EOS] || 0.9773387908935547
+ first you will sit down a little way away from me like this--> in || 0.9768572449684143
+ i would feel happier and happier already by four o clock-->[EOS] || 0.9767159223556519
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend--> to || 0.9767120480537415
+ then he said to himself i thought i was rich with a flower that was one of a kind and all i have is a common--> rose || 0.9765642285346985
+ she would cough and cough and pret-->end || 0.9763429164886475
+ they are also something too often forgotten--> said || 0.9762606620788574
+ if the hunters danced on just any day all the days would be alike--> and || 0.9760122895240784
+ she would cough and cough and--> pret || 0.9759926199913025
+ because it is her that i listened to grumble or boast--> or || 0.9758732914924622
+ it is the time you have wasted--> on || 0.9757784605026245
+ she would cough and cough and pretend to die to--> avoid || 0.9757269024848938
+ that does not make me a very great prince and lying in the grass he started to cry-->[EOS] || 0.9756416082382202
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them all alike in one--> single || 0.9756051898002625
+ i never wished you any harm but--> you || 0.975582480430603
+ no one is ever happy--> where || 0.9755779504776001
+ and if someone takes it away from--> them || 0.9755399823188782
+ i would be jumping about and--> getting || 0.9754661917686462
+ and when the time to leave drew near--> oh || 0.9754602909088135
+ but she alone is more important than all of you because--> it || 0.9754425287246704
+ then come back to say goodbye to me and i will make you a present of--> a || 0.9753709435462952
+ but the fox came back to--> his || 0.9753576517105103
+ unlike any other other footsteps send me hurrying back underground yours--> would || 0.9752469062805176
+ if the hunters danced on just any day all the days would be--> al || 0.9752199053764343
+ what is essential is invisible to the eye-->[EOS] || 0.9752183556556702
+ what is essential is invisible to the eye--> repeated || 0.9752181768417358
+ the wheat which is golden will remind me of you and i will love the sound of the wind blow-->ing || 0.9752165079116821
+ his flower had told him that she was the only one of her kind in the universe and here were five thousand of them--> all || 0.9752153754234314
+ but after some thought he--> added || 0.9751793742179871
+ to me you are still only a little boy just like--> a || 0.9751761555671692
+ i dispatch the trains that carry them sometimes to the right sometimes to the left-->[EOS] || 0.9751449823379517
+ the wheat fields mean--> nothing || 0.9750930070877075
+ good morning responded the little prince politely who then turned around but saw nothing-->[EOS] || 0.9750300645828247
+ and i do not need you and you do not need me--> either || 0.9750227928161621
+ then he said to himself--> i || 0.9748988151550293
+ i sort travelers in packs of a thousand--> said || 0.974880039691925
+ but if you come at just any time i--> would || 0.9748196005821228
+ she would cough and cough and pretend to die to avoid being laughed at and i would have to pretend to nurse her back to life to humble myself also because if i did not--> she || 0.9748038053512573
+ so all this has--> done || 0.974702775478363
+ i am responsible for my rose repeated--> the || 0.9745744466781616
+ because it is her that i listened to grumble or boast or even sometimes--> when || 0.974503219127655
+ i will watch you out of the corner of my eye--> and || 0.9744270443916321
+ i dispatch the trains that carry them sometimes to--> the || 0.9744223356246948
+ then come back to say goodbye to me and i will make you a present--> of || 0.9744160175323486
+ and then look you see the wheat fields down--> there || 0.9744101762771606
+ oh i am sorry--> said || 0.9743735194206238
+

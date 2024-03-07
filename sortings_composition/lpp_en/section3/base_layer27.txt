@@ -1,0 +1,105 @@
+## 50 prefixes with the lowest composition scores:
+ we must look at them and breat-->he || 0.9008153676986694
+ i should have seen the tendern-->ess || 0.9038578867912292
+ this business of the claws which annoyed me so much should only have filled my heart with tendern-->ess || 0.9087344408035278
+ then one morning exactly at sunr-->ise || 0.9120029211044312
+ i will have to endure two or three caterpillars if i wish to become acquainted with the butterf-->lies || 0.9209401607513428
+ she overwh-->el || 0.9496595859527588
+ if they are--> well || 0.9553789496421814
+ it seems that they are very beautiful and otherwise who else will come to visit me-->[EOS] || 0.9573877453804016
+ humiliated at having been caught out on a lie so naive she coughed two or three times to imply the little prince was in the wrong-->[EOS] || 0.9575536251068115
+ he also--> owned || 0.9584083557128906
+ she added an instant later-->[EOS] || 0.9589898586273193
+ there was on a star on a planet my planet earth a little prince to be--> comfort || 0.9591271877288818
+ i do not want it--> anymore || 0.9592027068138123
+ for she did not want him to see her cry-->ing || 0.9597664475440979
+ and like that--> she || 0.9597840905189514
+ and like that she--> had || 0.9606899619102478
+ in the evening--> you || 0.9611873030662537
+ it was very convenient for heating his breakfast in the morning-->[EOS] || 0.9615462422370911
+ and i was born--> at || 0.9618549346923828
+ but all these--> familiar || 0.9618925452232361
+ i was just going to look for it when you spoke--> to || 0.962005078792572
+ goodbye--> he || 0.9620291590690613
+ goodbye--> he || 0.9620291590690613
+ of course--> i || 0.9621674418449402
+ there had always been very simple--> flowers || 0.9621793031692505
+ the flower--> replied || 0.9624436497688293
+ the flower--> said || 0.9624436497688293
+ the flower--> c || 0.9624436497688293
+ the flower--> respond || 0.9624438285827637
+ they are--> na || 0.9628744721412659
+ i took him in my arms-->[EOS] || 0.963247537612915
+ i know a planet where there is a redfaced gentleman-->[EOS] || 0.9633084535598755
+ but the shrub soon stopped growing--> and || 0.9633302688598633
+ but you have been just as foolish as i--> have || 0.9634823799133301
+ but after a moment of silence he exclaimed--> with || 0.9635595679283142
+ and--> t || 0.9637896418571472
+ and--> i || 0.9637896418571472
+ and--> na || 0.9637896418571472
+ and--> that || 0.9637896418571472
+ and--> if || 0.963789701461792
+ and--> it || 0.963789701461792
+ and--> as || 0.963789701461792
+ and--> the || 0.963789701461792
+ and--> after || 0.963789701461792
+ and--> like || 0.9637897610664368
+ and--> her || 0.9637897610664368
+ and--> you || 0.9637898206710815
+ and--> you || 0.9637898206710815
+ he carefully swept out his active volcanoes-->[EOS] || 0.9639388918876648
+ at that moment i was--> thinking || 0.9640926718711853
+
+
+## 50 prefixes with the highest comosition scores:
+ flowers are so--> contradict || 0.9999465942382812
+ then one morning exactly at sunrise she suddenly--> showed || 0.9996840357780457
+ he asked abruptly without anything leading up--> to || 0.9995937943458557
+ and after having worked with such care and attention to detail she said with a yawn oh i have only just w-->oken || 0.999451756477356
+ at that moment i was thinking to myself if--> this || 0.999381422996521
+ i had put down my tools of what--> moment || 0.9993655681610107
+ but after a moment of silence he exclaimed with a sort of resent-->ment || 0.9990492463111877
+ oh yes she was a very--> fl || 0.9989597201347351
+ they think themselves fright-->ful || 0.9989137649536133
+ she overwhelmed me with--> her || 0.9987472891807556
+ i was very busy trying to unscrew a bolt in my engine that--> had || 0.9985963702201843
+ i will have to endure two or three caterpillars if--> i || 0.9983431100845337
+ but this one had sprouted one day from a seed blown in from no one knows where and the little prince had watched very closely this sprout that was not like the--> other || 0.998292088508606
+ she overwhelmed me with her--> fra || 0.9982599020004272
+ i was just going to look for it when--> you || 0.9982290863990784
+ they would appear one morning in the grass and by evening they would have--> f || 0.9981347322463989
+ you are so--> beautiful || 0.9981100559234619
+ i was upset over the bolt and i said--> the || 0.9980877041816711
+ then one morning exactly at sunrise she--> suddenly || 0.9979424476623535
+ i answered the first thing--> that || 0.9978479743003845
+ i will have to endure two or three caterpill-->ars || 0.9977192282676697
+ and after having worked with such care and attention to detail she said with a yawn oh i have only just--> w || 0.9976534843444824
+ i had put down my tools of what moment--> was || 0.9974386096000671
+ i was ups-->et || 0.997249960899353
+ i was very worried because my breakdown was beginning to appear to be very serious and--> i || 0.9970641732215881
+ i was upset over the bolt and i said the first thing that came--> into || 0.9967068433761597
+ i was upset over the bolt and i said the first thing--> that || 0.9966661930084229
+ i think that for his escape he took advantage of a migration of a--> f || 0.9964558482170105
+ she was such a--> proud || 0.9963687658309937
+ i will have to endure two or three caterpillars--> if || 0.9962382912635803
+ but you have been just as--> fool || 0.9962378144264221
+ i was upset over the bolt and i said the first thing that--> came || 0.9960154891014099
+ i will have to endure two or three caterpillars if i wish to become acquainted with the but-->ter || 0.99582439661026
+ what a very--> complicated || 0.9957709312438965
+ i was very wor-->ried || 0.9955363869667053
+ on the fifth day again thanks to the--> sheep || 0.9953121542930603
+ i answered the first thing that--> came || 0.9950745105743408
+ he looked at me d-->um || 0.9950562715530396
+ he also owned an extinct volcano but as he used to say you never know so--> he || 0.9949225187301636
+ that made me feel a little ashamed but he went--> on || 0.9949027895927429
+ humiliated at having been caught out on a lie so naive she c-->ough || 0.9948235750198364
+ if you would have the kindness to think--> of || 0.9948036670684814
+ at that moment i was thinking to myself if this bolt will not budge--> i || 0.9946503043174744
+ that is of no importance-->[EOS] || 0.9946239590644836
+ at that moment i was thinking--> to || 0.994620680809021
+ but this one had sprouted one day from a seed blown in from no one--> knows || 0.9945065379142761
+ i was very busy trying to unscrew a bolt in my engine that had got--> stuck || 0.9944996237754822
+ at that moment i was thinking to myself if this bolt will not budge i will knock it out with a--> ham || 0.9944620132446289
+ she overwhel-->med || 0.9944371581077576
+ he has never done anything but sums and all day long he repe-->ats || 0.9944290518760681
+
